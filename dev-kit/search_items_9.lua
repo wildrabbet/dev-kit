@@ -1,0 +1,3421 @@
+-- Every item: name, config name (what !give takes), id (part 9)
+-- Made by tools/make_dev_search_data.py from the 21 Oct 2026 beta data dump. Edit the generator, not this.
+return { [[
+Perfect juju mining potion (3)	CERT_3DOSEPERFECTMINING	32774
+Perfect juju mining potion (4)	_4DOSEPERFECTMINING	32775
+Perfect juju mining potion (4)	CERT_4DOSEPERFECTMINING	32776
+Perfect juju smithing potion (1)	_1DOSEPERFECTSMITHING	32777
+Perfect juju smithing potion (1)	CERT_1DOSEPERFECTSMITHING	32778
+Perfect juju smithing potion (2)	_2DOSEPERFECTSMITHING	32779
+Perfect juju smithing potion (2)	CERT_2DOSEPERFECTSMITHING	32780
+Perfect juju smithing potion (3)	_3DOSEPERFECTSMITHING	32781
+Perfect juju smithing potion (3)	CERT_3DOSEPERFECTSMITHING	32782
+Perfect juju smithing potion (4)	_4DOSEPERFECTSMITHING	32783
+Perfect juju smithing potion (4)	CERT_4DOSEPERFECTSMITHING	32784
+Perfect juju agility potion (1)	_1DOSEPERFECTAGILITY	32785
+Perfect juju agility potion (1)	CERT_1DOSEPERFECTAGILITY	32786
+Perfect juju agility potion (2)	_2DOSEPERFECTAGILITY	32787
+Perfect juju agility potion (2)	CERT_2DOSEPERFECTAGILITY	32788
+Perfect juju agility potion (3)	_3DOSEPERFECTAGILITY	32789
+Perfect juju agility potion (3)	CERT_3DOSEPERFECTAGILITY	32790
+Perfect juju agility potion (4)	_4DOSEPERFECTAGILITY	32791
+Perfect juju agility potion (4)	CERT_4DOSEPERFECTAGILITY	32792
+Perfect juju prayer potion (1)	_1DOSEPERFECTPRAYER	32793
+Perfect juju prayer potion (1)	CERT_1DOSEPERFECTPRAYER	32794
+Perfect juju prayer potion (2)	_2DOSEPERFECTPRAYER	32795
+Perfect juju prayer potion (2)	CERT_2DOSEPERFECTPRAYER	32796
+Perfect juju prayer potion (3)	_3DOSEPERFECTPRAYER	32797
+Perfect juju prayer potion (3)	CERT_3DOSEPERFECTPRAYER	32798
+Perfect juju prayer potion (4)	_4DOSEPERFECTPRAYER	32799
+Perfect juju prayer potion (4)	CERT_4DOSEPERFECTPRAYER	32800
+Perfect juju herblore potion (1)	_1DOSEPERFECTHERBLORE	32801
+Perfect juju herblore potion (1)	CERT_1DOSEPERFECTHERBLORE	32802
+Perfect juju herblore potion (2)	_2DOSEPERFECTHERBLORE	32803
+Perfect juju herblore potion (2)	CERT_2DOSEPERFECTHERBLORE	32804
+Perfect juju herblore potion (3)	_3DOSEPERFECTHERBLORE	32805
+Perfect juju herblore potion (3)	CERT_3DOSEPERFECTHERBLORE	32806
+Perfect juju herblore potion (4)	_4DOSEPERFECTHERBLORE	32807
+Perfect juju herblore potion (4)	CERT_4DOSEPERFECTHERBLORE	32808
+Perfect juju dungeoneering potion (1)	_1DOSEPERFECTDUNGEONEERING	32809
+Perfect juju dungeoneering potion (1)	CERT_1DOSEPERFECTDUNGEONEERING	32810
+Perfect juju dungeoneering potion (2)	_2DOSEPERFECTDUNGEONEERING	32811
+Perfect juju dungeoneering potion (2)	CERT_2DOSEPERFECTDUNGEONEERING	32812
+Perfect juju dungeoneering potion (3)	_3DOSEPERFECTDUNGEONEERING	32813
+Perfect juju dungeoneering potion (3)	CERT_3DOSEPERFECTDUNGEONEERING	32814
+Perfect juju dungeoneering potion (4)	_4DOSEPERFECTDUNGEONEERING	32815
+Perfect juju dungeoneering potion (4)	CERT_4DOSEPERFECTDUNGEONEERING	32816
+Crafting catalyst	TRH38_CRAFTING_RIG	32817
+Leather case	TRH38_RIG_CASE	32818
+Gem focus	TRH38_RIG_FOCUS	32819
+Metal setting	TRH38_RIG_SETTING	32820
+Summoning focus	TRH38_SUMMONING_FOCUS	32821
+Magic XP lamp	ME3_REWARD_MAGIC_LAMP	32822
+Divination XP lamp	ME3_REWARD_DIVINATION_LAMP	32823
+Melee XP lamp	ME3_REWARD_MELEE_LAMP	32824
+Amlodd worker	PICKPOCKET_GUIDE_CITYELF_AMLODD	32825
+Hefin worker	PICKPOCKET_GUIDE_CITYELF_HEFIN	32826
+Ithell worker	PICKPOCKET_GUIDE_CITYELF_ITHELL	32827
+Meilyr worker	PICKPOCKET_GUIDE_CITYELF_MEILYR	32828
+Light creature pouch	LORE_LIGHTCREATURE	32829
+Light creature pouch	CERT_LORE_LIGHTCREATURE	32830
+Pouch	LORE_LIGHTCREATURE_NULL	32831
+Light Creature scroll (Enlightenment)	LORE_ENLIGHTENMENT	32832
+Pouch	LORE_ENLIGHTENMENT_SPELL_NULL	32833
+Prifddinian thinker's robes	POH_DUMMY_ELFCITY_THINKER_TORSO	32835
+Prifddinian thinker's trousers	POH_DUMMY_ELFCITY_THINKER_LEGS	32836
+Prifddinian thinker's gloves	POH_DUMMY_ELFCITY_THINKER_GLOVES	32837
+Prifddinian thinker's boots	POH_DUMMY_ELFCITY_THINKER_BOOTS	32838
+Prifddinian worker's robes	POH_DUMMY_ELFCITY_SKILLER_TORSO	32839
+Prifddinian worker's trousers	POH_DUMMY_ELFCITY_SKILLER_LEGS	32840
+Prifddinian worker's gloves	POH_DUMMY_ELFCITY_SKILLER_GLOVES	32841
+Prifddinian worker's boots	POH_DUMMY_ELFCITY_SKILLER_BOOTS	32842
+Crystal flask	CRYSTAL_FLASK	32843
+Crystal flask	CERT_CRYSTAL_FLASK	32844
+Crystal glass	CRYSTAL_ROBUSTGLASS	32845
+Crystal glass	CERT_CRYSTAL_ROBUSTGLASS	32846
+Crystal-flecked sandstone	CRYSTAL_SANDSTONE	32847
+Crystal-flecked sandstone	CERT_CRYSTAL_SANDSTONE	32848
+Perfect juju woodcutting flask (1)	BIGPOT_1DOSEPERFECTWOODCUTTING	32849
+Perfect juju woodcutting flask (1)	CERT_BIGPOT_1DOSEPERFECTWOODCUTTING	32850
+Perfect juju woodcutting flask (2)	BIGPOT_2DOSEPERFECTWOODCUTTING	32851
+Perfect juju woodcutting flask (2)	CERT_BIGPOT_2DOSEPERFECTWOODCUTTING	32852
+Perfect juju woodcutting flask (3)	BIGPOT_3DOSEPERFECTWOODCUTTING	32853
+Perfect juju woodcutting flask (3)	CERT_BIGPOT_3DOSEPERFECTWOODCUTTING	32854
+Perfect juju woodcutting flask (4)	BIGPOT_4DOSEPERFECTWOODCUTTING	32855
+Perfect juju woodcutting flask (4)	CERT_BIGPOT_4DOSEPERFECTWOODCUTTING	32856
+Perfect juju woodcutting flask (5)	BIGPOT_5DOSEPERFECTWOODCUTTING	32857
+Perfect juju woodcutting flask (5)	CERT_BIGPOT_5DOSEPERFECTWOODCUTTING	32858
+Perfect juju woodcutting flask (6)	BIGPOT_6DOSEPERFECTWOODCUTTING	32859
+Perfect juju woodcutting flask (6)	CERT_BIGPOT_6DOSEPERFECTWOODCUTTING	32860
+Perfect juju farming flask (1)	BIGPOT_1DOSEPERFECTFARMING	32861
+Perfect juju farming flask (1)	CERT_BIGPOT_1DOSEPERFECTFARMING	32862
+Perfect juju farming flask (2)	BIGPOT_2DOSEPERFECTFARMING	32863
+Perfect juju farming flask (2)	CERT_BIGPOT_2DOSEPERFECTFARMING	32864
+Perfect juju farming flask (3)	BIGPOT_3DOSEPERFECTFARMING	32865
+Perfect juju farming flask (3)	CERT_BIGPOT_3DOSEPERFECTFARMING	32866
+Perfect juju farming flask (4)	BIGPOT_4DOSEPERFECTFARMING	32867
+Perfect juju farming flask (4)	CERT_BIGPOT_4DOSEPERFECTFARMING	32868
+Perfect juju farming flask (5)	BIGPOT_5DOSEPERFECTFARMING	32869
+Perfect juju farming flask (5)	CERT_BIGPOT_5DOSEPERFECTFARMING	32870
+Perfect juju farming flask (6)	BIGPOT_6DOSEPERFECTFARMING	32871
+Perfect juju farming flask (6)	CERT_BIGPOT_6DOSEPERFECTFARMING	32872
+Perfect juju mining flask (1)	BIGPOT_1DOSEPERFECTMINING	32873
+Perfect juju mining flask (1)	CERT_BIGPOT_1DOSEPERFECTMINING	32874
+Perfect juju mining flask (2)	BIGPOT_2DOSEPERFECTMINING	32875
+Perfect juju mining flask (2)	CERT_BIGPOT_2DOSEPERFECTMINING	32876
+Perfect juju mining flask (3)	BIGPOT_3DOSEPERFECTMINING	32877
+Perfect juju mining flask (3)	CERT_BIGPOT_3DOSEPERFECTMINING	32878
+Perfect juju mining flask (4)	BIGPOT_4DOSEPERFECTMINING	32879
+Perfect juju mining flask (4)	CERT_BIGPOT_4DOSEPERFECTMINING	32880
+Perfect juju mining flask (5)	BIGPOT_5DOSEPERFECTMINING	32881
+Perfect juju mining flask (5)	CERT_BIGPOT_5DOSEPERFECTMINING	32882
+Perfect juju mining flask (6)	BIGPOT_6DOSEPERFECTMINING	32883
+Perfect juju mining flask (6)	CERT_BIGPOT_6DOSEPERFECTMINING	32884
+Perfect juju smithing flask (1)	BIGPOT_1DOSEPERFECTSMITHING	32885
+Perfect juju smithing flask (1)	CERT_BIGPOT_1DOSEPERFECTSMITHING	32886
+Perfect juju smithing flask (2)	BIGPOT_2DOSEPERFECTSMITHING	32887
+Perfect juju smithing flask (2)	CERT_BIGPOT_2DOSEPERFECTSMITHING	32888
+Perfect juju smithing flask (3)	BIGPOT_3DOSEPERFECTSMITHING	32889
+Perfect juju smithing flask (3)	CERT_BIGPOT_3DOSEPERFECTSMITHING	32890
+Perfect juju smithing flask (4)	BIGPOT_4DOSEPERFECTSMITHING	32891
+Perfect juju smithing flask (4)	CERT_BIGPOT_4DOSEPERFECTSMITHING	32892
+Perfect juju smithing flask (5)	BIGPOT_5DOSEPERFECTSMITHING	32893
+Perfect juju smithing flask (5)	CERT_BIGPOT_5DOSEPERFECTSMITHING	32894
+Perfect juju smithing flask (6)	BIGPOT_6DOSEPERFECTSMITHING	32895
+Perfect juju smithing flask (6)	CERT_BIGPOT_6DOSEPERFECTSMITHING	32896
+Perfect juju agility flask (1)	BIGPOT_1DOSEPERFECTAGILITY	32897
+Perfect juju agility flask (1)	CERT_BIGPOT_1DOSEPERFECTAGILITY	32898
+Perfect juju agility flask (2)	BIGPOT_2DOSEPERFECTAGILITY	32899
+Perfect juju agility flask (2)	CERT_BIGPOT_2DOSEPERFECTAGILITY	32900
+Perfect juju agility flask (3)	BIGPOT_3DOSEPERFECTAGILITY	32901
+Perfect juju agility flask (3)	CERT_BIGPOT_3DOSEPERFECTAGILITY	32902
+Perfect juju agility flask (4)	BIGPOT_4DOSEPERFECTAGILITY	32903
+Perfect juju agility flask (4)	CERT_BIGPOT_4DOSEPERFECTAGILITY	32904
+Perfect juju agility flask (5)	BIGPOT_5DOSEPERFECTAGILITY	32905
+Perfect juju agility flask (5)	CERT_BIGPOT_5DOSEPERFECTAGILITY	32906
+Perfect juju agility flask (6)	BIGPOT_6DOSEPERFECTAGILITY	32907
+Perfect juju agility flask (6)	CERT_BIGPOT_6DOSEPERFECTAGILITY	32908
+Perfect juju prayer flask (1)	BIGPOT_1DOSEPERFECTPRAYER	32909
+Perfect juju prayer flask (1)	CERT_BIGPOT_1DOSEPERFECTPRAYER	32910
+Perfect juju prayer flask (2)	BIGPOT_2DOSEPERFECTPRAYER	32911
+Perfect juju prayer flask (2)	CERT_BIGPOT_2DOSEPERFECTPRAYER	32912
+Perfect juju prayer flask (3)	BIGPOT_3DOSEPERFECTPRAYER	32913
+Perfect juju prayer flask (3)	CERT_BIGPOT_3DOSEPERFECTPRAYER	32914
+Perfect juju prayer flask (4)	BIGPOT_4DOSEPERFECTPRAYER	32915
+Perfect juju prayer flask (4)	CERT_BIGPOT_4DOSEPERFECTPRAYER	32916
+Perfect juju prayer flask (5)	BIGPOT_5DOSEPERFECTPRAYER	32917
+Perfect juju prayer flask (5)	CERT_BIGPOT_5DOSEPERFECTPRAYER	32918
+Perfect juju prayer flask (6)	BIGPOT_6DOSEPERFECTPRAYER	32919
+Perfect juju prayer flask (6)	CERT_BIGPOT_6DOSEPERFECTPRAYER	32920
+Perfect juju herblore flask (1)	BIGPOT_1DOSEPERFECTHERBLORE	32921
+Perfect juju herblore flask (1)	CERT_BIGPOT_1DOSEPERFECTHERBLORE	32922
+Perfect juju herblore flask (2)	BIGPOT_2DOSEPERFECTHERBLORE	32923
+Perfect juju herblore flask (2)	CERT_BIGPOT_2DOSEPERFECTHERBLORE	32924
+Perfect juju herblore flask (3)	BIGPOT_3DOSEPERFECTHERBLORE	32925
+Perfect juju herblore flask (3)	CERT_BIGPOT_3DOSEPERFECTHERBLORE	32926
+Perfect juju herblore flask (4)	BIGPOT_4DOSEPERFECTHERBLORE	32927
+Perfect juju herblore flask (4)	CERT_BIGPOT_4DOSEPERFECTHERBLORE	32928
+Perfect juju herblore flask (5)	BIGPOT_5DOSEPERFECTHERBLORE	32929
+Perfect juju herblore flask (5)	CERT_BIGPOT_5DOSEPERFECTHERBLORE	32930
+Perfect juju herblore flask (6)	BIGPOT_6DOSEPERFECTHERBLORE	32931
+Perfect juju herblore flask (6)	CERT_BIGPOT_6DOSEPERFECTHERBLORE	32932
+Perfect juju dungeoneering flask (1)	BIGPOT_1DOSEPERFECTDUNGEONEERING	32933
+Perfect juju dungeoneering flask (1)	CERT_BIGPOT_1DOSEPERFECTDUNGEONEERING	32934
+Perfect juju dungeoneering flask (2)	BIGPOT_2DOSEPERFECTDUNGEONEERING	32935
+Perfect juju dungeoneering flask (2)	CERT_BIGPOT_2DOSEPERFECTDUNGEONEERING	32936
+Perfect juju dungeoneering flask (3)	BIGPOT_3DOSEPERFECTDUNGEONEERING	32937
+Perfect juju dungeoneering flask (3)	CERT_BIGPOT_3DOSEPERFECTDUNGEONEERING	32938
+Perfect juju dungeoneering flask (4)	BIGPOT_4DOSEPERFECTDUNGEONEERING	32939
+Perfect juju dungeoneering flask (4)	CERT_BIGPOT_4DOSEPERFECTDUNGEONEERING	32940
+Perfect juju dungeoneering flask (5)	BIGPOT_5DOSEPERFECTDUNGEONEERING	32941
+Perfect juju dungeoneering flask (5)	CERT_BIGPOT_5DOSEPERFECTDUNGEONEERING	32942
+Perfect juju dungeoneering flask (6)	BIGPOT_6DOSEPERFECTDUNGEONEERING	32943
+Perfect juju dungeoneering flask (6)	CERT_BIGPOT_6DOSEPERFECTDUNGEONEERING	32944
+Tortured ashes	RAND_TORTURED_ASHES	32945
+Tortured ashes	CERT_RAND_TORTURED_ASHES	32946
+Harmony moss	ELF_MOSS	32947
+Grand strength potion (1)	_1DOSECOMBOSTRENGTH	32948
+Grand strength potion (1)	CERT_1DOSECOMBOSTRENGTH	32949
+Grand strength potion (2)	_2DOSECOMBOSTRENGTH	32950
+Grand strength potion (2)	CERT_2DOSECOMBOSTRENGTH	32951
+Grand strength potion (3)	_3DOSECOMBOSTRENGTH	32952
+Grand strength potion (3)	CERT_3DOSECOMBOSTRENGTH	32953
+Grand strength potion (4)	_4DOSECOMBOSTRENGTH	32954
+Grand strength potion (4)	CERT_4DOSECOMBOSTRENGTH	32955
+Grand strength potion (5)	_5DOSECOMBOSTRENGTH	32956
+Grand strength potion (5)	CERT_5DOSECOMBOSTRENGTH	32957
+Grand strength potion (6)	_6DOSECOMBOSTRENGTH	32958
+Grand strength potion (6)	CERT_6DOSECOMBOSTRENGTH	32959
+Grand ranging potion (1)	_1DOSECOMBORANGING	32960
+Grand ranging potion (1)	CERT_1DOSECOMBORANGING	32961
+Grand ranging potion (2)	_2DOSECOMBORANGING	32962
+Grand ranging potion (2)	CERT_2DOSECOMBORANGING	32963
+Grand ranging potion (3)	_3DOSECOMBORANGING	32964
+Grand ranging potion (3)	CERT_3DOSECOMBORANGING	32965
+Grand ranging potion (4)	_4DOSECOMBORANGING	32966
+Grand ranging potion (4)	CERT_4DOSECOMBORANGING	32967
+Grand ranging potion (5)	_5DOSECOMBORANGING	32968
+Grand ranging potion (5)	CERT_5DOSECOMBORANGING	32969
+Grand ranging potion (6)	_6DOSECOMBORANGING	32970
+Grand ranging potion (6)	CERT_6DOSECOMBORANGING	32971
+Grand magic potion (1)	_1DOSECOMBOMAGIC	32972
+Grand magic potion (1)	CERT_1DOSECOMBOMAGIC	32973
+Grand magic potion (2)	_2DOSECOMBOMAGIC	32974
+Grand magic potion (2)	CERT_2DOSECOMBOMAGIC	32975
+Grand magic potion (3)	_3DOSECOMBOMAGIC	32976
+Grand magic potion (3)	CERT_3DOSECOMBOMAGIC	32977
+Grand magic potion (4)	_4DOSECOMBOMAGIC	32978
+Grand magic potion (4)	CERT_4DOSECOMBOMAGIC	32979
+Grand magic potion (5)	_5DOSECOMBOMAGIC	32980
+Grand magic potion (5)	CERT_5DOSECOMBOMAGIC	32981
+Grand magic potion (6)	_6DOSECOMBOMAGIC	32982
+Grand magic potion (6)	CERT_6DOSECOMBOMAGIC	32983
+Grand attack potion (1)	_1DOSECOMBOATTACK	32984
+Grand attack potion (1)	CERT_1DOSECOMBOATTACK	32985
+Grand attack potion (2)	_2DOSECOMBOATTACK	32986
+Grand attack potion (2)	CERT_2DOSECOMBOATTACK	32987
+Grand attack potion (3)	_3DOSECOMBOATTACK	32988
+Grand attack potion (3)	CERT_3DOSECOMBOATTACK	32989
+Grand attack potion (4)	_4DOSECOMBOATTACK	32990
+Grand attack potion (4)	CERT_4DOSECOMBOATTACK	32991
+Grand attack potion (5)	_5DOSECOMBOATTACK	32992
+Grand attack potion (5)	CERT_5DOSECOMBOATTACK	32993
+Grand attack potion (6)	_6DOSECOMBOATTACK	32994
+Grand attack potion (6)	CERT_6DOSECOMBOATTACK	32995
+Grand defence potion (1)	_1DOSECOMBODEFENCE	32996
+Grand defence potion (1)	CERT_1DOSECOMBODEFENCE	32997
+Grand defence potion (2)	_2DOSECOMBODEFENCE	32998
+Grand defence potion (2)	CERT_2DOSECOMBODEFENCE	32999
+Grand defence potion (3)	_3DOSECOMBODEFENCE	33000
+Grand defence potion (3)	CERT_3DOSECOMBODEFENCE	33001
+Grand defence potion (4)	_4DOSECOMBODEFENCE	33002
+Grand defence potion (4)	CERT_4DOSECOMBODEFENCE	33003
+Grand defence potion (5)	_5DOSECOMBODEFENCE	33004
+Grand defence potion (5)	CERT_5DOSECOMBODEFENCE	33005
+Grand defence potion (6)	_6DOSECOMBODEFENCE	33006
+Grand defence potion (6)	CERT_6DOSECOMBODEFENCE	33007
+Super melee potion (1)	_1DOSECOMBOMELEE	33008
+Super melee potion (1)	CERT_1DOSECOMBOMELEE	33009
+Super melee potion (2)	_2DOSECOMBOMELEE	33010
+Super melee potion (2)	CERT_2DOSECOMBOMELEE	33011
+Super melee potion (3)	_3DOSECOMBOMELEE	33012
+Super melee potion (3)	CERT_3DOSECOMBOMELEE	33013
+Super melee potion (4)	_4DOSECOMBOMELEE	33014
+Super melee potion (4)	CERT_4DOSECOMBOMELEE	33015
+Super melee potion (5)	_5DOSECOMBOMELEE	33016
+Super melee potion (5)	CERT_5DOSECOMBOMELEE	33017
+Super melee potion (6)	_6DOSECOMBOMELEE	33018
+Super melee potion (6)	CERT_6DOSECOMBOMELEE	33019
+Super warmaster's potion (1)	_1DOSECOMBOSERUM	33020
+Super warmaster's potion (1)	CERT_1DOSECOMBOSERUM	33021
+Super warmaster's potion (2)	_2DOSECOMBOSERUM	33022
+Super warmaster's potion (2)	CERT_2DOSECOMBOSERUM	33023
+Super warmaster's potion (3)	_3DOSECOMBOSERUM	33024
+Super warmaster's potion (3)	CERT_3DOSECOMBOSERUM	33025
+Super warmaster's potion (4)	_4DOSECOMBOSERUM	33026
+Super warmaster's potion (4)	CERT_4DOSECOMBOSERUM	33027
+Super warmaster's potion (5)	_5DOSECOMBOSERUM	33028
+Super warmaster's potion (5)	CERT_5DOSECOMBOSERUM	33029
+Super warmaster's potion (6)	_6DOSECOMBOSERUM	33030
+Super warmaster's potion (6)	CERT_6DOSECOMBOSERUM	33031
+Replenishment potion (1)	_1DOSECOMBOADRENALINERESTORE	33032
+Replenishment potion (1)	CERT_1DOSECOMBOADRENALINERESTORE	33033
+Replenishment potion (2)	_2DOSECOMBOADRENALINERESTORE	33034
+Replenishment potion (2)	CERT_2DOSECOMBOADRENALINERESTORE	33035
+Replenishment potion (3)	_3DOSECOMBOADRENALINERESTORE	33036
+Replenishment potion (3)	CERT_3DOSECOMBOADRENALINERESTORE	33037
+Replenishment potion (4)	_4DOSECOMBOADRENALINERESTORE	33038
+Replenishment potion (4)	CERT_4DOSECOMBOADRENALINERESTORE	33039
+Replenishment potion (5)	_5DOSECOMBOADRENALINERESTORE	33040
+Replenishment potion (5)	CERT_5DOSECOMBOADRENALINERESTORE	33041
+Replenishment potion (6)	_6DOSECOMBOADRENALINERESTORE	33042
+Replenishment potion (6)	CERT_6DOSECOMBOADRENALINERESTORE	33043
+Wyrmfire potion (1)	_1DOSECOMBOANTIDRAGON	33044
+Wyrmfire potion (1)	CERT_1DOSECOMBOANTIDRAGON	33045
+Wyrmfire potion (2)	_2DOSECOMBOANTIDRAGON	33046
+Wyrmfire potion (2)	CERT_2DOSECOMBOANTIDRAGON	33047
+Wyrmfire potion (3)	_3DOSECOMBOANTIDRAGON	33048
+Wyrmfire potion (3)	CERT_3DOSECOMBOANTIDRAGON	33049
+Wyrmfire potion (4)	_4DOSECOMBOANTIDRAGON	33050
+Wyrmfire potion (4)	CERT_4DOSECOMBOANTIDRAGON	33051
+Wyrmfire potion (5)	_5DOSECOMBOANTIDRAGON	33052
+Wyrmfire potion (5)	CERT_5DOSECOMBOANTIDRAGON	33053
+Wyrmfire potion (6)	_6DOSECOMBOANTIDRAGON	33054
+Wyrmfire potion (6)	CERT_6DOSECOMBOANTIDRAGON	33055
+Extreme brawler's potion (1)	_1DOSECOMBOFIRESTORM	33056
+Extreme brawler's potion (1)	CERT_1DOSECOMBOFIRESTORM	33057
+Extreme brawler's potion (2)	_2DOSECOMBOFIRESTORM	33058
+Extreme brawler's potion (2)	CERT_2DOSECOMBOFIRESTORM	33059
+Extreme brawler's potion (3)	_3DOSECOMBOFIRESTORM	33060
+Extreme brawler's potion (3)	CERT_3DOSECOMBOFIRESTORM	33061
+Extreme brawler's potion (4)	_4DOSECOMBOFIRESTORM	33062
+Extreme brawler's potion (4)	CERT_4DOSECOMBOFIRESTORM	33063
+Extreme brawler's potion (5)	_5DOSECOMBOFIRESTORM	33064
+Extreme brawler's potion (5)	CERT_5DOSECOMBOFIRESTORM	33065
+Extreme brawler's potion (6)	_6DOSECOMBOFIRESTORM	33066
+Extreme brawler's potion (6)	CERT_6DOSECOMBOFIRESTORM	33067
+Extreme battlemage's potion (1)	_1DOSECOMBOWILDFIRE	33068
+Extreme battlemage's potion (1)	CERT_1DOSECOMBOWILDFIRE	33069
+Extreme battlemage's potion (2)	_2DOSECOMBOWILDFIRE	33070
+Extreme battlemage's potion (2)	CERT_2DOSECOMBOWILDFIRE	33071
+Extreme battlemage's potion (3)	_3DOSECOMBOWILDFIRE	33072
+Extreme battlemage's potion (3)	CERT_3DOSECOMBOWILDFIRE	33073
+Extreme battlemage's potion (4)	_4DOSECOMBOWILDFIRE	33074
+Extreme battlemage's potion (4)	CERT_4DOSECOMBOWILDFIRE	33075
+Extreme battlemage's potion (5)	_5DOSECOMBOWILDFIRE	33076
+Extreme battlemage's potion (5)	CERT_5DOSECOMBOWILDFIRE	33077
+Extreme battlemage's potion (6)	_6DOSECOMBOWILDFIRE	33078
+Extreme battlemage's potion (6)	CERT_6DOSECOMBOWILDFIRE	33079
+Extreme sharpshooter's potion (1)	_1DOSECOMBOBURNING	33080
+Extreme sharpshooter's potion (1)	CERT_1DOSECOMBOBURNING	33081
+Extreme sharpshooter's potion (2)	_2DOSECOMBOBURNING	33082
+Extreme sharpshooter's potion (2)	CERT_2DOSECOMBOBURNING	33083
+Extreme sharpshooter's potion (3)	_3DOSECOMBOBURNING	33084
+Extreme sharpshooter's potion (3)	CERT_3DOSECOMBOBURNING	33085
+Extreme sharpshooter's potion (4)	_4DOSECOMBOBURNING	33086
+Extreme sharpshooter's potion (4)	CERT_4DOSECOMBOBURNING	33087
+Extreme sharpshooter's potion (5)	_5DOSECOMBOBURNING	33088
+Extreme sharpshooter's potion (5)	CERT_5DOSECOMBOBURNING	33089
+Extreme sharpshooter's potion (6)	_6DOSECOMBOBURNING	33090
+Extreme sharpshooter's potion (6)	CERT_6DOSECOMBOBURNING	33091
+Extreme warmaster's potion (1)	_1DOSE2COMBOSERUM	33092
+Extreme warmaster's potion (1)	CERT_1DOSE2COMBOSERUM	33093
+Extreme warmaster's potion (2)	_2DOSE2COMBOSERUM	33094
+Extreme warmaster's potion (2)	CERT_2DOSE2COMBOSERUM	33095
+Extreme warmaster's potion (3)	_3DOSE2COMBOSERUM	33096
+Extreme warmaster's potion (3)	CERT_3DOSE2COMBOSERUM	33097
+Extreme warmaster's potion (4)	_4DOSE2COMBOSERUM	33098
+Extreme warmaster's potion (4)	CERT_4DOSE2COMBOSERUM	33099
+Extreme warmaster's potion (5)	_5DOSE2COMBOSERUM	33100
+Extreme warmaster's potion (5)	CERT_5DOSE2COMBOSERUM	33101
+Extreme warmaster's potion (6)	_6DOSE2COMBOSERUM	33102
+Extreme warmaster's potion (6)	CERT_6DOSE2COMBOSERUM	33103
+Supreme strength potion (1)	_1DOSE2COMBOSTRENGTH	33104
+Supreme strength potion (1)	CERT_1DOSE2COMBOSTRENGTH	33105
+Supreme strength potion (2)	_2DOSE2COMBOSTRENGTH	33106
+Supreme strength potion (2)	CERT_2DOSE2COMBOSTRENGTH	33107
+Supreme strength potion (3)	_3DOSE2COMBOSTRENGTH	33108
+Supreme strength potion (3)	CERT_3DOSE2COMBOSTRENGTH	33109
+Supreme strength potion (4)	_4DOSE2COMBOSTRENGTH	33110
+Supreme strength potion (4)	CERT_4DOSE2COMBOSTRENGTH	33111
+Supreme strength potion (5)	_5DOSE2COMBOSTRENGTH	33112
+Supreme strength potion (5)	CERT_5DOSE2COMBOSTRENGTH	33113
+Supreme strength potion (6)	_6DOSE2COMBOSTRENGTH	33114
+Supreme strength potion (6)	CERT_6DOSE2COMBOSTRENGTH	33115
+Supreme attack potion (1)	_1DOSE2COMBOATTACK	33116
+Supreme attack potion (1)	CERT_1DOSE2COMBOATTACK	33117
+Supreme attack potion (2)	_2DOSE2COMBOATTACK	33118
+Supreme attack potion (2)	CERT_2DOSE2COMBOATTACK	33119
+Supreme attack potion (3)	_3DOSE2COMBOATTACK	33120
+Supreme attack potion (3)	CERT_3DOSE2COMBOATTACK	33121
+Supreme attack potion (4)	_4DOSE2COMBOATTACK	33122
+Supreme attack potion (4)	CERT_4DOSE2COMBOATTACK	33123
+Supreme attack potion (5)	_5DOSE2COMBOATTACK	33124
+Supreme attack potion (5)	CERT_5DOSE2COMBOATTACK	33125
+Supreme attack potion (6)	_6DOSE2COMBOATTACK	33126
+Supreme attack potion (6)	CERT_6DOSE2COMBOATTACK	33127
+Supreme defence potion (1)	_1DOSE2COMBODEFENCE	33128
+Supreme defence potion (1)	CERT_1DOSE2COMBODEFENCE	33129
+Supreme defence potion (2)	_2DOSE2COMBODEFENCE	33130
+Supreme defence potion (2)	CERT_2DOSE2COMBODEFENCE	33131
+Supreme defence potion (3)	_3DOSE2COMBODEFENCE	33132
+Supreme defence potion (3)	CERT_3DOSE2COMBODEFENCE	33133
+Supreme defence potion (4)	_4DOSE2COMBODEFENCE	33134
+Supreme defence potion (4)	CERT_4DOSE2COMBODEFENCE	33135
+Supreme defence potion (5)	_5DOSE2COMBODEFENCE	33136
+Supreme defence potion (5)	CERT_5DOSE2COMBODEFENCE	33137
+Supreme defence potion (6)	_6DOSE2COMBODEFENCE	33138
+Supreme defence potion (6)	CERT_6DOSE2COMBODEFENCE	33139
+Supreme magic potion (1)	_1DOSE2COMBOMAGIC	33140
+Supreme magic potion (1)	CERT_1DOSE2COMBOMAGIC	33141
+Supreme magic potion (2)	_2DOSE2COMBOMAGIC	33142
+Supreme magic potion (2)	CERT_2DOSE2COMBOMAGIC	33143
+Supreme magic potion (3)	_3DOSE2COMBOMAGIC	33144
+Supreme magic potion (3)	CERT_3DOSE2COMBOMAGIC	33145
+Supreme magic potion (4)	_4DOSE2COMBOMAGIC	33146
+Supreme magic potion (4)	CERT_4DOSE2COMBOMAGIC	33147
+Supreme magic potion (5)	_5DOSE2COMBOMAGIC	33148
+Supreme magic potion (5)	CERT_5DOSE2COMBOMAGIC	33149
+Supreme magic potion (6)	_6DOSE2COMBOMAGIC	33150
+Supreme magic potion (6)	CERT_6DOSE2COMBOMAGIC	33151
+Supreme ranging potion (1)	_1DOSE2COMBORANGING	33152
+Supreme ranging potion (1)	CERT_1DOSE2COMBORANGING	33153
+Supreme ranging potion (2)	_2DOSE2COMBORANGING	33154
+Supreme ranging potion (2)	CERT_2DOSE2COMBORANGING	33155
+Supreme ranging potion (3)	_3DOSE2COMBORANGING	33156
+Supreme ranging potion (3)	CERT_3DOSE2COMBORANGING	33157
+Supreme ranging potion (4)	_4DOSE2COMBORANGING	33158
+Supreme ranging potion (4)	CERT_4DOSE2COMBORANGING	33159
+Supreme ranging potion (5)	_5DOSE2COMBORANGING	33160
+Supreme ranging potion (5)	CERT_5DOSE2COMBORANGING	33161
+Supreme ranging potion (6)	_6DOSE2COMBORANGING	33162
+Supreme ranging potion (6)	CERT_6DOSE2COMBORANGING	33163
+Brightfire potion (1)	_1DOSECOMBORENEWANTIFIRE	33164
+Brightfire potion (1)	CERT_1DOSECOMBORENEWANTIFIRE	33165
+Brightfire potion (2)	_2DOSECOMBORENEWANTIFIRE	33166
+Brightfire potion (2)	CERT_2DOSECOMBORENEWANTIFIRE	33167
+Brightfire potion (3)	_3DOSECOMBORENEWANTIFIRE	33168
+Brightfire potion (3)	CERT_3DOSECOMBORENEWANTIFIRE	33169
+Brightfire potion (4)	_4DOSECOMBORENEWANTIFIRE	33170
+Brightfire potion (4)	CERT_4DOSECOMBORENEWANTIFIRE	33171
+Brightfire potion (5)	_5DOSECOMBORENEWANTIFIRE	33172
+Brightfire potion (5)	CERT_5DOSECOMBORENEWANTIFIRE	33173
+Brightfire potion (6)	_6DOSECOMBORENEWANTIFIRE	33174
+Brightfire potion (6)	CERT_6DOSECOMBORENEWANTIFIRE	33175
+Super prayer renewal potion (1)	_1DOSECOMBOPRAYERRENEW	33176
+Super prayer renewal potion (1)	CERT_1DOSECOMBOPRAYERRENEW	33177
+Super prayer renewal potion (2)	_2DOSECOMBOPRAYERRENEW	33178
+Super prayer renewal potion (2)	CERT_2DOSECOMBOPRAYERRENEW	33179
+Super prayer renewal potion (3)	_3DOSECOMBOPRAYERRENEW	33180
+Super prayer renewal potion (3)	CERT_3DOSECOMBOPRAYERRENEW	33181
+Super prayer renewal potion (4)	_4DOSECOMBOPRAYERRENEW	33182
+Super prayer renewal potion (4)	CERT_4DOSECOMBOPRAYERRENEW	33183
+Super prayer renewal potion (5)	_5DOSECOMBOPRAYERRENEW	33184
+Super prayer renewal potion (5)	CERT_5DOSECOMBOPRAYERRENEW	33185
+Super prayer renewal potion (6)	_6DOSECOMBOPRAYERRENEW	33186
+Super prayer renewal potion (6)	CERT_6DOSECOMBOPRAYERRENEW	33187
+Overload salve (1)	_1DOSECOMBOOVERLOAD	33188
+Overload salve (1)	CERT_1DOSECOMBOOVERLOAD	33189
+Overload salve (2)	_2DOSECOMBOOVERLOAD	33190
+Overload salve (2)	CERT_2DOSECOMBOOVERLOAD	33191
+Overload salve (3)	_3DOSECOMBOOVERLOAD	33192
+Overload salve (3)	CERT_3DOSECOMBOOVERLOAD	33193
+Overload salve (4)	_4DOSECOMBOOVERLOAD	33194
+Overload salve (4)	CERT_4DOSECOMBOOVERLOAD	33195
+Overload salve (5)	_5DOSECOMBOOVERLOAD	33196
+Overload salve (5)	CERT_5DOSECOMBOOVERLOAD	33197
+Overload salve (6)	_6DOSECOMBOOVERLOAD	33198
+Overload salve (6)	CERT_6DOSECOMBOOVERLOAD	33199
+Supreme overload potion (1)	_1DOSECOMBOSUPREMEOVERLOAD	33200
+Supreme overload potion (1)	CERT_1DOSECOMBOSUPREMEOVERLOAD	33201
+Supreme overload potion (2)	_2DOSECOMBOSUPREMEOVERLOAD	33202
+Supreme overload potion (2)	CERT_2DOSECOMBOSUPREMEOVERLOAD	33203
+Supreme overload potion (3)	_3DOSECOMBOSUPREMEOVERLOAD	33204
+Supreme overload potion (3)	CERT_3DOSECOMBOSUPREMEOVERLOAD	33205
+Supreme overload potion (4)	_4DOSECOMBOSUPREMEOVERLOAD	33206
+Supreme overload potion (4)	CERT_4DOSECOMBOSUPREMEOVERLOAD	33207
+Supreme overload potion (5)	_5DOSECOMBOSUPREMEOVERLOAD	33208
+Supreme overload potion (5)	CERT_5DOSECOMBOSUPREMEOVERLOAD	33209
+Supreme overload potion (6)	_6DOSECOMBOSUPREMEOVERLOAD	33210
+Supreme overload potion (6)	CERT_6DOSECOMBOSUPREMEOVERLOAD	33211
+Supreme overload salve (1)	_1DOSE2COMBOSUPREMEOVERLOAD	33212
+Supreme overload salve (1)	CERT_1DOSE2COMBOSUPREMEOVERLOAD	33213
+Supreme overload salve (2)	_2DOSE2COMBOSUPREMEOVERLOAD	33214
+Supreme overload salve (2)	CERT_2DOSE2COMBOSUPREMEOVERLOAD	33215
+Supreme overload salve (3)	_3DOSE2COMBOSUPREMEOVERLOAD	33216
+Supreme overload salve (3)	CERT_3DOSE2COMBOSUPREMEOVERLOAD	33217
+Supreme overload salve (4)	_4DOSE2COMBOSUPREMEOVERLOAD	33218
+Supreme overload salve (4)	CERT_4DOSE2COMBOSUPREMEOVERLOAD	33219
+Supreme overload salve (5)	_5DOSE2COMBOSUPREMEOVERLOAD	33220
+Supreme overload salve (5)	CERT_5DOSE2COMBOSUPREMEOVERLOAD	33221
+Supreme overload salve (6)	_6DOSE2COMBOSUPREMEOVERLOAD	33222
+Supreme overload salve (6)	CERT_6DOSE2COMBOSUPREMEOVERLOAD	33223
+Perfect plus potion (1)	_1DOSECOMBOPERFECTPLUS	33224
+Perfect plus potion (1)	CERT_1DOSECOMBOPERFECTPLUS	33225
+Perfect plus potion (2)	_2DOSECOMBOPERFECTPLUS	33226
+Perfect plus potion (2)	CERT_2DOSECOMBOPERFECTPLUS	33227
+Perfect plus potion (3)	_3DOSECOMBOPERFECTPLUS	33228
+Perfect plus potion (3)	CERT_3DOSECOMBOPERFECTPLUS	33229
+Perfect plus potion (4)	_4DOSECOMBOPERFECTPLUS	33230
+Perfect plus potion (4)	CERT_4DOSECOMBOPERFECTPLUS	33231
+Perfect plus potion (5)	_5DOSECOMBOPERFECTPLUS	33232
+Perfect plus potion (5)	CERT_5DOSECOMBOPERFECTPLUS	33233
+Perfect plus potion (6)	_6DOSECOMBOPERFECTPLUS	33234
+Perfect plus potion (6)	CERT_6DOSECOMBOPERFECTPLUS	33235
+Holy overload potion (1)	_1DOSECOMBORENEWOVERLOAD	33236
+Holy overload potion (1)	CERT_1DOSECOMBORENEWOVERLOAD	33237
+Holy overload potion (2)	_2DOSECOMBORENEWOVERLOAD	33238
+Holy overload potion (2)	CERT_2DOSECOMBORENEWOVERLOAD	33239
+Holy overload potion (3)	_3DOSECOMBORENEWOVERLOAD	33240
+Holy overload potion (3)	CERT_3DOSECOMBORENEWOVERLOAD	33241
+Holy overload potion (4)	_4DOSECOMBORENEWOVERLOAD	33242
+Holy overload potion (4)	CERT_4DOSECOMBORENEWOVERLOAD	33243
+Holy overload potion (5)	_5DOSECOMBORENEWOVERLOAD	33244
+Holy overload potion (5)	CERT_5DOSECOMBORENEWOVERLOAD	33245
+Holy overload potion (6)	_6DOSECOMBORENEWOVERLOAD	33246
+Holy overload potion (6)	CERT_6DOSECOMBORENEWOVERLOAD	33247
+Searing overload potion (1)	_1DOSECOMBOANTIFIREOVERLOAD	33248
+Searing overload potion (1)	CERT_1DOSECOMBOANTIFIREOVERLOAD	33249
+Searing overload potion (2)	_2DOSECOMBOANTIFIREOVERLOAD	33250
+Searing overload potion (2)	CERT_2DOSECOMBOANTIFIREOVERLOAD	33251
+Searing overload potion (3)	_3DOSECOMBOANTIFIREOVERLOAD	33252
+Searing overload potion (3)	CERT_3DOSECOMBOANTIFIREOVERLOAD	33253
+Searing overload potion (4)	_4DOSECOMBOANTIFIREOVERLOAD	33254
+Searing overload potion (4)	CERT_4DOSECOMBOANTIFIREOVERLOAD	33255
+Searing overload potion (5)	_5DOSECOMBOANTIFIREOVERLOAD	33256
+Searing overload potion (5)	CERT_5DOSECOMBOANTIFIREOVERLOAD	33257
+Searing overload potion (6)	_6DOSECOMBOANTIFIREOVERLOAD	33258
+Searing overload potion (6)	CERT_6DOSECOMBOANTIFIREOVERLOAD	33259
+Tortured ashes	TORTURED_ASHES	33260
+Tortured ashes	CERT_TORTURED_ASHES	33261
+Expert skillcape shard bag	NJCAPES_SHARD_BAG	33262
+	ELFCITY_CRYSTAL_CHIME_DUMMY	33263
+Clue scroll (easy)	TRAIL_CLUE_EASY_SIMPLE032	33264
+Clue scroll (easy)	TRAIL_CLUE_EASY_SIMPLE033	33265
+Clue scroll (easy)	TRAIL_CLUE_EASY_SIMPLE034	33266
+Clue scroll (easy)	TRAIL_CLUE_EASY_SIMPLE035	33267
+Clue scroll (easy)	TRAIL_CLUE_EASY_SIMPLE036	33268
+Clue scroll (hard)	TRAIL_CLUE_HARD_SEXTANT039	33269
+Casket (hard)	TRAIL_CLUE_HARD_SEXTANT039_CASKET	33270
+Scroll box (hard)	TRAIL_CLUE_HARD_SEXTANT039_SCROLLBOX	33271
+Clue scroll (hard)	TRAIL_CLUE_HARD_SEXTANT040	33272
+Casket (hard)	TRAIL_CLUE_HARD_SEXTANT040_CASKET	33273
+Scroll box (hard)	TRAIL_CLUE_HARD_SEXTANT040_SCROLLBOX	33274
+Clue scroll (hard)	TRAIL_CLUE_HARD_SEXTANT041	33275
+Casket (hard)	TRAIL_CLUE_HARD_SEXTANT041_CASKET	33276
+Scroll box (hard)	TRAIL_CLUE_HARD_SEXTANT041_SCROLLBOX	33277
+Clue scroll (hard)	TRAIL_CLUE_HARD_SEXTANT042	33278
+Casket (hard)	TRAIL_CLUE_HARD_SEXTANT042_CASKET	33279
+Scroll box (hard)	TRAIL_CLUE_HARD_SEXTANT042_SCROLLBOX	33280
+Clue scroll (hard)	TRAIL_CLUE_HARD_SEXTANT043	33281
+Casket (hard)	TRAIL_CLUE_HARD_SEXTANT043_CASKET	33282
+Scroll box (hard)	TRAIL_CLUE_HARD_SEXTANT043_SCROLLBOX	33283
+Clue scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM027	33284
+Challenge scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM027_CHALLENGE	33285
+Clue scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM028	33286
+Challenge scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM028_CHALLENGE	33287
+Clue scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM029	33288
+Challenge scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM029_CHALLENGE	33289
+Clue scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM030	33290
+Challenge scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM030_CHALLENGE	33291
+Clue scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM031	33292
+Challenge scroll (medium)	TRAIL_CLUE_MEDIUM_ANAGRAM031_CHALLENGE	33293
+Barrows dye	TRAIL14_DYE_BARROWS	33294
+Barrows dye	CERT_TRAIL14_DYE_BARROWS	33295
+Shadow dye	TRAIL14_DYE_SHADOW	33296
+Shadow dye	CERT_TRAIL14_DYE_SHADOW	33297
+Third Age dye	TRAIL14_DYE_THIRDAGE	33298
+Third Age dye	CERT_TRAIL14_DYE_THIRDAGE	33299
+Drygore mace (Barrows)	TRAIL14_KK_MACE_100_BARROWS	33300
+Drygore mace (Barrows)	TRAIL14_KK_MACE_50_BARROWS	33301
+Drygore mace (Barrows)(broken)	TRAIL14_KK_MACE_0_BARROWS	33302
+Off-hand drygore mace (Barrows)	TRAIL14_KK_MACE_O_100_BARROWS	33303
+Off-hand drygore mace (Barrows)	TRAIL14_KK_MACE_O_50_BARROWS	33304
+Off-hand drygore mace (Barrows)(broken)	TRAIL14_KK_MACE_O_0_BARROWS	33305
+Drygore rapier (Barrows)	TRAIL14_KK_SWORD_100_BARROWS	33306
+Drygore rapier (Barrows)	TRAIL14_KK_SWORD_50_BARROWS	33307
+Drygore rapier (Barrows)(broken)	TRAIL14_KK_SWORD_0_BARROWS	33308
+Off-hand drygore rapier (Barrows)	TRAIL14_KK_SWORD_O_100_BARROWS	33309
+Off-hand drygore rapier (Barrows)	TRAIL14_KK_SWORD_O_50_BARROWS	33310
+Off-hand drygore rapier (Barrows)(broken)	TRAIL14_KK_SWORD_O_0_BARROWS	33311
+Drygore longsword (Barrows)	TRAIL14_KK_LONGSWORD_100_BARROWS	33312
+Drygore longsword (Barrows)	TRAIL14_KK_LONGSWORD_50_BARROWS	33313
+Drygore longsword (Barrows)(broken)	TRAIL14_KK_LONGSWORD_0_BARROWS	33314
+Off-hand drygore longsword (Barrows)	TRAIL14_KK_LONGSWORD_O_100_BARROWS	33315
+Off-hand drygore longsword (Barrows)	TRAIL14_KK_LONGSWORD_O_50_BARROWS	33316
+Off-hand drygore longsword (Barrows)(broken)	TRAIL14_KK_LONGSWORD_O_0_BARROWS	33317
+Ascension crossbow (Barrows)	TRAIL14_ASC_CRYSTAL_CROSSBOW_BARROWS	33318
+Ascension crossbow (Barrows)	TRAIL14_ASC_CRYSTAL_CROSSBOW_50_BARROWS	33319
+Ascension crossbow (Barrows)(broken)	TRAIL14_ASC_CRYSTAL_CROSSBOW_0_BARROWS	33320
+Off-hand ascension crossbow (Barrows)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_BARROWS	33321
+Off-hand ascension crossbow (Barrows)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_50_BARROWS	33322
+Off-hand ascension crossbow (Barrows)(broken)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_0_BARROWS	33323
+Seismic wand (Barrows)	TRAIL14_LRC2_MAGIC_WAND_NEW_BARROWS	33324
+Seismic wand (Barrows)	TRAIL14_LRC2_MAGIC_WAND_USED_BARROWS	33325
+Seismic wand (Barrows)(broken)	TRAIL14_LRC2_MAGIC_WAND_BROKEN_BARROWS	33326
+Seismic singularity (Barrows)	TRAIL14_LRC2_MAGIC_OFFHAND_NEW_BARROWS	33327
+Seismic singularity (Barrows)	TRAIL14_LRC2_MAGIC_OFFHAND_USED_BARROWS	33328
+Seismic singularity (Barrows)(broken)	TRAIL14_LRC2_MAGIC_OFFHAND_BROKEN_BARROWS	33329
+Noxious scythe (Barrows)	TRAIL14_SB_MELEE_WEAPON_NEW_BARROWS	33330
+Noxious scythe (Barrows)	TRAIL14_SB_MELEE_WEAPON_USED_BARROWS	33331
+Noxious scythe (Barrows)(broken)	TRAIL14_SB_MELEE_WEAPON_BROKEN_BARROWS	33332
+Noxious staff (Barrows)	TRAIL14_SB_MAGIC_WEAPON_NEW_BARROWS	33333
+Noxious staff (Barrows)	TRAIL14_SB_MAGIC_WEAPON_USED_BARROWS	33334
+Noxious staff (Barrows)(broken)	TRAIL14_SB_MAGIC_WEAPON_BROKEN_BARROWS	33335
+Noxious longbow (Barrows)	TRAIL14_SB_RANGED_WEAPON_NEW_BARROWS	33336
+Noxious longbow (Barrows)	TRAIL14_SB_RANGED_WEAPON_USED_BARROWS	33337
+Noxious longbow (Barrows)(broken)	TRAIL14_SB_RANGED_WEAPON_BROKEN_BARROWS	33338
+Tectonic mask (Barrows)	TRAIL14_LRC2_MAGIC_HELM_NEW_BARROWS	33339
+Tectonic mask (Barrows)	TRAIL14_LRC2_MAGIC_HELM_USED_BARROWS	33340
+Tectonic mask (Barrows)(broken)	TRAIL14_LRC2_MAGIC_HELM_BROKEN_BARROWS	33341
+Tectonic robe top (Barrows)	TRAIL14_LRC2_MAGIC_BODY_NEW_BARROWS	33342
+Tectonic robe top (Barrows)	TRAIL14_LRC2_MAGIC_BODY_USED_BARROWS	33343
+Tectonic robe top (Barrows)(broken)	TRAIL14_LRC2_MAGIC_BODY_BROKEN_BARROWS	33344
+Tectonic robe bottom (Barrows)	TRAIL14_LRC2_MAGIC_LEGS_NEW_BARROWS	33345
+Tectonic robe bottom (Barrows)	TRAIL14_LRC2_MAGIC_LEGS_USED_BARROWS	33346
+Tectonic robe bottom (Barrows)(broken)	TRAIL14_LRC2_MAGIC_LEGS_BROKEN_BARROWS	33347
+Sirenic mask (Barrows)	TRAIL14_T90_RANGED_HELM_NEW_BARROWS	33348
+Sirenic mask (Barrows)	TRAIL14_T90_RANGED_HELM_USED_BARROWS	33349
+Sirenic mask (Barrows)(broken)	TRAIL14_T90_RANGED_HELM_BROKEN_BARROWS	33350
+Sirenic hauberk (Barrows)	TRAIL14_T90_RANGED_BODY_NEW_BARROWS	33351
+Sirenic hauberk (Barrows)	TRAIL14_T90_RANGED_BODY_USED_BARROWS	33352
+Sirenic hauberk (Barrows)(broken)	TRAIL14_T90_RANGED_BODY_BROKEN_BARROWS	33353
+Sirenic chaps (Barrows)	TRAIL14_T90_RANGED_LEGS_NEW_BARROWS	33354
+Sirenic chaps (Barrows)	TRAIL14_T90_RANGED_LEGS_USED_BARROWS	33355
+Sirenic chaps (Barrows)(broken)	TRAIL14_T90_RANGED_LEGS_BROKEN_BARROWS	33356
+Malevolent helm (Barrows)	TRAIL14_BARROWS2_HELM_NEW_BARROWS	33357
+Malevolent helm (Barrows)	TRAIL14_BARROWS2_HELM_USED_BARROWS	33358
+Malevolent helm (Barrows)(broken)	TRAIL14_BARROWS2_HELM_BROKEN_BARROWS	33359
+Malevolent cuirass (Barrows)	TRAIL14_BARROWS2_BODY_NEW_BARROWS	33360
+Malevolent cuirass (Barrows)	TRAIL14_BARROWS2_BODY_USED_BARROWS	33361
+Malevolent cuirass (Barrows)(broken)	TRAIL14_BARROWS2_BODY_BROKEN_BARROWS	33362
+Malevolent greaves (Barrows)	TRAIL14_BARROWS2_LEGS_NEW_BARROWS	33363
+Malevolent greaves (Barrows)	TRAIL14_BARROWS2_LEGS_USED_BARROWS	33364
+Malevolent greaves (Barrows)(broken)	TRAIL14_BARROWS2_LEGS_BROKEN_BARROWS	33365
+Drygore mace (shadow)	TRAIL14_KK_MACE_100_SHADOW	33366
+Drygore mace (shadow)	TRAIL14_KK_MACE_50_SHADOW	33367
+Drygore mace (shadow)(broken)	TRAIL14_KK_MACE_0_SHADOW	33368
+Off-hand drygore mace (shadow)	TRAIL14_KK_MACE_O_100_SHADOW	33369
+Off-hand drygore mace (shadow)	TRAIL14_KK_MACE_O_50_SHADOW	33370
+Off-hand drygore mace (shadow)(broken)	TRAIL14_KK_MACE_O_0_SHADOW	33371
+Drygore rapier (shadow)	TRAIL14_KK_SWORD_100_SHADOW	33372
+Drygore rapier (shadow)	TRAIL14_KK_SWORD_50_SHADOW	33373
+Drygore rapier (shadow)(broken)	TRAIL14_KK_SWORD_0_SHADOW	33374
+Off-hand drygore rapier (shadow)	TRAIL14_KK_SWORD_O_100_SHADOW	33375
+Off-hand drygore rapier (shadow)	TRAIL14_KK_SWORD_O_50_SHADOW	33376
+Off-hand drygore rapier (shadow)(broken)	TRAIL14_KK_SWORD_O_0_SHADOW	33377
+Drygore longsword (shadow)	TRAIL14_KK_LONGSWORD_100_SHADOW	33378
+Drygore longsword (shadow)	TRAIL14_KK_LONGSWORD_50_SHADOW	33379
+Drygore longsword (shadow)(broken)	TRAIL14_KK_LONGSWORD_0_SHADOW	33380
+Off-hand drygore longsword (shadow)	TRAIL14_KK_LONGSWORD_O_100_SHADOW	33381
+Off-hand drygore longsword (shadow)	TRAIL14_KK_LONGSWORD_O_50_SHADOW	33382
+Off-hand drygore longsword (shadow)(broken)	TRAIL14_KK_LONGSWORD_O_0_SHADOW	33383
+Ascension crossbow (shadow)	TRAIL14_ASC_CRYSTAL_CROSSBOW_SHADOW	33384
+Ascension crossbow (shadow)	TRAIL14_ASC_CRYSTAL_CROSSBOW_50_SHADOW	33385
+Ascension crossbow (shadow)(broken)	TRAIL14_ASC_CRYSTAL_CROSSBOW_0_SHADOW	33386
+Off-hand ascension crossbow (shadow)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_SHADOW	33387
+Off-hand ascension crossbow (shadow)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_50_SHADOW	33388
+Off-hand ascension crossbow (shadow)(broken)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_0_SHADOW	33389
+Seismic wand (shadow)	TRAIL14_LRC2_MAGIC_WAND_NEW_SHADOW	33390
+Seismic wand (shadow)	TRAIL14_LRC2_MAGIC_WAND_USED_SHADOW	33391
+Seismic wand (shadow)(broken)	TRAIL14_LRC2_MAGIC_WAND_BROKEN_SHADOW	33392
+Seismic singularity (shadow)	TRAIL14_LRC2_MAGIC_OFFHAND_NEW_SHADOW	33393
+Seismic singularity (shadow)	TRAIL14_LRC2_MAGIC_OFFHAND_USED_SHADOW	33394
+Seismic singularity (shadow)(broken)	TRAIL14_LRC2_MAGIC_OFFHAND_BROKEN_SHADOW	33395
+Noxious scythe (shadow)	TRAIL14_SB_MELEE_WEAPON_NEW_SHADOW	33396
+Noxious scythe (shadow)	TRAIL14_SB_MELEE_WEAPON_USED_SHADOW	33397
+Noxious scythe (shadow)(broken)	TRAIL14_SB_MELEE_WEAPON_BROKEN_SHADOW	33398
+Noxious staff (shadow)	TRAIL14_SB_MAGIC_WEAPON_NEW_SHADOW	33399
+Noxious staff (shadow)	TRAIL14_SB_MAGIC_WEAPON_USED_SHADOW	33400
+Noxious staff (shadow)(broken)	TRAIL14_SB_MAGIC_WEAPON_BROKEN_SHADOW	33401
+Noxious longbow (shadow)	TRAIL14_SB_RANGED_WEAPON_NEW_SHADOW	33402
+Noxious longbow (shadow)	TRAIL14_SB_RANGED_WEAPON_USED_SHADOW	33403
+Noxious longbow (shadow)(broken)	TRAIL14_SB_RANGED_WEAPON_BROKEN_SHADOW	33404
+Tectonic mask (shadow)	TRAIL14_LRC2_MAGIC_HELM_NEW_SHADOW	33405
+Tectonic mask (shadow)	TRAIL14_LRC2_MAGIC_HELM_USED_SHADOW	33406
+Tectonic mask (shadow)(broken)	TRAIL14_LRC2_MAGIC_HELM_BROKEN_SHADOW	33407
+Tectonic robe top (shadow)	TRAIL14_LRC2_MAGIC_BODY_NEW_SHADOW	33408
+Tectonic robe top (shadow)	TRAIL14_LRC2_MAGIC_BODY_USED_SHADOW	33409
+Tectonic robe top (shadow)(broken)	TRAIL14_LRC2_MAGIC_BODY_BROKEN_SHADOW	33410
+Tectonic robe bottom (shadow)	TRAIL14_LRC2_MAGIC_LEGS_NEW_SHADOW	33411
+Tectonic robe bottom (shadow)	TRAIL14_LRC2_MAGIC_LEGS_USED_SHADOW	33412
+Tectonic robe bottom (shadow)(broken)	TRAIL14_LRC2_MAGIC_LEGS_BROKEN_SHADOW	33413
+Sirenic mask (shadow)	TRAIL14_T90_RANGED_HELM_NEW_SHADOW	33414
+Sirenic mask (shadow)	TRAIL14_T90_RANGED_HELM_USED_SHADOW	33415
+Sirenic mask (shadow)(broken)	TRAIL14_T90_RANGED_HELM_BROKEN_SHADOW	33416
+Sirenic hauberk (shadow)	TRAIL14_T90_RANGED_BODY_NEW_SHADOW	33417
+Sirenic hauberk (shadow)	TRAIL14_T90_RANGED_BODY_USED_SHADOW	33418
+Sirenic hauberk (shadow)(broken)	TRAIL14_T90_RANGED_BODY_BROKEN_SHADOW	33419
+Sirenic chaps (shadow)	TRAIL14_T90_RANGED_LEGS_NEW_SHADOW	33420
+Sirenic chaps (shadow)	TRAIL14_T90_RANGED_LEGS_USED_SHADOW	33421
+Sirenic chaps (shadow)(broken)	TRAIL14_T90_RANGED_LEGS_BROKEN_SHADOW	33422
+Malevolent helm (shadow)	TRAIL14_BARROWS2_HELM_NEW_SHADOW	33423
+Malevolent helm (shadow)	TRAIL14_BARROWS2_HELM_USED_SHADOW	33424
+Malevolent helm (shadow)(broken)	TRAIL14_BARROWS2_HELM_BROKEN_SHADOW	33425
+Malevolent cuirass (shadow)	TRAIL14_BARROWS2_BODY_NEW_SHADOW	33426
+Malevolent cuirass (shadow)	TRAIL14_BARROWS2_BODY_USED_SHADOW	33427
+Malevolent cuirass (shadow)(broken)	TRAIL14_BARROWS2_BODY_BROKEN_SHADOW	33428
+Malevolent greaves (shadow)	TRAIL14_BARROWS2_LEGS_NEW_SHADOW	33429
+Malevolent greaves (shadow)	TRAIL14_BARROWS2_LEGS_USED_SHADOW	33430
+Malevolent greaves (shadow)(broken)	TRAIL14_BARROWS2_LEGS_BROKEN_SHADOW	33431
+Drygore mace (Third Age)	TRAIL14_KK_MACE_100_THIRDAGE	33432
+Drygore mace (Third Age)	TRAIL14_KK_MACE_50_THIRDAGE	33433
+Drygore mace (Third Age)(broken)	TRAIL14_KK_MACE_0_THIRDAGE	33434
+Off-hand drygore mace (Third Age)	TRAIL14_KK_MACE_O_100_THIRDAGE	33435
+Off-hand drygore mace (Third Age)	TRAIL14_KK_MACE_O_50_THIRDAGE	33436
+Off-hand drygore mace (Third Age)(broken)	TRAIL14_KK_MACE_O_0_THIRDAGE	33437
+Drygore rapier (Third Age)	TRAIL14_KK_SWORD_100_THIRDAGE	33438
+Drygore rapier (Third Age)	TRAIL14_KK_SWORD_50_THIRDAGE	33439
+Drygore rapier (Third Age)(broken)	TRAIL14_KK_SWORD_0_THIRDAGE	33440
+Off-hand drygore rapier (Third Age)	TRAIL14_KK_SWORD_O_100_THIRDAGE	33441
+Off-hand drygore rapier (Third Age)	TRAIL14_KK_SWORD_O_50_THIRDAGE	33442
+Off-hand drygore rapier (Third Age)(broken)	TRAIL14_KK_SWORD_O_0_THIRDAGE	33443
+Drygore longsword (Third Age)	TRAIL14_KK_LONGSWORD_100_THIRDAGE	33444
+Drygore longsword (Third Age)	TRAIL14_KK_LONGSWORD_50_THIRDAGE	33445
+Drygore longsword (Third Age)(broken)	TRAIL14_KK_LONGSWORD_0_THIRDAGE	33446
+Off-hand drygore longsword (Third Age)	TRAIL14_KK_LONGSWORD_O_100_THIRDAGE	33447
+Off-hand drygore longsword (Third Age)	TRAIL14_KK_LONGSWORD_O_50_THIRDAGE	33448
+Off-hand drygore longsword (Third Age)(broken)	TRAIL14_KK_LONGSWORD_O_0_THIRDAGE	33449
+Ascension crossbow (Third Age)	TRAIL14_ASC_CRYSTAL_CROSSBOW_THIRDAGE	33450
+Ascension crossbow (Third Age)	TRAIL14_ASC_CRYSTAL_CROSSBOW_50_THIRDAGE	33451
+Ascension crossbow (Third Age)(broken)	TRAIL14_ASC_CRYSTAL_CROSSBOW_0_THIRDAGE	33452
+Off-hand ascension crossbow (Third Age)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_THIRDAGE	33453
+Off-hand ascension crossbow (Third Age)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_50_THIRDAGE	33454
+Off-hand ascension crossbow (Third Age)(broken)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_0_THIRDAGE	33455
+Seismic wand (Third Age)	TRAIL14_LRC2_MAGIC_WAND_NEW_THIRDAGE	33456
+Seismic wand (Third Age)	TRAIL14_LRC2_MAGIC_WAND_USED_THIRDAGE	33457
+Seismic wand (Third Age)(broken)	TRAIL14_LRC2_MAGIC_WAND_BROKEN_THIRDAGE	33458
+Seismic singularity (Third Age)	TRAIL14_LRC2_MAGIC_OFFHAND_NEW_THIRDAGE	33459
+Seismic singularity (Third Age)	TRAIL14_LRC2_MAGIC_OFFHAND_USED_THIRDAGE	33460
+Seismic singularity (Third Age)(broken)	TRAIL14_LRC2_MAGIC_OFFHAND_BROKEN_THIRDAGE	33461
+Noxious scythe (Third Age)	TRAIL14_SB_MELEE_WEAPON_NEW_THIRDAGE	33462
+Noxious scythe (Third Age)	TRAIL14_SB_MELEE_WEAPON_USED_THIRDAGE	33463
+Noxious scythe (Third Age)(broken)	TRAIL14_SB_MELEE_WEAPON_BROKEN_THIRDAGE	33464
+Noxious staff (Third Age)	TRAIL14_SB_MAGIC_WEAPON_NEW_THIRDAGE	33465
+Noxious staff (Third Age)	TRAIL14_SB_MAGIC_WEAPON_USED_THIRDAGE	33466
+Noxious staff (Third Age)(broken)	TRAIL14_SB_MAGIC_WEAPON_BROKEN_THIRDAGE	33467
+Noxious longbow (Third Age)	TRAIL14_SB_RANGED_WEAPON_NEW_THIRDAGE	33468
+Noxious longbow (Third Age)	TRAIL14_SB_RANGED_WEAPON_USED_THIRDAGE	33469
+Noxious longbow (Third Age)(broken)	TRAIL14_SB_RANGED_WEAPON_BROKEN_THIRDAGE	33470
+Tectonic mask (Third Age)	TRAIL14_LRC2_MAGIC_HELM_NEW_THIRDAGE	33471
+Tectonic mask (Third Age)	TRAIL14_LRC2_MAGIC_HELM_USED_THIRDAGE	33472
+Tectonic mask (Third Age)(broken)	TRAIL14_LRC2_MAGIC_HELM_BROKEN_THIRDAGE	33473
+Tectonic robe top (Third Age)	TRAIL14_LRC2_MAGIC_BODY_NEW_THIRDAGE	33474
+Tectonic robe top (Third Age)	TRAIL14_LRC2_MAGIC_BODY_USED_THIRDAGE	33475
+Tectonic robe top (Third Age)(broken)	TRAIL14_LRC2_MAGIC_BODY_BROKEN_THIRDAGE	33476
+Tectonic robe bottom (Third Age)	TRAIL14_LRC2_MAGIC_LEGS_NEW_THIRDAGE	33477
+Tectonic robe bottom (Third Age)	TRAIL14_LRC2_MAGIC_LEGS_USED_THIRDAGE	33478
+Tectonic robe bottom (Third Age)(broken)	TRAIL14_LRC2_MAGIC_LEGS_BROKEN_THIRDAGE	33479
+Sirenic mask (Third Age)	TRAIL14_T90_RANGED_HELM_NEW_THIRDAGE	33480
+Sirenic mask (Third Age)	TRAIL14_T90_RANGED_HELM_USED_THIRDAGE	33481
+Sirenic mask (Third Age)(broken)	TRAIL14_T90_RANGED_HELM_BROKEN_THIRDAGE	33482
+Sirenic hauberk (Third Age)	TRAIL14_T90_RANGED_BODY_NEW_THIRDAGE	33483
+Sirenic hauberk (Third Age)	TRAIL14_T90_RANGED_BODY_USED_THIRDAGE	33484
+Sirenic hauberk (Third Age)(broken)	TRAIL14_T90_RANGED_BODY_BROKEN_THIRDAGE	33485
+Sirenic chaps (Third Age)	TRAIL14_T90_RANGED_LEGS_NEW_THIRDAGE	33486
+Sirenic chaps (Third Age)	TRAIL14_T90_RANGED_LEGS_USED_THIRDAGE	33487
+Sirenic chaps (Third Age)(broken)	TRAIL14_T90_RANGED_LEGS_BROKEN_THIRDAGE	33488
+Malevolent helm (Third Age)	TRAIL14_BARROWS2_HELM_NEW_THIRDAGE	33489
+Malevolent helm (Third Age)	TRAIL14_BARROWS2_HELM_USED_THIRDAGE	33490
+Malevolent helm (Third Age)(broken)	TRAIL14_BARROWS2_HELM_BROKEN_THIRDAGE	33491
+Malevolent cuirass (Third Age)	TRAIL14_BARROWS2_BODY_NEW_THIRDAGE	33492
+Malevolent cuirass (Third Age)	TRAIL14_BARROWS2_BODY_USED_THIRDAGE	33493
+Malevolent cuirass (Third Age)(broken)	TRAIL14_BARROWS2_BODY_BROKEN_THIRDAGE	33494
+Malevolent greaves (Third Age)	TRAIL14_BARROWS2_LEGS_NEW_THIRDAGE	33495
+Malevolent greaves (Third Age)	TRAIL14_BARROWS2_LEGS_USED_THIRDAGE	33496
+Malevolent greaves (Third Age)(broken)	TRAIL14_BARROWS2_LEGS_BROKEN_THIRDAGE	33497
+Off-hand black crossbow	TRAIL_BLACK_CROSSBOW_O	33498
+Off-hand black crossbow	CERT_TRAIL_BLACK_CROSSBOW_O	33499
+Black 2h crossbow	TT14_BLACK_2H_XBOW	33500
+Black 2h crossbow	CERT_TT14_BLACK_2H_XBOW	33501
+Amulet of fury (t)	TT14_FURY_AMULET	33502
+Amulet of fury (t)	CERT_TT14_FURY_AMULET	33503
+Amulet of fury (t)	LENT_TT14_FURY_AMULET	33504
+Puzzle box skipping ticket	TT14_PUZZLE_SKIP_TICKET	33505
+Knot skipping ticket	TT14_KNOT_SKIP_TICKET	33506
+Costume skipping ticket	TT14_EMOTE_SKIP_TICKET	33507
+Suitcase	TT14_SUITCASE_WEAPON	33508
+Suitcase	CERT_TT14_SUITCASE_WEAPON	33509
+Off-hand suitcase	TT14_SUITCASE_WEAPON_O	33510
+Off-hand suitcase	CERT_TT14_SUITCASE_WEAPON_O	33511
+Briefcase	TT14_BRIEFCASE_WEAPON	33512
+Briefcase	CERT_TT14_BRIEFCASE_WEAPON	33513
+Off-hand briefcase	TT14_BRIEFCASE_WEAPON_O	33514
+Off-hand briefcase	CERT_TT14_BRIEFCASE_WEAPON_O	33515
+Explosive barrel	TT14_BARREL_CAPE	33516
+Explosive barrel	CERT_TT14_BARREL_CAPE	33517
+Sack of effigies	TT14_EFFIGY_CAPE	33518
+Sack of effigies	CERT_TT14_EFFIGY_CAPE	33519
+Backstab cape	TT14_BACKSTAB_CAPE	33520
+Backstab cape	CERT_TT14_BACKSTAB_CAPE	33521
+Teddy	MTX_HW14_TEDDY	33522
+Teddy	BOUGHT_MTX_HW14_TEDDY	33523
+Small XP lamp	HOUSE_LAMP_REWARD_SMALL	33524
+Large XP lamp	HOUSE_LAMP_REWARD_LARGE	33525
+Huge XP lamp	HOUSE_LAMP_REWARD_HUGE	33526
+Small smouldering lamp	TRH32_EPIC_LAMP_SMALL	33527
+Medium smouldering lamp	TRH32_EPIC_LAMP_MEDIUM	33528
+Large smouldering lamp	TRH32_EPIC_LAMP_LARGE	33529
+Huge smouldering lamp	TRH32_EPIC_LAMP_HUGE	33530
+Golem	EGQ_GOLEM_FOLLOWER_OBJ	33531
+Air battlestaff	EGQ_AIRSTAFF	33532
+Bronze dagger	EGQ_DAGGER	33533
+Chargebow	EGQ_BOW	33534
+Observation: Dispersal	EGQ_JAS_FOOTAGE_1	33535
+Observation: Arrival	EGQ_JAS_FOOTAGE_2	33536
+Observation: Correction	EGQ_JAS_FOOTAGE_3	33537
+Observation: Transition	EGQ_JAS_FOOTAGE_4	33538
+Observation: Evolution	EGQ_JAS_FOOTAGE_5	33539
+Observation: Imprinting	EGQ_JAS_FOOTAGE_6	33540
+Observation: Predator	EGQ_JAS_FOOTAGE_7	33541
+Observation: Focus	EGQ_JAS_FOOTAGE_8	33542
+Observation: Conflict	EGQ_JAS_FOOTAGE_9	33543
+Observation: Condemnation	EGQ_JAS_FOOTAGE_10	33544
+Observation: Theft	EGQ_JAS_FOOTAGE_11	33545
+Observation: Innocence	EGQ_JAS_FOOTAGE_12	33546
+Observation: ERROR	EGQ_JAS_FOOTAGE_13	33547
+Observation: Awoken	EGQ_JAS_FOOTAGE_14	33548
+Observation: Husk	EGQ_JAS_FOOTAGE_15	33549
+Observation: Revelry	EGQ_JAS_FOOTAGE_16	33550
+Observation: Silence	EGQ_JAS_FOOTAGE_17	33551
+Observation: Beauty	EGQ_JAS_FOOTAGE_18	33552
+Observation: Corruption	EGQ_JAS_FOOTAGE_19	33553
+Observation: Present	EGQ_JAS_FOOTAGE_20	33554
+Combined observation: Xenia was alone	EGQ_JAS_FOOTAGE_A	33555
+Combined observation: We stand apart	EGQ_JAS_FOOTAGE_B	33556
+Combined observation: Golem and I	EGQ_JAS_FOOTAGE_C	33557
+Combined observation: Ariane and the golem	EGQ_JAS_FOOTAGE_D	33558
+Combined observation: The madness of friends	EGQ_JAS_FOOTAGE_E	33559
+Combined observation: United we stand	EGQ_JAS_FOOTAGE_F	33560
+Combined observation: Elder stalker	EGQ_JAS_FOOTAGE_G	33561
+Combined observation: Xenia is harming the mouthpiece	EGQ_JAS_FOOTAGE_H	33562
+Combined observation: The mouthpiece can observe events	EGQ_JAS_FOOTAGE_I	33563
+Combined observation: Ariane is studious	EGQ_JAS_FOOTAGE_J	33564
+Combined observation: Xenia is avoiding detection	EGQ_JAS_FOOTAGE_K	33565
+Kipple nano	EGQ_PET	33566
+Kipple nano	EGQ_PET_POH	33568
+Combat lamp	EGQ_LAMP_COMBAT	33570
+Magic lamp	EGQ_LAMP_MAGIC	33571
+Runecrafting lamp	EGQ_LAMP_RUNECRAFTING	33572
+Ruined essence	EGQ_ESSENCE	33573
+Gatherer's cape	POH_DUMMY_NJCAPES_GATHERER_CAPE	33574
+Combatant's cape	POH_DUMMY_NJCAPES_COMBAT_CAPE	33575
+Artisan's cape	POH_DUMMY_NJCAPES_ARTISAN_CAPE	33576
+Support cape	POH_DUMMY_NJCAPES_SUPPORT_CAPE	33577
+Gatherer's hood	POH_DUMMY_NJCAPES_GATHERER_HOOD	33578
+Combatant's hood	POH_DUMMY_NJCAPES_COMBAT_HOOD	33579
+Artisan's helm	POH_DUMMY_NJCAPES_ARTISAN_HOOD	33580
+Support hood	POH_DUMMY_NJCAPES_SUPPORT_HOOD	33581
+Large XP lamp	TG14_LAMP	33582
+Oxfam present	OXFAM_PRESENT_NO_TRADE	33583
+Oxfam present (tradeable)	OXFAM_PRESENT_TRADE	33584
+	OXFAM_PRESENT_TRADED	33585
+Oxfam Festive Aura bauble	OXFAM_FESTIVE_AURA_RESET	33586
+Oxfam Reindeer Antlers	OXFAM_FESTIVE_REINDEER_ANTLERS	33587
+	XMAS2014_PRESENTS	33588
+	XMAS2014_CRACKER_PAPER	33589
+Snowball	XMAS2014_SNOWBALL	33590
+Festive lamp	XMAS2014_REWARD_LAMP	33591
+Snowman costume	XMAS2014_SNOWMAN_FULL	33592
+Snowverload Head	XMAS2014_SNOWMAN_HEAD	33593
+Snowverload Body	XMAS2014_SNOWMAN_BODY	33594
+Snowverload Legs	XMAS2014_SNOWMAN_LEGS	33595
+Snowverload Snowstormer	XMAS2014_SNOWMAN_CAPE	33596
+Snowverload Ice Sickle	XMAS2014_SNOWMAN_WEAPON	33597
+Snowverload Ice Sickle	BOUGHT_XMAS2014_SNOWMAN_WEAPON	33598
+	XMAS2014_JOKE	33599
+	XMAS14_CRACKER_PAPER_2	33600
+	XMAS14_CRACKER_PAPER_3	33601
+	XMAS14_CRACKER_PAPER_4	33602
+	XMAS14_CRACKER_PAPER_5	33603
+Enchanted snow	TRH37_XMASRARE14_DUST	33604
+Enchanted snowball	TRH37_XMASRARE14_STONE	33605
+Christmas present	TRH37_XMASRARE14_PRESENT_BLUE	33606
+Christmas present	TRH37_XMASRARE14_PRESENT_GREEN	33607
+Christmas present	TRH37_XMASRARE14_PRESENT_PURPLE	33608
+Christmas present	TRH37_XMASRARE14_PRESENT_RED	33609
+Christmas present	TRH37_XMASRARE14_PRESENT_WHITE	33610
+Big Christmas present	TRH37_XMASRARE14_PRESENT_BIG_BLUE	33611
+Big Christmas present	TRH37_XMASRARE14_PRESENT_BIG_GREEN	33612
+Big Christmas present	TRH37_XMASRARE14_PRESENT_BIG_PURPLE	33613
+Big Christmas present	TRH37_XMASRARE14_PRESENT_BIG_RED	33614
+Big Christmas present	TRH37_XMASRARE14_PRESENT_BIG_WHITE	33615
+Glowing lamp	TRH37_XMASRARE14_LAMP	33616
+Big glowing lamp	TRH37_XMASRARE14_LAMP_BIG	33617
+Glowing cracker	TRH37_XMASRARE14_CRACKER	33618
+Rubber turkey	RUBBER_TURKEY	33619
+Rubber turkey	CERT_RUBBER_TURKEY	33620
+Rubber turkey	LENT_RUBBER_TURKEY	33621
+Off-hand rubber turkey	RUBBER_TURKEY_O	33622
+Off-hand rubber turkey	CERT_RUBBER_TURKEY_O	33623
+Off-hand rubber turkey	LENT_RUBBER_TURKEY_O	33624
+Christmas scythe	XMAS_SCYTHE	33625
+Christmas scythe	CERT_XMAS_SCYTHE	33626
+Christmas scythe	LENT_XMAS_SCYTHE	33627
+Holly wreath	HOLLY_WREATH	33628
+Holly wreath	CERT_HOLLY_WREATH	33629
+Holly wreath	LENT_HOLLY_WREATH	33630
+Buddy	TRH37_XMASRARE14_ELF_PET	33631
+Buddy	TRH37_XMASRARE14_ELF_PET_POH	33632
+	MTX_INVISIBLE_SLOT_FEET	33633
+Samurai katana 'owari'	MTX_PAYPAL_KATANA	33634
+Full outfit	MTX_PAYPAL_SAMURAI_FULL	33635
+Full outfit	BOUGHT_MTX_PAYPAL_SAMURAI_FULL	33636
+Samurai helmet	MTX_PAYPAL_SAMURAI_HEAD	33637
+Samurai armour	MTX_PAYPAL_SAMURAI_BODY	33638
+Samurai tassets	MTX_PAYPAL_SAMURAI_LEGS	33639
+Samurai boots	MTX_PAYPAL_SAMURAI_FEET	33640
+Samurai gauntlets	MTX_PAYPAL_SAMURAI_HANDS	33641
+Samurai flag	MTX_PAYPAL_SAMURAI_FLAG	33642
+Kirin	MTX_PAYPAL_PET	33643
+Kirin	BOUGHT_MTX_PAYPAL_PET	33644
+Kirin	MTX_PAYPAL_PET_POH	33645
+Dwarven instinct aura	PREMCLUB14_AURA	33646
+Dwarven instinct aura	BOUGHT_PREMCLUB14_AURA	33647
+Bronze pack	PREMCLUB14_BRONZE	33648
+Bronze pack	BOUGHT_PREMCLUB14_BRONZE	33649
+Silver pack	PREMCLUB14_SILVER	33650
+Silver pack	BOUGHT_PREMCLUB14_SILVER	33651
+Gold pack	PREMCLUB14_GOLD	33652
+Gold pack	BOUGHT_PREMCLUB14_GOLD	33653
+Lava hood	PREMCLUB14_LAVA_HOOD	33654
+Lava wings	PREMCLUB14_LAVA_WINGS	33655
+Lava hawk	PREMCLUB14_LAVA_HAWK	33656
+Lava hawk	BOUGHT_PREMCLUB14_LAVA_HAWK	33657
+Lava hawk	PREMCLUB14_LAVA_HAWK_POH	33658
+Cosmetic prismatic pendant	BXP_WOF_XPBOOSTER_GENERIC	33659
+Cosmetic prized prismatic pendant	BXP_WOF_XPBOOSTER_GENERIC_PRIZED	33660
+TokHaar-Kal-Xil	POH_DUMMY_TOKHAAR_CAPE_RANGED	33661
+TokHaar-Kal-Mej	POH_DUMMY_TOKHAAR_CAPE_MAGIC	33662
+Pitch can	DOM_PITCH_CAN	33663
+Vertida's bottle of holy water	DOM_HOLY_WATER	33664
+Blisterwood staff	DOM_BLISTERWOOD_STAFF	33665
+Blisterwood staff	CERT_DOM_BLISTERWOOD_STAFF	33666
+Blisterwood stake	DOM_BLISTERWOOD_STAKE	33667
+Off-hand blisterwood stake	DOM_BLISTERWOOD_STAKE_O	33668
+Blisterwood polearm	DOM_BLISTERWOOD_POLEARM	33669
+Blisterwood polearm	CERT_DOM_BLISTERWOOD_POLEARM	33670
+Extreme dominion medallion	DOM_MEDALLION_EXTREME	33671
+Full outfit	MTX80_AHRIM_FULL	33672
+Full outfit	BOUGHT_MTX80_AHRIM_FULL	33673
+Replica Barrows (Ahrim) Hood	MTX80_AHRIM_HEAD	33674
+Replica Barrows (Ahrim) Robe Top	MTX80_AHRIM_TORSO	33675
+Replica Barrows (Ahrim) Robe Skirt	MTX80_AHRIM_LEGS	33676
+Replica Barrows (Ahrim) Staff	MTX80_AHRIM_STAFF	33677
+Full outfit	MTX80_DHAROK_FULL	33678
+Full outfit	BOUGHT_MTX80_DHAROK_FULL	33679
+Replica Barrows (Dharok) Helm	MTX80_DHAROK_HEAD	33680
+Replica Barrows (Dharok) Platebody	MTX80_DHAROK_TORSO	33681
+Replica Barrows (Dharok) Platelegs	MTX80_DHAROK_LEGS	33682
+Replica Barrows (Dharok) Greataxe	MTX80_DHAROK_AXE	33683
+Full outfit	MTX80_GUTHAN_FULL	33684
+Full outfit	BOUGHT_MTX80_GUTHAN_FULL	33685
+Replica Barrows (Guthan) Helm	MTX80_GUTHAN_HEAD	33686
+Replica Barrows (Guthan) Platebody	MTX80_GUTHAN_TORSO	33687
+Replica Barrows (Guthan) Chainskirt	MTX80_GUTHAN_LEGS	33688
+Replica Barrows (Guthan) Warspear	MTX80_GUTHAN_SPEAR	33689
+Full outfit	MTX80_KARIL_FULL	33690
+Full outfit	BOUGHT_MTX80_KARIL_FULL	33691
+Replica Barrows (Karil) Coif	MTX80_KARIL_HEAD	33692
+Replica Barrows (Karil) Top	MTX80_KARIL_TORSO	33693
+Replica Barrows (Karil) Skirt	MTX80_KARIL_LEGS	33694
+Replica Barrows (Karil) Crossbow	MTX80_KARIL_CROSSBOW	33695
+Full outfit	MTX80_TORAG_FULL	33696
+Full outfit	BOUGHT_MTX80_TORAG_FULL	33697
+Replica Barrows (Torag) Helm	MTX80_TORAG_HEAD	33698
+Replica Barrows (Torag) Platebody	MTX80_TORAG_TORSO	33699
+Replica Barrows (Torag) Platelegs	MTX80_TORAG_LEGS	33700
+Replica Barrows (Torag) Hammer	MTX80_TORAG_HAMMER	33701
+Replica Barrows (Torag) Off-hand Hammer	MTX80_TORAG_HAMMER_OH	33702
+Full outfit	MTX80_VERAC_FULL	33703
+Full outfit	BOUGHT_MTX80_VERAC_FULL	33704
+Replica Barrows (Verac) Helm	MTX80_VERAC_HEAD	33705
+Replica Barrows (Verac) Brassard	MTX80_VERAC_TORSO	33706
+Replica Barrows (Verac) Plateskirt	MTX80_VERAC_LEGS	33707
+Replica Barrows (Verac) Flail	MTX80_VERAC_FLAIL	33708
+Maul of omens	LRC2_OMENS_WEAPON	33709
+Omens	LRC2_OMENS_FULL	33710
+Omens helm	LRC2_OMENS_HEAD	33711
+Omens torso	LRC2_OMENS_BODY	33712
+Omens legs	LRC2_OMENS_LEGS	33713
+Omens Boots	LRC2_OMENS_BOOTS	33714
+Omens gloves	LRC2_OMENS_GLOVES	33715
+Ancient artefact	LORE_LRC2_PET_DROP_HM	33716
+Bombi	LRC2_REWARD_PET_HM	33717
+Bombi	LRC2_REWARD_PET_HM_POH	33718
+Tirannwn quiver 1	ATELF_QUIVER_EASY	33719
+Tirannwn quiver 2	ATELF_QUIVER_MED	33720
+Tirannwn quiver 3	ATELF_QUIVER_HARD	33721
+Tirannwn quiver 4	ATELF_QUIVER_ELITE	33722
+Antique lamp	ATELF_EASY_LAMP	33723
+Antique lamp	ATELF_MED_LAMP	33724
+Antique lamp	ATELF_HARD_LAMP	33725
+Antique lamp	ATELF_ELITE_LAMP1	33726
+Antique lamp	ATELF_ELITE_LAMP2	33727
+Snowboard (tier 1)	XMAS2014_SNOWBOARD_1	33728
+Snowboard (tier 2)	XMAS2014_SNOWBOARD_2	33729
+Snowboard (tier 3)	XMAS2014_SNOWBOARD_3	33730
+Snowboard (tier 4)	XMAS2014_SNOWBOARD_4	33731
+Snowboard (tier 5)	XMAS2014_SNOWBOARD_5	33732
+Snowboard (shark)	XMAS2014_SNOWBOARD_SHARK	33733
+Snowboard (skull)	XMAS2014_SNOWBOARD_SKULL	33734
+Snowboard (frosty)	XMAS2014_SNOWBOARD_SNOWMAN	33735
+Brilliant alchemist's amulet fragment	TRH41_ALCHEMIST_FRAGMENT	33736
+Brilliant alchemist's amulet (uncharged)	TRH41_ALCHEMIST_AMULET	33737
+Brilliant alchemist's amulet (charged)	TRH41_ALCHEMIST_AMULET_CHARGED	33738
+Luminous alchemist's amulet (charged)	TRH41_ALCHEMIST_AMULET_COMBINED_CHARGED	33739
+Protean hide	TRH43_PROTEAN_HIDE	33740
+Protean leather	TRH43_PROTEAN_LEATHER_RECIPE	33741
+Protean hard leather	TRH43_PROTEAN_HARD_LEATHER_RECIPE	33742
+Protean snakehide	TRH43_PROTEAN_SNAKEHIDE_RECIPE	33743
+Protean dragonhide	TRH43_PROTEAN_DRAGONHIDE_RECIPE	33744
+Dwarven challenge barrel	MTX76_CHALLENGE_OBJ	33745
+Dwarven challenge barrel	BOUGHT_MTX76_CHALLENGE_OBJ	33746
+Nefarious edge	MTX_BATCH77_CORRUPTED_2H_SWORD	33747
+Nefarious edge	BOUGHT_MTX_BATCH77_CORRUPTED_2H_SWORD	33748
+Nefarious spire	MTX_BATCH77_CORRUPTED_STAFF	33749
+Nefarious spire	BOUGHT_MTX_BATCH77_CORRUPTED_STAFF	33750
+Nefarious reach	MTX_BATCH77_CORRUPTED_2H_BOW	33751
+Nefarious reach	BOUGHT_MTX_BATCH77_CORRUPTED_2H_BOW	33752
+Warm winter outfit	MTX81_WINTER_OUTFIT	33753
+Warm winter outfit	BOUGHT_MTX81_WINTER_OUTFIT	33754
+Warm winter hood	MTX81_WINTER_HEAD	33755
+Warm winter coat	MTX81_WINTER_TORSO	33756
+Warm winter coat bottom	MTX81_WINTER_LEGS	33757
+Warm winter boots	MTX81_WINTER_FEET	33758
+Warm winter gloves	MTX81_WINTER_HANDS	33759
+Clan Amlodd cape	POH_DUMMY_ELFCITY_AMLODD_CAPE	33760
+Clan Cadarn cape	POH_DUMMY_ELFCITY_CADARN_CAPE	33761
+Clan Crwys cape	POH_DUMMY_ELFCITY_CRWYS_CAPE	33762
+Clan Hefin cape	POH_DUMMY_ELFCITY_HEFIN_CAPE	33763
+Clan Iorwerth cape	POH_DUMMY_ELFCITY_IORWERTH_CAPE	33764
+Clan Ithell cape	POH_DUMMY_ELFCITY_ITHELL_CAPE	33765
+Clan Meilyr cape	POH_DUMMY_ELFCITY_MEILYR_CAPE	33766
+Clan Trahaearn cape	POH_DUMMY_ELFCITY_TRAHAEARN_CAPE	33767
+Royal battleship kit	TRH40_BATTLESHIP_ROYAL_KIT	33768
+Toy royal battleship	TRH40_BATTLESHIP_ROYAL	33769
+Accurate royal battleship	TRH40_BATTLESHIP_ROYAL_ACCURATE	33770
+Defensive royal battleship	TRH40_BATTLESHIP_ROYAL_DEFENSIVE	33771
+Aggressive royal battleship	TRH40_BATTLESHIP_ROYAL_AGGRESSIVE	33772
+Toy royal battleship (battleworn)	TRH40_BATTLESHIP_ROYAL_DAMAGED	33773
+Accurate royal battleship (battleworn)	TRH40_BATTLESHIP_ROYAL_ACCURATE_DAMAGED	33774
+Defensive royal battleship (battleworn)	TRH40_BATTLESHIP_ROYAL_DEFENSIVE_DAMAGED	33775
+Aggressive royal battleship (battleworn)	TRH40_BATTLESHIP_ROYAL_AGGRESSIVE_DAMAGED	33776
+Golden gnome hat 2014	GOLDEN_GNOME_HAT_2014	33777
+Chick'arra	BPETS_KREEARRA	33778
+K'ril tinyroth	BPETS_KRIL	33779
+General awwdor	BPETS_GRAARDOR	33780
+Commander miniana	BPETS_ZILYANA	33781
+Nexterminator	BPETS_NEX	33782
+Barry	BPETS_ARAXXOR	33783
+Mallory	BPETS_ARAXXI	33784
+Ellie	BPETS_CHAOSELEMENTAL	33785
+Corporeal puppy	BPETS_CORP	33786
+Molly	BPETS_MOLE	33787
+Shrimpy	BPETS_HARAKEN	33788
+Kalphite grubling	BPETS_KK	33789
+Kalphite grublet	BPETS_KQ	33790
+Kalphite grublet	BPETS_KQ_FLYING	33791
+King black dragonling	BPETS_KBD	33792
+Legio primulus	BPETS_LEGIONES1	33793
+Legio secundulus	BPETS_LEGIONES2	33794
+Legio tertiolus	BPETS_LEGIONES3	33795
+Legio quartulus	BPETS_LEGIONES4	33796
+Legio quintulus	BPETS_LEGIONES5	33797
+Legio sextulus	BPETS_LEGIONES6	33798
+Queen black dragonling	BPETS_QBD	33799
+Prime hatchling	BPETS_PRIME	33800
+Rex hatchling	BPETS_REX	33801
+Supreme hatchling	BPETS_SUPREME	33802
+Mega ducklings	BPETS_MEGADUCK	33803
+Chick'arra	BPETS_KREEARRA_POH	33804
+K'ril tinyroth	BPETS_KRIL_POH	33805
+General awwdor	BPETS_GRAARDOR_POH	33806
+Commander miniana	BPETS_ZILYANA_POH	33807
+Nexterminator	BPETS_NEX_POH	33808
+Barry	BPETS_ARAXXOR_POH	33809
+Mallory	BPETS_ARAXXI_POH	33810
+Ellie	BPETS_CHAOSELEMENTAL_POH	33811
+Corporeal puppy	BPETS_CORP_POH	33812
+Molly	BPETS_MOLE_POH	33813
+Shrimpy	BPETS_HARAKEN_POH	33814
+Kalphite grubling	BPETS_KK_POH	33815
+Kalphite grublet	BPETS_KQ_POH	33816
+Kalphite grublet	BPETS_KQ_FLYING_POH	33817
+King black dragonling	BPETS_KBD_POH	33818
+Legio primulus	BPETS_LEGIONES1_POH	33819
+Legio secundulus	BPETS_LEGIONES2_POH	33820
+Legio tertiolus	BPETS_LEGIONES3_POH	33821
+Legio quartulus	BPETS_LEGIONES4_POH	33822
+Legio quintulus	BPETS_LEGIONES5_POH	33823
+Legio sextulus	BPETS_LEGIONES6_POH	33824
+Queen black dragonling	BPETS_QBD_POH	33825
+Prime hatchling	BPETS_PRIME_POH	33826
+Rex hatchling	BPETS_REX_POH	33827
+Supreme hatchling	BPETS_SUPREME_POH	33828
+Mega ducklings	BPETS_MEGADUCK_POH	33829
+Giant feather	BPETS_KREEARRA_PET_DROP	33830
+Severed hoof	BPETS_KRIL_PET_DROP	33831
+Decaying tooth	BPETS_GRAARDOR_PET_DROP	33832
+Auburn lock	BPETS_ZILYANA_PET_DROP	33833
+Blood-soaked feather	BPETS_NEX_PET_DROP	33834
+Araxyte egg	BPETS_ARAXXI_PET_DROP	33835
+Ribs of chaos	BPETS_CHAOSELEMENTAL_PET_DROP	33836
+Corporeal bone	BPETS_CORP_PET_DROP	33837
+Rotten fang	BPETS_MOLE_PET_DROP	33838
+Volcanic shard	BPETS_HARAKEN_PET_DROP	33839
+Kalphite claw	BPETS_KK_PET_DROP	33840
+Kalphite egg	BPETS_KQ_PET_DROP	33841
+King black dragon scale	BPETS_KBD_PET_DROP	33842
+Corrupted Ascension signet I	BPETS_LEGIONES1_PET_DROP	33843
+Corrupted Ascension signet II	BPETS_LEGIONES2_PET_DROP	33844
+Corrupted Ascension signet III	BPETS_LEGIONES3_PET_DROP	33845
+Corrupted Ascension signet IV	BPETS_LEGIONES4_PET_DROP	33846
+Corrupted Ascension signet V	BPETS_LEGIONES5_PET_DROP	33847
+Corrupted Ascension signet VI	BPETS_LEGIONES6_PET_DROP	33848
+Queen Black Dragon scale	BPETS_QBD_PET_DROP	33849
+Dagannoth egg	BPETS_PRIME_PET_DROP	33850
+Shrivelled dagannoth claw	BPETS_REX_PET_DROP	33851
+Dagannoth scale	BPETS_SUPREME_PET_DROP	33852
+Bloodblade wings	GAMECARD_SHADOW_BLADED_WINGS	33853
+Bloodblade wings	BOUGHT_GAMECARD_SHADOW_BLADED_WINGS	33854
+Blank observation	EGQ_AZZANADRA_EMPTY_OBSERVATION	33855
+Medium experience lamp	EGQ_LAMP_POSTQUEST	33856
+War pig pouch	CERT_LORE_PIG_ATTACK	33857
+Pack pig pouch	CERT_LORE_PIG_BOB	33858
+Prayer pig pouch	CERT_LORE_PIG_PRAYER	33859
+The Drop token	THEDROP_TOKEN	33860
+Master clan cape	ELFCITY_MASTER_CAPE	33861
+Master clan cape (Amlodd)	ELFCITY_AMLODD_CAPE_COMBINED	33862
+Master clan cape (Cadarn)	ELFCITY_CADARN_CAPE_COMBINED	33863
+Master clan cape (Crwys)	ELFCITY_CRWYS_CAPE_COMBINED	33864
+Master clan cape (Hefin)	ELFCITY_HEFIN_CAPE_COMBINED	33865
+Master clan cape (Iorwerth)	ELFCITY_IORWERTH_CAPE_COMBINED	33866
+Master clan cape (Ithell)	ELFCITY_ITHELL_CAPE_COMBINED	33867
+Master clan cape (Meilyr)	ELFCITY_MEILYR_CAPE_COMBINED	33868
+Master clan cape (Trahaearn)	ELFCITY_TRAHAEARN_CAPE_COMBINED	33869
+Araxyte pheromone	SB_ENRAGE_RESET	33870
+Araxyte pheromone	CERT_SB_ENRAGE_RESET	33871
+Master clan cape	POH_DUMMY_ELFCITY_MASTER_CAPE	33872
+	PLAYER_2014_FIREMAKING_FLINT	33873
+	PLAYER_2014_FIREMAKING_CRYSTAL_FLINT	33874
+Truthful shadow core	CERT_ELFCITY_AMLODD_SHADOW_CORE1	33875
+Blissful shadow core	CERT_ELFCITY_AMLODD_SHADOW_CORE2	33876
+Manifest shadow core	CERT_ELFCITY_AMLODD_SHADOW_CORE3	33877
+Tengu tsuba	POP3_MELEE_WEAPON_COMPONENT	33878
+Tetsu katana	POP3_MELEE_WEAPON_NEW	33879
+Tetsu katana	POP3_MELEE_WEAPON_USED	33880
+Tetsu katana (broken)	POP3_MELEE_WEAPON_BROKEN	33881
+Tetsu wakizashi	POP3_MELEE_WEAPON_O_NEW	33882
+Tetsu wakizashi	POP3_MELEE_WEAPON_O_USED	33883
+Tetsu wakizashi (broken)	POP3_MELEE_WEAPON_O_BROKEN	33884
+Gemstone kaseki	POP3_MAGIC_WEAPON_COMPONENT	33885
+Seasinger kiba	POP3_MAGIC_WEAPON_NEW	33886
+Seasinger kiba	POP3_MAGIC_WEAPON_USED	33887
+Seasinger kiba (broken)	POP3_MAGIC_WEAPON_BROKEN	33888
+Seasinger makigai	POP3_MAGIC_WEAPON_O_NEW	33889
+Seasinger makigai	POP3_MAGIC_WEAPON_O_USED	33890
+Seasinger makigai (broken)	POP3_MAGIC_WEAPON_O_BROKEN	33891
+Superior log-splitting scrimshaw	POP_LOGSPLITTING_UNTRADEABLE_NEW	33892
+Superior rock-crushing scrimshaw	POP_ROCKCRUSHING_UNTRADEABLE_NEW	33893
+Superior tree-shaking scrimshaw	POP_TREESHAKING_UNTRADEABLE_NEW	33894
+Superior gem-finding scrimshaw	POP_GEMFINDING_UNTRADEABLE_NEW	33895
+Whopper-baiting scrimshaw	POP_FISHFLINGING_TRADEABLE	33896
+Whopper-baiting scrimshaw	CERT_POP_FISHFLINGING_TRADEABLE	33897
+Whopper-baiting scrimshaw (worn)	POP_FISHFLINGING_TRADEABLE_USED	33898
+Superior whopper-baiting scrimshaw	POP_FISHFLINGING_UNTRADEABLE	33899
+Superior whopper-baiting scrimshaw	POP_FISHFLINGING_UNTRADEABLE_NEW	33900
+Casket-salvaging scrimshaw	POP_CASKETSALVAGING_TRADEABLE	33901
+Casket-salvaging scrimshaw	CERT_POP_CASKETSALVAGING_TRADEABLE	33902
+Casket-salvaging scrimshaw (worn)	POP_CASKETSALVAGING_TRADEABLE_USED	33903
+Superior casket-salvaging scrimshaw	POP_CASKETSALVAGING_UNTRADEABLE	33904
+Superior casket-salvaging scrimshaw	POP_CASKETSALVAGING_UNTRADEABLE_NEW	33905
+Oak casket	POP3_CASKET_1	33906
+Teak casket	POP3_CASKET_2	33907
+Mahogany casket	POP3_CASKET_3	33908
+Superior scrimshaw of vampyrism	POP_VAMPIRISM_UNTRADEABLE_NEW	33909
+Superior scrimshaw of attack	POP_STRENGTH_UNTRADEABLE_NEW	33910
+Superior scrimshaw of the elements	POP_ELEMENTS_UNTRADEABLE_NEW	33911
+Superior scrimshaw of magic	POP_MAGIC_UNTRADEABLE_NEW	33912
+Superior scrimshaw of cruelty	POP_CRUELTY_UNTRADEABLE_NEW	33913
+Superior scrimshaw of ranging	POP_RANGING_UNTRADEABLE_NEW	33914
+Worldbearer ring (1)	POP3_WORLDBEARER_RING	33915
+Gift of Gu	POP3_GU_CHEST	33916
+Mask of gu	POP3_TENGU_MASK	33917
+Gu uwagi	POP3_TENGU_BODY	33918
+Gu hakama	POP3_TENGU_LEGS	33919
+The Way of Gu	POP3_TENGU_CAPE	33920
+Small XP lamp (Agility)	POP_XP_LAMP_SMALL_AGILITY	33921
+Small XP lamp (Divination)	POP_XP_LAMP_SMALL_DIVINATION	33922
+Small XP lamp (Dungeoneering)	POP_XP_LAMP_SMALL_DUNGEONEERING	33923
+Medium XP lamp (Agility)	POP_XP_LAMP_MEDIUM_AGILITY	33924
+Medium XP lamp (Divination)	POP_XP_LAMP_MEDIUM_DIVINATION	33925
+Medium XP lamp (Dungeoneering)	POP_XP_LAMP_MEDIUM_DUNGEONEERING	33926
+Large XP lamp (Agility)	POP_XP_LAMP_LARGE_AGILITY	33927
+Large XP lamp (Divination)	POP_XP_LAMP_LARGE_DIVINATION	33928
+Large XP lamp (Dungeoneering)	POP_XP_LAMP_LARGE_DUNGEONEERING	33929
+Huge XP lamp (Agility)	POP_XP_LAMP_HUGE_AGILITY	33930
+Huge XP lamp (Divination)	POP_XP_LAMP_HUGE_DIVINATION	33931
+Huge XP lamp (Dungeoneering)	POP_XP_LAMP_HUGE_DUNGEONEERING	33932
+	OWEN1_HISTORYBOOK	33933
+Demon claw	DFM2_CLAW	33934
+Demon claw	CERT_DFM2_CLAW	33935
+Demonic title scroll (general)	DFM2_TITLE_GENERAL	33936
+Demonic title scroll (general)	CERT_DFM2_TITLE_GENERAL	33937
+Demonic title scroll (executioner)	DFM2_TITLE_EXECUTIONER	33938
+Demonic title scroll (executioner)	CERT_DFM2_TITLE_EXECUTIONER	33939
+Demonic title scroll (castellan)	DFM2_TITLE_CASTELLAN	33940
+Demonic title scroll (castellan)	CERT_DFM2_TITLE_CASTELLAN	33941
+Demonic title scroll (deacon)	DFM2_TITLE_DEACON	33942
+Demonic title scroll (deacon)	CERT_DFM2_TITLE_DEACON	33943
+Demonic title scroll (blazing)	DFM2_TITLE_BLAZING	33944
+Demonic title scroll (blazing)	CERT_DFM2_TITLE_BLAZING	33945
+Demonic title scroll (corrupting)	DFM2_TITLE_CORRUPTING	33946
+Demonic title scroll (corrupting)	CERT_DFM2_TITLE_CORRUPTING	33947
+Demonic title scroll (frostborn)	DFM2_TITLE_FROSTBORN	33948
+Demonic title scroll (frostborn)	CERT_DFM2_TITLE_FROSTBORN	33949
+Demonic title scroll (glorious)	DFM2_TITLE_GLORIOUS	33950
+Demonic title scroll (glorious)	CERT_DFM2_TITLE_GLORIOUS	33951
+Demonic title scroll (infernal)	DFM2_TITLE_INFERNAL	33952
+Demonic title scroll (infernal)	CERT_DFM2_TITLE_INFERNAL	33953
+Demonic title scroll (obscured)	DFM2_TITLE_OBSCURED	33954
+Demonic title scroll (obscured)	CERT_DFM2_TITLE_OBSCURED	33955
+Demonic title scroll (pestilent)	DFM2_TITLE_PESTILENT	33956
+Demonic title scroll (pestilent)	CERT_DFM2_TITLE_PESTILENT	33957
+Demonic title scroll (rending)	DFM2_TITLE_RENDING	33958
+Demonic title scroll (rending)	CERT_DFM2_TITLE_RENDING	33959
+Demonic title scroll (shattering)	DFM2_TITLE_SHATTERING	33960
+Demonic title scroll (shattering)	CERT_DFM2_TITLE_SHATTERING	33961
+Demonic title scroll (terrifying)	DFM2_TITLE_TERRIFYING	33962
+Demonic title scroll (terrifying)	CERT_DFM2_TITLE_TERRIFYING	33963
+Creepy doll	DFM2_DOLL	33964
+Ring of fire scroll	LORE_DEMON_RING_2_DUMMY	33965
+Ring of fire scroll	LORE_DEMON_RING_3_DUMMY	33966
+	TRH44_PLAYER_BOW	33967
+Rose petals	TRH44_VALENTINES15_CURRENCY	33968
+Aegis of devotion	TRH44_VALENTINES15_LOVE_SHIELD_1	33969
+Aegis of devotion	TRH44_VALENTINES15_LOVE_SHIELD_2	33970
+Aegis of devotion	TRH44_VALENTINES15_LOVE_SHIELD_3	33971
+Aegis of devotion	TRH44_VALENTINES15_LOVE_SHIELD_4	33972
+Aegis of devotion	TRH44_VALENTINES15_LOVE_SHIELD_5	33973
+Aegis of devotion	TRH44_VALENTINES15_LOVE_SHIELD_6	33974
+Bulwark of revenge	TRH44_VALENTINES15_HATE_SHIELD_1	33975
+Bulwark of revenge	TRH44_VALENTINES15_HATE_SHIELD_2	33976
+Bulwark of revenge	TRH44_VALENTINES15_HATE_SHIELD_3	33977
+Bulwark of revenge	TRH44_VALENTINES15_HATE_SHIELD_4	33978
+Bulwark of revenge	TRH44_VALENTINES15_HATE_SHIELD_5	33979
+Bulwark of revenge	TRH44_VALENTINES15_HATE_SHIELD_6	33980
+Ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_1	33981
+Ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_2	33982
+Ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_3	33983
+Ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_4	33984
+Ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_5	33985
+Ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_6	33986
+Off-hand ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_1_O	33987
+Off-hand ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_2_O	33988
+Off-hand ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_3_O	33989
+Off-hand ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_4_O	33990
+Off-hand ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_5_O	33991
+Off-hand ardent mace	TRH44_VALENTINES15_LOVE_WEAPON_6_O	33992
+Heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_1	33993
+Heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_2	33994
+Heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_3	33995
+Heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_4	33996
+Heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_5	33997
+Heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_6	33998
+Off-hand heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_1_O	33999
+Off-hand heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_2_O	34000
+Off-hand heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_3_O	34001
+Off-hand heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_4_O	34002
+Off-hand heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_5_O	34003
+Off-hand heartseeker crossbow	TRH44_VALENTINES15_HATE_WEAPON_6_O	34004
+Lovers medallion	TRH44_VALENTINES15_LOVE_NECKLACE	34005
+Haters medallion	TRH44_VALENTINES15_HATE_NECKLACE	34006
+Cupid's halo	TRH44_VALENTINES15_LOVE_EPIC	34007
+Demonic horns	TRH44_VALENTINES15_HATE_EPIC	34008
+Crown of the fallen	TRH44_VALENTINES15_EPIC	34009
+Love potion	TRH44_VALENTINES15_POTION	34010
+Cupid	TRH44_VALENTINES15_TROLL_PET_NAME_1	34011
+Sugar	TRH44_VALENTINES15_TROLL_PET_NAME_2	34012
+Lover	TRH44_VALENTINES15_TROLL_PET_NAME_3	34013
+Hater	TRH44_VALENTINES15_TROLL_PET_NAME_4	34014
+Bae	TRH44_VALENTINES15_TROLL_PET_NAME_5	34015
+Baby-bugga-boo	TRH44_VALENTINES15_TROLL_PET_NAME_6	34016
+Chunky monkey	TRH44_VALENTINES15_TROLL_PET_NAME_7	34017
+Big hippo	TRH44_VALENTINES15_TROLL_PET_NAME_8	34018
+Hot stuff	TRH44_VALENTINES15_TROLL_PET_NAME_9	34019
+Muffin	TRH44_VALENTINES15_TROLL_PET_NAME_10	34020
+Winky dink	TRH44_VALENTINES15_TROLL_PET_NAME_11	34021
+Tootsie wootsy	TRH44_VALENTINES15_TROLL_PET_NAME_12	34022
+Small protean pack	TRH45_PROTEAN_PACK_SMALL	34023
+Medium protean pack	TRH45_PROTEAN_PACK_MEDIUM	34024
+Large protean pack	TRH45_PROTEAN_PACK_LARGE	34025
+Medium portable skilling pack	TRH45_PORTABLE_PACK	34026
+Rare item tokens	TRH46_RARE_TOKENS	34027
+Golden cane	TRH46_GOLD_CANE	34028
+Flaming head	TRH46_FLAMING_HEAD	34029
+Sunglasses	TRH46_GLASSES_CLEAR	34030
+Sunglasses	TRH46_GLASSES_BLUE	34031
+Sunglasses	TRH46_GLASSES_GREEN	34032
+Sunglasses	TRH46_GLASSES_MIRROR	34033
+Sunglasses	TRH46_GLASSES_PINK	34034
+Sunglasses	TRH46_GLASSES_YELLOW	34035
+Sunglasses	TRH46_GLASSES_DARK	34036
+Leprechaun hat	TRH46_LEPRECHAUN_HAT	34037
+Silver hawk	TRH46_SILVERHAWK	34038
+Imcando pistol	TRH46_DWARVEN_REVOLVER_1	34039
+Imcando pistol	TRH46_DWARVEN_REVOLVER_2	34040
+Imcando pistol	TRH46_DWARVEN_REVOLVER_3	34041
+Imcando pistol	TRH46_DWARVEN_REVOLVER_4	34042
+Imcando pistol	TRH46_DWARVEN_REVOLVER_5	34043
+Off-hand imcando pistol	TRH46_DWARVEN_REVOLVER_1_O	34044
+Off-hand imcando pistol	TRH46_DWARVEN_REVOLVER_2_O	34045
+Off-hand imcando pistol	TRH46_DWARVEN_REVOLVER_3_O	34046
+Off-hand imcando pistol	TRH46_DWARVEN_REVOLVER_4_O	34047
+Off-hand imcando pistol	TRH46_DWARVEN_REVOLVER_5_O	34048
+Imcando axe	TRH46_RUNIC_AXE_1	34049
+Imcando axe	TRH46_RUNIC_AXE_2	34050
+Imcando axe	TRH46_RUNIC_AXE_3	34051
+Imcando axe	TRH46_RUNIC_AXE_4	34052
+Imcando axe	TRH46_RUNIC_AXE_5	34053
+Off-hand imcando axe	TRH46_RUNIC_AXE_1_O	34054
+Off-hand Imcando axe	TRH46_RUNIC_AXE_2_O	34055
+Off-hand Imcando axe	TRH46_RUNIC_AXE_3_O	34056
+Off-hand Imcando axe	TRH46_RUNIC_AXE_4_O	34057
+Off-hand Imcando axe	TRH46_RUNIC_AXE_5_O	34058
+Imcando channeling rod	TRH46_RUNIC_WAND_1	34059
+Imcando channeling rod	TRH46_RUNIC_WAND_2	34060
+Imcando channeling rod	TRH46_RUNIC_WAND_3	34061
+Imcando channeling rod	TRH46_RUNIC_WAND_4	34062
+Imcando channeling rod	TRH46_RUNIC_WAND_5	34063
+Imcando arcane focus	TRH46_RUNIC_TABLET_1	34064
+Imcando arcane focus	TRH46_RUNIC_TABLET_2	34065
+Imcando arcane focus	TRH46_RUNIC_TABLET_3	34066
+Imcando arcane focus	TRH46_RUNIC_TABLET_4	34067
+Imcando arcane focus	TRH46_RUNIC_TABLET_5	34068
+Lucky chaotic rapier	TRH46_RAND_RAPIER	34069
+Lucky chaotic rapier (broken)	TRH46_RAND_RAPIER_BROKEN	34070
+Lucky off-hand chaotic rapier	TRH46_RAND_RAPIER_O	34071
+Lucky off-hand chaotic rapier (broken)	TRH46_RAND_RAPIER_BROKEN_O	34072
+Lucky chaotic longsword	TRH46_RAND_LONGSWORD	34073
+Lucky chaotic longsword (broken)	TRH46_RAND_LONGSWORD_BROKEN	34074
+Lucky off-hand chaotic longsword	TRH46_RAND_LONGSWORD_O	34075
+Lucky off-hand chaotic longsword (broken)	TRH46_RAND_LONGSWORD_BROKEN_O	34076
+Lucky chaotic claw	TRH46_RAND_CLAW	34077
+Lucky chaotic claw (broken)	TRH46_RAND_CLAW_BROKEN	34078
+Lucky off-hand chaotic claw	TRH46_RAND_CLAW_O	34079
+Lucky off-hand chaotic claw (broken)	TRH46_RAND_CLAW_BROKEN_O	34080
+Lucky chaotic maul	TRH46_RAND_MAUL	34081
+Lucky chaotic maul (broken)	TRH46_RAND_MAUL_BROKEN	34082
+Lucky chaotic spear	TRH46_RAND_SPEAR	34083
+Lucky chaotic spear (broken)	TRH46_RAND_SPEAR_BROKEN	34084
+Lucky chaotic staff	TRH46_RAND_STAFF	34085
+Lucky chaotic staff (broken)	TRH46_RAND_STAFF_BROKEN	34086
+Lucky chaotic crossbow	TRH46_RAND_XBOW	34087
+Lucky chaotic crossbow (broken)	TRH46_RAND_XBOW_BROKEN	34088
+Lucky off-hand chaotic crossbow	TRH46_RAND_XBOW_O	34089
+Lucky off-hand chaotic crossbow (broken)	TRH46_RAND_XBOW_BROKEN_O	34090
+Lucky chaotic kiteshield	TRH46_RAND_KITESHIELD_MELEE	34091
+Lucky chaotic kiteshield (broken)	TRH46_RAND_KITESHIELD_MELEE_BROKEN	34092
+Lucky eagle-eye kiteshield	TRH46_RAND_KITESHIELD_RANGE	34093
+Lucky eagle-eye kiteshield (broken)	TRH46_RAND_KITESHIELD_RANGE_BROKEN	34094
+Lucky farseer kiteshield	TRH46_RAND_KITESHIELD_MAGIC	34095
+Lucky farseer kiteshield (broken)	TRH46_RAND_KITESHIELD_MAGIC_BROKEN	34096
+Nomad outfit	MTX83_NOMAD_OUTFIT	34097
+Nomad outfit	BOUGHT_MTX83_NOMAD_OUTFIT	34098
+Nomad Gorget	MTX83_NOMAD_HEAD	34099
+Nomad Chestplate	MTX83_NOMAD_TORSO	34100
+Nomad Tassets	MTX83_NOMAD_LEGS	34101
+Nomad boots	MTX83_NOMAD_FEET	34102
+Nomad gloves	MTX83_NOMAD_HANDS	34103
+Nomad cape	MTX83_NOMAD_BACK	34104
+Nomad spear	MTX83_NOMAD_SPEAR	34105
+Nomad staff	MTX83_NOMAD_STAFF	34106
+Nomad Javelin	MTX83_NOMAD_THROWN_KNIFE	34107
+Anim	MTX83_NOMAD_WALK_OVERRIDE	34108
+Fimberzizz	MTX83_NOMAD_PET	34109
+Fimberzizz	BOUGHT_MTX83_NOMAD_PET	34110
+Fimberzizz	MTX83_NOMAD_PET_POH	34111
+Gameblast outfit	MTX84_GAMEBLAST15_OUTFIT	34112
+Gameblast outfit	BOUGHT_MTX84_GAMEBLAST15_OUTFIT	34113
+GameBlast 2015 Bandana	MTX84_GAMEBLAST15_HEAD	34114
+GameBlast 2015 Torso	MTX84_GAMEBLAST15_TORSO	34115
+GameBlast 2015 Legs	MTX84_GAMEBLAST15_LEGS	34116
+GameBlast 2015 Boots	MTX84_GAMEBLAST15_FEET	34117
+GameBlast 2015 Gloves	MTX84_GAMEBLAST15_HANDS	34118
+GameBlast 2015 Cape	MTX84_GAMEBLAST15_CAPE	34119
+GameBlast 2015 Amulet	MTX84_GAMEBLAST15_AMULET	34120
+Ethereal wings	MTX85_ETHEREAL_WINGS	34121
+Ethereal wings	BOUGHT_MTX85_ETHEREAL_WINGS	34122
+Ethereal Wings (Law)	MTX85_ETHEREAL_LAW_WINGS	34123
+Ethereal Wings (blood)	MTX85_ETHEREAL_BLOOD_WINGS	34124
+Ethereal Wings (Death)	MTX85_ETHEREAL_DEATH_WINGS	34125
+Ethereal Wings (Infinity)	MTX85_ETHEREAL_INFINITY_WINGS	34126
+Gemstone wings	MTX85_GEMSTONE_WINGS	34127
+Gemstone wings	BOUGHT_MTX85_GEMSTONE_WINGS	34128
+Gemstone Wings (Sapphire)	MTX85_GEMSTONE_BLUE_WINGS	34129
+Gemstone Wings (Emerald)	MTX85_GEMSTONE_GREEN_WINGS	34130
+Gemstone Wings (Ruby)	MTX85_GEMSTONE_RED_WINGS	34131
+Gemstone Wings (Magic)	MTX85_GEMSTONE_MAGIC_WINGS	34132
+Freefall wings	MTX85_FREEFALL_WINGS	34133
+Freefall wings	BOUGHT_MTX85_FREEFALL_WINGS	34134
+Silver bladed wings	MTX85_SILVER_BLADED_WINGS	34135
+Silver bladed wings	BOUGHT_MTX85_SILVER_BLADED_WINGS	34136
+Brawler demon pouch	LORE_DEMON	34137
+Brawler demon pouch	CERT_LORE_DEMON	34138
+Executioner demon pouch	LORE_DEMON_RANGED	34139
+Executioner demon pouch	CERT_LORE_DEMON_RANGED	34140
+Deacon demon pouch	LORE_DEMON_MAGIC	34141
+Deacon demon pouch	CERT_LORE_DEMON_MAGIC	34142
+Pouch	LORE_DEMON_NULL	34143
+Pouch	LORE_DEMON_RANGED_NULL	34144
+Pouch	LORE_DEMON_MAGIC_NULL	34145
+Lesser Demon scroll (Ring of Fire)	LORE_DEMON_RING	34146
+Pouch	LORE_DEMON_RING_SPELL_NULL	34147
+Fury shark	CERT_JMOD_BOSS_MEGASHARK	34149
+Lava whip	SLAYER_CORRUPT_WHIP_CHARGED	34150
+Wyrm spike	SLAYER_CORRUPT_WHIP_ATTACHMENT	34151
+Wyrm spike	CERT_SLAYER_CORRUPT_WHIP_ATTACHMENT	34152
+Wyrm heart	SLAYER_CORRUPTION_STONE	34153
+Wyrm heart	CERT_SLAYER_CORRUPTION_STONE	34154
+Staff of darkness	STAFF_OF_DARKNESS_CHARGED	34155
+Wyrm scalp	SLAYER_CORRUPTION_SHIELD	34156
+Wyrm scalp	CERT_SLAYER_CORRUPTION_SHIELD	34157
+Strykebow	SLAYER_CORRUPT_SHIELDBOW	34158
+Searing ashes	SMOLDERING_ASHES	34159
+Searing ashes	CERT_SMOLDERING_ASHES	34160
+Lava strykewyrm	SLAYERGUIDE_STRYKEWYRM_WILDY	34161
+Nihil damage enhancer	ELFCITY_MAW_DAMAGE_NIHIL_UNUSED	34162
+Qbd damage enhancer	ELFCITY_MAW_DAMAGE_QBD_UNUSED	34163
+Volcanic damage enhancer	ELFCITY_MAW_DAMAGE_VOLCANIC_UNUSED	34164
+Airut damage enhancer	ELFCITY_MAW_DAMAGE_AIRUT_UNUSED	34165
+Dominion tower damage enhancer	ELFCITY_MAW_DAMAGE_DOMTOWER_UNUSED	34166
+Rush of blood damage enhancer	ELFCITY_MAW_DAMAGE_RUSHOFBLOOD_UNUSED	34167
+Cadarn warrior damage enhancer	ELFCITY_MAW_DAMAGE_CADARN_UNUSED	34168
+Castle wars token enhancer	ELFCITY_MAW_INCREASE_CASTLEWARS_UNUSED	34169
+Livid farm point enhancer	ELFCITY_MAW_INCREASE_LIVID_UNUSED	34170
+Player-owned ports enhancer	ELFCITY_MAW_INCREASE_PORTS_UNUSED	34171
+Dark beast assignment token	ELFCITY_MAW_INCREASE_DARKBEAST_UNUSED	34172
+Chompy bird enhancer	ELFCITY_MAW_INCREASE_CHOMPY_UNUSED	34173
+Barbarian assault point enhancer	ELFCITY_MAW_INCREASE_BARB_UNUSED	34174
+Chimp ice enhancer	ELFCITY_MAW_INCREASE_CHIMP_UNUSED	34175
+	ELFCITY_MAW_INCREASE_MOB_UNUSED	34176
+Artisans' workshop respect enhancer	ELFCITY_MAW_INCREASE_ARTISAN_UNUSED	34177
+Black knight kill enhancer	ELFCITY_MAW_INCREASE_WHITEKNIGHT_UNUSED	34178
+Fish flingers medal enhancer	ELFCITY_MAW_INCREASE_TACKLEBOX_UNUSED	34179
+Champion scroll enhancer	ELFCITY_MAW_INCREASE_CHAMPSCROLL_UNUSED	34180
+Morvran's challenge enhancer	ELFCITY_MAW_INCREASE_MORVRANCHALLENGE_UNUSED	34181
+Communication device	SLISKE2_MOIA_DEVICE	34182
+Poison	SLISKE2_BLACK_KNIGHT_POISON	34183
+Cell key	SLISKE2_CELL_KEY	34184
+Bloody journal	SLISKE2_KHAZARD_ITEM	34185
+Combat XP lamp	SLISKE2_LAMP_REWARD	34186
+XP lamp (tier 1)	SLISKE2_LAMP_TIER_1	34187
+XP lamp (tier 2)	SLISKE2_LAMP_TIER_2	34188
+XP lamp (tier 3)	SLISKE2_LAMP_TIER_3	34189
+Jerrod's cape	SLISKE2_JERROD_CAPE	34190
+Mask of Sliske, Light	SLISKE2_MASK_LIGHT	34191
+Mask of Sliske, Shadow	SLISKE2_MASK_SHADOW	34192
+Mask of Sliske, Light	SLISKE2_MASK_LIGHT_POCKET	34193
+Mask of Sliske, Shadow	SLISKE2_MASK_SHADOW_POCKET	34194
+Jerrod's cape	SLISKE2_JERRODS_CAPE	34195
+Tiny hazeel	SLISKE2_PET	34196
+Tiny hazeel	BOUGHT_SLISKE2_PET	34197
+Tiny hazeel	SLISKE2_PET_POH	34198
+Wicked hood teleport token	HOOKS3_TELEPORT_TOKEN	34199
+Shark head	TRH48_SHARK_HEAD_NORMAL	34200
+Shark body	TRH48_SHARK_BODY_NORMAL	34201
+Shark legs	TRH48_SHARK_LEGS_NORMAL	34202
+Shark hands	TRH48_SHARK_HANDS_NORMAL	34203
+Shark feet	TRH48_SHARK_FEET_NORMAL	34204
+Tiger shark head	TRH48_SHARK_HEAD_TIGER	34205
+Tiger shark body	TRH48_SHARK_BODY_TIGER	34206
+Tiger shark legs	TRH48_SHARK_LEGS_TIGER	34207
+Tiger shark hands	TRH48_SHARK_HANDS_TIGER	34208
+Tiger shark feet	TRH48_SHARK_FEET_TIGER	34209
+Burnt shark head	TRH48_SHARK_HEAD_BURNT	34210
+Burnt shark body	TRH48_SHARK_BODY_BURNT	34211
+Burnt shark legs	TRH48_SHARK_LEGS_BURNT	34212
+Burnt shark hands	TRH48_SHARK_HANDS_BURNT	34213
+Burnt shark feet	TRH48_SHARK_FEET_BURNT	34214
+Fury shark head	TRH48_SHARK_HEAD_FURY	34215
+Fury shark body	TRH48_SHARK_BODY_FURY	34216
+Fury shark legs	TRH48_SHARK_LEGS_FURY	34217
+Fury shark hands	TRH48_SHARK_HANDS_FURY	34218
+Fury shark feet	TRH48_SHARK_FEET_FURY	34219
+Dark lord outfit	MTX78_DARK_LORD_OUTFIT	34220
+Dark lord outfit	BOUGHT_MTX78_DARK_LORD_OUTFIT	34221
+Dark lord head	MTX78_DARK_LORD_HEAD	34222
+Dark lord body	MTX78_DARK_LORD_TORSO	34223
+Dark lord legs	MTX78_DARK_LORD_LEGS	34224
+Dark lord feet	MTX78_DARK_LORD_FEET	34225
+Dark lord hands	MTX78_DARK_LORD_HANDS	34226
+Disperse teleport	MTX_BATCH78_DARK_LORD_TELEPORT	34227
+Disperse teleport	BOUGHT_MTX_BATCH78_DARK_LORD_TELEPORT	34228
+Anim	MTX_BATCH78_ANIM_DARK_LORD_RUNECRAFTING	34229
+Anim	BOUGHT_MTX_BATCH78_ANIM_DARK_LORD_RUNECRAFTING	34230
+Anim	MTX_BATCH78_ANIM_DARK_LORD_SUMMONING	34231
+Anim	BOUGHT_MTX_BATCH78_ANIM_DARK_LORD_SUMMONING	34232
+Chameleon extract	MTX79_SKIN_NORMAL	34233
+Chameleon extract	BOUGHT_MTX79_SKIN_NORMAL	34234
+Wild arrow	WILD_ARROW	34235
+	WILD_ARROWS2	34236
+	WILD_ARROWS3	34237
+	WILD_ARROWS4	34238
+	WILD_ARROWS5	34239
+	PLAYER_2015_SANDBAG	34240
+	HUMAN_WEAPONS_WATERSKIN	34241
+Cornellius	BOSS_PRACTICE_MODE_PET	34242
+Cornellius	BOSS_PRACTICE_MODE_PET_POH	34243
+Mortar board	BOSS_PRACTICE_MODE_MORTARBOARD	34244
+	PYRAMID_PLUNDER_2014_URN_LID	34245
+Hooded attack cape	SKILLCAPE_ATTACK_HOODED	34246
+Hooded attack cape (t)	SKILLCAPE_ATTACK_TRIMMED_HOODED	34247
+Hooded strength cape	SKILLCAPE_STRENGTH_HOODED	34248
+Hooded strength cape (t)	SKILLCAPE_STRENGTH_TRIMMED_HOODED	34249
+Hooded defence cape	SKILLCAPE_DEFENCE_HOODED	34250
+Hooded defence cape (t)	SKILLCAPE_DEFENCE_TRIMMED_HOODED	34251
+Hooded ranged cape	SKILLCAPE_RANGING_HOODED	34252
+Hooded ranged cape (t)	SKILLCAPE_RANGING_TRIMMED_HOODED	34253
+Hooded prayer cape	SKILLCAPE_PRAYER_HOODED	34254
+Hooded prayer cape (t)	SKILLCAPE_PRAYER_TRIMMED_HOODED	34255
+Hooded magic cape	SKILLCAPE_MAGIC_HOODED	34256
+Hooded magic cape (t)	SKILLCAPE_MAGIC_TRIMMED_HOODED	34257
+Hooded runecrafting cape	SKILLCAPE_RUNECRAFTING_HOODED	34258
+Hooded runecrafting cape (t)	SKILLCAPE_RUNECRAFTING_TRIMMED_HOODED	34259
+Hooded hunter cape	SKILLCAPE_HUNTING_HOODED	34260
+Hooded hunter cape (t)	SKILLCAPE_HUNTING_TRIMMED_HOODED	34261
+Hooded constitution cape	SKILLCAPE_HITPOINTS_HOODED	34262
+Hooded constitution cape (t)	SKILLCAPE_HITPOINTS_TRIMMED_HOODED	34263
+Hooded agility cape	SKILLCAPE_AGILITY_HOODED	34264
+Hooded agility cape (t)	SKILLCAPE_AGILITY_TRIMMED_HOODED	34265
+Hooded herblore cape	SKILLCAPE_HERBLORE_HOODED	34266
+Hooded herblore cape (t)	SKILLCAPE_HERBLORE_TRIMMED_HOODED	34267
+Hooded thieving cape	SKILLCAPE_THIEVING_HOODED	34268
+Hooded thieving cape (t)	SKILLCAPE_THIEVING_TRIMMED_HOODED	34269
+Hooded crafting cape	SKILLCAPE_CRAFTING_HOODED	34270
+Hooded crafting cape (t)	SKILLCAPE_CRAFTING_TRIMMED_HOODED	34271
+Hooded fletching cape	SKILLCAPE_FLETCHING_HOODED	34272
+Hooded fletching cape (t)	SKILLCAPE_FLETCHING_TRIMMED_HOODED	34273
+Hooded slayer cape	SKILLCAPE_SLAYER_HOODED	34274
+Hooded slayer cape (t)	SKILLCAPE_SLAYER_TRIMMED_HOODED	34275
+Hooded construction cape	SKILLCAPE_CONSTRUCTION_HOODED	34276
+Hooded construction cape (t)	SKILLCAPE_CONSTRUCTION_TRIMMED_HOODED	34277
+Hooded mining cape	SKILLCAPE_MINING_HOODED	34278
+Hooded mining cape (t)	SKILLCAPE_MINING_TRIMMED_HOODED	34279
+Hooded smithing cape	SKILLCAPE_SMITHING_HOODED	34280
+Hooded smithing cape (t)	SKILLCAPE_SMITHING_TRIMMED_HOODED	34281
+Hooded fishing cape	SKILLCAPE_FISHING_HOODED	34282
+Hooded fishing cape (t)	SKILLCAPE_FISHING_TRIMMED_HOODED	34283
+Hooded cooking cape	SKILLCAPE_COOKING_HOODED	34284
+Hooded cooking cape (t)	SKILLCAPE_COOKING_TRIMMED_HOODED	34285
+Hooded firemaking cape	SKILLCAPE_FIREMAKING_HOODED	34286
+Hooded firemaking cape (t)	SKILLCAPE_FIREMAKING_TRIMMED_HOODED	34287
+Hooded woodcutting cape	SKILLCAPE_WOODCUTTING_HOODED	34288
+Hooded woodcutting cape (t)	SKILLCAPE_WOODCUTTING_TRIMMED_HOODED	34289
+Hooded farming cape	SKILLCAPE_FARMING_HOODED	34290
+Hooded farming cape (t)	SKILLCAPE_FARMING_TRIMMED_HOODED	34291
+Hooded divination cape	SKILLCAPE_DIVINATION_HOODED	34292
+Hooded divination cape (t)	SKILLCAPE_DIVINATION_TRIMMED_HOODED	34293
+Hooded dungeoneering cape	SKILLCAPE_DUNGEONEERING_HOODED	34294
+Hooded dungeoneering cape (t)	SKILLCAPE_DUNGEONEERING_TRIMMED_HOODED	34295
+Hooded summoning cape	SKILLCAPE_SUMMONING_HOODED	34296
+Hooded summoning cape (t)	SKILLCAPE_SUMMONING_TRIMMED_HOODED	34297
+	PLAYER_2014_BUCKET_COMPOST	34298
+Leather	LEATHER_Q200_DUMMY	34299
+Hard leather	HARD_LEATHER_Q200_DUMMY	34300
+Jas hands	MTX_APRIL_FOOLS_15_HANDS	34301
+Arrav	MTX86_ARRAV_BASIC_OUTFIT	34302
+Arrav	BOUGHT_MTX86_ARRAV_BASIC_OUTFIT	34303
+Arrav Helmet	MTX86_ARRAV_BASIC_HEAD	34304
+Arrav Gorget	MTX86_ARRAV_BASIC_TORSO	34305
+Arrav Platelegs	MTX86_ARRAV_BASIC_LEGS	34306
+Arrav Greaves	MTX86_ARRAV_BASIC_FEET	34307
+Arrav Wrist Guards	MTX86_ARRAV_BASIC_HANDS	34308
+Arrav	MTX86_ARRAV_UPGRADED_OUTFIT	34309
+Arrav (Cursed) Helmet	MTX86_ARRAV_UPGRADED_HEAD	34310
+Arrav (Cursed) Gorget	MTX86_ARRAV_UPGRADED_TORSO	34311
+Arrav (Cursed) Platelegs	MTX86_ARRAV_UPGRADED_LEGS	34312
+Arrav (Cursed) Greaves	MTX86_ARRAV_UPGRADED_FEET	34313
+Arrav (Cursed) Wrist Guards	MTX86_ARRAV_UPGRADED_HANDS	34314
+Arrav (Cursed) Sword	MTX86_ARRAV_UPGRADED_1H_SWORD	34315
+Arrav (Cursed) Off-hand Sword	MTX86_ARRAV_UPGRADED_1H_SWORD_O	34316
+Arrav (Cursed) Shield	MTX86_ARRAV_UPGRADED_SHIELD	34317
+	Q200_CULTIST_OUTFIT_FULL	34318
+New Varrock Cultist Hood	Q200_CULTIST_OUTFIT_HOOD	34319
+New Varrock Cultist Top	Q200_CULTIST_OUTFIT_BODY	34320
+New Varrock Cultist Robes	Q200_CULTIST_OUTFIT_LEGS	34321
+	Q200_ZOMBIE_OUTFIT_FULL	34322
+New Varrock Zombie Head	Q200_ZOMBIE_OUTFIT_HEAD	34323
+New Varrock Zombie Torso	Q200_ZOMBIE_OUTFIT_TORSO	34324
+New Varrock Zombie Legs	Q200_ZOMBIE_OUTFIT_LEGS	34325
+New Varrock Zombie Hands	Q200_ZOMBIE_OUTFIT_HANDS	34326
+New Varrock Zombie Feet	Q200_ZOMBIE_OUTFIT_FEET	34327
+Shield of Arrav	Q200_ARRAV_SHIELD	34328
+Arrav (New Varrock) Helmet	Q200_ARRAV_HEAD	34329
+Arrav (New Varrock) Gorget	Q200_ARRAV_TORSO	34330
+Arrav (New Varrock) Platelegs	Q200_ARRAV_LEGS	34331
+Arrav (New Varrock) Greaves	Q200_ARRAV_FEET	34332
+Arrav's Sword	Q200_ARRAV_SWORD	34333
+Necrofelinomicon	Q200_NECROFELINOMICON	34334
+Coin	Q200_FLIP_COIN	34335
+Double-headed coin	Q200_WISH_COIN	34336
+	Q200_WISH_COIN_DETAILED_DUMMY	34337
+Zemomark	Q200_ZEMOMARK	34338
+	Q200_ZEMOMARK_2	34339
+	Q200_ZEMOMARK_3	34340
+	Q200_ZEMOMARK_4	34341
+	Q200_ZEMOMARK_5	34342
+	Q200_ZEMOMARK_25	34343
+	Q200_ZEMOMARK_100	34344
+	Q200_ZEMOMARK_250	34345
+	Q200_ZEMOMARK_1000	34346
+	Q200_ZEMOMARK_10000	34347
+Newspaper	Q200_NEWSPAPER	34348
+Zombie cowhide	Q200_COW_HIDE	34349
+Zombie cowhide	CERT_Q200_COW_HIDE	34350
+Chocolate cake	Q200_CHOCOLATE_CAKE	34351
+Stew	Q200_STEW	34352
+Wine of Zemouregal	Q200_JUG_WINE	34353
+Mystery gift	Q200_EXPENSIVE_GIFT	34354
+Mystery gift	CERT_Q200_EXPENSIVE_GIFT	34355
+Chromatic partyhat	Q200_CHROMATIC_PARTYHAT	34356
+Chromatic partyhat	Q200_CHROMATIC_PARTYHAT_FORKEEPS	34358
+Phoenix egg	Q200_PHOENIX_EGG	34359
+Black arm	Q200_BLACKARM	34360
+Forged document	Q200_FORGED_DOCUMENT	34361
+Broken shield	Q200_WEST_SHIELDOFARRAV	34362
+Broken shield	Q200_EAST_SHIELDOFARRAV	34363
+Shield of Arrav	Q200_SHIELDOFARRAV	34364
+Shield of Arrav	Q200_SHIELDOFARRAV_ARRAV	34365
+Lockpick	Q200_LOCKPICK	34366
+Mithril crossbow	Q200_CROSSBOW	34367
+Mithril grapple	Q200_GRAPPLE	34368
+Thieving XP lamp	Q200_SOA_THIEVING_LAMP	34369
+Sir Prysin's key	Q200_PRYSIN_KEY	34370
+Spirit measure	Q200_SPIRIT_MEASURE	34371
+Dog hair	Q200_DOG_HAIR	34372
+Rotten tomato	Q200_ROTTEN_TOMATO	34373
+Cabbage	Q200_CABBAGE	34374
+Cabbage	CERT_Q200_CABBAGE	34375
+Sobriety potion	Q200_SOBRIETY_POTION	34376
+Sobriety potion in a beer glass	Q200_SOBRIETY_POTION_IN_BEER_GLASS	34377
+Beer	Q200_BEER	34378
+Beer	CERT_Q200_BEER	34379
+Beer glass	Q200_BEER_GLASS	34380
+Black mushroom	Q200_BLACK_MUSHROOM	34381
+Black hood	Q200_BLACK_HOOD	34382
+Black hood	CERT_Q200_BLACK_HOOD	34383
+Black robe	Q200_BLACK_TORSO	34384
+Black robe	CERT_Q200_BLACK_TORSO	34385
+Black robe	Q200_BLACK_LEGS	34386
+Black robe	CERT_Q200_BLACK_LEGS	34387
+Silverlight	Q200_SILVERLIGHT	34388
+Silverlight (dyed)	Q200_SILVERLIGHT_DYED	34389
+Darklight	Q200_DARKLIGHT	34390
+Darklight	Q200_DARKLIGHT_ARRAV	34391
+Vial of blood	Q200_VIAL_OF_BLOOD	34392
+Cadava berries	Q200_CADAVABERRIES	34393
+Cadava potion	Q200_CADAVA	34394
+Red spiders' eggs	Q200_RED_SPIDERS_EGGS	34395
+Limpwurt root	Q200_LIMPWURT_ROOT	34396
+Strength potion (4)	Q200_STRENGTH4	34397
+Strength potion (4)	CERT_Q200_STRENGTH4	34398
+Strength potion (3)	Q200_STRENGTH3	34399
+Strength potion (3)	CERT_Q200_STRENGTH3	34400
+Strength potion (2)	Q200_STRENGTH2	34401
+Strength potion (2)	CERT_Q200_STRENGTH2	34402
+Strength potion (1)	Q200_STRENGTH1	34403
+Strength potion (1)	CERT_Q200_STRENGTH1	34404
+Acne potion	Q200_ACNE_POTION	34405
+Crafting XP lamp	Q200_DS_CRAFTING_LAMP	34406
+Magic XP lamp	Q200_DS_MAGIC_LAMP	34407
+Heart magic notes	Q200_HEART_NOTES	34408
+Zombie mask	Q200_ZOMBIE_MASK	34409
+Zombie mask	CERT_Q200_ZOMBIE_MASK	34410
+Zombie shirt	Q200_ZOMBIE_SHIRT	34411
+Zombie shirt	CERT_Q200_ZOMBIE_SHIRT	34412
+Zombie trousers	Q200_ZOMBIE_LEGS	34413
+Zombie trousers	CERT_Q200_ZOMBIE_LEGS	34414
+Zombie gloves	Q200_ZOMBIE_GLOVES	34415
+Zombie gloves	CERT_Q200_ZOMBIE_GLOVES	34416
+Zombie boots	Q200_ZOMBIE_BOOTS	34417
+Zombie boots	CERT_Q200_ZOMBIE_BOOTS	34418
+Vial of red mist	Q200_VIAL_MIST_RED	34419
+Decoder strips	Q200_DECODER_STRIPS	34420
+Tin soldier head	Q200_BOT_HEAD	34421
+Combat XP lamp	Q200_DOV_COMBAT_LAMP	34422
+Thieving XP lamp	Q200_DOV_THIEVING_LAMP	34423
+Magic XP lamp	Q200_DOV_MAGIC_LAMP	34424
+Defence XP lamp	Q200_DOV_DEFENCE_LAMP	34425
+Construction XP lamp	Q200_DOV_CONSTRUCTION_LAMP	34426
+Empty canopic jar	Q200_CANOPIC_JAR_EMPTY	34427
+Canopic jar with berries	Q200_CANOPIC_JAR_BERRIES	34428
+Canopic jar with oil	Q200_CANOPIC_JAR_OIL	34429
+Canopic jar with ring	Q200_CANOPIC_JAR_RING	34430
+Canopic jar with berries and oil	Q200_CANOPIC_JAR_BERRIES_OIL	34431
+Canopic jar with berries and ring	Q200_CANOPIC_JAR_BERRIES_RING	34432
+Canopic jar with oil and ring	Q200_CANOPIC_JAR_OIL_RING	34433
+Prepared canopic jar	Q200_CANOPIC_JAR_BERRIES_OIL_RING	34434
+Heart in a canopic jar	Q200_CANOPIC_JAR_HEART	34435
+Dwellberries	Q200_DWELLBERRIES	34436
+Sacred oil	Q200_SACRED_OIL	34437
+Delphinium seeds	Q200_DELPHINIUM_SEEDS	34438
+Delphinium flower	Q200_DELPHINIUM_FLOWER	34439
+Blue dye	Q200_BLUE_DYE	34440
+Yellow dye	Q200_YELLOW_DYE	34441
+Vial of orange mist	Q200_VIAL_MIST_ORANGE	34442
+Vial of purple mist	Q200_VIAL_MIST_PURPLE	34443
+Notes (A-L)	Q200_RITUAL_NOTES_A_L	34444
+Notes (M-Z)	Q200_RITUAL_NOTES_M_Z	34445
+Code key	Q200_HEART_CODE_KEY	34446
+Vault key	Q200_VAULT_KEY	34447
+Display cabinet key	Q200_CURATOR_KEY	34448
+Healing orb	Q200_HEALING_ORB	34449
+Combat XP lamp	Q200_COA_COMBAT_LAMP	34450
+Thieving XP lamp	Q200_COA_THIEVING_LAMP	34451
+Ranged XP lamp	Q200_COA_RANGED_LAMP	34452
+Agility XP lamp	Q200_COA_AGILITY_LAMP	34453
+Crafting XP lamp	Q200_COA_CRAFTING_LAMP	34454
+Farming XP lamp	Q200_COA_FARMING_LAMP	34455
+Magic XP lamp	Q200_COA_MAGIC_LAMP	34456
+Pocket book	Q200_ACHIEVEMENTS_BOOK	34457
+Catspeak amulet	Q200_ACHIEVEMENTS_CATSPEAK_AMULET	34458
+Necrofelinomicon	Q200_ACHIEVEMENTS_NECROFELINOMICON	34459
+Dimies the sardine	Q200_ACHIEVEMENTS_FISHBOWL	34460
+Curdled milk	Q200_ACHIEVEMENTS_CURDLED_MILK	34461
+Doogle leaves	Q200_ACHIEVEMENTS_DOOGLE_LEAVES	34462
+Doogle leaves	CERT_Q200_ACHIEVEMENTS_DOOGLE_LEAVES	34463
+Crooked staff	Q200_LOST_PROPERTY_01	34464
+Broken shard	Q200_LOST_PROPERTY_02	34465
+Costume jewellery	Q200_LOST_PROPERTY_03	34466
+Broken wand	Q200_LOST_PROPERTY_04	34467
+Human appendage	Q200_LOST_PROPERTY_05	34468
+Paperweight	Q200_LOST_PROPERTY_06	34469
+Worthless jewel	Q200_LOST_PROPERTY_07	34470
+Nightcap of Terror	Q200_LOST_PROPERTY_08	34471
+Hero's useless weapon	Q200_LOST_PROPERTY_09	34472
+Rubber chicken	Q200_LOST_PROPERTY_10	34473
+Rock Hammer of Omens	Q200_LOST_PROPERTY_11	34474
+Hero's useless shield	Q200_LOST_PROPERTY_12	34475
+Doogle potion (unfinished)	Q200_ACHIEVEMENTS_DOOGLE_POTION	34476
+Zemouregal brew	Q200_ACHIEVEMENTS_ZEMOUREGAL_BREW	34477
+Tiny zemouregal	Q200_ZEMO_PET	34478
+Tiny zemouregal	BOUGHT_Q200_ZEMO_PET	34479
+Tiny zemouregal	Q200_ZEMO_PET_POH	34480
+	AF2015_AMULET_OF_YAKSPEAK	34481
+Red jadinko egg	EASTER15_EGG_1	34482
+Yellow jadinko egg	EASTER15_EGG_2	34483
+Green jadinko egg	EASTER15_EGG_3	34484
+Cyan jadinko egg	EASTER15_EGG_4	34485
+Blue jadinko egg	EASTER15_EGG_5	34486
+Purple jadinko egg	EASTER15_EGG_6	34487
+Black jadinko egg	EASTER15_EGG_7	34488
+White jadinko egg	EASTER15_EGG_8	34489
+Pure red jadinko egg	EASTER15_EGG_9	34490
+Pure green jadinko egg	EASTER15_EGG_10	34491
+Pure blue jadinko egg	EASTER15_EGG_11	34492
+Experimental combination egg	EASTER15_CORRECT_TEST_EGG	34493
+Combined jadinko egg	EASTER15_CORRECT_EGG	34494
+Modified magic box	EASTER15_MAGIC_BOX	34495
+Left-handed lever	EASTER15_LEVER	34496
+Right-handed lever	EASTER15_LEVER_RIGHT	34497
+E-type sprocket	EASTER15_SPROCKET	34498
+Grade 2 fish oil	EASTER15_FISH_OIL	34499
+Egg combination notebook	EASTER15_NOTEBOOK	34500
+	EASTER15_FRYING_PAN	34501
+Jadinko slippers	EASTER15_SLIPPERS_FEET	34502
+Egg on a fork	EASTER15_FORK_MAUL	34503
+Jadinko	EASTER15_JADINKO_PET	34504
+Jadinko	POH_EASTER15_JADINKO_PET	34505
+Huge easter reward lamp	EASTER15_LAMP_REWARD	34506
+Medium easter reward lamp	EASTER15_LAMP_POSTQUEST	34507
+Magical easter egg	EASTER15_STATBOOST_EGG	34508
+Easter cooking	EASTER15_EGG_COOKING	34509
+Easter cooking	BOUGHT_EASTER15_EGG_COOKING	34510
+Silverlight	Q200_COSMETIC_SILVERLIGHT	34511
+Silverlight Off-hand	Q200_COSMETIC_SILVERLIGHT_O	34512
+Silverlight (Dyed)	Q200_COSMETIC_SILVERLIGHT_DYED	34513
+Silverlight (Dyed) Off-hand	Q200_COSMETIC_SILVERLIGHT_DYED_O	34514
+Darklight	Q200_COSMETIC_DARKLIGHT	34515
+Darklight Off-hand	Q200_COSMETIC_DARKLIGHT_O	34516
+	TRH50_PULSE_ESSENCE	34517
+Dwarven chainaxe	TRH51_AXE	34518
+Dwarven ramhammer	TRH51_PICKAXE	34519
+Dwarven fish extractor	TRH51_FISH_HOOVER	34520
+	TRH51_FISH_HOOVER_LEFT_HAND_PARTICLES	34521
+Dwarven chainaxe (inactive)	TRH51_AXE_INACTIVE	34523
+Dwarven ramhammer (inactive)	TRH51_PICKAXE_INACTIVE	34524
+Dwarven fish extractor (inactive)	TRH51_FISH_HOOVER_INACTIVE	34525
+Small dwarven toolbox	TRH51_TOOLBOX	34526
+Large dwarven toolbox	TRH51_TOOLBOX_LARGE	34527
+Protean logs	TRH52_PROTEAN_LOGS	34528
+Fletch protean logs	TRH52_PROTEAN_LOGS_RECIPE_FLETCH	34529
+Fletch & burn protean logs	TRH52_PROTEAN_LOGS_RECIPE_FLETCH_FIREMAKE	34531
+Vitality suit	MTX87_LIFEPOINT_OUTFIT	34533
+Vitality suit	BOUGHT_MTX87_LIFEPOINT_OUTFIT	34534
+Vitality Suit Helmet	MTX87_LIFEPOINT_HEAD	34535
+Vitality Suit Chest	MTX87_LIFEPOINT_TORSO	34536
+Vitality Suit Legs	MTX87_LIFEPOINT_LEGS	34537
+Vitality Suit Feet	MTX87_LIFEPOINT_FEET	34538
+Vitality Suit Gloves	MTX87_LIFEPOINT_HANDS	34539
+Retro attack cape	SKILLCAPE_ATTACK_RETRO	34540
+Retro hooded attack cape	SKILLCAPE_ATTACK_HOODED_RETRO	34541
+Retro attack cape (t)	SKILLCAPE_ATTACK_TRIMMED_RETRO	34542
+Retro hooded attack cape (t)	SKILLCAPE_ATTACK_TRIMMED_HOODED_RETRO	34543
+Retro attack hood	SKILLCAPE_ATTACK_HOOD_RETRO	34544
+Retro strength cape	SKILLCAPE_STRENGTH_RETRO	34545
+Retro hooded strength cape	SKILLCAPE_STRENGTH_HOODED_RETRO	34546
+Retro strength cape (t)	SKILLCAPE_STRENGTH_TRIMMED_RETRO	34547
+Retro hooded strength cape (t)	SKILLCAPE_STRENGTH_TRIMMED_HOODED_RETRO	34548
+Retro strength hood	SKILLCAPE_STRENGTH_HOOD_RETRO	34549
+Retro defence cape	SKILLCAPE_DEFENCE_RETRO	34550
+Retro hooded defence cape	SKILLCAPE_DEFENCE_HOODED_RETRO	34551
+Retro defence cape (t)	SKILLCAPE_DEFENCE_TRIMMED_RETRO	34552
+Retro hooded defence cape (t)	SKILLCAPE_DEFENCE_TRIMMED_HOODED_RETRO	34553
+Retro defence hood	SKILLCAPE_DEFENCE_HOOD_RETRO	34554
+Retro ranged cape	SKILLCAPE_RANGING_RETRO	34555
+Retro hooded ranged cape	SKILLCAPE_RANGING_HOODED_RETRO	34556
+Retro ranged cape (t)	SKILLCAPE_RANGING_TRIMMED_RETRO	34557
+Retro hooded ranged cape (t)	SKILLCAPE_RANGING_TRIMMED_HOODED_RETRO	34558
+Retro ranged hood	SKILLCAPE_RANGING_HOOD_RETRO	34559
+Retro prayer cape	SKILLCAPE_PRAYER_RETRO	34560
+Retro hooded prayer cape	SKILLCAPE_PRAYER_HOODED_RETRO	34561
+Retro prayer cape (t)	SKILLCAPE_PRAYER_TRIMMED_RETRO	34562
+Retro hooded prayer cape (t)	SKILLCAPE_PRAYER_TRIMMED_HOODED_RETRO	34563
+Retro prayer hood	SKILLCAPE_PRAYER_HOOD_RETRO	34564
+Retro magic cape	SKILLCAPE_MAGIC_RETRO	34565
+Retro hooded magic cape	SKILLCAPE_MAGIC_HOODED_RETRO	34566
+Retro magic cape (t)	SKILLCAPE_MAGIC_TRIMMED_RETRO	34567
+Retro hooded magic cape (t)	SKILLCAPE_MAGIC_TRIMMED_HOODED_RETRO	34568
+Retro magic hood	SKILLCAPE_MAGIC_HOOD_RETRO	34569
+Retro runecrafting cape	SKILLCAPE_RUNECRAFTING_RETRO	34570
+Retro hooded runecrafting cape	SKILLCAPE_RUNECRAFTING_HOODED_RETRO	34571
+Retro runecrafting cape (t)	SKILLCAPE_RUNECRAFTING_TRIMMED_RETRO	34572
+Retro hooded runecrafting cape (t)	SKILLCAPE_RUNECRAFTING_TRIMMED_HOODED_RETRO	34573
+Retro runecrafting hood	SKILLCAPE_RUNECRAFTING_HOOD_RETRO	34574
+Retro hunter cape	SKILLCAPE_HUNTING_RETRO	34575
+Retro hooded hunter cape	SKILLCAPE_HUNTING_HOODED_RETRO	34576
+Retro hunter cape (t)	SKILLCAPE_HUNTING_TRIMMED_RETRO	34577
+Retro hooded hunter cape (t)	SKILLCAPE_HUNTING_TRIMMED_HOODED_RETRO	34578
+Retro hunter hood	SKILLCAPE_HUNTING_HOOD_RETRO	34579
+Retro constitution cape	SKILLCAPE_HITPOINTS_RETRO	34580
+Retro hooded constitution cape	SKILLCAPE_HITPOINTS_HOODED_RETRO	34581
+Retro constitution cape (t)	SKILLCAPE_HITPOINTS_TRIMMED_RETRO	34582
+Retro hooded constitution cape (t)	SKILLCAPE_HITPOINTS_TRIMMED_HOODED_RETRO	34583
+Retro constitution hood	SKILLCAPE_HITPOINTS_HOOD_RETRO	34584
+Retro agility cape	SKILLCAPE_AGILITY_RETRO	34585
+Retro hooded agility cape	SKILLCAPE_AGILITY_HOODED_RETRO	34586
+Retro agility cape (t)	SKILLCAPE_AGILITY_TRIMMED_RETRO	34587
+Retro hooded agility cape (t)	SKILLCAPE_AGILITY_TRIMMED_HOODED_RETRO	34588
+Retro agility hood	SKILLCAPE_AGILITY_HOOD_RETRO	34589
+Retro herblore cape	SKILLCAPE_HERBLORE_RETRO	34590
+Retro hooded herblore cape	SKILLCAPE_HERBLORE_HOODED_RETRO	34591
+Retro herblore cape (t)	SKILLCAPE_HERBLORE_TRIMMED_RETRO	34592
+Retro hooded herblore cape (t)	SKILLCAPE_HERBLORE_TRIMMED_HOODED_RETRO	34593
+Retro herblore hood	SKILLCAPE_HERBLORE_HOOD_RETRO	34594
+Retro thieving cape	SKILLCAPE_THIEVING_RETRO	34595
+Retro hooded thieving cape	SKILLCAPE_THIEVING_HOODED_RETRO	34596
+Retro thieving cape (t)	SKILLCAPE_THIEVING_TRIMMED_RETRO	34597
+Retro hooded thieving cape (t)	SKILLCAPE_THIEVING_TRIMMED_HOODED_RETRO	34598
+Retro thieving hood	SKILLCAPE_THIEVING_HOOD_RETRO	34599
+Retro crafting cape	SKILLCAPE_CRAFTING_RETRO	34600
+Retro hooded crafting cape	SKILLCAPE_CRAFTING_HOODED_RETRO	34601
+Retro crafting cape (t)	SKILLCAPE_CRAFTING_TRIMMED_RETRO	34602
+Retro hooded crafting cape (t)	SKILLCAPE_CRAFTING_TRIMMED_HOODED_RETRO	34603
+Retro crafting hood	SKILLCAPE_CRAFTING_HOOD_RETRO	34604
+Retro fletching cape	SKILLCAPE_FLETCHING_RETRO	34605
+Retro hooded fletching cape	SKILLCAPE_FLETCHING_HOODED_RETRO	34606
+Retro fletching cape (t)	SKILLCAPE_FLETCHING_TRIMMED_RETRO	34607
+Retro hooded fletching cape (t)	SKILLCAPE_FLETCHING_TRIMMED_HOODED_RETRO	34608
+Retro fletching hood	SKILLCAPE_FLETCHING_HOOD_RETRO	34609
+Retro slayer cape	SKILLCAPE_SLAYER_RETRO	34610
+Retro hooded slayer cape	SKILLCAPE_SLAYER_HOODED_RETRO	34611
+Retro slayer cape (t)	SKILLCAPE_SLAYER_TRIMMED_RETRO	34612
+Retro hooded slayer cape (t)	SKILLCAPE_SLAYER_TRIMMED_HOODED_RETRO	34613
+Retro slayer hood	SKILLCAPE_SLAYER_HOOD_RETRO	34614
+Retro construction cape	SKILLCAPE_CONSTRUCTION_RETRO	34615
+Retro hooded construction cape	SKILLCAPE_CONSTRUCTION_HOODED_RETRO	34616
+Retro construction cape (t)	SKILLCAPE_CONSTRUCTION_TRIMMED_RETRO	34617
+Retro hooded construction cape (t)	SKILLCAPE_CONSTRUCTION_TRIMMED_HOODED_RETRO	34618
+Retro construction hood	SKILLCAPE_CONSTRUCTION_HOOD_RETRO	34619
+Retro mining cape	SKILLCAPE_MINING_RETRO	34620
+Retro hooded mining cape	SKILLCAPE_MINING_HOODED_RETRO	34621
+Retro mining cape (t)	SKILLCAPE_MINING_TRIMMED_RETRO	34622
+Retro hooded mining cape (t)	SKILLCAPE_MINING_TRIMMED_HOODED_RETRO	34623
+Retro mining hood	SKILLCAPE_MINING_HOOD_RETRO	34624
+Retro smithing cape	SKILLCAPE_SMITHING_RETRO	34625
+Retro hooded smithing cape	SKILLCAPE_SMITHING_HOODED_RETRO	34626
+Retro smithing cape (t)	SKILLCAPE_SMITHING_TRIMMED_RETRO	34627
+Retro hooded smithing cape (t)	SKILLCAPE_SMITHING_TRIMMED_HOODED_RETRO	34628
+Retro smithing hood	SKILLCAPE_SMITHING_HOOD_RETRO	34629
+Retro fishing cape	SKILLCAPE_FISHING_RETRO	34630
+Retro hooded fishing cape	SKILLCAPE_FISHING_HOODED_RETRO	34631
+Retro fishing cape (t)	SKILLCAPE_FISHING_TRIMMED_RETRO	34632
+Retro hooded fishing cape (t)	SKILLCAPE_FISHING_TRIMMED_HOODED_RETRO	34633
+Retro fishing hood	SKILLCAPE_FISHING_HOOD_RETRO	34634
+Retro cooking cape	SKILLCAPE_COOKING_RETRO	34635
+Retro hooded cooking cape	SKILLCAPE_COOKING_HOODED_RETRO	34636
+Retro cooking cape (t)	SKILLCAPE_COOKING_TRIMMED_RETRO	34637
+Retro hooded cooking cape (t)	SKILLCAPE_COOKING_TRIMMED_HOODED_RETRO	34638
+Retro cooking hood	SKILLCAPE_COOKING_HOOD_RETRO	34639
+Retro firemaking cape	SKILLCAPE_FIREMAKING_RETRO	34640
+Retro hooded firemaking cape	SKILLCAPE_FIREMAKING_HOODED_RETRO	34641
+Retro firemaking cape (t)	SKILLCAPE_FIREMAKING_TRIMMED_RETRO	34642
+Retro hooded firemaking cape (t)	SKILLCAPE_FIREMAKING_TRIMMED_HOODED_RETRO	34643
+Retro firemaking hood	SKILLCAPE_FIREMAKING_HOOD_RETRO	34644
+Retro woodcutting cape	SKILLCAPE_WOODCUTTING_RETRO	34645
+Retro hooded woodcutting cape	SKILLCAPE_WOODCUTTING_HOODED_RETRO	34646
+Retro woodcutting cape (t)	SKILLCAPE_WOODCUTTING_TRIMMED_RETRO	34647
+Retro hooded woodcutting cape (t)	SKILLCAPE_WOODCUTTING_TRIMMED_HOODED_RETRO	34648
+Retro woodcutting hood	SKILLCAPE_WOODCUTTING_HOOD_RETRO	34649
+Retro farming cape	SKILLCAPE_FARMING_RETRO	34650
+Retro hooded farming cape	SKILLCAPE_FARMING_HOODED_RETRO	34651
+Retro farming cape (t)	SKILLCAPE_FARMING_TRIMMED_RETRO	34652
+Retro hooded farming cape (t)	SKILLCAPE_FARMING_TRIMMED_HOODED_RETRO	34653
+Retro farming hood	SKILLCAPE_FARMING_HOOD_RETRO	34654
+Retro divination cape	SKILLCAPE_DIVINATION_RETRO	34655
+Retro hooded divination cape	SKILLCAPE_DIVINATION_HOODED_RETRO	34656
+Retro divination cape (t)	SKILLCAPE_DIVINATION_TRIMMED_RETRO	34657
+Retro hooded divination cape (t)	SKILLCAPE_DIVINATION_TRIMMED_HOODED_RETRO	34658
+Retro divination hood	SKILLCAPE_DIVINATION_HOOD_RETRO	34659
+Retro dungeoneering cape	SKILLCAPE_DUNGEONEERING_RETRO	34660
+Retro hooded dungeoneering cape	SKILLCAPE_DUNGEONEERING_HOODED_RETRO	34661
+Retro dungeoneering cape (t)	SKILLCAPE_DUNGEONEERING_TRIMMED_RETRO	34662
+Retro hooded dungeoneering cape (t)	SKILLCAPE_DUNGEONEERING_TRIMMED_HOODED_RETRO	34663
+Retro dungeoneering hood	SKILLCAPE_DUNGEONEERING_HOOD_RETRO	34664
+Retro summoning cape	SKILLCAPE_SUMMONING_RETRO	34665
+Retro hooded summoning cape	SKILLCAPE_SUMMONING_HOODED_RETRO	34666
+Retro summoning cape (t)	SKILLCAPE_SUMMONING_TRIMMED_RETRO	34667
+Retro hooded summoning cape (t)	SKILLCAPE_SUMMONING_TRIMMED_HOODED_RETRO	34668
+Retro summoning hood	SKILLCAPE_SUMMONING_HOOD_RETRO	34669
+Hooded Quest Cape	SKILLCAPE_QP_HOODED	34670
+Pickled cabbage	PICKLED_CABBAGE	34671
+Arrow shaft	ARROW_SHAFT_OAK	34672
+Arrow shaft	ARROW_SHAFT_WILLOW	34673
+Arrow shaft	ARROW_SHAFT_MAPLE	34674
+Arrow shaft	ARROW_SHAFT_YEW	34675
+Arrow shaft	ARROW_SHAFT_MAGIC	34676
+Arrow shaft	ARROW_SHAFT_ELDER	34677
+Diving Suit Oyster Hunter Helmet	POH_AQUA_SUIT_HELMET_1	34678
+Diving Suit Mermaid Hunter Helmet	POH_AQUA_SUIT_HELMET_2	34679
+Diving Suit Salvage Hunter Helmet	POH_AQUA_SUIT_HELMET_3	34680
+Diving Suit Torso	POH_AQUA_SUIT_TORSO	34681
+Diving Suit Legs	POH_AQUA_SUIT_LEGS	34682
+Diving Suit Boots	POH_AQUA_SUIT_FEET	34683
+Diving Suit Gloves	POH_AQUA_SUIT_HANDS	34684
+Aquarium	POH_DUMMY_AQUARIUM	34685
+Prawn balls	POH_AQUA_PRAWN_BALLS	34686
+Prawn cracker	POH_AQUA_PRAWN_CRACKER	34687
+Golden prawn cracker	POH_AQUA_GOLDEN_PRAWN_CRACKER	34688
+Prawn penny	POH_AQUA_PRAWN_PENNY	34689
+Prawn pound	POH_AQUA_PRAWN_POUND	34690
+Golden salmon eggs	POH_AQUA_SALMON_EGGS	34691
+Golden trout eggs	POH_AQUA_TROUT_EGGS	34692
+Golden rainbow fish eggs	POH_AQUA_RAINBOW_EGGS	34693
+Golden cavefish eggs	POH_AQUA_CAVEFISH_EGGS	34694
+Golden rocktail eggs	POH_AQUA_ROCKTAIL_EGGS	34695
+Golden lava eel eggs	POH_AQUA_LAVAEEL_EGGS	34696
+Golden tuna eggs	POH_AQUA_TUNA_EGGS	34697
+Golden shark eggs	POH_AQUA_SHARK_EGGS	34698
+Golden swordfish eggs	POH_AQUA_SWORDFISH_EGGS	34699
+Golden leaping sturgeon eggs	POH_AQUA_LEAPINGSTURGEON_EGGS	34700
+Golden leaping salmon eggs	POH_AQUA_LEAPINGSALMON_EGGS	34701
+Golden leaping trout eggs	POH_AQUA_LEAPINGTROUT_EGGS	34702
+Golden monkfish eggs	POH_AQUA_MONKFISH_EGGS	34703
+Golden lobster eggs	POH_AQUA_LOBSTER_EGGS	34704
+Golden mystery egg	POH_AQUA_MYSTERY_EGG	34705
+Kelp decoration	POH_AQUA_KELP_INV	34706
+Mermaid's purse decoration	POH_AQUA_PURSE_INV	34707
+Anchor decoration	POH_AQUA_ANCHOR_INV	34708
+Treasure chest decoration	POH_AQUA_CHEST_INV	34709
+Cannon decoration	POH_AQUA_CANNON_INV	34710
+White wolf mountain decoration	POH_AQUA_MOUNTAIN_INV	34711
+Vorago decoration	POH_AQUA_VORAGO_INV	34712
+Sea troll egg decoration	POH_AQUA_SEATROLL_INV	34713
+Fishing guild decoration	POH_AQUA_TROPHY_INV	34714
+Tribal mask decoration	POH_AQUA_MASK_INV	34715
+Fremennik longboat decoration	POH_AQUA_LONGBOAT_INV	34716
+Telescope lenses	POH_AQUA_TELESCOPE_LENSES	34717
+Telescope lenses	CERT_POH_AQUA_TELESCOPE_LENSES	34718
+Porthole	POH_AQUA_PORTHOLE	34719
+Porthole	CERT_POH_AQUA_PORTHOLE	34720
+Message in a bottle	POH_AQUA_MESSAGEBOTTLE	34721
+Message in a bottle	CERT_POH_AQUA_MESSAGEBOTTLE	34722
+Shark jawbone	POH_AQUA_SHARKJAWBONE	34723
+Shark jawbone	CERT_POH_AQUA_SHARKJAWBONE	34724
+Ship figurehead	POH_AQUA_SHIPFIGUREHEAD	34725
+Ship figurehead	CERT_POH_AQUA_SHIPFIGUREHEAD	34726
+Raw great white shark	RAW_GREAT_WHITE_SHARK	34727
+Raw great white shark	CERT_RAW_GREAT_WHITE_SHARK	34728
+Great white shark	GREAT_WHITE_SHARK	34729
+Great white shark	CERT_GREAT_WHITE_SHARK	34730
+Burnt great white shark	BURNT_GREAT_WHITE_SHARK	34731
+Kelp	POH_AQUA_KELP_EDIBLE	34732
+Kelp	CERT_POH_AQUA_KELP_EDIBLE	34733
+Great maki	POH_AQUA_GREAT_MAKI	34734
+Great maki	CERT_POH_AQUA_GREAT_MAKI	34735
+Great gunkan	POH_AQUA_GREAT_GUNKAN	34736
+Great gunkan	CERT_POH_AQUA_GREAT_GUNKAN	34737
+Oyster hunter suit	POH_AQUARIUM_DIVING_SUIT_OYSTER	34738
+Mermaid hunter suit	POH_AQUARIUM_DIVING_SUIT_MERMAID	34739
+Salvage hunter suit	POH_AQUARIUM_DIVING_SUIT_SALVAGE	34740
+Driftwood prawnbrokers	POH_AQUA_PRAWN_SHOP_DRIFTWOOD	34741
+Flotsam prawnbrokers	POH_AQUA_PRAWN_SHOP_FLOTSAM	34742
+Boutique prawnbrokers	POH_AQUA_PRAWN_SHOP_BOUTIQUE	34743
+Mounted swordfish	POH_AQUARIUM_MOUNTED_SWORDFISH	34744
+Mounted shark	POH_AQUARIUM_MOUNTED_SHARK	34745
+Mounted great white shark	POH_AQUARIUM_MOUNTED_GREAT_WHITE	34746
+Maps	POH_AQUARIUM_MAPS	34747
+Shark jaw	POH_AQUARIUM_JAW	34748
+Figurehead	POH_AQUARIUM_FIGUREHEAD	34749
+Fishing net	POH_AQUARIUM_FISHING_NET	34750
+Twin anchors	POH_AQUARIUM_ANCHORS	34751
+Bait barrel	POH_AQUARIUM_BAIT_BARREL	34752
+Sayln the shark	POH_AQUA_SHARK_PET	34753
+Sayln the shark	BOUGHT_POH_AQUA_SHARK_PET	34754
+Sayln the shark	POH_AQUA_SHARK_PET_POH	34755
+RuneScape Road Trip journal	MM15_PASSPORT	34756
+Fluffie	MM15_PET	34757
+Fluffie	MM15_PET_POH	34758
+Explorer's aura	MM15_AURA_1	34759
+Greater explorer's aura	MM15_AURA_2	34760
+Master explorer's aura	MM15_AURA_3	34761
+Supreme explorer's aura	MM15_AURA_4	34762
+Compass piece	MM15_COMPASS_PIECE_1	34763
+Compass piece	MM15_COMPASS_PIECE_2	34764
+Compass piece	MM15_COMPASS_PIECE_3	34765
+Compass piece	MM15_COMPASS_PIECE_4	34766
+Strange compass	MM15_COMPASS_COMPLETE	34767
+Large explorer's lamp	MM15_LARGE_LAMP	34768
+Spring cleaner 2000	TRH53_SPRING_CLEANER_V1	34769
+Spring cleaner 3000	TRH53_SPRING_CLEANER_V2	34770
+Spring cleaner 5000	TRH53_SPRING_CLEANER_V3	34771
+Spring cleaner 9000	TRH53_SPRING_CLEANER_V4	34772
+Spring cleaner 9001	TRH53_SPRING_CLEANER_V5	34773
+Pet droppings	MTX_PET_POO	34774
+Mod Daze's homework	MTX_PET_HOMEWORK	34775
+Mod Dolan's rubber duck	MTX_PET_DUCK	34776
+Mtx pet	MTX_PET_DRAKE	34777
+Mtx pet	BOUGHT_MTX_PET_DRAKE	34778
+Mtx pet	MTX_PET_SHADOW_DRAKE	34779
+Mtx pet	BOUGHT_MTX_PET_SHADOW_DRAKE	34780
+Mtx pet	MTX_PET_DRAKE_JUVI	34781
+Mtx pet	MTX_PET_SHADOW_DRAKE_JUVI	34782
+Mtx pet	MTX_PET_DRAKE_ADULT	34783
+Mtx pet	MTX_PET_SHADOW_DRAKE_ADULT	34784
+Fire drake	MTX_PET_DRAKE_ADULT_POH	34785
+Shadow drake	MTX_PET_SHADOW_DRAKE_ADULT_POH	34786
+	MTX88_HAM	34787
+Cogwheel	BNL_COGWHEEL_OUTFIT	34788
+Cogwheel	BOUGHT_BNL_COGWHEEL_OUTFIT	34789
+Cogwheel helmet	BNL_COGWHEEL_HEAD	34790
+Cogwheel chest	BNL_COGWHEEL_TORSO	34791
+Cogwheel legs	BNL_COGWHEEL_LEGS	34792
+Cogwheel boots	BNL_COGWHEEL_FEET	34793
+Cogwheel gloves	BNL_COGWHEEL_HANDS	34794
+	POH_BRUT_SHARK	34795
+	POH_BRUT_SHARK_GOLD	34796
+	POH_BRUT_SHARK_SILVER	34797
+	POH_BRUT_GW_SHARK	34798
+	POH_BRUT_GW_SHARK_GOLD	34799
+	POH_BRUT_GW_SHARK_SILVER	34800
+	POH_BRUT_SWORDFISH	34801
+	POH_BRUT_SWORDFISH_GOLD	34802
+	POH_BRUT_SWORDFISH_SILVER	34803
+	POH_BRUT_TUNA	34804
+	POH_BRUT_TUNA_GOLD	34805
+	POH_BRUT_TUNA_SILVER	34806
+Wonder bar charge booster	TRH54_MAD_MAY	34807
+Dragon trinkets	TRH56_DRAGON_PENDANT	34808
+Lava outfit	MTX82_LAVA_OUTFIT	34809
+Lava outfit	BOUGHT_MTX82_LAVA_OUTFIT	34810
+Lava top	MTX82_LAVA_TORSO	34811
+Lava legs	MTX82_LAVA_LEGS	34812
+Lava Hands	MTX82_LAVA_HANDS	34813
+Lava Feet	MTX82_LAVA_FEET	34814
+Action bar	MTX_BATCH90_ACTIONBAR1	34815
+Action bar	BOUGHT_MTX_BATCH90_ACTIONBAR1	34816
+Action bar	MTX_BATCH90_ACTIONBAR2	34817
+Action bar	BOUGHT_MTX_BATCH90_ACTIONBAR2	34818
+Action bar	MTX_BATCH90_ACTIONBAR3	34819
+Action bar	BOUGHT_MTX_BATCH90_ACTIONBAR3	34820
+Action bar	MTX_BATCH90_ACTIONBAR4	34821
+Action bar	BOUGHT_MTX_BATCH90_ACTIONBAR4	34822
+Silverhawk down	MINIGAME_SPOTLIGHT_SILVERHAWK_FEATHER	34823
+Meteor shard	TUSKA_PRERELEASE_TOKEN	34824
+Off-hand blurite sword	FALADIAN_SWORD_OFFHAND	34825
+Prismatic large fallen star	MINIGAME_SPOTLIGHT_FALLING_STAR_CHOICE	34826
+Random large fallen star	MINIGAME_SPOTLIGHT_FALLING_STAR_RANDOM	34827
+Gud raider axe	DND_RAID_GOBLIN_AXE_HIGH	34828
+Gud raider axe	CERT_DND_RAID_GOBLIN_AXE_HIGH	34829
+Gud raider chainbody	DND_RAID_GOBLIN_TORSO_HIGH	34830
+Gud raider chainbody	CERT_DND_RAID_GOBLIN_TORSO_HIGH	34831
+Gud raider shield	DND_RAID_GOBLIN_SHIELD_HIGH	34832
+Gud raider shield	CERT_DND_RAID_GOBLIN_SHIELD_HIGH	34833
+Rise from the ashes scroll	LORE_RISE_FROM_THE_ASHES_REBORN	34834
+Combat XP lamp	CSI_COMBAT_LAMP	34835
+Charm drop enhancer	SFA_REWARD_TICKET	34836
+	PLAYER_2015_PAPER_TEAR	34837
+Prismatic dye	MTX89_DYE	34838
+Prismatic dye	BOUGHT_MTX89_DYE	34839
+Yellow dye	MTXMGT_DYE_PREMIUM_YELLOW	34840
+Yellow dye	BOUGHT_MTXMGT_DYE_PREMIUM_YELLOW	34841
+Yellow dye	MTXMGT_DYE_PREMIUM_RED	34842
+Yellow dye	BOUGHT_MTXMGT_DYE_PREMIUM_RED	34843
+Yellow dye	MTXMGT_DYE_PRISMATIC	34844
+Yellow dye	BOUGHT_MTXMGT_DYE_PRISMATIC	34845
+Cosmic foresight	MTX_COSMIC_FORESIGHT	34846
+Cosmic foresight	BOUGHT_MTX_COSMIC_FORESIGHT	34847
+Summer 2015 promo	MTX_SUMMERPROMO2015_PURCHASE	34848
+Summer 2015 promo	BOUGHT_MTX_SUMMERPROMO2015_PURCHASE	34849
+Calibration device	TUSKA_TELESCOPE	34850
+Goebie relic	TUSKA_PROMO_REP_ITEM	34851
+Reborn phoenix pouch	LORE_REBORN_PHOENIX	34852
+Reborn phoenix pouch	CERT_LORE_REBORN_PHOENIX	34853
+Reborn phoenix pouch(u)	LORE_REBORN_PHOENIX_NULL	34854
+Off-hand Armadyl crossbow	GODWARS_ARMADYL_CROSSBOW_O	34855
+Off-hand Armadyl crossbow	CERT_GODWARS_ARMADYL_CROSSBOW_O	34856
+Off-hand Armadyl crossbow	LENT_GODWARS_ARMADYL_CROSSBOW_O	34857
+Off-hand armadyl crossbow shard	SHARD_GODWARS_ARMADYL_CROSSBOW_O	34858
+Off-hand Lucky Armadyl crossbow	TRH1_LUCKY_GODWARS_ARMADYL_CROSSBOW_O	34859
+Warpriest of Tuska gauntlets	TUSKA_GLOVES_TIER1	34860
+Warpriest of Tuska gauntlets	TUSKA_GLOVES_TIER2	34861
+Warpriest of Tuska gauntlets	TUSKA_GLOVES_TIER3	34862
+Warpriest of Tuska boots	TUSKA_BOOTS_TIER1	34863
+Warpriest of Tuska boots	TUSKA_BOOTS_TIER2	34864
+Warpriest of Tuska boots	TUSKA_BOOTS_TIER3	34865
+Warpriest of Tuska cuirass	TUSKA_TORSO_TIER1	34866
+Warpriest of Tuska cuirass	TUSKA_TORSO_TIER2	34867
+Warpriest of Tuska cuirass	TUSKA_TORSO_TIER3	34868
+Warpriest of Tuska robe legs	TUSKA_LEGS_TIER1	34869
+Warpriest of Tuska robe legs	TUSKA_LEGS_TIER2	34870
+Warpriest of Tuska robe legs	TUSKA_LEGS_TIER3	34871
+Warpriest of Tuska helm	TUSKA_HELM_TIER1	34872
+Warpriest of Tuska helm	TUSKA_HELM_TIER2	34873
+Warpriest of Tuska helm	TUSKA_HELM_TIER3	34874
+Warpriest of Tuska cape	TUSKA_CAPE_TIER1	34875
+Warpriest of Tuska cape	TUSKA_CAPE_TIER2	34876
+Warpriest of Tuska cape	TUSKA_CAPE_TIER3	34877
+Tuska (Saradomin) Spear	TUSKA_SPEAR_SARADOMIN	34878
+Tuska (Armadyl) Spear	TUSKA_SPEAR_ARMADYL	34879
+Tuska (Zamorak) Spear	TUSKA_SPEAR_ZAMORAK	34880
+Tuska (Godless) Spear	TUSKA_SPEAR_GODLESS	34881
+Small XP lamp	TUSKA_LAMP_SMALL	34882
+Medium XP lamp	TUSKA_LAMP_MEDIUM	34883
+Large XP lamp	TUSKA_LAMP_LARGE	34884
+Huge XP lamp	TUSKA_LAMP_HUGE	34885
+Tuska fragment	TUSKA_SKILLING_TOKEN	34886
+Apollo's helmet	TUSKA_FISHBOWL	34887
+Relic of life	TUSKA_LOST_SOULS_PRAYER_RELIC	34888
+Relic of life (charged)	TUSKA_LOST_SOULS_PRAYER_RELIC_CHARGED	34889
+Burning log	TUSKA_LOST_SOULS_TORCH	34890
+Lightning trap (full)	TUSKA_ISLAND_SPIRE_LIGHTNING_TRAP_FULL	34891
+Lightning trap (empty)	TUSKA_ISLAND_SPIRE_LIGHTNING_TRAP_EMPTY	34892
+Mysterious herb	TUSKA_ISLAND_VINES_HERB	34893
+Mysterious herb (crushed)	TUSKA_ISLAND_VINES_HERB_CRUSHED	34894
+Vibrating seed	TUSKA_ISLAND_VINES_SEED	34895
+	TRH55_WORLD_EVENT_CURRENCY	34896
+Saradominist ceremonial robe top	TRH55_WORLD_EVENT_SARADOMIN_TORSO	34897
+Saradominist ceremonial robe bottom	TRH55_WORLD_EVENT_SARADOMIN_LEGS	34898
+Zamorakian ceremonial robe top	TRH55_WORLD_EVENT_ZAMORAK_TORSO	34899
+Zamorakian ceremonial robe bottom	TRH55_WORLD_EVENT_ZAMORAK_LEGS	34900
+Armadylean ceremonial robe top	TRH55_WORLD_EVENT_ARMADYL_TORSO	34901
+Armadylean ceremonial robe bottom	TRH55_WORLD_EVENT_ARMADYL_LEGS	34902
+Godless ceremonial robe top	TRH55_WORLD_EVENT_GODLESS_TORSO	34903
+Godless ceremonial robe bottom	TRH55_WORLD_EVENT_GODLESS_LEGS	34904
+Saradomin banner	TRH55_SARADOMIN_BANNER	34905
+Saradomin banner	TRH55_SARADOMIN_BANNER_POH	34906
+Zamorak banner	TRH55_ZAMORAK_BANNER	34907
+Zamorak banner	TRH55_ZAMORAK_BANNER_POH	34908
+Armadyl banner	TRH55_ARMADYL_BANNER	34909
+Armadyl banner	TRH55_ARMADYL_BANNER_POH	34910
+Godless banner	TRH55_GODLESS_BANNER	34911
+Godless banner	TRH55_GODLESS_BANNER_POH	34912
+Astromancer robe top	TRH55_ASTROMANCER_TORSO	34913
+Astromancer robe bottom	TRH55_ASTROMANCER_LEGS	34914
+Astromancer hat	TRH55_ASTROMANCER_HAT	34915
+Astromancer gloves	TRH55_ASTROMANCER_HANDS	34916
+Astromancer boots	TRH55_ASTROMANCER_FEET	34917
+Advanced pulse core	TRH50_PULSE_ESSENCE_ADVANCED	34918
+Botanist's mask add-on	TRH58_HERBLORE_HEAD_ADDON	34919
+Sous chef's toque add-on	TRH58_COOKING_HEAD_ADDON	34920
+First age tiara add-on	TRH58_PRAYER_HEAD_ADDON	34921
+Farmer's hat add-on	TRH58_FARMING_HEAD_ADDON	34922
+Modified botanist's mask	TRH58_HERBLORE_HEAD_UPGRADED	34923
+Modified sous chef's toque	TRH58_COOKING_HEAD_UPGRADED	34924
+Modified first age tiara	TRH58_PRAYER_HEAD_UPGRADED	34925
+Modified farmer's hat	TRH58_FARMING_HEAD_UPGRADED	34926
+Mystery box	TRH61_MYSTERY_BOX	34927
+Big mystery box	TRH61_MYSTERY_BOX_BIG	34928
+Summer prize token	TRH61_PRIZE_TOKEN	34929
+Beach Sand Cape	TRH61_SAND_CAPE	34930
+Beach Coconut Hat	TRH61_COCONUT_HAT	34931
+Winston	TRH61_BABY_TORTOISE_PET	34932
+Winston	POH_TRH61_BABY_TORTOISE_PET	34933
+Beach Bucket	TRH61_BUCKET_OVERRIDE	34934
+Beach Spade	TRH61_SPADE_OVERRIDE	34935
+Crab hat (tradeable)	TRH61_CRAB_HAT_TRADABLE	34936
+Crab hat (tradeable)	CERT_TRH61_CRAB_HAT_TRADABLE	34937
+Crab hat (untradeable)	TRH61_CRAB_HAT_UNTRADABLE	34938
+Beach party ticket	TRH61_BEACH_PARTY_TICKET	34939
+	TRH61_LOOTBEAM	34940
+Vitality accessory pack	MTX87_LIFEPOINT_ACCESSORY_PACK	34941
+Vitality accessory pack	BOUGHT_MTX87_LIFEPOINT_ACCESSORY_PACK	34942
+Vitality cape	MTX87_LIFEPOINT_CAPE	34943
+Vitality 2h sword	MTX87_LIFEPOINT_2H_SWORD	34944
+Vitality staff	MTX87_LIFEPOINT_STAFF	34945
+Vitality Crossbow	MTX87_LIFEPOINT_XBOW	34946
+Vitality suit	MTX87_LIFEPOINT_OUTFIT_INACTIVE	34947
+Vitality Suit (Inactive) Helmet	MTX87_LIFEPOINT_HEAD_INACTIVE	34948
+Vitality Suit (Inactive) Chest	MTX87_LIFEPOINT_TORSO_INACTIVE	34949
+Vitality Suit (Inactive) Legs	MTX87_LIFEPOINT_LEGS_INACTIVE	34950
+Vitality Suit (Inactive) Feet	MTX87_LIFEPOINT_FEET_INACTIVE	34951
+Vitality Suit (Inactive) Gloves	MTX87_LIFEPOINT_HANDS_INACTIVE	34952
+Vitality (Inactive) Cape	MTX87_LIFEPOINT_CAPE_INACTIVE	34953
+Vitality (Inactive) 2h Sword	MTX87_LIFEPOINT_2H_SWORD_INACTIVE	34954
+Vitality (Inactive) Staff	MTX87_LIFEPOINT_STAFF_INACTIVE	34955
+Vitality (Inactive) Crossbow	MTX87_LIFEPOINT_XBOW_INACTIVE	34956
+Challenge gem	MTX91_CHALLENGE_GEM	34957
+Challenge gem	BOUGHT_MTX91_CHALLENGE_GEM	34958
+Challenge shard	MTX91_CHALLENGE_SHARD	34959
+Salt shaker	SLAYER_SALT_SHAKER	34960
+Ice shaker	SLAYER_ICE_SHAKER	34961
+Fungicide shaker	SLAYER_FUNGICIDE_SHAKER	34962
+Explosive shaker	SLAYERBELT_EXPLOSIVESHAKER	34963
+Super explosive shaker	SLAYERBELT_SUPEREXPLOSIVESHAKER	34964
+Super explosive flask	SLAYERBELT_SUPEREXPLOSIVESHAKER_EMPTY	34965
+Super explosive flask	SLAYERBELT_SUPEREXPLOSIVESHAKER_INCOMPLETE	34966
+Retro Quest Cape	SKILLCAPE_QP_RETRO	34967
+Retro Quest Cape hood	SKILLCAPE_QP_HOOD_RETRO	34968
+Retro Hooded Quest Cape	SKILLCAPE_QP_HOODED_RETRO	34969
+Forcae's journal page	ADAMANT_DRAGON_PAGE	34970
+Forcae's journal	ADAMANT_DRAGON_BOOK	34971
+Steadfast scale	RUNE_DRAGON_MELEE_ATTACHMENT	34972
+Steadfast scale	CERT_RUNE_DRAGON_MELEE_ATTACHMENT	34973
+Glaiven wing-tip	RUNE_DRAGON_RANGE_ATTACHMENT	34974
+Glaiven wing-tip	CERT_RUNE_DRAGON_RANGE_ATTACHMENT	34975
+Ragefire gland	RUNE_DRAGON_MAGIC_ATTACHMENT	34976
+Ragefire gland	CERT_RUNE_DRAGON_MAGIC_ATTACHMENT	34977
+Emberkeen boots	RUNE_DRAGON_MELEE_BOOTS	34978
+Emberkeen boots	CERT_RUNE_DRAGON_MELEE_BOOTS	34979
+Emberkeen boots	RUNE_DRAGON_MELEE_BOOTS_USED	34980
+Flarefrost boots	RUNE_DRAGON_RANGE_BOOTS	34981
+Flarefrost boots	CERT_RUNE_DRAGON_RANGE_BOOTS	34982
+Flarefrost boots	RUNE_DRAGON_RANGE_BOOTS_USED	34983
+Hailfire boots	RUNE_DRAGON_MAGIC_BOOTS	34984
+Hailfire boots	CERT_RUNE_DRAGON_MAGIC_BOOTS	34985
+Hailfire boots	RUNE_DRAGON_MAGIC_BOOTS_USED	34986
+Kethsi ring (5)	RUNE_DRAGON_KETHSI_RING_5	34987
+Kethsi ring (5)	CERT_RUNE_DRAGON_KETHSI_RING_5	34988
+Kethsi ring (4)	RUNE_DRAGON_KETHSI_RING_4	34989
+Kethsi ring (4)	CERT_RUNE_DRAGON_KETHSI_RING_4	34990
+Kethsi ring (3)	RUNE_DRAGON_KETHSI_RING_3	34991
+Kethsi ring (3)	CERT_RUNE_DRAGON_KETHSI_RING_3	34992
+Kethsi ring (2)	RUNE_DRAGON_KETHSI_RING_2	34993
+Kethsi ring (2)	CERT_RUNE_DRAGON_KETHSI_RING_2	34994
+Kethsi ring (1)	RUNE_DRAGON_KETHSI_RING_1	34995
+Kethsi ring (1)	CERT_RUNE_DRAGON_KETHSI_RING_1	34996
+Kethsi outfit scroll	RUNE_DRAGON_KETHSI_SCROLL	34997
+	ARDRAGON_KETHSI_OUTFIT_FULL	34998
+Kethsi Helmet	ARDRAGON_KETHSI_OUTFIT_HEAD	34999
+Kethsi Chestplate	ARDRAGON_KETHSI_OUTFIT_TORSO	35000
+Kethsi Robes	ARDRAGON_KETHSI_OUTFIT_LEGS	35001
+Kethsi Bracers	ARDRAGON_KETHSI_OUTFIT_HANDS	35002
+Kethsi Boots	ARDRAGON_KETHSI_OUTFIT_FEET	35003
+Hardened dragon bonemeal	POT_BONEMEAL_ADAMANT_DRAGON	35004
+Hardened dragon bonemeal	CERT_POT_BONEMEAL_ADAMANT_DRAGON	35005
+Reinforced dragon bonemeal	POT_BONEMEAL_RUNE_DRAGON	35006
+Reinforced dragon bonemeal	CERT_POT_BONEMEAL_RUNE_DRAGON	35007
+Hardened dragon bones	ADAMANT_DRAGON_BONES	35008
+Hardened dragon bones	CERT_ADAMANT_DRAGON_BONES	35009
+Reinforced dragon bones	RUNE_DRAGON_BONES	35010
+Reinforced dragon bones	CERT_RUNE_DRAGON_BONES	35011
+Meteorite chunk	TUSKA_SURFACE_ASTEROID	35012
+	ARTISAN_INGOT_4_IRON_HEAT_REWARD	35013
+	ARTISAN_INGOT_4_STEEL_HEAT_REWARD	35014
+	ARTISAN_INGOT_4_MITHRIL_HEAT_REWARD	35015
+	ARTISAN_INGOT_4_ADAMANT_HEAT_REWARD	35016
+	ARTISAN_INGOT_4_RUNE_HEAT_REWARD	35017
+	ARTISAN_INGOT_4_IRON_REWARD	35018
+	ARTISAN_INGOT_4_STEEL_REWARD	35019
+	ARTISAN_INGOT_4_MITHRIL_REWARD	35020
+	ARTISAN_INGOT_4_ADAMANT_REWARD	35021
+	ARTISAN_INGOT_4_RUNE_REWARD	35022
+Sword Polishing Kit	ARTISAN_POLISHING_KIT	35023
+Off-hand iron ceremonial sword I	ARTISAN_SWORD_1_IRON_O	35024
+Off-hand iron ceremonial sword II	ARTISAN_SWORD_2_IRON_O	35025
+Off-hand iron ceremonial sword III	ARTISAN_SWORD_3_IRON_O	35026
+Off-hand iron ceremonial sword IV	ARTISAN_SWORD_4_IRON_O	35027
+Off-hand iron ceremonial sword V	ARTISAN_SWORD_5_IRON_O	35028
+Off-hand steel ceremonial sword I	ARTISAN_SWORD_1_STEEL_O	35029
+Off-hand steel ceremonial sword II	ARTISAN_SWORD_2_STEEL_O	35030
+Off-hand steel ceremonial sword III	ARTISAN_SWORD_3_STEEL_O	35031
+Off-hand steel ceremonial sword IV	ARTISAN_SWORD_4_STEEL_O	35032
+Off-hand steel ceremonial sword V	ARTISAN_SWORD_5_STEEL_O	35033
+Off-hand mithril ceremonial sword I	ARTISAN_SWORD_1_MITHRIL_O	35034
+Off-hand mithril ceremonial sword II	ARTISAN_SWORD_2_MITHRIL_O	35035
+Off-hand mithril ceremonial sword III	ARTISAN_SWORD_3_MITHRIL_O	35036
+Off-hand mithril ceremonial sword IV	ARTISAN_SWORD_4_MITHRIL_O	35037
+Off-hand mithril ceremonial sword V	ARTISAN_SWORD_5_MITHRIL_O	35038
+Off-hand adamant ceremonial sword I	ARTISAN_SWORD_1_ADAMANT_O	35039
+Off-hand adamant ceremonial sword II	ARTISAN_SWORD_2_ADAMANT_O	35040
+Off-hand adamant ceremonial sword III	ARTISAN_SWORD_3_ADAMANT_O	35041
+Off-hand adamant ceremonial sword IV	ARTISAN_SWORD_4_ADAMANT_O	35042
+Off-hand adamant ceremonial sword V	ARTISAN_SWORD_5_ADAMANT_O	35043
+Off-hand rune ceremonial sword I	ARTISAN_SWORD_1_RUNE_O	35044
+Off-hand rune ceremonial sword II	ARTISAN_SWORD_2_RUNE_O	35045
+Off-hand rune ceremonial sword III	ARTISAN_SWORD_3_RUNE_O	35046
+Off-hand rune ceremonial sword IV	ARTISAN_SWORD_4_RUNE_O	35047
+Off-hand rune ceremonial sword V	ARTISAN_SWORD_5_RUNE_O	35048
+Ice cream	MTXBEACH15_ICE_CREAM	35049
+Anti-sun potion	MTXBEACH15_SUNSCREEN	35050
+Pink fizz (beach cocktail)	MTXBEACH15_COCKTAIL_COMBAT	35051
+Purple Lumbridge (beach cocktail)	MTXBEACH15_COCKTAIL_ARTISAN	35052
+Pineappletini (beach cocktail)	MTXBEACH15_COCKTAIL_GATHERER	35053
+Lemon sour (beach cocktail)	MTXBEACH15_COCKTAIL_SUPPORT	35054
+Bunting whip token	MTXBEACH15_BUNTING_WHIP_TOKEN	35055
+Bunting whip token	BOUGHT_MTXBEACH15_BUNTING_WHIP_TOKEN	35056
+Stick of rock token	MTXBEACH15_STICK_OF_ROCK_TOKEN	35057
+Stick of rock token	BOUGHT_MTXBEACH15_STICK_OF_ROCK_TOKEN	35058
+Throwing starfish token	MTXBEACH15_THROWING_STARFISH_TOKEN	35059
+Throwing starfish token	BOUGHT_MTXBEACH15_THROWING_STARFISH_TOKEN	35060
+Snorkel token	MTXBEACH15_SNORKEL_TOKEN	35061
+Snorkel token	BOUGHT_MTXBEACH15_SNORKEL_TOKEN	35062
+Bucket head token	MTXBEACH15_BUCKET_HEAD_TOKEN	35063
+Bucket head token	BOUGHT_MTXBEACH15_BUCKET_HEAD_TOKEN	35064
+Clawdia hat token	MTXBEACH15_KRAKEN_HAT_TOKEN	35065
+Clawdia hat token	BOUGHT_MTXBEACH15_KRAKEN_HAT_TOKEN	35066
+Buried in sand rest emote token	MTXBEACH15_BURIED_SAND_REST_TOKEN	35067
+Buried in sand rest emote token	BOUGHT_MTXBEACH15_BURIED_SAND_REST_TOKEN	35068
+Surfboard emote token	MTXBEACH15_SURFBOARD_EMOTE_TOKEN	35069
+Surfboard emote token	BOUGHT_MTXBEACH15_SURFBOARD_EMOTE_TOKEN	35070
+Dragon ring token	MTXBEACH15_DRAGON_RING_TOKEN	35071
+Dragon ring token	BOUGHT_MTXBEACH15_DRAGON_RING_TOKEN	35072
+Gillbert pet token	MTXBEACH15_FISH_OUT_WATER_TOKEN	35073
+Gillbert pet token	BOUGHT_MTXBEACH15_FISH_OUT_WATER_TOKEN	35074
+Phoebe pet token	MTXBEACH15_JELLYFISH_TOKEN	35075
+Phoebe pet token	BOUGHT_MTXBEACH15_JELLYFISH_TOKEN	35076
+Beach ball token	MTXBEACH15_BEACHBALL_TOKEN	35077
+Beach ball token	BOUGHT_MTXBEACH15_BEACHBALL_TOKEN	35078
+Throwing disc token	MTXBEACH15_FRISBEE_TOKEN	35079
+Throwing disc token	BOUGHT_MTXBEACH15_FRISBEE_TOKEN	35080
+Barrel of monkeys	MTXBEACH15_MONKEY_BARREL	35081
+Beach Bunting Whip	MTXBEACH15_BUNTING_WHIP	35082
+Beach Stick of Rock	MTXBEACH15_STICK_OF_ROCK_SWORD	35083
+Beach Off-hand Stick of Rock	MTXBEACH15_STICK_OF_ROCK_SWORD_O	35084
+Beach Throwing Starfish	MTXBEACH15_THROWING_STARFISH	35085
+Beach Off-hand Throwing Starfish	MTXBEACH15_THROWING_STARFISH_O	35086
+Beach Snorkel	MTXBEACH15_SNORKEL	35087
+Beach Bucket Head	MTXBEACH15_BUCKET_HEAD	35088
+Beach Clawdia Hat	MTXBEACH15_KRAKEN_HAT	35089
+Anti-dragon throwing disc case	MTXBEACH15_FRISBEE	35090
+Black shield throwing disc case	MTXBEACH15_FRISBEE_BLACK	35091
+Mithril shield throwing disc case	MTXBEACH15_FRISBEE_MITHRIL	35092
+Anti-dragon throwing disc	MTXBEACH15_FRISBEE_DUMMY	35093
+Anti-dragon throwing disc	CERT_MTXBEACH15_FRISBEE_DUMMY	35094
+Black shield throwing disc	MTXBEACH15_FRISBEE_BLACK_DUMMY	35095
+Mithril shield throwing disc	MTXBEACH15_FRISBEE_MITHRIL_DUMMY	35096
+Beach Dragon Ring	MTXBEACH15_DRAGON_RING	35097
+Swimming outfit	MTXBEACH15_BEACHWEAR_OUTFIT	35098
+Swimming outfit	BOUGHT_MTXBEACH15_BEACHWEAR_OUTFIT	35099
+Beach Swimming Top	MTXBEACH15_BEACHWEAR_TORSO	35100
+Beach Swimming Bottoms	MTXBEACH15_BEACHWEAR_LEGS	35101
+Tropical coconut	MTXBEACH15_COCONUT	35102
+Little toy duck	MTXBEACH15_RUBBER_DUCK	35103
+	MTXBEACH15_DUMBELLS	35104
+	MTXBEACH15_SURFBOARD	35105
+Raw tropical trout	MTXBEACH15_FISH	35106
+V's journal	DOV_JOURNAL	35107
+Map fragments	DOV_MAP_FRAGMENTS	35108
+Map	DOV_MAP_SOLVED	35109
+Key mould	DOV_KEY_MOULD	35110
+Dragon-mithril key	DOV_KEY	35111
+Dragonkin key	DOV_LAIR_PUZZLE_KEY	35112
+Dragonkin protection charm	DOV_DRAGONKIN_AMULET	35113
+Notes	DOV_DRAGONKIN_NOTES	35114
+Dragon javelin	DRAGON_JAVELIN	35115
+Off-hand dragon javelin	DRAGON_JAVELIN_O	35116
+Abomination cape	DOV_ABOMINATION_CAPE	35117
+Abomination cape	CERT_DOV_ABOMINATION_CAPE	35118
+Sakirth's journal	DOV_SAKIRTH_JOURNAL	35119
+Strisath's journal	DOV_STRISATH_JOURNAL	35120
+Kalibath's journal	DOV_KALIBATH_JOURNAL	35121
+Phalaks' experiment log	DOV_PHALAKS_JOURNAL	35122
+Banner of V	GODEM_BANNER_V_TIER1	35123
+Banner of V	GODEM_BANNER_V_TIER2	35124
+Banner of V	GODEM_BANNER_V_TIER3	35125
+Banner of V	GODEM_BANNER_V_TIER4	35126
+Relic helm of V	GODEM_HELMET_V	35127
+Black shield throwing disc	CERT_MTXBEACH15_FRISBEE_BLACK_DUMMY	35128
+Mithril shield throwing disc	CERT_MTXBEACH15_FRISBEE_MITHRIL_DUMMY	35129
+Phoebe	MTXBEACH15_JELLYFISH_PET	35130
+Phoebe	MTXBEACH15_JELLYFISH_PET_POH	35132
+Gillbert	MTXBEACH15_FISH_OUT_WATER_PET	35133
+Gillbert	MTXBEACH15_FISH_OUT_WATER_PET_POH	35135
+Otot tablet	POH_TABLET_MAZCABTELEPORT	35136
+Burning log	RAID1_FOREST_KEY1	35138
+Raider axe	RAID1_FOREST_KEY2	35140
+Mysterious staff	RAID1_FOREST_KEY4	35142
+Mysterious axe	RAID1_FOREST_KEY5	35144
+Plank	RAID1_WATERBOSS_PLANK	35146
+Plank	CERT_RAID1_WATERBOSS_PLANK	35147
+Mazcab ability codex	RAID1_ABILITY_BOOK_TRADEABLE	35148
+Mazcab ability codex	CERT_RAID1_ABILITY_BOOK_TRADEABLE	35149
+Storm Shards and Shatter ability codex	RAID1_ABILITY_BOOK_STORM_SHARDS	35150
+Corruption Shot ability codex	RAID1_ABILITY_BOOK_RANGED_CORRUPTION	35151
+Corruption Blast ability codex	RAID1_ABILITY_BOOK_MAGIC_CORRUPTION	35152
+Onslaught ability codex	RAID1_ABILITY_BOOK_SURGING_ONSLAUGHT	35153
+Primeval mask	RAID1_MAGIC_HELM_TIER1	35154
+Primeval gloves	RAID1_MAGIC_GLOVES_TIER1	35155
+Primeval boots	RAID1_MAGIC_BOOTS_TIER1	35156
+Primeval robe top	RAID1_MAGIC_BODY_TIER1	35157
+Primeval robe legs	RAID1_MAGIC_LEGS_TIER1	35158
+Achto Primeval mask	RAID1_MAGIC_HELM_TIER2	35159
+Achto Primeval mask (broken)	RAID1_MAGIC_HELM_TIER2_BROKEN	35160
+Achto Primeval gloves	RAID1_MAGIC_GLOVES_TIER2	35161
+Achto Primeval gloves (broken)	RAID1_MAGIC_GLOVES_TIER2_BROKEN	35162
+Achto Primeval boots	RAID1_MAGIC_BOOTS_TIER2	35163
+Achto Primeval boots (broken)	RAID1_MAGIC_BOOTS_TIER2_BROKEN	35164
+Achto Primeval robe top	RAID1_MAGIC_BODY_TIER2	35165
+Achto Primeval robe top (broken)	RAID1_MAGIC_BODY_TIER2_BROKEN	35166
+Achto Primeval robe legs	RAID1_MAGIC_LEGS_TIER2	35167
+Achto Primeval robe legs (broken)	RAID1_MAGIC_LEGS_TIER2_BROKEN	35168
+Teralith helmet	RAID1_MELEE_HELM_TIER1	35169
+Teralith gauntlets	RAID1_MELEE_GLOVES_TIER1	35170
+Teralith boots	RAID1_MELEE_BOOTS_TIER1	35171
+Teralith cuirass	RAID1_MELEE_BODY_TIER1	35172
+Teralith leggings	RAID1_MELEE_LEGS_TIER1	35173
+Achto Teralith helmet	RAID1_MELEE_HELM_TIER2	35174
+Achto Teralith helmet (broken)	RAID1_MELEE_HELM_TIER2_BROKEN	35175
+Achto Teralith gauntlets	RAID1_MELEE_GLOVES_TIER2	35176
+Achto Teralith gauntlets (broken)	RAID1_MELEE_GLOVES_TIER2_BROKEN	35177
+Achto Teralith boots	RAID1_MELEE_BOOTS_TIER2	35178
+Achto Teralith boots (broken)	RAID1_MELEE_BOOTS_TIER2_BROKEN	35179
+Achto Teralith cuirass	RAID1_MELEE_BODY_TIER2	35180
+Achto Teralith cuirass (broken)	RAID1_MELEE_BODY_TIER2_BROKEN	35181
+Achto Teralith leggings	RAID1_MELEE_LEGS_TIER2	35182
+Achto Teralith leggings (broken)	RAID1_MELEE_LEGS_TIER2_BROKEN	35183
+Tempest cowl	RAID1_RANGED_HELM_TIER1	35184
+Tempest gloves	RAID1_RANGED_GLOVES_TIER1	35185
+Tempest boots	RAID1_RANGED_BOOTS_TIER1	35186
+Tempest body	RAID1_RANGED_BODY_TIER1	35187
+Tempest chaps	RAID1_RANGED_LEGS_TIER1	35188
+Achto Tempest cowl	RAID1_RANGED_HELM_TIER2	35189
+Achto Tempest cowl (broken)	RAID1_RANGED_HELM_TIER2_BROKEN	35190
+Achto Tempest gloves	RAID1_RANGED_GLOVES_TIER2	35191
+Achto Tempest gloves (broken)	RAID1_RANGED_GLOVES_TIER2_BROKEN	35192
+Achto Tempest boots	RAID1_RANGED_BOOTS_TIER2	35193
+Achto Tempest boots (broken)	RAID1_RANGED_BOOTS_TIER2_BROKEN	35194
+Achto Tempest body	RAID1_RANGED_BODY_TIER2	35195
+Achto Tempest body (broken)	RAID1_RANGED_BODY_TIER2_BROKEN	35196
+Achto Tempest chaps	RAID1_RANGED_LEGS_TIER2	35197
+Achto Tempest chaps (broken)	RAID1_RANGED_LEGS_TIER2_BROKEN	35198
+Cooked eeligator	RAID1_OVERPRICED_FISH	35199
+Cooked eeligator	CERT_RAID1_OVERPRICED_FISH	35200
+Teci	RAID1_CURRENCY	35201
+Small goebie burial charm	RAID1_LOOT_REP_SMALL	35202
+Goebie burial charm	RAID1_LOOT_REP_MEDIUM	35203
+Large goebie burial charm	RAID1_LOOT_REP_LARGE	35204
+Trinket	RAID1_TRINKS_TRINKET	35205
+Magic flute	RAID1_FLUTE	35206
+Goebie supplies	RAID1_GOEBIE_COURIER_SUPPLY	35207
+Goebie supplies	CERT_RAID1_GOEBIE_COURIER_SUPPLY	35208
+Relic I	RAID1_GOEBIE_RELIC_1	35209
+First stone fragment	RAID1_LORE_FRAGMENT_1	35210
+Second stone fragment	RAID1_LORE_FRAGMENT_2	35211
+Third stone fragment	RAID1_LORE_FRAGMENT_3	35212
+Fourth stone fragment	RAID1_LORE_FRAGMENT_4	35213
+Fifth stone fragment	RAID1_LORE_FRAGMENT_5	35214
+Goebie	RAID1_GOEBIE_PET	35215
+Goebie	RAID1_GOEBIE_PET_POH	35216
+Lil' tuzzy	RAID1_DOG_PET1	35217
+Lil' tuzzy	RAID1_DOG_PET1_POH	35218
+Krar jnr	RAID1_DOG_PET2	35219
+Krar jnr	RAID1_DOG_PET2_POH	35220
+Tent scraps	RAID1_GOEBIE_MINIQUEST_SCRAPS	35221
+Driftwood	RAID1_GOEBIE_MINIQUEST_DRIFTWOOD	35222
+Pahtli fruit	RAID1_GOEBIE_MINIQUEST_FRUIT	35223
+Nemi poison	RAID1_GOEBIE_MINIQUEST_POISON	35224
+Strange glowing orb	RAID1_GLOWING_ORB	35225
+Portable crafter	TRH63_CRAFTING_OBJ	35226
+Portable fletcher	TRH63_FLETCHING_OBJ	35227
+Portable brazier	TRH63_FIREMAKING_OBJ	35228
+V's outfit	MTX92_DOV_OUTFIT	35229
+V's outfit	BOUGHT_MTX92_DOV_OUTFIT	35230
+V Helmet	MTX92_DOV_HEAD	35231
+V Chestpiece	MTX92_DOV_TORSO	35232
+V Legguards	MTX92_DOV_LEGS	35233
+V Sabatons	MTX92_DOV_FEET	35234
+V Gauntlets	MTX92_DOV_HANDS	35235
+V Cape	MTX92_DOV_BACK	35236
+V Broadsword	MTX92_DOV_WEAPON	35237
+Runefest package 2015	MTX_RUNEFEST2015_PACKAGE	35238
+Runefest package 2015	BOUGHT_MTX_RUNEFEST2015_PACKAGE	35239
+Achto Primeval mask	RAID1_MAGIC_HELM_TIER2_NEW	35240
+Achto Primeval gloves	RAID1_MAGIC_GLOVES_TIER2_NEW	35241
+Achto Primeval boots	RAID1_MAGIC_BOOTS_TIER2_NEW	35242
+Achto Primeval robe top	RAID1_MAGIC_BODY_TIER2_NEW	35243
+Achto Primeval robe legs	RAID1_MAGIC_LEGS_TIER2_NEW	35244
+Achto Teralith helmet	RAID1_MELEE_HELM_TIER2_NEW	35245
+Achto Teralith gauntlets	RAID1_MELEE_GLOVES_TIER2_NEW	35246
+Achto Teralith boots	RAID1_MELEE_BOOTS_TIER2_NEW	35247
+Achto Teralith cuirass	RAID1_MELEE_BODY_TIER2_NEW	35248
+Achto Teralith leggings	RAID1_MELEE_LEGS_TIER2_NEW	35249
+Achto Tempest cowl	RAID1_RANGED_HELM_TIER2_NEW	35250
+Achto Tempest gloves	RAID1_RANGED_GLOVES_TIER2_NEW	35251
+Achto Tempest boots	RAID1_RANGED_BOOTS_TIER2_NEW	35252
+Achto Tempest body	RAID1_RANGED_BODY_TIER2_NEW	35253
+Achto Tempest chaps	RAID1_RANGED_LEGS_TIER2_NEW	35254
+Jaguar cub	BIGCATS_JAGUAR	35255
+Jaguar cub	POH_BIGCATS_JAGUAR	35256
+Lion cub	BIGCATS_LION	35257
+Lion cub	POH_BIGCATS_LION	35258
+Snow leopard cub	BIGCATS_SNOWLEOPARD	35259
+Snow leopard cub	POH_BIGCATS_SNOWLEOPARD	35260
+Tiger cub	BIGCATS_TIGER	35261
+Tiger cub	POH_BIGCATS_TIGER	35262
+	BIGCATS_SCROLL1_DUMMY	35263
+	BIGCATS_SCROLL2_DUMMY	35264
+	BIGCATS_SCROLL3_DUMMY	35265
+	BIGCATS_GIFT	35266
+Shiny columbarium key	MYQ4_COLUMBARIUM_KEY_INV_HIGH	35267
+Demonic skull	ABYSS_KILL_ME	35268
+Demonic skull	CERT_ABYSS_KILL_ME	35269
+Small XP lamp	BIGCATS_LAMP_SMALL	35270
+Medium XP lamp	BIGCATS_LAMP_MEDIUM	35271
+Small XP lamp	Q200_LAMP_SMALL	35272
+Medium XP lamp	Q200_LAMP_MEDIUM	35273
+Large XP lamp	Q200_LAMP_LARGE	35274
+Huge XP lamp	Q200_LAMP_HUGE	35275
+Plotenite	COSMCENARIO_FACTION_RESOURCE	35276
+Mask of the Dagannoth	TRH64_SLAYER_MASK_DAGANNOTH	35277
+Helm of the Dagannoth	TRH64_SLAYER_HELM_DAGANNOTH	35278
+Mask of the Troll	TRH64_SLAYER_MASK_TROLL	35279
+Helm of the Troll	TRH64_SLAYER_HELM_TROLL	35280
+Mask of the Ganodermic	TRH64_SLAYER_MASK_GANODERMIC	35281
+Helm of the Ganodermic	TRH64_SLAYER_HELM_GANODERMIC	35282
+Mask of the Automatons	TRH64_SLAYER_MASK_AUTOMATON	35283
+Helm of the Automatons	TRH64_SLAYER_HELM_AUTOMATON	35284
+Mask of the Airut	TRH64_SLAYER_MASK_AIRUT	35285
+Helm of the Airut	TRH64_SLAYER_HELM_AIRUT	35286
+Mask of the Black Demon	TRH64_SLAYER_MASK_DEMON	35287
+Helm of the Black Demon	TRH64_SLAYER_HELM_DEMON	35288
+Mask of the Aquanites	TRH64_SLAYER_MASK_AQUANITE	35289
+Helm of the Aquanites	TRH64_SLAYER_HELM_AQUANITE	35290
+Hunter XP lamp	ELFCITY_IMPLING_LAMP	35291
+Death Lotus training scroll	TRH65_BINGO_CARD	35292
+Shuriken stamps	TRH65_STAMP	35293
+Death Lotus Disciple Legs	TRH65_NINJA_LEGS	35294
+Death Lotus Disciple gloves	TRH65_NINJA_GLOVES	35295
+Death Lotus Disciple boots	TRH65_NINJA_FEET	35296
+Death Lotus Disciple Torso	TRH65_NINJA_TORSO	35297
+Death Lotus Disciple Mask	TRH65_NINJA_HEAD	35298
+Death Lotus Disciple Torso	TRH65_NINJA_TORSO_RED	35299
+Death Lotus Disciple Mask	TRH65_NINJA_HEAD_RED	35301
+Death Lotus Disciple Torso	TRH65_NINJA_TORSO_BLACK	35303
+Death Lotus Disciple Mask	TRH65_NINJA_HEAD_BLACK	35305
+Death Lotus Disciple Torso	TRH65_NINJA_TORSO_BLUE	35307
+Death Lotus Disciple Mask	TRH65_NINJA_HEAD_BLUE	35309
+Death Lotus Sai	TRH65_SAI_RIGHT	35311
+Death Lotus Off-hand Sai	TRH65_SAI_LEFT	35312
+Death Lotus Glaive	TRH65_GLAIVE	35313
+Death Lotus Acid Flask	TRH65_SMOKE_BOMB	35314
+Death Lotus Off-hand Acid Flask	TRH65_SMOKE_BOMB_O	35315
+Death Lotus Dragon Staff	TRH65_DRAGON_STAFF	35316
+Meditation rest animation token	TRH65_REST_TOKEN	35317
+Novtumber Festival seed	TRH67_MAGIC_SEED	35318
+Novtumber Festival produce	TRH67_HARVEST_PRODUCE	35319
+Novtumber Festival perfect produce	TRH67_HARVEST_PRODUCE_PERFECT	35320
+Farmer's outfit	TRH67_FARMER_HAT_DUMMY	35321
+First Age outfit	TRH67_PRAYER_TIARA_DUMMY	35322
+Black crystal (reduced magic)	SLAYC_DARK_CRYSTAL_01_PERM	35323
+Black crystal (reduced melee)	SLAYC_DARK_CRYSTAL_02_PERM	35324
+Black crystal (reduced ranged)	SLAYC_DARK_CRYSTAL_03_PERM	35325
+Black crystal (magic weakness)	SLAYC_DARK_CRYSTAL_04_PERM	35326
+Black crystal (melee weakness)	SLAYC_DARK_CRYSTAL_05_PERM	35327
+Black crystal (ranged weakness)	SLAYC_DARK_CRYSTAL_06_PERM	35328
+Black crystal (no ultimates/specials)	SLAYC_DARK_CRYSTAL_07_PERM	35329
+Black crystal (prayer drain)	SLAYC_DARK_CRYSTAL_08_PERM	35330
+Black crystal (reduced healing)	SLAYC_DARK_CRYSTAL_09_PERM	35331
+Green dragonhide coif	CERT_HVH_GREEN_DHIDE_COIF_100	35332
+Blue dragonhide coif	CERT_HVH_BLUE_DHIDE_COIF_100	35333
+Red dragonhide coif	CERT_HVH_RED_DHIDE_COIF_100	35334
+Black dragonhide coif	CERT_HVH_BLACK_DHIDE_COIF_100	35335
+Royal dragonhide coif	CERT_HVH_ROYAL_DHIDE_COIF_100	35336
+Bronze gauntlets	CERT_HVH_BRONZE_GAUNTLETS	35337
+Iron gauntlets	CERT_HVH_IRON_GAUNTLETS	35338
+Steel gauntlets	CERT_HVH_STEEL_GAUNTLETS	35339
+Black gauntlets	CERT_HVH_BLACK_GAUNTLETS	35340
+Mithril gauntlets	CERT_HVH_MITHRIL_GAUNTLETS	35341
+Adamant gauntlets	CERT_HVH_ADAMANT_GAUNTLETS	35342
+Rune gauntlets	CERT_HVH_RUNE_GAUNTLETS	35343
+Dragon gauntlets	CERT_HVH_DRAGON_GAUNTLETS	35344
+Lantadyme gloves	HVH_LANTADYME_GLOVES	35345
+Dwarf weed gloves	HVH_DWARF_WEED_GLOVES	35346
+Torstol gloves	HVH_TORSTOL_GLOVES	35347
+Monkfish gloves	HVH_MONKFISH_GLOVES	35348
+Cavefish gloves	HVH_CAVEFISH_GLOVES	35349
+Rocktail gloves	HVH_ROCKTAIL_GLOVES	35350
+Fire runecrafting gloves	HVH_FIRE_GLOVES	35351
+Chaos runecrafting gloves	HVH_CHAOS_GLOVES	35352
+Death runecrafting gloves	HVH_DEATH_GLOVES	35353
+Blood runecrafting gloves	HVH_BLOOD_GLOVES	35354
+Fire warrior outfit override pack	TRH66_FAREED_DUMMY	35355
+Ice warrior outfit override pack	TRH66_KAMIL_DUMMY	35356
+Fire warrior helm	TRH66_DESERT_TREASURE_FAREED_HEAD	35357
+Fire warrior chestplate	TRH66_DESERT_TREASURE_FAREED_TORSO	35358
+Fire warrior platelegs	TRH66_DESERT_TREASURE_FAREED_LEGS	35359
+Fire warrior gloves	TRH66_DESERT_TREASURE_FAREED_HANDS	35360
+Fire warrior boots	TRH66_DESERT_TREASURE_FAREED_FEET	35361
+Ice warrior helm	TRH66_DESERT_TREASURE_KAMIL_HEAD	35362
+Ice warrior chestplate	TRH66_DESERT_TREASURE_KAMIL_TORSO	35363
+Ice warrior platelegs	TRH66_DESERT_TREASURE_KAMIL_LEGS	35364
+Ice warrior gloves	TRH66_DESERT_TREASURE_KAMIL_HANDS	35365
+Ice warrior boots	TRH66_DESERT_TREASURE_KAMIL_FEET	35366
+Barbarian outfit	MTX93_BARBARIAN_OUTFIT	35367
+Barbarian outfit	BOUGHT_MTX93_BARBARIAN_OUTFIT	35368
+Barbarian Helmet	MTX93_BARBARIAN_HEAD	35369
+Barbarian Cuirass	MTX93_BARBARIAN_TORSO	35370
+Barbarian Greaves	MTX93_BARBARIAN_LEGS	35371
+Barbarian Boots	MTX93_BARBARIAN_FEET	35372
+Barbarian Cuffs	MTX93_BARBARIAN_HANDS	35373
+Barbarian maul	MTX93_BARBARIAN_MAUL	35374
+Barbarian warhammer	MTX93_BARBARIAN_WARHAMMER	35375
+Barbarian Off-hand Warhammer	MTX93_BARBARIAN_WARHAMMER_O	35376
+Anim	MTX93_BARBARIAN_WALK_OVERRIDE	35377
+Ring of death (broken)	ENCHANTED_HYDRIX_RING_BROKEN	35378
+Reaper necklace (broken)	ENCHANTED_HYDRIX_NECKLACE_BROKEN	35379
+Amulet of souls (broken)	ENCHANTED_HYDRIX_AMULET_BROKEN	35380
+Deathtouch bracelet (broken)	ENCHANTED_HYDRIX_BRACELET_BROKEN	35381
+Anim	MTX_ATS_WALK_OVERRIDE_SAD	35382
+Anim	BOUGHT_MTX_ATS_WALK_OVERRIDE_SAD	35383
+Anim	MTX_ATS_WALK_OVERRIDE_HAPPY	35384
+Anim	BOUGHT_MTX_ATS_WALK_OVERRIDE_HAPPY	35385
+Anim	MTX_ATS_WALK_OVERRIDE_PROUD	35386
+Anim	BOUGHT_MTX_ATS_WALK_OVERRIDE_PROUD	35387
+Anim	MTX_ATS_WALK_OVERRIDE_ANGRY	35388
+Anim	BOUGHT_MTX_ATS_WALK_OVERRIDE_ANGRY	35389
+Seren shard (integrity)	SEREN_SHARD_MILITARY	35390
+Seren shard (wisdom)	SEREN_SHARD_SPIRITUALISTS	35391
+Seren shard (harmony)	SEREN_SHARD_NATURALISTS	35392
+Seren shard (prudence)	SEREN_SHARD_ARTISANS	35393
+Seren shard (dark)	SEREN_SHARD_DARK_LORD	35394
+Bloodcap mushroom	SEREN_NATURALISTS_INGREDIENT	35395
+Wintercup mushroom	SEREN_NATURALISTS_INGREDIENT_2	35396
+Elixir of Revealment	SEREN_NATURALISTS_POTION	35397
+Baxtorian's journal	SEREN_BAXTORIAN_BOOK	35398
+Letter from Eluned	SEREN_ELUNED_GOODBYE	35399
+Crystal helm	SEREN_CRYSTAL_ARMOUR_HELM_NEW_BASIC	35400
+Crystal helm	CERT_SEREN_CRYSTAL_ARMOUR_HELM_NEW_BASIC	35401
+Crystal helm	SEREN_CRYSTAL_ARMOUR_HELM_USED_BASIC	35402
+Crystal helm (broken)	SEREN_CRYSTAL_ARMOUR_HELM_BROKEN_BASIC	35403
+Crystal body	SEREN_CRYSTAL_ARMOUR_BODY_NEW_BASIC	35404
+Crystal body	CERT_SEREN_CRYSTAL_ARMOUR_BODY_NEW_BASIC	35405
+Crystal body	SEREN_CRYSTAL_ARMOUR_BODY_USED_BASIC	35406
+Crystal body (broken)	SEREN_CRYSTAL_ARMOUR_BODY_BROKEN_BASIC	35407
+Crystal legs	SEREN_CRYSTAL_ARMOUR_LEGS_NEW_BASIC	35408
+Crystal legs	CERT_SEREN_CRYSTAL_ARMOUR_LEGS_NEW_BASIC	35409
+Crystal legs	SEREN_CRYSTAL_ARMOUR_LEGS_USED_BASIC	35410
+Crystal legs (broken)	SEREN_CRYSTAL_ARMOUR_LEGS_BROKEN_BASIC	35411
+Crystal boots	SEREN_CRYSTAL_ARMOUR_BOOTS_NEW_BASIC	35412
+Crystal boots	CERT_SEREN_CRYSTAL_ARMOUR_BOOTS_NEW_BASIC	35413
+Crystal boots	SEREN_CRYSTAL_ARMOUR_BOOTS_USED_BASIC	35414
+Crystal boots (broken)	SEREN_CRYSTAL_ARMOUR_BOOTS_BROKEN_BASIC	35415
+Crystal gloves	SEREN_CRYSTAL_ARMOUR_GLOVES_NEW_BASIC	35416
+Crystal gloves	CERT_SEREN_CRYSTAL_ARMOUR_GLOVES_NEW_BASIC	35417
+Crystal gloves	SEREN_CRYSTAL_ARMOUR_GLOVES_USED_BASIC	35418
+Crystal gloves (broken)	SEREN_CRYSTAL_ARMOUR_GLOVES_BROKEN_BASIC	35419
+Attuned crystal helm	SEREN_CRYSTAL_ARMOUR_HELM_NEW_ADVANCED	35420
+Attuned crystal helm	SEREN_CRYSTAL_ARMOUR_HELM_USED_ADVANCED	35421
+Attuned crystal helm (broken)	SEREN_CRYSTAL_ARMOUR_HELM_BROKEN_ADVANCED	35422
+Attuned crystal body	SEREN_CRYSTAL_ARMOUR_BODY_NEW_ADVANCED	35423
+Attuned crystal body	SEREN_CRYSTAL_ARMOUR_BODY_USED_ADVANCED	35424
+Attuned crystal body (broken)	SEREN_CRYSTAL_ARMOUR_BODY_BROKEN_ADVANCED	35425
+Attuned crystal legs	SEREN_CRYSTAL_ARMOUR_LEGS_NEW_ADVANCED	35426
+Attuned crystal legs	SEREN_CRYSTAL_ARMOUR_LEGS_USED_ADVANCED	35427
+Attuned crystal legs (broken)	SEREN_CRYSTAL_ARMOUR_LEGS_BROKEN_ADVANCED	35428
+Attuned crystal boots	SEREN_CRYSTAL_ARMOUR_BOOTS_NEW_ADVANCED	35429
+Attuned crystal boots	SEREN_CRYSTAL_ARMOUR_BOOTS_USED_ADVANCED	35430
+Attuned crystal boots (broken)	SEREN_CRYSTAL_ARMOUR_BOOTS_BROKEN_ADVANCED	35431
+Attuned crystal gloves	SEREN_CRYSTAL_ARMOUR_GLOVES_NEW_ADVANCED	35432
+Attuned crystal gloves	SEREN_CRYSTAL_ARMOUR_GLOVES_USED_ADVANCED	35433
+Attuned crystal gloves (broken)	SEREN_CRYSTAL_ARMOUR_GLOVES_BROKEN_ADVANCED	35434
+Agility lamp	SEREN_LAMP_AGILITY	35435
+Crafting lamp	SEREN_LAMP_CRAFTING	35436
+Herblore lamp	SEREN_LAMP_HERBLORE	35437
+Prayer lamp	SEREN_LAMP_PRAYER	35438
+Slayer lamp	SEREN_LAMP_SLAYER	35439
+Woodcutting lamp	SEREN_LAMP_WOODCUTTING	35440
+Divination lamp	SEREN_LAMP_DIVINATION	35441
+Crystal fragment	SEREN_TARDDIAD_CRYSTAL_BENIGN	35442
+Tarddian crystal	SEREN_TARDDIAD_CRYSTAL_INFUSED	35443
+Ancient elven wedding ring	SEREN_TARDDIAD_WEDDING_RING	35444
+Ancient Tarddian journal	SEREN_TARDDIAD_CYWIR	35445
+Dusty Tarddian journal	SEREN_TARDDIAD_ARRIVAL	35446
+Weathered Tarddian journal	SEREN_TARDDIAD_EXODUS	35447
+Rummage ticket	RAFFLE2015_RUMMAGE_TICKET	35448
+Medium XP lamp	RAFFLE2015_LAMP_MEDIUM	35449
+Bonus XP star (small)	GENERIC_BONUS_XP_STAR_SMALL	35450
+Bonus XP star (medium)	GENERIC_BONUS_XP_STAR_MEDIUM	35451
+Bonus XP star (large)	GENERIC_BONUS_XP_STAR_LARGE	35452
+Bonus XP star (huge)	GENERIC_BONUS_XP_STAR_HUGE	35453
+A 'Durzag & Goebbana' catalogue	RAFFLE2015_JUNK_1	35454
+Feeling Encouraged	RAFFLE2015_JUNK_2	35455
+50 Shades of Dye	RAFFLE2015_JUNK_3	35456
+Exchanging Glory for Mud	RAFFLE2015_JUNK_4	35457
+Mission Imp-possible	RAFFLE2015_JUNK_5	35458
+Thok on Wood	RAFFLE2015_JUNK_6	35459
+Eau d'Mambo	RAFFLE2015_JUNK_7	35460
+Golden Ahrim's hood	BARROWS_AHRIM_HEAD_GOLDEN	35461
+Golden Ahrim's hood (worn)	BARROWS_AHRIM_HEAD_GOLDEN_USED	35462
+Golden Ahrim's hood (broken)	BARROWS_AHRIM_HEAD_GOLDEN_BROKEN	35463
+Golden Ahrim's staff	BARROWS_AHRIM_WEAPON_GOLDEN	35464
+Golden Ahrim's staff	BARROWS_AHRIM_WEAPON_GOLDEN_USED	35465
+Golden Ahrim's staff (broken)	BARROWS_AHRIM_WEAPON_GOLDEN_BROKEN	35466
+Golden Ahrim's robe top	BARROWS_AHRIM_BODY_GOLDEN	35467
+Golden Ahrim's robe top (worn)	BARROWS_AHRIM_BODY_GOLDEN_USED	35468
+Golden Ahrim's robe top (broken)	BARROWS_AHRIM_BODY_GOLDEN_BROKEN	35469
+Golden Ahrim's robe skirt	BARROWS_AHRIM_LEGS_GOLDEN	35470
+Golden Ahrim's robe skirt (worn)	BARROWS_AHRIM_LEGS_GOLDEN_USED	35471
+Golden Ahrim's robe skirt (broken)	BARROWS_AHRIM_LEGS_GOLDEN_BROKEN	35472
+Golden Dharok's helm	BARROWS_DHAROK_HEAD_GOLDEN	35473
+Golden Dharok's helm (worn)	BARROWS_DHAROK_HEAD_GOLDEN_USED	35474
+Golden Dharok's helm (broken)	BARROWS_DHAROK_HEAD_GOLDEN_BROKEN	35475
+Golden Dharok's greataxe	BARROWS_DHAROK_WEAPON_GOLDEN	35476
+Golden Dharok's greataxe	BARROWS_DHAROK_WEAPON_GOLDEN_USED	35477
+Golden Dharok's greataxe (broken)	BARROWS_DHAROK_WEAPON_GOLDEN_BROKEN	35478
+Golden Dharok's platebody	BARROWS_DHAROK_BODY_GOLDEN	35479
+Golden Dharok's platebody (worn)	BARROWS_DHAROK_BODY_GOLDEN_USED	35480
+Golden Dharok's platebody (broken)	BARROWS_DHAROK_BODY_GOLDEN_BROKEN	35481
+Golden Dharok's platelegs	BARROWS_DHAROK_LEGS_GOLDEN	35482
+Golden Dharok's platelegs (worn)	BARROWS_DHAROK_LEGS_GOLDEN_USED	35483
+Golden Dharok's platelegs (broken)	BARROWS_DHAROK_LEGS_GOLDEN_BROKEN	35484
+Golden Guthan's helm	BARROWS_GUTHAN_HEAD_GOLDEN	35485
+Golden Guthan's helm (worn)	BARROWS_GUTHAN_HEAD_GOLDEN_USED	35486
+Golden Guthan's helm (broken)	BARROWS_GUTHAN_HEAD_GOLDEN_BROKEN	35487
+Golden Guthan's warspear	BARROWS_GUTHAN_WEAPON_GOLDEN	35488
+Golden Guthan's warspear	BARROWS_GUTHAN_WEAPON_GOLDEN_USED	35489
+Golden Guthan's warspear (broken)	BARROWS_GUTHAN_WEAPON_GOLDEN_BROKEN	35490
+Golden Guthan's platebody	BARROWS_GUTHAN_BODY_GOLDEN	35491
+Golden Guthan's platebody (worn)	BARROWS_GUTHAN_BODY_GOLDEN_USED	35492
+Golden Guthan's platebody (broken)	BARROWS_GUTHAN_BODY_GOLDEN_BROKEN	35493
+Golden Guthan's chainskirt	BARROWS_GUTHAN_LEGS_GOLDEN	35494
+Golden Guthan's chainskirt (worn)	BARROWS_GUTHAN_LEGS_GOLDEN_USED	35495
+Golden Guthan's chainskirt (broken)	BARROWS_GUTHAN_LEGS_GOLDEN_BROKEN	35496
+Golden Karil's coif	BARROWS_KARIL_HEAD_GOLDEN	35497
+Golden Karil's coif (worn)	BARROWS_KARIL_HEAD_GOLDEN_USED	35498
+Golden Karil's coif (broken)	BARROWS_KARIL_HEAD_GOLDEN_BROKEN	35499
+Golden Karil's crossbow	BARROWS_KARIL_WEAPON_GOLDEN	35500
+Golden Karil's crossbow	BARROWS_KARIL_WEAPON_GOLDEN_USED	35501
+Golden Karil's crossbow (broken)	BARROWS_KARIL_WEAPON_GOLDEN_BROKEN	35502
+Golden Karil's top	BARROWS_KARIL_BODY_GOLDEN	35503
+Golden Karil's top (worn)	BARROWS_KARIL_BODY_GOLDEN_USED	35504
+Golden Karil's top (broken)	BARROWS_KARIL_BODY_GOLDEN_BROKEN	35505
+Golden Karil's skirt	BARROWS_KARIL_LEGS_GOLDEN	35506
+Golden Karil's skirt (worn)	BARROWS_KARIL_LEGS_GOLDEN_USED	35507
+Golden Karil's skirt (broken)	BARROWS_KARIL_LEGS_GOLDEN_BROKEN	35508
+Golden Torag's helm	BARROWS_TORAG_HEAD_GOLDEN	35509
+Golden Torag's helm (worn)	BARROWS_TORAG_HEAD_GOLDEN_USED	35510
+Golden Torag's helm (broken)	BARROWS_TORAG_HEAD_GOLDEN_BROKEN	35511
+Golden Torag's hammer	BARROWS_TORAG_WEAPON_GOLDEN	35512
+Golden Torag's hammer	BARROWS_TORAG_WEAPON_GOLDEN_USED	35513
+Golden Torag's hammer (broken)	BARROWS_TORAG_WEAPON_GOLDEN_BROKEN	35514
+Golden Torag's platebody	BARROWS_TORAG_BODY_GOLDEN	35515
+Golden Torag's platebody (worn)	BARROWS_TORAG_BODY_GOLDEN_USED	35516
+Golden Torag's platebody (broken)	BARROWS_TORAG_BODY_GOLDEN_BROKEN	35517
+Golden Torag's platelegs	BARROWS_TORAG_LEGS_GOLDEN	35518
+Golden Torag's platelegs (worn)	BARROWS_TORAG_LEGS_GOLDEN_USED	35519
+Golden Torag's platelegs (broken)	BARROWS_TORAG_LEGS_GOLDEN_BROKEN	35520
+Golden Verac's helm	BARROWS_VERAC_HEAD_GOLDEN	35521
+Golden Verac's helm (worn)	BARROWS_VERAC_HEAD_GOLDEN_USED	35522
+Golden Verac's helm (broken)	BARROWS_VERAC_HEAD_GOLDEN_BROKEN	35523
+Golden Verac's flail	BARROWS_VERAC_WEAPON_GOLDEN	35524
+Golden Verac's flail	BARROWS_VERAC_WEAPON_GOLDEN_USED	35525
+Golden Verac's flail (broken)	BARROWS_VERAC_WEAPON_GOLDEN_BROKEN	35526
+Golden Verac's brassard	BARROWS_VERAC_BODY_GOLDEN	35527
+Golden Verac's brassard (worn)	BARROWS_VERAC_BODY_GOLDEN_USED	35528
+Golden Verac's brassard (broken)	BARROWS_VERAC_BODY_GOLDEN_BROKEN	35529
+Golden Verac's plateskirt	BARROWS_VERAC_LEGS_GOLDEN	35530
+Golden Verac's plateskirt (worn)	BARROWS_VERAC_LEGS_GOLDEN_USED	35531
+Golden Verac's plateskirt (broken)	BARROWS_VERAC_LEGS_GOLDEN_BROKEN	35532
+Golden Akrisae's hood	MAH5_BARROWS_AKRISAE_HEAD_GOLDEN	35533
+Golden Akrisae's hood (worn)	MAH5_BARROWS_AKRISAE_HEAD_GOLDEN_USED	35534
+Golden Akrisae's hood (broken)	MAH5_BARROWS_AKRISAE_HEAD_GOLDEN_BROKEN	35535
+Golden Akrisae's war mace	MAH5_BARROWS_AKRISAE_WEAPON_GOLDEN	35536
+Golden Akrisae's war mace	MAH5_BARROWS_AKRISAE_WEAPON_GOLDEN_USED	35537
+Golden Akrisae's war mace (broken)	MAH5_BARROWS_AKRISAE_WEAPON_GOLDEN_BROKEN	35538
+Golden Akrisae's robe top	MAH5_BARROWS_AKRISAE_BODY_GOLDEN	35539
+Golden Akrisae's robe top (worn)	MAH5_BARROWS_AKRISAE_BODY_GOLDEN_USED	35540
+Golden Akrisae's robe top (broken)	MAH5_BARROWS_AKRISAE_BODY_GOLDEN_BROKEN	35541
+Golden Akrisae's robe skirt	MAH5_BARROWS_AKRISAE_LEGS_GOLDEN	35542
+Golden Akrisae's robe skirt (worn)	MAH5_BARROWS_AKRISAE_LEGS_GOLDEN_USED	35543
+Golden Akrisae's robe skirt (broken)	MAH5_BARROWS_AKRISAE_LEGS_GOLDEN_BROKEN	35544
+Gilly Gloves	RAFFLE2015_CLOWN_HANDS	35545
+Gilly Boots	RAFFLE2015_CLOWN_FEET	35546
+Gilly Top	RAFFLE2015_CLOWN_BODY	35547
+Gilly Trousers	RAFFLE2015_CLOWN_LEGS	35548
+Gilly Hat	RAFFLE2015_CLOWN_HEAD	35549
+	RAFFLE2015_TICKET	35550
+Ahrim's hood (worn)	BARROWS_AHRIM_HEAD_USED	35551
+Ahrim's staff	BARROWS_AHRIM_WEAPON_USED	35552
+Ahrim's robe top (worn)	BARROWS_AHRIM_BODY_USED	35553
+Ahrim's robe skirt (worn)	BARROWS_AHRIM_LEGS_USED	35554
+Dharok's helm (worn)	BARROWS_DHAROK_HEAD_USED	35555
+Dharok's greataxe	BARROWS_DHAROK_WEAPON_USED	35556
+Dharok's platebody (worn)	BARROWS_DHAROK_BODY_USED	35557
+Dharok's platelegs (worn)	BARROWS_DHAROK_LEGS_USED	35558
+Guthan's helm (worn)	BARROWS_GUTHAN_HEAD_USED	35559
+Guthan's warspear	BARROWS_GUTHAN_WEAPON_USED	35560
+Guthan's platebody (worn)	BARROWS_GUTHAN_BODY_USED	35561
+Guthan's chainskirt (worn)	BARROWS_GUTHAN_LEGS_USED	35562
+Karil's coif (worn)	BARROWS_KARIL_HEAD_USED	35563
+Karil's crossbow	BARROWS_KARIL_WEAPON_USED	35564
+Karil's top (worn)	BARROWS_KARIL_BODY_USED	35565
+Karil's skirt (worn)	BARROWS_KARIL_LEGS_USED	35566
+Torag's helm (worn)	BARROWS_TORAG_HEAD_USED	35567
+Torag's hammer	BARROWS_TORAG_WEAPON_USED	35568
+Torag's platebody (worn)	BARROWS_TORAG_BODY_USED	35569
+Torag's platelegs (worn)	BARROWS_TORAG_LEGS_USED	35570
+Verac's helm (worn)	BARROWS_VERAC_HEAD_USED	35571
+Verac's flail	BARROWS_VERAC_WEAPON_USED	35572
+Verac's brassard (worn)	BARROWS_VERAC_BODY_USED	35573
+Verac's plateskirt (worn)	BARROWS_VERAC_LEGS_USED	35574
+	TRH68_DUNG_CARD	35575
+Akrisae's hood (worn)	MAH5_BARROWS_AKRISAE_HEAD_USED	35576
+Akrisae's war mace	MAH5_BARROWS_AKRISAE_WEAPON_USED	35577
+Akrisae's robe top (worn)	MAH5_BARROWS_AKRISAE_BODY_USED	35578
+Akrisae's robe skirt (worn)	MAH5_BARROWS_AKRISAE_LEGS_USED	35579
+Fareed outfit	TRH66_FAREED_OUTFIT	35580
+Combat dummy	POH_FORMAL_GARDEN_COMBATDUMMY	35582
+Dharok's greataxe (broken)	BARROWS_DHAROK_WEAPON_BROKEN_V2	35583
+Dharok's greataxe (broken)	CERT_BARROWS_DHAROK_WEAPON_BROKEN_V2	35584
+Dharok's platebody (broken)	BARROWS_DHAROK_BODY_BROKEN_V2	35585
+Dharok's platebody (broken)	CERT_BARROWS_DHAROK_BODY_BROKEN_V2	35586
+Starfire cape	TRH69_CAPE_STARFIRE_1	35587
+Starfire helmet	TRH69_MELEE_HEAD_STARFIRE_1	35588
+Starfire chestplate	TRH69_MELEE_BODY_STARFIRE_1	35589
+Starfire legplates	TRH69_MELEE_LEGS_STARFIRE_1	35590
+Starfire gauntlets	TRH69_MELEE_HANDS_STARFIRE_1	35591
+Starfire melee boots	TRH69_MELEE_FEET_STARFIRE_1	35592
+Starfire coif	TRH69_RANGE_HEAD_STARFIRE_1	35593
+Starfire hauberk	TRH69_RANGE_BODY_STARFIRE_1	35594
+Starfire chaps	TRH69_RANGE_LEGS_STARFIRE_1	35595
+Starfire vambraces	TRH69_RANGE_HANDS_STARFIRE_1	35596
+Starfire ranged boots	TRH69_RANGE_FEET_STARFIRE_1	35597
+Starfire hood	TRH69_MAGIC_HEAD_STARFIRE_1	35598
+Starfire robe	TRH69_MAGIC_BODY_STARFIRE_1	35599
+Starfire skirt	TRH69_MAGIC_LEGS_STARFIRE_1	35600
+Starfire gloves	TRH69_MAGIC_HANDS_STARFIRE_1	35601
+Starfire magic boots	TRH69_MAGIC_FEET_STARFIRE_1	35602
+Starfire cape	TRH69_CAPE_STARFIRE_40	35603
+Starfire helmet	TRH69_MELEE_HEAD_STARFIRE_40	35604
+Starfire chestplate	TRH69_MELEE_BODY_STARFIRE_40	35605
+Starfire legplates	TRH69_MELEE_LEGS_STARFIRE_40	35606
+Starfire gauntlets	TRH69_MELEE_HANDS_STARFIRE_40	35607
+Starfire melee boots	TRH69_MELEE_FEET_STARFIRE_40	35608
+Starfire coif	TRH69_RANGE_HEAD_STARFIRE_40	35609
+Starfire hauberk	TRH69_RANGE_BODY_STARFIRE_40	35610
+Starfire chaps	TRH69_RANGE_LEGS_STARFIRE_40	35611
+Starfire vambraces	TRH69_RANGE_HANDS_STARFIRE_40	35612
+Starfire ranged boots	TRH69_RANGE_FEET_STARFIRE_40	35613
+Starfire hood	TRH69_MAGIC_HEAD_STARFIRE_40	35614
+Starfire robe	TRH69_MAGIC_BODY_STARFIRE_40	35615
+Starfire skirt	TRH69_MAGIC_LEGS_STARFIRE_40	35616
+Starfire gloves	TRH69_MAGIC_HANDS_STARFIRE_40	35617
+Starfire magic boots	TRH69_MAGIC_FEET_STARFIRE_40	35618
+Starfury cape	TRH69_CAPE_STARFURY_1	35619
+Starfury helmet	TRH69_MELEE_HEAD_STARFURY_1	35620
+Starfury chestplate	TRH69_MELEE_BODY_STARFURY_1	35621
+Starfury legplates	TRH69_MELEE_LEGS_STARFURY_1	35622
+Starfury gauntlets	TRH69_MELEE_HANDS_STARFURY_1	35623
+Starfury melee boots	TRH69_MELEE_FEET_STARFURY_1	35624
+Starfury coif	TRH69_RANGE_HEAD_STARFURY_1	35625
+Starfury hauberk	TRH69_RANGE_BODY_STARFURY_1	35626
+Starfury chaps	TRH69_RANGE_LEGS_STARFURY_1	35627
+Starfury vambraces	TRH69_RANGE_HANDS_STARFURY_1	35628
+Starfury ranged boots	TRH69_RANGE_FEET_STARFURY_1	35629
+Starfury hood	TRH69_MAGIC_HEAD_STARFURY_1	35630
+Starfury robe	TRH69_MAGIC_BODY_STARFURY_1	35631
+Starfury skirt	TRH69_MAGIC_LEGS_STARFURY_1	35632
+Starfury gloves	TRH69_MAGIC_HANDS_STARFURY_1	35633
+Starfury magic boots	TRH69_MAGIC_FEET_STARFURY_1	35634
+Starfury cape	TRH69_CAPE_STARFURY_40	35635
+Starfury helmet	TRH69_MELEE_HEAD_STARFURY_40	35636
+Starfury chestplate	TRH69_MELEE_BODY_STARFURY_40	35637
+Starfury legplates	TRH69_MELEE_LEGS_STARFURY_40	35638
+Starfury gauntlets	TRH69_MELEE_HANDS_STARFURY_40	35639
+Starfury melee boots	TRH69_MELEE_FEET_STARFURY_40	35640
+Starfury coif	TRH69_RANGE_HEAD_STARFURY_40	35641
+Starfury hauberk	TRH69_RANGE_BODY_STARFURY_40	35642
+Starfury chaps	TRH69_RANGE_LEGS_STARFURY_40	35643
+Starfury vambraces	TRH69_RANGE_HANDS_STARFURY_40	35644
+Starfury ranged boots	TRH69_RANGE_FEET_STARFURY_40	35645
+Starfury hood	TRH69_MAGIC_HEAD_STARFURY_40	35646
+Starfury robe	TRH69_MAGIC_BODY_STARFURY_40	35647
+Starfury skirt	TRH69_MAGIC_LEGS_STARFURY_40	35648
+Starfury gloves	TRH69_MAGIC_HANDS_STARFURY_40	35649
+Starfury magic boots	TRH69_MAGIC_FEET_STARFURY_40	35650
+Starfury cape	TRH69_CAPE_STARFURY_70	35651
+Starfury helmet	TRH69_MELEE_HEAD_STARFURY_70	35652
+Starfury chestplate	TRH69_MELEE_BODY_STARFURY_70	35653
+Starfury legplates	TRH69_MELEE_LEGS_STARFURY_70	35654
+Starfury gauntlets	TRH69_MELEE_HANDS_STARFURY_70	35655
+Starfury melee boots	TRH69_MELEE_FEET_STARFURY_70	35656
+Starfury coif	TRH69_RANGE_HEAD_STARFURY_70	35657
+Starfury hauberk	TRH69_RANGE_BODY_STARFURY_70	35658
+Starfury chaps	TRH69_RANGE_LEGS_STARFURY_70	35659
+Starfury vambraces	TRH69_RANGE_HANDS_STARFURY_70	35660
+Starfury ranged boots	TRH69_RANGE_FEET_STARFURY_70	35661
+Starfury hood	TRH69_MAGIC_HEAD_STARFURY_70	35662
+Starfury robe	TRH69_MAGIC_BODY_STARFURY_70	35663
+Starfury skirt	TRH69_MAGIC_LEGS_STARFURY_70	35664
+Starfury gloves	TRH69_MAGIC_HANDS_STARFURY_70	35665
+Starfury magic boots	TRH69_MAGIC_FEET_STARFURY_70	35666
+Construction supplies (untradeable)	WARBANDS_CONSTRUCTION_ITEM_UNTRADEABLE	35667
+Herblore supplies (untradeable)	WARBANDS_HERBLORE_ITEM_UNTRADEABLE	35668
+Smithing supplies (untradeable)	WARBANDS_SMITHING_ITEM_UNTRADEABLE	35669
+Farming supplies (untradeable)	WARBANDS_FARMING_ITEM_UNTRADEABLE	35670
+Mining supplies (untradeable)	WARBANDS_MINING_ITEM_UNTRADEABLE	35671
+Golden Akrisae equipment set	RAFFLE2015_AKRISAE_CRATE	35672
+Desert Treasure (Fareed) Helm	TRH66_FAREED_HEAD	35673
+Desert Treasure (Fareed) Top	TRH66_FAREED_TORSO	35674
+Desert Treasure (Fareed) Bottoms	TRH66_FAREED_LEGS	35675
+Desert Treasure (Fareed) Gauntlets	TRH66_FAREED_HANDS	35676
+Desert Treasure (Fareed) Boots	TRH66_FAREED_FEET	35677
+Kamil outfit	TRH66_KAMIL_OUTFIT	35678
+Desert Treasure (Kamil) Helm	TRH66_KAMIL_HEAD	35679
+Desert Treasure (Kamil) Top	TRH66_KAMIL_TORSO	35680
+Desert Treasure (Kamil) Bottoms	TRH66_KAMIL_LEGS	35681
+Desert Treasure (Kamil) Gauntlets	TRH66_KAMIL_HANDS	35682
+Desert Treasure (Kamil) Boots	TRH66_KAMIL_FEET	35683
+Drakan Wings	MTX_MYQ6_WINGS	35684
+Efaritay's pendant	MYQ6_EFARITAY_PENDANT	35685
+Vyrewatch uniforms	MYQ6_VYRE_UNIFORMS_BUNDLE	35686
+House Drakan hood	MYQ6_VYREWATCH_HOOD	35687
+House Drakan top	MYQ6_VYREWATCH_TOP	35688
+House Drakan trousers	MYQ6_VYREWATCH_LEGS	35689
+House Drakan boots	MYQ6_VYREWATCH_BOOTS	35690
+Blisterwood wand	MYQ6_BLISTERWOOD_WAND	35691
+Blisterwood wand	CERT_MYQ6_BLISTERWOOD_WAND	35692
+Blisterwood orb	MYQ6_BLISTERWOOD_ORB	35693
+Blisterwood orb	CERT_MYQ6_BLISTERWOOD_ORB	35694
+Blisterwood sickle	MYQ6_BLISTERWOOD_SICKLE	35695
+Blisterwood sickle	CERT_MYQ6_BLISTERWOOD_SICKLE	35696
+Off-hand blisterwood sickle	MYQ6_BLISTERWOOD_SICKLE_O	35697
+Off-hand blisterwood sickle	CERT_MYQ6_BLISTERWOOD_SICKLE_O	35698
+Blisterwood stock	MYQ6_CROSSBOW_STOCK_BLISTERWOOD	35699
+Silvthril limbs	MYQ6_CROSSBOW_LIMBS_SILVTHRIL	35700
+Blisterwood stake-thrower crossbow (unstrung)	MYQ6_CROSSBOW_UNSTRUNG_BLISTERWOOD	35701
+Blisterwood stake-thrower crossbow (unstrung)	CERT_MYQ6_CROSSBOW_UNSTRUNG_BLISTERWOOD	35702
+Blisterwood stake-thrower crossbow	MYQ6_BLISTERWOOD_XBOW	35703
+Blisterwood stake-thrower crossbow	CERT_MYQ6_BLISTERWOOD_XBOW	35704
+Blisterwood stakes (ammo)	MYQ6_BLISTERWOOD_STAKE_AMMO	35705
+Mysterious jerky	MYQ6_FOOD	35706
+A Taste of Hope	MYQ6_TASTING_NOTES_BOOK	35707
+Statue spear	MYQ6_STATUE_SPEAR	35708
+Furniture debris	MYQ6_BARRICADE_DEBRIS	35709
+Sunspear	MYQ6_SUNSPEAR	35710
+Training sword	MYQ6_DRAKAN_SPEAR_LARGE	35711
+Tome of xp 4th ed (3)	MYQ6_XP_TOME3	35712
+Tome of xp 4th ed (2)	MYQ6_XP_TOME2	35713
+Tome of xp 4th ed (1)	MYQ6_XP_TOME1	35714
+	MYQ6_BLISTERWOOD_STAKE_AMMO2	35715
+	MYQ6_BLISTERWOOD_STAKE_AMMO3	35716
+	MYQ6_BLISTERWOOD_STAKE_AMMO4	35717
+	MYQ6_BLISTERWOOD_STAKE_AMMO5	35718
+Crystal fishing rod	ELFCITY_CRYSTAL_ROD_100	35719
+Crystal fishing rod	ELFCITY_CRYSTAL_ROD_50	35720
+Small crystal urchin	ECWF_FISH_LOW	35721
+Medium crystal urchin	ECWF_FISH_MID	35722
+Large crystal urchin	ECWF_FISH_HIGH	35723
+Harmony dust	ECWF_HARMONY_DUST_LOW	35724
+Harmony dust	ECWF_HARMONY_DUST_MID	35725
+Harmony dust	ECWF_HARMONY_DUST_HIGH	35726
+Harmony dust	ECWF_HARMONY_DUST	35727
+Fishing Lamp	ECWF_FISHING_LAMP	35728
+Hermit crab boot	ECWF_HERMIT_HOME_1	35729
+Hermit crab chest	ECWF_HERMIT_HOME_2	35730
+Hermit crab coral	ECWF_HERMIT_HOME_3	35731
+Hermit crab nautilus	ECWF_HERMIT_HOME_4	35732
+Hermit crab shell	ECWF_HERMIT_HOME_5	35733
+	ECWF_TITLE_SCROLL	35734
+Perfect juju fishing potion (1)	_1DOSEPERFECTFISHING	35735
+Perfect juju fishing potion (1)	CERT_1DOSEPERFECTFISHING	35736
+Perfect juju fishing potion (2)	_2DOSEPERFECTFISHING	35737
+Perfect juju fishing potion (2)	CERT_2DOSEPERFECTFISHING	35738
+Perfect juju fishing potion (3)	_3DOSEPERFECTFISHING	35739
+Perfect juju fishing potion (3)	CERT_3DOSEPERFECTFISHING	35740
+Perfect juju fishing potion (4)	_4DOSEPERFECTFISHING	35741
+Perfect juju fishing potion (4)	CERT_4DOSEPERFECTFISHING	35742
+Hermit crab	LORE_HERMIT_CRAB	35743
+Perfect juju fishing flask (1)	BIGPOT_1DOSEPERFECTFISHING	35744
+Perfect juju fishing flask (1)	CERT_BIGPOT_1DOSEPERFECTFISHING	35745
+Perfect juju fishing flask (2)	BIGPOT_2DOSEPERFECTFISHING	35746
+Perfect juju fishing flask (2)	CERT_BIGPOT_2DOSEPERFECTFISHING	35747
+Perfect juju fishing flask (3)	BIGPOT_3DOSEPERFECTFISHING	35748
+Perfect juju fishing flask (3)	CERT_BIGPOT_3DOSEPERFECTFISHING	35749
+Perfect juju fishing flask (4)	BIGPOT_4DOSEPERFECTFISHING	35750
+Perfect juju fishing flask (4)	CERT_BIGPOT_4DOSEPERFECTFISHING	35751
+Perfect juju fishing flask (5)	BIGPOT_5DOSEPERFECTFISHING	35752
+Perfect juju fishing flask (5)	CERT_BIGPOT_5DOSEPERFECTFISHING	35753
+Perfect juju fishing flask (6)	BIGPOT_6DOSEPERFECTFISHING	35754
+Perfect juju fishing flask (6)	CERT_BIGPOT_6DOSEPERFECTFISHING	35755
+Dark stars	TRH70_CORRUPTED_STAR_DUMMY	35756
+Dark lamps	TRH70_CORRUPTED_LAMP_DUMMY	35757
+Small dark star	TRH70_CORRUPTED_STAR_SMALL	35758
+Medium dark star	TRH70_CORRUPTED_STAR_MEDIUM	35759
+Large dark star	TRH70_CORRUPTED_STAR_LARGE	35760
+Huge dark star	TRH70_CORRUPTED_STAR_HUGE	35761
+Small dark lamp	TRH70_CORRUPTED_LAMP_SMALL	35762
+Medium dark lamp	TRH70_CORRUPTED_LAMP_MEDIUM	35763
+Large dark lamp	TRH70_CORRUPTED_LAMP_LARGE	35764
+Huge dark lamp	TRH70_CORRUPTED_LAMP_HUGE	35765
+Helm of corruption	TRH70_CORRUPTED_HELM	35766
+Scrimshaw of aggression (inactive)	TRH70_CORRUPTED_SCRIMSHAW_AGGRO	35767
+Scrimshaw of aggression	TRH70_CORRUPTED_SCRIMSHAW_AGGRO_USED	35768
+Scrimshaw of sacrifice (inactive)	TRH70_CORRUPTED_SCRIMSHAW_NODROPS	35769
+Scrimshaw of sacrifice	TRH70_CORRUPTED_SCRIMSHAW_NODROPS_USED	35770
+Scrimshaw of corruption (inactive)	TRH70_CORRUPTED_SCRIMSHAW_AGGRO_NODROPS	35771
+Scrimshaw of corruption	TRH70_CORRUPTED_SCRIMSHAW_AGGRO_NODROPS_USED	35772
+Flourishing seeds	TRH71_SPRING_SEED	35773
+Lush blossoms	TRH71_SUMMER_BLOSSOM	35774
+Fallen leaves	TRH71_AUTUMN_LEAVES	35775
+Charred branches	TRH71_WINTER_KINDLING	35776
+Pet of Spring	TRH71_PET_OF_SPRING	35777
+Pet of Summer	TRH71_PET_OF_SUMMER	35778
+Pet of Autumn	TRH71_PET_OF_AUTUMN	35779
+Pet of Winter	TRH71_PET_OF_WINTER	35780
+Pet of seasons token	TRH71_PET_OF_SEASONS_TOKEN	35781
+Pet of Seasons	TRH71_PET_OF_SEASONS	35782
+Pet of Seasons	TRH71_PET_OF_SEASONS_POH	35783
+Zaros Morion	MTX_HAT_ZAROS	35784
+Legendary reward book	AURA_MULTISKILLER_REWARD_4	35785
+Brawler aura	AURA_MELEE_HITCHANCE	35786
+Brawler aura	BOUGHT_AURA_MELEE_HITCHANCE	35787
+Greater brawler aura	AURA_MELEE_HITCHANCE_LEVEL_2	35788
+Greater brawler aura	BOUGHT_AURA_MELEE_HITCHANCE_LEVEL_2	35789
+Master brawler aura	AURA_MELEE_HITCHANCE_LEVEL_3	35790
+Master brawler aura	BOUGHT_AURA_MELEE_HITCHANCE_LEVEL_3	35791
+Supreme brawler aura	AURA_MELEE_HITCHANCE_LEVEL_4	35792
+Supreme brawler aura	BOUGHT_AURA_MELEE_HITCHANCE_LEVEL_4	35793
+Reckless aura	AURA_BERSERKER_RANGED	35794
+Reckless aura	BOUGHT_AURA_BERSERKER_RANGED	35795
+Maniacal aura	AURA_BERSERKER_MAGIC	35796
+Maniacal aura	BOUGHT_AURA_BERSERKER_MAGIC	35797
+Dedicated slayer aura	AURA_SLAYER_1	35798
+Dedicated slayer aura	BOUGHT_AURA_SLAYER_1	35799
+Greater dedicated slayer aura	AURA_SLAYER_2	35800
+Greater dedicated slayer aura	BOUGHT_AURA_SLAYER_2	35801
+Master dedicated slayer aura	AURA_SLAYER_3	35802
+Master dedicated slayer aura	BOUGHT_AURA_SLAYER_3	35803
+Supreme dedicated slayer aura	AURA_SLAYER_4	35804
+Supreme dedicated slayer aura	BOUGHT_AURA_SLAYER_4	35805
+Legendary dedicated slayer aura	AURA_SLAYER_5	35806
+Legendary dedicated slayer aura	BOUGHT_AURA_SLAYER_5	35807
+Focused siphoning aura	AURA_RUNECRAFT_1	35808
+Focused siphoning aura	BOUGHT_AURA_RUNECRAFT_1	35809
+Greater focused siphoning aura	AURA_RUNECRAFT_2	35810
+Greater focused siphoning aura	BOUGHT_AURA_RUNECRAFT_2	35811
+Master focused siphoning aura	AURA_RUNECRAFT_3	35812
+Master focused siphoning aura	BOUGHT_AURA_RUNECRAFT_3	35813
+Supreme focused siphoning aura	AURA_RUNECRAFT_4	35814
+Supreme focused siphoning aura	BOUGHT_AURA_RUNECRAFT_4	35815
+Legendary focused siphoning aura	AURA_RUNECRAFT_5	35816
+Legendary focused siphoning aura	BOUGHT_AURA_RUNECRAFT_5	35817
+Flameproof aura	AURA_COOKING_1	35818
+Flameproof aura	BOUGHT_AURA_COOKING_1	35819
+Greater flameproof aura	AURA_COOKING_2	35820
+Greater flameproof aura	BOUGHT_AURA_COOKING_2	35821
+Master flameproof aura	AURA_COOKING_3	35822
+Master flameproof aura	BOUGHT_AURA_COOKING_3	35823
+Supreme flameproof aura	AURA_COOKING_4	35824
+Supreme flameproof aura	BOUGHT_AURA_COOKING_4	35825
+Legendary flameproof aura	AURA_COOKING_5	35826
+Legendary flameproof aura	BOUGHT_AURA_COOKING_5	35827
+Legendary jack of trades aura	AURA_MULTISKILLER_LEVEL_4	35828
+Legendary jack of trades aura	BOUGHT_AURA_MULTISKILLER_LEVEL_4	35829
+Supreme wisdom aura	AURA_WISDOM_2	35830
+Supreme wisdom aura	BOUGHT_AURA_WISDOM_2	35831
+Legendary wisdom aura	AURA_WISDOM_3	35832
+Legendary wisdom aura	BOUGHT_AURA_WISDOM_3	35833
+Spirit hunter outfit	MTX93_HUNTER_OUTFIT	35840
+Spirit hunter outfit	BOUGHT_MTX93_HUNTER_OUTFIT	35841
+Spirit Hunter Skull Helmet	MTX93_HUNTER_HEAD	35842
+Spirit Hunter Flesh Jacket	MTX93_HUNTER_TORSO	35843
+Spirit Hunter Bottoms	MTX93_HUNTER_LEGS	35844
+Spirit Hunter Greaves	MTX93_HUNTER_FEET	35845
+Spirit Hunter Cuffs	MTX93_HUNTER_HANDS	35846
+Spirit hunter bow	MTX93_HUNTER_BOW	35847
+Spirit hunter crossbow	MTX93_HUNTER_XBOW	35848
+Spirit Hunter Off-hand Crossbow	MTX93_HUNTER_XBOW_O	35849
+Anim	MTX93_HUNTER_WALK_OVERRIDE	35850
+Revenant outfit	MTX93_REVENANT_OUTFIT	35851
+Revenant outfit	BOUGHT_MTX93_REVENANT_OUTFIT	35852
+Revenant Helmet	MTX93_REVENANT_HEAD	35853
+Revenant Cuirass	MTX93_REVENANT_TORSO	35854
+Revenant Greaves	MTX93_REVENANT_LEGS	35855
+Revenant Boots	MTX93_REVENANT_FEET	35856
+Revenant Cuffs	MTX93_REVENANT_HANDS	35857
+Revenant staff	MTX93_REVENANT_STAFF	35858
+Revenant wand	MTX93_REVENANT_WAND	35859
+Revenant orb	MTX93_REVENANT_ORB	35860
+Anim	MTX93_REVENANT_WALK_OVERRIDE	35861
+RuneFest dragonling	MTX_RUNEFEST2015_DRAGON	35862
+Runefest dragonling	POH_MTX_RUNEFEST2015_DRAGON	35863
+!( Hide Visual Effects slot )	MTX_INVISIBLE_AURA	35865
+Poisonous nemi stalks	GOEBIE1_POISON	35866
+Liberation of Mazcab reroll token	GOEBIE1_RAID_REROLL	35867
+Magic lamp	GOEBIE1_LAMP	35868
+Kerrit	GOEBIE1_CRITTER_CARROT_INV	35869
+Choloa	GOEBIE1_CRITTER_ROLLER_INV	35870
+Popoca	GOEBIE1_CRITTER_SMOKER_INV	35871
+Snuffle	GOEBIE1_CRITTER_SNIFFER_INV	35872
+Hunter lamp	GOEBIE1_COLLECTOR_LAMP	35873
+Mazcab poker	GOEBIE1_WEAPON_SHORTSWORD	35874
+Mazcab Off-hand Poker	GOEBIE1_WEAPON_SHORTSWORD_O	35875
+Mazcab cudgel	GOEBIE1_WEAPON_MACE	35876
+Mazcab Off-hand Cudgel	GOEBIE1_WEAPON_MACE_O	35877
+Goebie Warpaint (Blue) Top	GOEBIE1_OUTFIT_BLUE_TORSO	35878
+Goebie Warpaint (Blue) Bottom	GOEBIE1_OUTFIT_BLUE_LEGS	35879
+Goebie Warpaint (Red) Top	GOEBIE1_OUTFIT_RED_TORSO	35880
+Goebie Warpaint (Red) Bottom	GOEBIE1_OUTFIT_RED_LEGS	35881
+Goebie Warpaint (Yellow) Top	GOEBIE1_OUTFIT_YELLOW_TORSO	35882
+Goebie Warpaint (Yellow) Bottom	GOEBIE1_OUTFIT_YELLOW_LEGS	35883
+Goebie disguise kit	GOEBIE1_DISGUISE	35884
+Commendation	FALSIEGE_COMMENDATION	35885
+Supply cache	FALSIEGE_SUPPLYCACHE	35886
+Banner fragment	FALSIEGE_BANNER_FRAGMENT	35887
+Candy floss maul	FALSIEGE_CANDYFLOSS	35888
+Tiny white knight	FALSIEGE_WHITEKNIGHT_PET	35889
+Tiny white knight	BOUGHT_FALSIEGE_WHITEKNIGHT_PET	35890
+Tiny white knight	FALSIEGE_WHITEKNIGHT_PET_POH	35891
+Tiny black knight	FALSIEGE_BLACKKNIGHT_PET	35892
+Tiny black knight	BOUGHT_FALSIEGE_BLACKKNIGHT_PET	35893
+Tiny black knight	FALSIEGE_BLACKKNIGHT_PET_POH	35894
+Falador Mine XP lamp	FALSIEGE_LAMP_MINE	35895
+Falador Park XP lamp	FALSIEGE_LAMP_PARK	35896
+Falador Artisan's Workshop XP lamp	FALSIEGE_LAMP_WORKSHOP	35897
+Small Combat XP lamp	FALSIEGE_LAMP_COMBAT	35898
+Small Herblore XP lamp	FALSIEGE_LAMP_HERBLORE	35899
+Small Construction XP lamp	FALSIEGE_LAMP_CONSTRUCTION	35900
+Small Woodcutting XP lamp	FALSIEGE_LAMP_WOODCUTTING	35901
+Small XP lamp	FALSIEGE_LAMP_PRISMATIC	35902
+Falador resource bundle	FALSIEGE_RESOURCE_BAG	35903
+Battle horn	FALSIEGE_BATTLEHORN	35904
+Research notes	FALSIEGE_BANNER_QUEST_NOTES	35905
+	HW15_SURFACE_SOUL_ITEM	35906
+Deployable herb burner	HW15_HERB_BURNER	35907
+Kharidian cat	HW15_CAT_PET	35908
+Icthlarin gravestone	HW15_ICTHLARIN_GRAVE	35909
+Amascut gravestone	HW15_AMASCUT_GRAVE	35910
+Kharidian cat	HW15_CAT_PET_POH	35911
+Necrovarus' notes	HW15_NECROVARUS_NOTES	35912
+Adventurer's chest	HW15_BONUS_CHEST	35913
+XP lamp	HW15_LAMP	35914
+	HW15_ECTOPLASM	35915
+	CERT_HW15_ECTOPLASM	35916
+	HW15_BOAT	35917
+	HW15_PLAYER_DEATH_DEVOURER_PORTAL	35918
+Basic tools	TRH72_BASIC_TOOL	35919
+Golden tools	TRH72_GOLDEN_TOOL	35920
+Small tool pack	TRH72_TOOL_PACK_SMALL	35921
+Small tool pack	BOUGHT_TRH72_TOOL_PACK_SMALL	35922
+Large tool pack	TRH72_TOOL_PACK_LARGE	35923
+Large tool pack	BOUGHT_TRH72_TOOL_PACK_LARGE	35924
+Small mystery box	TRH72_MYSTERY_BOX_1	35925
+Small mystery box	TRH72_MYSTERY_BOX_2	35926
+Medium mystery box	TRH72_MYSTERY_BOX_3	35927
+Medium mystery box	TRH72_MYSTERY_BOX_4	35928
+Large mystery box	TRH72_MYSTERY_BOX_5	35929
+Large mystery box	TRH72_MYSTERY_BOX_6	35930
+Lost sword of King Raddallin	TRH72_LOST_SWORD_1	35931
+Lost sword of King Raddallin	TRH72_LOST_SWORD_2	35932
+Lost sword of King Raddallin	TRH72_LOST_SWORD_3	35933
+Lost sword of King Raddallin	TRH72_LOST_SWORD_4	35934
+Lost sword of King Raddallin	TRH72_LOST_SWORD_5	35935
+Lost sword of King Raddallin	TRH72_LOST_SWORD_DUMMY	35936
+King Raddallin 2h Sword	TRH72_LOST_SWORD_OVERRIDE	35937
+King Raddallin 2h Sword and Stance	TRH72_LOST_SWORD_OVERRIDE_WITH_STANCE	35938
+King Raddallin Sword	TRH72_LOST_SWORD_1H	35939
+King Raddallin Off-hand Sword	TRH72_LOST_SWORD_OFFHAND	35940
+Letter from King Raddallin	TRH72_RADDALLIN_LETTER	35941
+	TRH72_HERBLORE_VIAL	35942
+Candy corn	TRH73_CANDY_CORN	35943
+Pumpkincrow	TRH73_SCARECROW	35944
+Pumpkincrow	TRH73_SCARECROW_POH	35945
+Count Draynor outfit	TRH73_VAMPIRE_COSTUME	35946
+Count Draynor torso	TRH73_VAMPIRE_TORSO	35947
+Count Draynor bottoms	TRH73_VAMPIRE_LEGS	35948
+Count Draynor cape	TRH73_VAMPIRE_CAPE	35949
+Count Draynor hands	TRH73_VAMPIRE_HANDS	35950
+Count Draynor shoes	TRH73_VAMPIRE_FEET	35951
+Bat necklace	TRH73_BAT_NECKLACE	35952
+Broom staff	TRH73_BROOM	35953
+Cauldron maul	TRH73_CAULDRON	35954
+Pumpkin launcher	TRH73_RANGED	35955
+King Raddallin Banner	FALSIEGE_BANNER_TIER1	35956
+King Raddallin Banner (Blessed)	FALSIEGE_BANNER_TIER2	35957
+Candy floss maul	POH_DUMMY_FALSIEGE_CANDYFLOSS	35958
+Lil' tuzzy	RAID1_LOOT_TUZZY_DROP	35959
+Strange lobster	TRH74_LOBSTER	35960
+Fire poi	TRH74_POI	35961
+Fire breathing solution	TRH74_SOLUTION	35962
+Divination energy head	TRH75_ENERGY_HEAD	35963
+Divination energy body	TRH75_ENERGY_BODY	35964
+Divination energy legs	TRH75_ENERGY_LEGS	35965
+Divination energy hands	TRH75_ENERGY_HANDS	35966
+Divination energy feet	TRH75_ENERGY_FEET	35967
+Divination chronicle head	TRH75_CHRONICLE_HEAD	35968
+Divination chronicle body	TRH75_CHRONICLE_BODY	35969
+Divination chronicle legs	TRH75_CHRONICLE_LEGS	35970
+Divination chronicle hands	TRH75_CHRONICLE_HANDS	35971
+Divination chronicle feet	TRH75_CHRONICLE_FEET	35972
+Divination memory head	TRH75_MEMORY_HEAD	35973
+Divination memory body	TRH75_MEMORY_BODY	35974
+Divination memory legs	TRH75_MEMORY_LEGS	35975
+Divination memory hands	TRH75_MEMORY_HANDS	35976
+Divination memory feet	TRH75_MEMORY_FEET	35977
+Elder divination head	TRH75_ELDER_HEAD	35978
+Elder divination body	TRH75_ELDER_BODY	35979
+Elder divination legs	TRH75_ELDER_LEGS	35980
+Elder divination hands	TRH75_ELDER_HANDS	35981
+Elder divination feet	TRH75_ELDER_FEET	35982
+Clan citadel booster	MTX95_CLAN_BOOSTER	35983
+Clan citadel booster	BOUGHT_MTX95_CLAN_BOOSTER	35984
+Wyvern crossbow	HLM_WYVERN_CROSSBOW	35985
+Wyvern crossbow	CERT_HLM_WYVERN_CROSSBOW	35986
+Wyvern crossbow	HLM_WYVERN_CROSSBOW_DEGRADED	35987
+Wyvern crossbow (broken)	HLM_WYVERN_CROSSBOW_BROKEN	35988
+Wyvern spines	HLM_WYVERN_BOLT	35989
+	HLM_WYVERN_BOLTS_2	35990
+	HLM_WYVERN_BOLTS_3	35991
+	HLM_WYVERN_BOLTS_4	35992
+	HLM_WYVERN_BOLTS_5	35993
+War yak tusk	HLM_WAR_TUSK	35994
+Death yak tusk	HLM_DEATH_TUSK	35995
+Famine yak tusk	HLM_FAMINE_TUSK	35996
+Pestilence yak tusk	HLM_PESTILENCE_TUSK	35997
+	HLM_RAPTOR_GEM	35998
+	CERT_HLM_RAPTOR_GEM	35999
+Raptor's lamp	HLM_SLAYER_LAMP	36000
+Raptor key part 1	HLM_KEY_PART_1	36001
+Wyvern	SLAYERGUIDE_HLM_WYVERN	36002
+Ripper demon	SLAYERGUIDE_HLM_RIPPER	36003
+Ripper claw	HLM_RIPPER_CLAW	36004
+Ripper claw	CERT_HLM_RIPPER_CLAW	36005
+Ripper claw	HLM_RIPPER_CLAW_DEGRADED	36006
+Ripper claw (broken)	HLM_RIPPER_CLAW_BROKEN	36007
+Off-hand ripper claw	HLM_RIPPER_CLAW_O	36008
+Off-hand ripper claw	CERT_HLM_RIPPER_CLAW_O	36009
+Off-hand ripper claw	HLM_RIPPER_CLAW_DEGRADED_O	36010
+Off-hand ripper claw (broken)	HLM_RIPPER_CLAW_BROKEN_O	36011
+Raptor key part 2	HLM_KEY_PART_2	36012
+Miner's journal #1	HLM_RIPPER_BOOK_1	36013
+Miner's journal #2	HLM_RIPPER_BOOK_2	36014
+Miner's journal #3	HLM_RIPPER_BOOK_3	36015
+Miner's journal #4	HLM_RIPPER_BOOK_4	36016
+Miner's journal #5	HLM_RIPPER_BOOK_5	36017
+The Diary of Jebediah Omnis	HLM_RIPPER_BOOK_6	36018
+Camel staff	HLM_CAMEL_STAFF	36019
+Camel staff	CERT_HLM_CAMEL_STAFF	36020
+Camel staff	HLM_CAMEL_STAFF_DEGRADED	36021
+Camel staff (broken)	HLM_CAMEL_STAFF_BROKEN	36022
+Mammoth tusk	HLM_MAMMOTH_TUSK	36023
+Raptor's basic outfit	HLM_RAPTOR_OUTFIT_T1	36024
+Raptor Helmet	HLM_RAPTOR_HEAD_T1	36026
+Raptor Chestpiece	HLM_RAPTOR_TORSO_T1	36027
+Raptor Legguards	HLM_RAPTOR_LEGS_T1	36028
+Raptor Sabatons	HLM_RAPTOR_FEET_T1	36029
+Raptor Gauntlets	HLM_RAPTOR_HANDS_T1	36030
+Raptor Shield	HLM_RAPTOR_SHIELD_T1	36031
+Raptor's advanced outfit	HLM_RAPTOR_OUTFIT_T2	36033
+Raptor (Advanced) Helmet	HLM_RAPTOR_HEAD_T2	36035
+Raptor (Advanced) Chestpiece	HLM_RAPTOR_TORSO_T2	36036
+Raptor (Advanced) Legguards	HLM_RAPTOR_LEGS_T2	36037
+Raptor (Advanced) Sabatons	HLM_RAPTOR_FEET_T2	36038
+Raptor (Advanced) Gauntlets	HLM_RAPTOR_HANDS_T2	36039
+Raptor (Advanced) Shield	HLM_RAPTOR_SHIELD_T2	36040
+Raptor key part 3	HLM_KEY_PART_3	36042
+The Ugthanatos	HLM_CAMEL_BOOK	36043
+Camel warrior	SLAYERGUIDE_HLM_CAMELS	36044
+Hardened healer hat	BARBASSAULT_PENANCE_HEALER_HAT_HARD	36045
+Hardened fighter hat	BARBASSAULT_PENANCE_FIGHTER_HAT_HARD	36046
+Hardened runner hat	BARBASSAULT_PENANCE_RUNNER_HAT_HARD	36047
+Hardened ranger hat	BARBASSAULT_PENANCE_RANGER_HAT_HARD	36048
+Hardened fighter torso	BARBASSAULT_PENANCE_FIGHTER_TORSO_HARD	36049
+Hardened runner boots	BARBASSAULT_PENANCE_RUNNER_BOOTS_HARD	36050
+Hardened penance gloves	BARBASSAULT_PENANCE_GLOVES_HARD	36051
+Hardened penance gloves	BARBASSAULT_PENANCE_GLOVES_WORN_HARD	36052
+Hardened penance skirt	BARBASSAULT_PENANCE_RANGER_LEGS_HARD	36053
+Barbarian assault armour patch	BARBASSAULT_PENANCE_ARMOUR_PATCH	36054
+Really rotten potato	_6AWE1_JMOD_TOOL	36055
+Mammoth feast scroll	LORE_DIABOLICAL_FEAST_2_DUMMY	36056
+Mammoth feast scroll	LORE_DIABOLICAL_FEAST_3_DUMMY	36057
+Mammoth feast scroll	LORE_DIABOLICAL_FEAST_4_DUMMY	36058
+Acheron mammoths	SLAYERGUIDE_HLM_MAMMOTH	36059
+Pack mammoth pouch	LORE_PACK_MAMMOTH	36060
+Pack mammoth pouch	CERT_LORE_PACK_MAMMOTH	36061
+Pack mammoth pouch(u)	LORE_PACK_MAMMOTH_NULL	36062
+Pack Mammoth scroll (Mammoth Feast)	LORE_DIABOLICAL_FEAST	36063
+Mammoth tusk	CERT_HLM_MAMMOTH_TUSK	36064
+Raptor key part 4	HLM_KEY_PART_4	36065
+Raptor key	HLM_KEY_FULL	36066
+Pouch	LORE_PACK_YAK_WAR_SPELL_NULL	36067
+Pouch	LORE_PACK_YAK_DEATH_SPELL_NULL	36068
+Pouch	LORE_PACK_YAK_FAMINE_SPELL_NULL	36069
+Pouch	LORE_PACK_YAK_PESTILENCE_SPELL_NULL	36070
+Pouch	LORE_PACK_MAMMOTH_SPELL_NULL	36071
+	SC_REWARDXP_DUMMYITEM	36072
+Small XP lamp	GENERIC_LAMP_SMALL	36073
+Medium XP lamp	GENERIC_LAMP_MEDIUM	36074
+Large XP lamp	GENERIC_LAMP_LARGE	36075
+Huge XP lamp	GENERIC_LAMP_HUGE	36076
+Turkey drumstick	TG15_DRUMSTICK	36077
+Turkey Drumstick Off-hand	TG15_DRUMSTICK_O	36078
+Black Santa hat with beard	XMAS13_BLACK_HAT_WITH_BEARD	36079
+Santa hat with beard	SANTA_HAT_WITH_BEARD	36080
+	XMAS15_FISH	36081
+Penguin head	XMAS15_PENGUIN_HEAD	36082
+Snowboard (penguin)	XMAS15_SNOWBOARD	36083
+Penguin torso	XMAS15_PENGUIN_TORSO	36084
+Penguin legs	XMAS15_PENGUIN_LEGS	36085
+Penguin feet	XMAS15_PENGUIN_FEET	36086
+Penguin gloves	XMAS15_PENGUIN_HANDS	36087
+	XMAS15_ICE_SKATES	36088
+	XMAS15_ICE_SKATES_DUMMY	36089
+Tight spring	TRH78_SPRING_UNTRADEABLE	36090
+Small dungeoneering token box	TRH78_DG_BOX_SMALL	36091
+Medium dungeoneering token box	TRH78_DG_BOX_MEDIUM	36092
+Large dungeoneering token box	TRH78_DG_BOX_LARGE	36093
+Batch one slayer masks	TRH78_SLAYER_1_DUMMY	36094
+Batch two slayer masks	TRH78_SLAYER_2_DUMMY	36095
+Batch three slayer masks	TRH78_SLAYER_3_DUMMY	36096
+Batch four slayer masks	TRH78_SLAYER_4_DUMMY	36097
+Fury shark outfit	TRH78_SHARK_OUTFIT_DUMMY	36098
+Infinity ethereal outfit	TRH78_ETHEREAL_OUTFIT_DUMMY	36099
+Elder divination outfit	TRH78_DIV_OUTFIT_DUMMY	36100
+Magic golem outfit	TRH78_GOLEM_OUTFIT_DUMMY	36101
+Batch one head addons	TRH78_OLD_HEAD_ADDONS_DUMMY	36102
+Batch two head addons	TRH78_NEW_HEAD_ADDONS_DUMMY	36103
+Summoning skill outfit	TRH78_SUMMONING_DUMMY	36104
+Smithing skill outfit	TRH78_SMITHING_DUMMY	36105
+Herblore skill outfit	TRH78_HERBLORE_DUMMY	36106
+Crafting skill outfit	TRH78_CRAFTING_DUMMY	36107
+Cooking skill outfit	TRH78_COOKING_DUMMY	36108
+Prayer skill outfit	TRH78_PRAYER_DUMMY	36109
+Farming skill outfit	TRH78_FARMING_DUMMY	36110
+Dazzling two-leaf clover necklace	TRH78_TWO_LEAF_CLOVER_DAZZLING	36111
+Dazzling three-leaf clover necklace	TRH78_THREE_LEAF_CLOVER_DAZZLING	36112
+Dazzling four-leaf clover necklace	TRH78_FOUR_LEAF_CLOVER_DAZZLING	36113
+Dazzling two-leaf clover necklace (empty)	TRH78_TWO_LEAF_CLOVER_DAZZLING_COSMETIC	36114
+Dazzling three-leaf clover necklace (empty)	TRH78_THREE_LEAF_CLOVER_DAZZLING_COSMETIC	36115
+Dazzling four-leaf clover necklace (empty)	TRH78_FOUR_LEAF_CLOVER_DAZZLING_COSMETIC	36116
+Snowverload plushie	TRH78_SNOWVERLOAD_PLUSH	36117
+Penguin plushie	TRH78_PENGUIN_PLUSH	36118
+Mammoth plushie	TRH78_MAMMOTH_PLUSH	36119
+Bronze pack	PREMCLUB15_BRONZE	36120
+Bronze pack	BOUGHT_PREMCLUB15_BRONZE	36121
+Silver pack	PREMCLUB15_SILVER	36122
+Silver pack	BOUGHT_PREMCLUB15_SILVER	36123
+Gold pack	PREMCLUB15_GOLD	36124
+Gold pack	BOUGHT_PREMCLUB15_GOLD	36125
+Mahjarrat aura	PREM15_MAHJARRAT_AURA	36126
+Mahjarrat aura	BOUGHT_PREM15_MAHJARRAT_AURA	36127
+Retro teleport	PREM15_RETRO_TELE	36128
+Logo sword pack	PREM15_LOGO_SWORD_PACK	36129
+2001 sword	PREM15_2001_SWORD	36130
+2001 off-hand sword	PREM15_2001_SWORD_O	36131
+2008 sword	PREM15_2008_SWORD	36132
+2008 off-hand sword	PREM15_2008_SWORD_O	36133
+2011 sword	PREM15_2011_SWORD	36134
+2011 off-hand sword	PREM15_2011_SWORD_O	36135
+2014 sword	PREM15_2014_SWORD	36136
+2014 off-hand sword	PREM15_2014_SWORD_O	36137
+Postie pete	PREM15_POSTIE_PETE	36138
+Postie pete	POH_PREM15_POSTIE_PETE	36139
+Mahjarrat torso	PREM15_MAHJARRAT_TORSO	36140
+Mahjarrat hands	PREM15_MAHJARRAT_HANDS	36142
+Mahjarrat legs	PREM15_MAHJARRAT_LEGS	36144
+Mahjarrat feet	PREM15_MAHJARRAT_FEET	36146
+Mahjarrat head	PREM15_MAHJARRAT_HEAD	36148
+Mahjarrat (Skeletal) Head	PREM15_MAHJARRAT_HEAD_SKELETAL	36150
+	PREM15_LETTER	36152
+Corrupted defender	T70_MELEE_PARRYINGDAGGER	36153
+Corrupted defender	T70_MELEE_PARRYINGDAGGER_USED	36154
+Corrupted defender (broken)	T70_MELEE_PARRYINGDAGGER_BROKEN	36155
+Corruption sigil	T70_PARRYINGDAGGER_ADDON	36156
+Ancient defender	T80_MELEE_PARRYINGDAGGER	36157
+Ancient defender (broken)	T80_MELEE_PARRYINGDAGGER_BROKEN	36158
+Ancient emblem	T80_PARRYINGDAGGER_ADDON	36159
+Kalphite defender	T90_MELEE_PARRYINGDAGGER	36160
+Kalphite defender	T90_MELEE_PARRYINGDAGGER_USED	36161
+Kalphite defender (broken)	T90_MELEE_PARRYINGDAGGER_BROKEN	36162
+Perfect chitin	T90_PARRYINGDAGGER_ADDON	36163
+Chaotic splint	RAND_STRANGE_SHAFT_REWARD	36164
+Ring of snow	XMAS15_RING_OF_SNOW	36165
+Master quest cape	SKILLCAPE_MQC	36166
+Master quest cape	DUMMY_SKILLCAPE_MQC	36167
+Blighted rebounder	T70_MAGIC_PARRYINGDAGGER	36168
+Blighted rebounder	T70_MAGIC_PARRYINGDAGGER_USED	36169
+Blighted rebounder (broken)	T70_MAGIC_PARRYINGDAGGER_BROKEN	36170
+Ancient lantern	T80_MAGIC_PARRYINGDAGGER	36171
+Ancient lantern (broken)	T80_MAGIC_PARRYINGDAGGER_BROKEN	36172
+Kalphite rebounder	T90_MAGIC_PARRYINGDAGGER	36173
+Kalphite rebounder	T90_MAGIC_PARRYINGDAGGER_USED	36174
+Kalphite rebounder (broken)	T90_MAGIC_PARRYINGDAGGER_BROKEN	36175
+Tainted repriser	T70_RANGED_PARRYINGDAGGER	36176
+Tainted repriser	T70_RANGED_PARRYINGDAGGER_USED	36177
+Tainted repriser (broken)	T70_RANGED_PARRYINGDAGGER_BROKEN	36178
+Ancient repriser	T80_RANGED_PARRYINGDAGGER	36179
+Ancient repriser (broken)	T80_RANGED_PARRYINGDAGGER_BROKEN	36180
+Kalphite repriser	T90_RANGED_PARRYINGDAGGER	36181
+Kalphite repriser	T90_RANGED_PARRYINGDAGGER_USED	36182
+Kalphite repriser (broken)	T90_RANGED_PARRYINGDAGGER_BROKEN	36183
+Bronze pack	PREMCLUB15_BRONZE_UNBUY	36184
+Bronze pack	BOUGHT_PREMCLUB15_BRONZE_UNBUY	36185
+Silver pack	PREMCLUB15_SILVER_UNBUY	36186
+Silver pack	BOUGHT_PREMCLUB15_SILVER_UNBUY	36187
+Gold pack	PREMCLUB15_GOLD_UNBUY	36188
+Gold pack	BOUGHT_PREMCLUB15_GOLD_UNBUY	36189
+Adamant chest	TRH62_ADAMANT_CHEST	36190
+Rune chest	TRH62_RUNE_CHEST	36191
+Dragon chest	TRH62_DRAGON_CHEST	36192
+God chest	TRH62_GOD_CHEST	36193
+Thieving skill training dummy	TRH77_THIEVING_DUMMY	36194
+Slayer skill training dummy	TRH77_SLAYER_DUMMY	36195
+Large skill training dummy crate	TRH_SKILL_DUMMY_CRATE_LARGE	36196
+Large skill training dummy crate (3)	TRH_SKILL_DUMMY_CRATE_LARGE_3	36197
+Large skill training dummy crate (2)	TRH_SKILL_DUMMY_CRATE_LARGE_2	36198
+Large skill training dummy crate (1)	TRH_SKILL_DUMMY_CRATE_LARGE_1	36199
+Medium skill training dummy crate	TRH_SKILL_DUMMY_CRATE_MEDIUM	36200
+Medium skill training dummy crate (1)	TRH_SKILL_DUMMY_CRATE_MEDIUM_1	36201
+Loot piñata	TRH79_LOOT_PINATA	36202
+Piñata loot bag	TRH79_LOOT_PINATA_BAG	36203
+Pinata sombrero	TRH79_SOMBRERO_HAT	36204
+Pinata sombrero	CERT_TRH79_SOMBRERO_HAT	36205
+Luchador mask token	TRH79_MASK_TOKEN	36206
+Pinata plushie	TRH79_PINATA_PLUSHIE	36207
+Pinata plushie	CERT_TRH79_PINATA_PLUSHIE	36208
+Douglas	MTX_XMAS_PET	36209
+Douglas	BOUGHT_MTX_XMAS_PET	36210
+Douglas	POH_MTX_XMAS_PET	36211
+Bubbles	TUTISLAND_PLAYER_UNDERWATER_BUBBLES	36212
+Diving suit helmet	TUTISLAND_AQUA_SUIT_HELMET_1	36213
+Diving suit helmet	TUTISLAND_AQUA_SUIT_HELMET_2	36214
+Diving suit helmet	TUTISLAND_AQUA_SUIT_HELMET_3	36215
+Diving suit torso	TUTISLAND_AQUA_SUIT_TORSO	36216
+Diving suit legs	TUTISLAND_AQUA_SUIT_LEGS	36217
+Diving suit boots	TUTISLAND_AQUA_SUIT_FEET	36218
+Diving suit gloves	TUTISLAND_AQUA_SUIT_HANDS	36219
+Bubbles	TUTISLAND_HUMAN_BUBBLE_BILLBOARD	36220
+Underwater disguise kit	TUTISLAND_DISGUISE	36221
+Raw shrimp	TUTISLAND_SHRIMP_RAW	36222
+Boiled shrimp	TUTISLAND_SHRIMP_COOKED	36224
+Burnt shrimp	TUTISLAND_SHRIMP_BURNT	36226
+Soggy branch	TUTISLAND_BRYNNA_LOG	36228
+25gp	TUTISLAND_VAULT_COINS	36230
+Strong seaweed	TUTISLAND_BRYNNA_SEAWEED	36231
+Tasty seaweed	TUTISLAND_LEV_SEAWEED	36233
+Levs music box	TUTISLAND_LEV_MUSICBOX	36235
+]] }

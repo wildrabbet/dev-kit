@@ -1,0 +1,3268 @@
+-- Every item: name, config name (what !give takes), id (part 10)
+-- Made by tools/make_dev_search_data.py from the 21 Oct 2026 beta data dump. Edit the generator, not this.
+return { [[
+Friend list	TUTISLAND_BRACE_FISH_LIST	36236
+Brother Brace's Prayer Book	TUTISLAND_BRACE_BOOK	36237
+Soggy copper ore	TUTISLAND_SMITHING_COPPER	36238
+Soggy tin ore	TUTISLAND_SMITHING_TIN	36239
+Bronzish bar	TUTISLAND_SMITHING_BAR	36240
+Bronze butter knife	TUTISLAND_SMITHING_KNIFE	36241
+Sea cucumber	TUTISLAND_REWARD_SEACUCUMBER	36242
+Delicious seaweed	TUTISLAND_REWARD_SEAWEED	36244
+Delicious seaweed	TUTISLAND_REWARD_SEAWEED_RED	36246
+Delicious seaweed	TUTISLAND_REWARD_SEAWEED_GREEN	36248
+Delicious seaweed	TUTISLAND_REWARD_SEAWEED_BLUE	36250
+Lev's old music box	TUTISLAND_LEV_MUSICBOX_REWARD	36252
+Vannaka's Sword	TUTISLAND_VANNAKAS_SWORD_OVERRIDE	36253
+Fishing lamp	TUTISLAND_LAMP_FISHING	36254
+Cooking lamp	TUTISLAND_LAMP_COOKING	36255
+Combat lamp	TUTISLAND_LAMP_COMBAT	36256
+Strange glowing orb	RAID1_GLOWING_ORB_RED	36257
+Strange glowing orb	RAID1_GLOWING_ORB_RED_ACTIVE	36258
+	CHISEL_LEFT	36259
+Party hat fragment	MTX15Y_PARTY_HAT_FRAGMENT	36260
+	MTX15Y_PARTY_HAT_FRAGMENT_2	36261
+	MTX15Y_PARTY_HAT_FRAGMENT_3	36262
+	MTX15Y_PARTY_HAT_FRAGMENT_4	36263
+	MTX15Y_PARTY_HAT_FRAGMENT_5	36264
+15th Anniversary party hat	MTX15Y_PARTY_HAT	36265
+15th anniversary party box	MTX15Y_PARTY_BOX	36266
+15th Anniversary tunic	MTX15Y_TUNIC	36267
+15th Anniversary cracker wings	MTX15Y_WINGS	36268
+15th Anniversary balloon	MTX15Y_BALLOON	36269
+RS Anniversary cake	MTX15Y_CAKE	36270
+Fenrir legs	HATI_FENRIR_WOLF_SKIN_LEGS	36271
+Fenrir body	HATI_FENRIR_WOLF_SKIN_TORSO	36272
+Fenrir's tooth	FENRIR_BXP_ITEM	36273
+Blood dye	BLOOD_DYE	36274
+Blood dye	CERT_BLOOD_DYE	36275
+Tectonic mask (blood)	LRC2_MAGIC_HELM_NEW_BLOOD	36276
+Tectonic mask (blood)	LRC2_MAGIC_HELM_USED_BLOOD	36277
+Tectonic mask (blood)(broken)	LRC2_MAGIC_HELM_BROKEN_BLOOD	36278
+Tectonic robe top (blood)	LRC2_MAGIC_BODY_NEW_BLOOD	36279
+Tectonic robe top (blood)	LRC2_MAGIC_BODY_USED_BLOOD	36280
+Tectonic robe top (blood)(broken)	LRC2_MAGIC_BODY_BROKEN_BLOOD	36281
+Tectonic robe bottom (blood)	LRC2_MAGIC_LEGS_NEW_BLOOD	36282
+Tectonic robe bottom (blood)	LRC2_MAGIC_LEGS_USED_BLOOD	36283
+Tectonic robe bottom (blood)(broken)	LRC2_MAGIC_LEGS_BROKEN_BLOOD	36284
+Sirenic mask (blood)	T90_RANGED_HELM_NEW_BLOOD	36285
+Sirenic mask (blood)	T90_RANGED_HELM_USED_BLOOD	36286
+Sirenic mask (blood)(broken)	T90_RANGED_HELM_BROKEN_BLOOD	36287
+Sirenic hauberk (blood)	T90_RANGED_BODY_NEW_BLOOD	36288
+Sirenic hauberk (blood)	T90_RANGED_BODY_USED_BLOOD	36289
+Sirenic hauberk (blood)(broken)	T90_RANGED_BODY_BROKEN_BLOOD	36290
+Sirenic chaps (blood)	T90_RANGED_LEGS_NEW_BLOOD	36291
+Sirenic chaps (blood)	T90_RANGED_LEGS_USED_BLOOD	36292
+Sirenic chaps (blood)(broken)	T90_RANGED_LEGS_BROKEN_BLOOD	36293
+Malevolent helm (blood)	BARROWS2_HELM_NEW_BLOOD	36294
+Malevolent helm (blood)	BARROWS2_HELM_USED_BLOOD	36295
+Malevolent helm (blood)(broken)	BARROWS2_HELM_BROKEN_BLOOD	36296
+Malevolent cuirass (blood)	BARROWS2_BODY_NEW_BLOOD	36297
+Malevolent cuirass (blood)	BARROWS2_BODY_USED_BLOOD	36298
+Malevolent cuirass (blood)(broken)	BARROWS2_BODY_BROKEN_BLOOD	36299
+Malevolent greaves (blood)	BARROWS2_LEGS_NEW_BLOOD	36300
+Malevolent greaves (blood)	BARROWS2_LEGS_USED_BLOOD	36301
+Malevolent greaves (blood)(broken)	BARROWS2_LEGS_BROKEN_BLOOD	36302
+Drygore mace (blood)	KK_MACE_100_BLOOD	36303
+Drygore mace (blood)	KK_MACE_50_BLOOD	36304
+Drygore mace (blood)(broken)	KK_MACE_0_BLOOD	36305
+Off-hand drygore mace (blood)	KK_MACE_O_100_BLOOD	36306
+Off-hand drygore mace (blood)	KK_MACE_O_50_BLOOD	36307
+Off-hand drygore mace (blood)(broken)	KK_MACE_O_0_BLOOD	36308
+Drygore rapier (blood)	KK_SWORD_100_BLOOD	36309
+Drygore rapier (blood)	KK_SWORD_50_BLOOD	36310
+Drygore rapier (blood)(broken)	KK_SWORD_0_BLOOD	36311
+Off-hand drygore rapier (blood)	KK_SWORD_O_100_BLOOD	36312
+Off-hand drygore rapier (blood)	KK_SWORD_O_50_BLOOD	36313
+Off-hand drygore rapier (blood)(broken)	KK_SWORD_O_0_BLOOD	36314
+Drygore longsword (blood)	KK_LONGSWORD_100_BLOOD	36315
+Drygore longsword (blood)	KK_LONGSWORD_50_BLOOD	36316
+Drygore longsword (blood)(broken)	KK_LONGSWORD_0_BLOOD	36317
+Off-hand drygore longsword (blood)	KK_LONGSWORD_O_100_BLOOD	36318
+Off-hand drygore longsword (blood)	KK_LONGSWORD_O_50_BLOOD	36319
+Off-hand drygore longsword (blood)(broken)	KK_LONGSWORD_O_0_BLOOD	36320
+Ascension crossbow (blood)	ASC_CRYSTAL_CROSSBOW_BLOOD	36321
+Ascension crossbow (blood)	ASC_CRYSTAL_CROSSBOW_50_BLOOD	36322
+Ascension crossbow (blood)(broken)	ASC_CRYSTAL_CROSSBOW_0_BLOOD	36323
+Off-hand ascension crossbow (blood)	ASC_CRYSTAL_CROSSBOW_O_BLOOD	36324
+Off-hand ascension crossbow (blood)	ASC_CRYSTAL_CROSSBOW_O_50_BLOOD	36325
+Off-hand ascension crossbow (blood)(broken)	ASC_CRYSTAL_CROSSBOW_O_0_BLOOD	36326
+Seismic wand (blood)	LRC2_MAGIC_WAND_NEW_BLOOD	36327
+Seismic wand (blood)	LRC2_MAGIC_WAND_USED_BLOOD	36328
+Seismic wand (blood)(broken)	LRC2_MAGIC_WAND_BROKEN_BLOOD	36329
+Seismic singularity (blood)	LRC2_MAGIC_OFFHAND_NEW_BLOOD	36330
+Seismic singularity (blood)	LRC2_MAGIC_OFFHAND_USED_BLOOD	36331
+Seismic singularity (blood)(broken)	LRC2_MAGIC_OFFHAND_BROKEN_BLOOD	36332
+Noxious scythe (blood)	SB_MELEE_WEAPON_NEW_BLOOD	36333
+Noxious scythe (blood)	SB_MELEE_WEAPON_USED_BLOOD	36334
+Noxious scythe (blood)(broken)	SB_MELEE_WEAPON_BROKEN_BLOOD	36335
+Noxious staff (blood)	SB_MAGIC_WEAPON_NEW_BLOOD	36336
+Noxious staff (blood)	SB_MAGIC_WEAPON_USED_BLOOD	36337
+Noxious staff (blood)(broken)	SB_MAGIC_WEAPON_BROKEN_BLOOD	36338
+Noxious longbow (blood)	SB_RANGED_WEAPON_NEW_BLOOD	36339
+Noxious longbow (blood)	SB_RANGED_WEAPON_USED_BLOOD	36340
+Noxious longbow (blood)(broken)	SB_RANGED_WEAPON_BROKEN_BLOOD	36341
+Shadow dragoon outfit	MTX94_DRAGOON_OUTFIT	36342
+Shadow dragoon outfit	BOUGHT_MTX94_DRAGOON_OUTFIT	36343
+Shadow dragoon helm	MTX94_DRAGOON_HEAD	36344
+Shadow dragoon chestplate	MTX94_DRAGOON_TORSO	36345
+Shadow dragoon legplates	MTX94_DRAGOON_LEGS	36346
+Shadow dragoon boots	MTX94_DRAGOON_FEET	36347
+Shadow dragoon gauntlets	MTX94_DRAGOON_HANDS	36348
+Shadow Dragoon Spear 'Fury's Remorse'	MTX94_DRAGOON_SPEAR	36349
+Clan cloak	MTX_CLAN_CLOAK_OVERRIDE	36350
+Invention cape	SKILLCAPE_INVENTION	36351
+Invention cape (t)	SKILLCAPE_INVENTION_TRIMMED	36352
+Hooded Invention cape	SKILLCAPE_INVENTION_HOODED	36353
+Hooded Invention cape (t)	SKILLCAPE_INVENTION_TRIMMED_HOODED	36354
+Invention hood	SKILLCAPE_INVENTION_HOOD	36355
+Invention master cape	SKILLCAPE_120_INVENTION	36356
+Invention cape	DUMMY_SKILLCAPE_INVENTION	36357
+Invention master cape	DUMMY_SKILLCAPE_120_INVENTION	36358
+	INVENT_WOODCUT_ACCUMULATOR	36359
+	INVENT_FISHING_GRAPHICS_ACCUMULATOR	36360
+	INVENT_MINING_GRAPHICS_ACCUMULATOR	36361
+	INVENT_NOPE_ROPE_GRAPHICS	36362
+	INVENT_FISHING_ROD_O_MATIC_GRAPHICS	36363
+	INVENT_INVENT_ELECTRIC_FLAMETHROWER_GRAPHICS	36364
+Invention material	INVENT_MATERIAL_DUMMY	36365
+Blueprint	INVENT_BLUEPRINT_DUMMY	36366
+Inventor's tools	INVENT_INVENTORS_TOOLS_DUMMY	36367
+Bag of materials	INVENT_BAG_OF_MATERIAL_DUMMY	36368
+Doc's rotten timber	INVENT_TUTORIAL_PART1	36369
+Doc's old clothes	INVENT_TUTORIAL_PART2	36370
+Doc's broken dagger	INVENT_TUTORIAL_PART3	36371
+Doc's cracked orb	INVENT_TUTORIAL_PART4	36372
+Doc's broken longbow	INVENT_TUTORIAL_PART5	36373
+Doc's spare parts	INVENT_TUTORIAL_PARTS	36374
+Refined components	INVENT_JUNK_REFINER_DUMMY	36375
+Mining accumulator	INVENT_MINING_ACCUMULATOR	36376
+Mining accumulator	CERT_INVENT_MINING_ACCUMULATOR	36377
+Mining accumulator (active)	INVENT_MINING_ACCUMULATOR_USED	36378
+Mining accumulator (full)	INVENT_MINING_ACCUMULATOR_FULL	36379
+Fishing accumulator	INVENT_FISHING_ACCUMULATOR	36380
+Fishing accumulator	CERT_INVENT_FISHING_ACCUMULATOR	36381
+Fishing accumulator (active)	INVENT_FISHING_ACCUMULATOR_USED	36382
+Fishing accumulator (full)	INVENT_FISHING_ACCUMULATOR_FULL	36383
+Woodcutting accumulator	INVENT_WOODCUTTING_ACCUMULATOR	36384
+Woodcutting accumulator	CERT_INVENT_WOODCUTTING_ACCUMULATOR	36385
+Woodcutting accumulator (active)	INVENT_WOODCUTTING_ACCUMULATOR_USED	36386
+Woodcutting accumulator (full)	INVENT_WOODCUTTING_ACCUMULATOR_FULL	36387
+Junk refiner	INVENT_JUNK_REFINER	36388
+Charge pack	INVENT_CHARGE_PACK	36389
+Divine charge	INVENT_DIVINE_CHARGE	36390
+Mechanised chinchompa	INVENT_MECHANISED_CHINCHOMPA	36391
+Pogo stick	INVENT_POGO_STICK	36392
+Augmented Guthan's platebody	BARROWS_GUTHAN_BODY_AUGMENTED	36393
+Augmented Guthan's platebody (uncharged)	BARROWS_GUTHAN_BODY_AUGMENTED_UNCHARGED	36394
+Augmented Guthan's chainskirt	BARROWS_GUTHAN_LEGS_AUGMENTED	36395
+Augmented Guthan's chainskirt (uncharged)	BARROWS_GUTHAN_LEGS_AUGMENTED_UNCHARGED	36396
+Augmented Verac's brassard	BARROWS_VERAC_BODY_AUGMENTED	36397
+Augmented Verac's brassard (uncharged)	BARROWS_VERAC_BODY_AUGMENTED_UNCHARGED	36398
+Augmented Verac's plateskirt	BARROWS_VERAC_LEGS_AUGMENTED	36399
+Augmented Verac's plateskirt	BARROWS_VERAC_LEGS_AUGMENTED_UNCHARGED	36400
+Augmented Torag's platebody	BARROWS_TORAG_BODY_AUGMENTED	36401
+Augmented Torag's platebody (uncharged)	BARROWS_TORAG_BODY_AUGMENTED_UNCHARGED	36402
+Augmented Torag's platelegs	BARROWS_TORAG_LEGS_AUGMENTED	36403
+Augmented Torag's platelegs (uncharged)	BARROWS_TORAG_LEGS_AUGMENTED_UNCHARGED	36404
+Augmented Dharok's platebody	BARROWS_DHAROK_BODY_AUGMENTED	36405
+Augmented dharok's platebody (uncharged)	BARROWS_DHAROK_BODY_AUGMENTED_UNCHARGED	36406
+Augmented Dharok's platelegs	BARROWS_DHAROK_LEGS_AUGMENTED	36407
+Augmented Dharok's platelegs (uncharged)	BARROWS_DHAROK_LEGS_AUGMENTED_UNCHARGED	36408
+Augmented Karil's top	BARROWS_KARIL_BODY_AUGMENTED	36409
+Augmented Karil's top (uncharged)	BARROWS_KARIL_BODY_AUGMENTED_UNCHARGED	36410
+Augmented Karil's skirt	BARROWS_KARIL_LEGS_AUGMENTED	36411
+Augmented Karil's skirt (uncharged)	BARROWS_KARIL_LEGS_AUGMENTED_UNCHARGED	36412
+Augmented Ahrim's robe top	BARROWS_AHRIM_BODY_AUGMENTED	36413
+Augmented Ahrim's robe top (uncharged)	BARROWS_AHRIM_BODY_AUGMENTED_UNCHARGED	36414
+Augmented Ahrim's robe skirt	BARROWS_AHRIM_LEGS_AUGMENTED	36415
+Augmented Ahrim's robe skirt (uncharged)	BARROWS_AHRIM_LEGS_AUGMENTED_UNCHARGED	36416
+Augmented Akrisae's robe top	MAH5_BARROWS_AKRISAE_BODY_AUGMENTED	36417
+Augmented Akrisae's robe top (uncharged)	MAH5_BARROWS_AKRISAE_BODY_AUGMENTED_UNCHARGED	36418
+Augmented Akrisae's robe skirt	MAH5_BARROWS_AKRISAE_LEGS_AUGMENTED	36419
+Augmented Akrisae's robe skirt (uncharged)	MAH5_BARROWS_AKRISAE_LEGS_AUGMENTED_UNCHARGED	36420
+Augmented dragonfire shield	DRAGONFIRE_SHIELD_AUGMENTED	36421
+Augmented dragonfire shield (uncharged)	DRAGONFIRE_SHIELD_AUGMENTED_UNCHARGED	36422
+Augmented dragonfire shield	DRAGONFIRE_SHIELD_UNCHARGED_AUGMENTED	36423
+Augmented dragonfire shield (uncharged)	DRAGONFIRE_SHIELD_UNCHARGED_AUGMENTED_UNCHARGED	36424
+Augmented dragonfire ward	DRAGONFIRE_SHIELD_MAGIC_AUGMENTED	36425
+Augmented dragonfire ward (uncharged)	DRAGONFIRE_SHIELD_MAGIC_AUGMENTED_UNCHARGED	36426
+Augmented dragonfire ward	DRAGONFIRE_SHIELD_UNCHARGED_MAGIC_AUGMENTED	36427
+Augmented dragonfire ward (uncharged)	DRAGONFIRE_SHIELD_UNCHARGED_MAGIC_AUGMENTED_UNCHARGED	36428
+Augmented dragonfire deflector	DRAGONFIRE_SHIELD_RANGED_AUGMENTED	36429
+Augmented dragonfire deflector (uncharged)	DRAGONFIRE_SHIELD_RANGED_AUGMENTED_UNCHARGED	36430
+Augmented dragonfire deflector	DRAGONFIRE_SHIELD_UNCHARGED_RANGED_AUGMENTED	36431
+Augmented dragonfire deflector (uncharged)	DRAGONFIRE_SHIELD_UNCHARGED_RANGED_AUGMENTED_UNCHARGED	36432
+Augmented crystal ward	ELFCITY_CRYSTAL_SHIELD_MAGIC_AUGMENTED	36433
+Augmented crystal ward (uncharged)	ELFCITY_CRYSTAL_SHIELD_MAGIC_AUGMENTED_UNCHARGED	36434
+Augmented attuned crystal ward	ELFCITY_CRYSTAL_SHIELD_MAGIC_ATTUNED_AUGMENTED	36435
+Augmented attuned crystal ward (uncharged)	ELFCITY_CRYSTAL_SHIELD_MAGIC_ATTUNED_AUGMENTED_UNCHARGED	36436
+Augmented crystal shield	ELFCITY_CRYSTAL_SHIELD_MELEE_AUGMENTED	36437
+Augmented crystal shield (uncharged)	ELFCITY_CRYSTAL_SHIELD_MELEE_AUGMENTED_UNCHARGED	36438
+Augmented attuned crystal shield	ELFCITY_CRYSTAL_SHIELD_MELEE_ATTUNED_AUGMENTED	36439
+Augmented attuned crystal shield (uncharged)	ELFCITY_CRYSTAL_SHIELD_MELEE_ATTUNED_AUGMENTED_UNCHARGED	36440
+Augmented crystal deflector	ELFCITY_CRYSTAL_SHIELD_RANGED_AUGMENTED	36441
+Augmented crystal deflector (uncharged)	ELFCITY_CRYSTAL_SHIELD_RANGED_AUGMENTED_UNCHARGED	36442
+Augmented attuned crystal deflector	ELFCITY_CRYSTAL_SHIELD_RANGED_ATTUNED_AUGMENTED	36443
+Augmented attuned crystal deflector (uncharged)	ELFCITY_CRYSTAL_SHIELD_RANGED_ATTUNED_AUGMENTED_UNCHARGED	36444
+Augmented blessed spirit shield	SUM2_SPIRIT_SHIELD_BLESSED_AUGMENTED	36445
+Augmented blessed spirit shield (uncharged)	SUM2_SPIRIT_SHIELD_BLESSED_AUGMENTED_UNCHARGED	36446
+Augmented arcane spirit shield	SUM2_SPIRIT_SHIELD_ARCANE_AUGMENTED	36447
+Augmented arcane spirit shield (uncharged)	SUM2_SPIRIT_SHIELD_ARCANE_AUGMENTED_UNCHARGED	36448
+Augmented divine spirit shield	SUM2_SPIRIT_SHIELD_DIVINE_AUGMENTED	36449
+Augmented divine spirit shield (uncharged)	SUM2_SPIRIT_SHIELD_DIVINE_AUGMENTED_UNCHARGED	36450
+Augmented elysian spirit shield	SUM2_SPIRIT_SHIELD_ELYSIAN_AUGMENTED	36451
+Augmented elysian spirit shield (uncharged)	SUM2_SPIRIT_SHIELD_ELYSIAN_AUGMENTED_UNCHARGED	36452
+Augmented spectral spirit shield	SUM2_SPIRIT_SHIELD_SPECTRAL_AUGMENTED	36453
+Augmented spectral spirit shield (uncharged)	SUM2_SPIRIT_SHIELD_SPECTRAL_AUGMENTED_UNCHARGED	36454
+Augmented ganodermic poncho	GANODERMIC_PONCHO_AUGMENTED	36455
+Augmented ganodermic poncho (uncharged)	GANODERMIC_PONCHO_AUGMENTED_UNCHARGED	36456
+Augmented ganodermic leggings	GANODERMIC_LEGGINGS_AUGMENTED	36457
+Augmented ganodermic leggings (uncharged)	GANODERMIC_LEGGINGS_AUGMENTED_UNCHARGED	36458
+Augmented Armadyl chainskirt	GODWARS_ARMOR_ARMADYL_ARMORED_SKIRT_AUGMENTED	36459
+Augmented Armadyl chainskirt (uncharged)	GODWARS_ARMOR_ARMADYL_ARMORED_SKIRT_AUGMENTED_UNCHARGED	36460
+Augmented Armadyl chestplate	GODWARS_ARMOR_ARMADYL_CHESTPLATE_AUGMENTED	36461
+Augmented Armadyl chestplate (uncharged)	GODWARS_ARMOR_ARMADYL_CHESTPLATE_AUGMENTED_UNCHARGED	36462
+Augmented Armadyl buckler	GODWARS_ARMADYL_SHIELD_AUGMENTED	36463
+Augmented Armadyl buckler (uncharged)	GODWARS_ARMADYL_SHIELD_AUGMENTED_UNCHARGED	36464
+Augmented Bandos tassets	GODWARS_ARMOR_BANDOS_ARMORED_SKIRT_AUGMENTED	36465
+Augmented Bandos tassets (uncharged)	GODWARS_ARMOR_BANDOS_ARMORED_SKIRT_AUGMENTED_UNCHARGED	36466
+Augmented Bandos chestplate	GODWARS_ARMOR_BANDOS_CHESTPLATE_AUGMENTED	36467
+Augmented Bandos chestplate (uncharged)	GODWARS_ARMOR_BANDOS_CHESTPLATE_AUGMENTED_UNCHARGED	36468
+Augmented Bandos warshield	GODWARS_BANDOS_SHIELD_AUGMENTED	36469
+Augmented Bandos warshield (uncharged)	GODWARS_BANDOS_SHIELD_AUGMENTED_UNCHARGED	36470
+Augmented gown of subjugation	GODWARS_ZAMORAK_ROBE_LEGS_AUGMENTED	36471
+Augmented gown of subjugation (uncharged)	GODWARS_ZAMORAK_ROBE_LEGS_AUGMENTED_UNCHARGED	36472
+Augmented garb of subjugation	GODWARS_ZAMORAK_ROBE_BODY_AUGMENTED	36473
+Augmented garb of subjugation (uncharged)	GODWARS_ZAMORAK_ROBE_BODY_AUGMENTED_UNCHARGED	36474
+Augmented ward of subjugation	GODWARS_ZAMORAK_SHIELD_AUGMENTED	36475
+Augmented ward of subjugation (uncharged)	GODWARS_ZAMORAK_SHIELD_AUGMENTED_UNCHARGED	36476
+Augmented Virtus robe top	GODWARS2_BODY_MAGIC_AUGMENTED	36477
+Augmented Virtus robe top (uncharged)	GODWARS2_BODY_MAGIC_AUGMENTED_UNCHARGED	36478
+Augmented Virtus robe legs	GODWARS2_LEGS_MAGIC_AUGMENTED	36479
+Augmented Virtus robe legs (uncharged)	GODWARS2_LEGS_MAGIC_AUGMENTED_UNCHARGED	36480
+Augmented Torva platebody	GODWARS2_BODY_MELEE_AUGMENTED	36481
+Augmented Torva platebody (uncharged)	GODWARS2_BODY_MELEE_AUGMENTED_UNCHARGED	36482
+Augmented Torva platelegs	GODWARS2_LEGS_MELEE_AUGMENTED	36483
+Augmented Torva platelegs (uncharged)	GODWARS2_LEGS_MELEE_AUGMENTED_UNCHARGED	36484
+Augmented Pernix body	GODWARS2_BODY_RANGE_AUGMENTED	36485
+Augmented Pernix body (uncharged)	GODWARS2_BODY_RANGE_AUGMENTED_UNCHARGED	36486
+Augmented Pernix chaps	GODWARS2_LEGS_RANGE_AUGMENTED	36487
+Augmented Pernix chaps (uncharged)	GODWARS2_LEGS_RANGE_AUGMENTED_UNCHARGED	36488
+Augmented superior tetsu body	POP_MELEE_BODY_AUGMENTED	36489
+Augmented superior tetsu body (uncharged)	POP_MELEE_BODY_AUGMENTED_UNCHARGED	36490
+Augmented superior tetsu legs	POP_MELEE_LEGS_AUGMENTED	36491
+Augmented superior tetsu legs (uncharged)	POP_MELEE_LEGS_AUGMENTED_UNCHARGED	36492
+Augmented Seasinger's robe top	POP_MAGIC_BODY_AUGMENTED	36493
+Augmented Seasinger's robe top (uncharged)	POP_MAGIC_BODY_AUGMENTED_UNCHARGED	36494
+Augmented Seasinger's robe bottom	POP_MAGIC_LEGS_AUGMENTED	36495
+Augmented Seasinger's robe bottom (uncharged)	POP_MAGIC_LEGS_AUGMENTED_UNCHARGED	36496
+Augmented Death Lotus chestplate	POP_RANGED_BODY_AUGMENTED	36497
+Augmented Death Lotus chestplate (uncharged)	POP_RANGED_BODY_AUGMENTED_UNCHARGED	36498
+Augmented Death Lotus chaps	POP_RANGED_LEGS_AUGMENTED	36499
+Augmented Death Lotus chaps (uncharged)	POP_RANGED_LEGS_AUGMENTED_UNCHARGED	36500
+Augmented Achto Primeval robe top	RAID1_MAGIC_BODY_TIER2_AUGMENTED	36501
+Augmented Achto Primeval robe top (uncharged)	RAID1_MAGIC_BODY_TIER2_AUGMENTED_UNCHARGED	36502
+Augmented Achto Primeval robe legs	RAID1_MAGIC_LEGS_TIER2_AUGMENTED	36503
+Augmented Achto Primeval robe legs (uncharged)	RAID1_MAGIC_LEGS_TIER2_AUGMENTED_UNCHARGED	36504
+Augmented Achto Teralith cuirass	RAID1_MELEE_BODY_TIER2_AUGMENTED	36505
+Augmented Achto Teralith cuirass (uncharged)	RAID1_MELEE_BODY_TIER2_AUGMENTED_UNCHARGED	36506
+Augmented Achto Teralith leggings	RAID1_MELEE_LEGS_TIER2_AUGMENTED	36507
+Augmented Achto Teralith leggings (uncharged)	RAID1_MELEE_LEGS_TIER2_AUGMENTED_UNCHARGED	36508
+Augmented Achto Tempest body	RAID1_RANGED_BODY_TIER2_AUGMENTED	36509
+Augmented Achto Tempest body (uncharged)	RAID1_RANGED_BODY_TIER2_AUGMENTED_UNCHARGED	36510
+Augmented Achto Tempest chaps	RAID1_RANGED_LEGS_TIER2_AUGMENTED	36511
+Augmented Achto Tempest chaps (uncharged)	RAID1_RANGED_LEGS_TIER2_AUGMENTED_UNCHARGED	36512
+Augmented chaotic kiteshield	RAND_KITESHIELD_80_MELEE_REWARD_AUGMENTED	36513
+Augmented chaotic kiteshield (uncharged)	RAND_KITESHIELD_80_MELEE_REWARD_AUGMENTED_UNCHARGED	36514
+Augmented farseer kiteshield	RAND_KITESHIELD_80_MAGIC_REWARD_AUGMENTED	36515
+Augmented farseer kiteshield (uncharged)	RAND_KITESHIELD_80_MAGIC_REWARD_AUGMENTED_UNCHARGED	36516
+Augmented eagle-eye kiteshield	RAND_KITESHIELD_80_RANGE_REWARD_AUGMENTED	36517
+Augmented eagle-eye kiteshield (uncharged)	RAND_KITESHIELD_80_RANGE_REWARD_AUGMENTED_UNCHARGED	36518
+Augmented malevolent cuirass	BARROWS2_BODY_AUGMENTED	36519
+Augmented malevolent cuirass (uncharged)	BARROWS2_BODY_AUGMENTED_UNCHARGED	36520
+Augmented malevolent greaves	BARROWS2_LEGS_AUGMENTED	36521
+Augmented malevolent greaves (uncharged)	BARROWS2_LEGS_AUGMENTED_UNCHARGED	36522
+Augmented tectonic robe top	LRC2_MAGIC_BODY_AUGMENTED	36523
+Augmented tectonic robe top (uncharged)	LRC2_MAGIC_BODY_AUGMENTED_UNCHARGED	36524
+Augmented tectonic robe bottom	LRC2_MAGIC_LEGS_AUGMENTED	36525
+Augmented tectonic robe bottom (uncharged)	LRC2_MAGIC_LEGS_AUGMENTED_UNCHARGED	36526
+Augmented sirenic hauberk	T90_RANGED_BODY_AUGMENTED	36527
+Augmented sirenic hauberk (uncharged)	T90_RANGED_BODY_AUGMENTED_UNCHARGED	36528
+Augmented sirenic chaps	T90_RANGED_LEGS_AUGMENTED	36529
+Augmented sirenic chaps (uncharged)	T90_RANGED_LEGS_AUGMENTED_UNCHARGED	36530
+Augmented malevolent kiteshield	BARROWS2_SHIELD_MELEE_AUGMENTED	36531
+Augmented malevolent kiteshield (uncharged)	BARROWS2_SHIELD_MELEE_AUGMENTED_UNCHARGED	36532
+Augmented merciless kiteshield	BARROWS2_SHIELD_MAGIC_AUGMENTED	36533
+Augmented malevolent kiteshield (uncharged)	BARROWS2_SHIELD_MAGIC_AUGMENTED_UNCHARGED	36534
+Augmented vengeful kiteshield	BARROWS2_SHIELD_RANGED_AUGMENTED	36535
+Augmented vengeful kiteshield (uncharged)	BARROWS2_SHIELD_RANGED_AUGMENTED_UNCHARGED	36536
+Augmented dragon pickaxe	DRAGON_PICKAXE_AUGMENTED	36537
+Augmented dragon pickaxe (uncharged)	DRAGON_PICKAXE_AUGMENTED_UNCHARGED	36538
+Augmented crystal pickaxe	CRYSTAL_PICKAXE_AUGMENTED	36539
+Augmented crystal pickaxe (uncharged)	CRYSTAL_PICKAXE_AUGMENTED_UNCHARGED	36540
+Augmented Imcando pickaxe	IMCANDO_PICKAXE_AUGMENTED	36541
+Augmented Imcando pickaxe (uncharged)	IMCANDO_PICKAXE_AUGMENTED_UNCHARGED	36542
+Augmented dragon hatchet	DRAGON_AXE_AUGMENTED	36543
+Augmented dragon hatchet (uncharged)	DRAGON_AXE_AUGMENTED_UNCHARGED	36544
+Augmented crystal hatchet	CRYSTAL_AXE_AUGMENTED	36545
+Augmented crystal hatchet (uncharged)	CRYSTAL_AXE_AUGMENTED_UNCHARGED	36546
+Augmented inferno adze	FIREDUP_ADZE_AUGMENTED	36547
+Augmented inferno adze (uncharged)	FIREDUP_ADZE_AUGMENTED_UNCHARGED	36548
+Augmented Guthan's warspear	BARROWS_GUTHAN_WEAPON_AUGMENTED	36549
+Augmented Guthan's warspear (uncharged)	BARROWS_GUTHAN_WEAPON_AUGMENTED_UNCHARGED	36550
+Augmented Verac's flail	BARROWS_VERAC_WEAPON_AUGMENTED	36551
+Augmented Verac's flail (uncharged)	BARROWS_VERAC_WEAPON_AUGMENTED_UNCHARGED	36552
+Augmented Torag's hammer	BARROWS_TORAG_WEAPON_AUGMENTED	36553
+Augmented Torag's hammer (uncharged)	BARROWS_TORAG_WEAPON_AUGMENTED_UNCHARGED	36554
+Augmented Dharok's greataxe	BARROWS_DHAROK_WEAPON_AUGMENTED	36555
+Augmented Dharok's greataxe (uncharged)	BARROWS_DHAROK_WEAPON_AUGMENTED_UNCHARGED	36556
+Augmented Akrisae's war mace	MAH5_BARROWS_AKRISAE_WEAPON_AUGMENTED	36557
+Augmented Akrisae's war mace (uncharged)	MAH5_BARROWS_AKRISAE_WEAPON_AUGMENTED_UNCHARGED	36558
+Augmented Karil's crossbow	BARROWS_KARIL_WEAPON_AUGMENTED	36559
+Augmented Karil's crossbow (uncharged)	BARROWS_KARIL_WEAPON_AUGMENTED_UNCHARGED	36560
+Augmented Karil's pistol crossbow	XBOWS_CROSSBOW_KARIL_AUGMENTED	36561
+Augmented Karil's pistol crossbow (uncharged)	XBOWS_CROSSBOW_KARIL_AUGMENTED_UNCHARGED	36562
+Augmented Karil's off-hand pistol crossbow	XBOWS_CROSSBOW_KARIL_O_AUGMENTED	36563
+Augmented Karil's off-hand pistol crossbow (uncharged)	XBOWS_CROSSBOW_KARIL_O_AUGMENTED_UNCHARGED	36564
+Augmented Ahrim's staff	BARROWS_AHRIM_WEAPON_AUGMENTED	36565
+Augmented Ahrim's staff (uncharged)	BARROWS_AHRIM_WEAPON_AUGMENTED_UNCHARGED	36566
+Augmented Ahrim's book of magic	BARROWS_AHRIM_OFFHAND_AUGMENTED	36567
+Augmented Ahrim's book of magic (uncharged)	BARROWS_AHRIM_OFFHAND_AUGMENTED_UNCHARGED	36568
+Augmented Ahrim's wand	BARROWS_WAND_AUGMENTED	36569
+Augmented Ahrim's wand (uncharged)	BARROWS_WAND_AUGMENTED_UNCHARGED	36570
+Augmented crystal bow	ELFCITY_CRYSTAL_BOW_AUGMENTED	36571
+Augmented crystal bow (uncharged)	ELFCITY_CRYSTAL_BOW_AUGMENTED_UNCHARGED	36572
+Augmented attuned crystal bow	ELFCITY_CRYSTAL_BOW_ATTUNED_AUGMENTED	36573
+Augmented attuned crystal bow (uncharged)	ELFCITY_CRYSTAL_BOW_ATTUNED_AUGMENTED_UNCHARGED	36574
+Augmented crystal dagger	ELFCITY_CRYSTAL_DAGGER_AUGMENTED	36575
+Augmented crystal dagger (uncharged)	ELFCITY_CRYSTAL_DAGGER_AUGMENTED_UNCHARGED	36576
+Augmented attuned crystal dagger	ELFCITY_CRYSTAL_DAGGER_ATTUNED_AUGMENTED	36577
+Augmented attuned crystal dagger (uncharged)	ELFCITY_CRYSTAL_DAGGER_ATTUNED_AUGMENTED_UNCHARGED	36578
+Augmented crystal off-hand dagger	ELFCITY_CRYSTAL_DAGGER_O_AUGMENTED	36579
+Augmented crystal off-hand dagger (uncharged)	ELFCITY_CRYSTAL_DAGGER_O_AUGMENTED_UNCHARGED	36580
+Augmented off-hand attuned crystal dagger	ELFCITY_CRYSTAL_DAGGER_ATTUNED_O_AUGMENTED	36581
+Augmented off-hand attuned crystal dagger (uncharged)	ELFCITY_CRYSTAL_DAGGER_ATTUNED_O_AUGMENTED_UNCHARGED	36582
+Augmented crystal halberd	ELFCITY_CRYSTAL_HALBERD_AUGMENTED	36583
+Augmented crystal halberd (uncharged)	ELFCITY_CRYSTAL_HALBERD_AUGMENTED_UNCHARGED	36584
+Augmented attuned crystal halberd	ELFCITY_CRYSTAL_HALBERD_ATTUNED_AUGMENTED	36585
+Augmented attuned crystal halberd (uncharged)	ELFCITY_CRYSTAL_HALBERD_ATTUNED_AUGMENTED_UNCHARGED	36586
+Augmented crystal orb	ELFCITY_CRYSTAL_ORB_AUGMENTED	36587
+Augmented crystal orb (uncharged)	ELFCITY_CRYSTAL_ORB_AUGMENTED_UNCHARGED	36588
+Augmented attuned crystal orb	ELFCITY_CRYSTAL_ORB_ATTUNED_AUGMENTED	36589
+Augmented attuned crystal orb (uncharged)	ELFCITY_CRYSTAL_ORB_ATTUNED_AUGMENTED_UNCHARGED	36590
+Augmented crystal staff	ELFCITY_CRYSTAL_STAFF_AUGMENTED	36591
+Augmented crystal staff (uncharged)	ELFCITY_CRYSTAL_STAFF_AUGMENTED_UNCHARGED	36592
+Augmented attuned crystal staff	ELFCITY_CRYSTAL_STAFF_ATTUNED_AUGMENTED	36593
+Augmented attuned crystal staff (uncharged)	ELFCITY_CRYSTAL_STAFF_ATTUNED_AUGMENTED_UNCHARGED	36594
+Augmented crystal wand	ELFCITY_CRYSTAL_WAND_AUGMENTED	36595
+Augmented crystal wand (uncharged)	ELFCITY_CRYSTAL_WAND_AUGMENTED_UNCHARGED	36596
+Augmented attuned crystal wand	ELFCITY_CRYSTAL_WAND_ATTUNED_AUGMENTED	36597
+Augmented attuned crystal wand (uncharged)	ELFCITY_CRYSTAL_WAND_ATTUNED_AUGMENTED_UNCHARGED	36598
+Augmented flowers	FLOWERS_WATERFALL_QUEST_AUGMENTED	36599
+Augmented flowers (uncharged)	FLOWERS_WATERFALL_QUEST_AUGMENTED_UNCHARGED	36600
+Augmented rubber chicken	RUBBER_CHICKEN_AUGMENTED	36601
+Augmented rubber chicken (uncharged)	RUBBER_CHICKEN_AUGMENTED_UNCHARGED	36602
+Augmented offhand rubber chicken	RUBBER_CHICKEN_O_AUGMENTED	36603
+Augmented offhand rubber chicken (uncharged)	RUBBER_CHICKEN_O_AUGMENTED_UNCHARGED	36604
+Augmented armadyl battlestaff	MAH5_ARMADYL_BATTLESTAFF_AUGMENTED	36605
+Augmented armadyl battlestaff (uncharged)	MAH5_ARMADYL_BATTLESTAFF_AUGMENTED_UNCHARGED	36606
+Augmented Balmung	EVQ_AXE_AUGMENTED	36607
+Augmented Balmung (uncharged)	EVQ_AXE_AUGMENTED_UNCHARGED	36608
+Augmented dark bow	DARKBOW_AUGMENTED	36609
+Augmented dark bow (uncharged)	DARKBOW_AUGMENTED_UNCHARGED	36610
+Augmented black salamander	BLACK_SALAMANDER_AUGMENTED	36611
+Augmented black salamander (uncharged)	BLACK_SALAMANDER_AUGMENTED_UNCHARGED	36612
+Augmented hand cannon	RA3_ARQUEBUS_AUGMENTED	36613
+Augmented hand cannon (uncharged)	RA3_ARQUEBUS_AUGMENTED_UNCHARGED	36614
+Augmented Korasi's sword	VKQ3_KORASI_SWORD_AUGMENTED	36615
+Augmented Korasi's sword (uncharged)	VKQ3_KORASI_SWORD_AUGMENTED_UNCHARGED	36616
+Augmented Jessika's sword	PC14_KORASI_SWORD_O_AUGMENTED	36617
+Augmented Jessika's sword (uncharged)	PC14_KORASI_SWORD_O_AUGMENTED_UNCHARGED	36618
+Augmented enhanced Excalibur	ATSEER_EXCALIBUR_AUGMENTED	36619
+Augmented enhanced Excalibur (uncharged)	ATSEER_EXCALIBUR_AUGMENTED_UNCHARGED	36620
+Augmented abyssal whip	ABYSSAL_WHIP_AUGMENTED	36621
+Augmented abyssal whip (uncharged)	ABYSSAL_WHIP_AUGMENTED_UNCHARGED	36622
+Augmented abyssal vine whip	JARO_VINE_WHIP_ABYSSAL_AUGMENTED	36623
+Augmented abyssal vine whip (uncharged)	JARO_VINE_WHIP_ABYSSAL_AUGMENTED_UNCHARGED	36624
+Augmented lava whip	SLAYER_CORRUPT_WHIP_AUGMENTED	36625
+Augmented lava whip (uncharged)	SLAYER_CORRUPT_WHIP_AUGMENTED_UNCHARGED	36626
+Augmented staff of light	STAFF_OF_LIGHT_AUGMENTED	36627
+Augmented staff of light (uncharged)	STAFF_OF_LIGHT_AUGMENTED_UNCHARGED	36628
+Augmented staff of darkness	STAFF_OF_DARKNESS_AUGMENTED	36629
+Augmented staff of darkness (uncharged)	STAFF_OF_DARKNESS_AUGMENTED_UNCHARGED	36630
+Augmented strykebow	SLAYER_CORRUPT_SHIELDBOW_AUGMENTED	36631
+Augmented strykebow (uncharged)	SLAYER_CORRUPT_SHIELDBOW_AUGMENTED_UNCHARGED	36632
+Augmented royal crossbow	QBD2_CROSSBOW_AUGMENTED	36633
+Augmented royal crossbow (uncharged)	QBD2_CROSSBOW_AUGMENTED_UNCHARGED	36634
+Augmented abyssal wand	DT14_ABYSSAL_WAND_AUGMENTED	36635
+Augmented abyssal wand (uncharged)	DT14_ABYSSAL_WAND_AUGMENTED_UNCHARGED	36636
+Augmented abyssal orb	DT14_ABYSSAL_ORB_AUGMENTED	36637
+Augmented abyssal orb (uncharged)	DT14_ABYSSAL_ORB_AUGMENTED_UNCHARGED	36638
+Augmented polypore staff	POLYPORE_STAFF_AUGMENTED	36639
+Augmented polypore staff (uncharged)	POLYPORE_STAFF_AUGMENTED_UNCHARGED	36640
+Augmented Armadyl godsword	GODWARS_ARMADYL_GODSWORD_AUGMENTED	36641
+Augmented Armadyl godsword (uncharged)	GODWARS_ARMADYL_GODSWORD_AUGMENTED_UNCHARGED	36642
+Augmented Bandos godsword	GODWARS_BANDOS_GODSWORD_AUGMENTED	36643
+Augmented Bandos godsword (uncharged)	GODWARS_BANDOS_GODSWORD_AUGMENTED_UNCHARGED	36644
+Augmented Saradomin godsword	GODWARS_SARADOMIN_GODSWORD_AUGMENTED	36645
+Augmented Saradomin godsword (uncharged)	GODWARS_SARADOMIN_GODSWORD_AUGMENTED_UNCHARGED	36646
+Augmented Zamorak godsword	GODWARS_ZAMORAK_GODSWORD_AUGMENTED	36647
+Augmented Zamorak godsword (uncharged)	GODWARS_ZAMORAK_GODSWORD_AUGMENTED_UNCHARGED	36648
+Augmented Armadyl crossbow	GODWARS_ARMADYL_CROSSBOW_AUGMENTED	36649
+Augmented Armadyl crossbow (uncharged)	GODWARS_ARMADYL_CROSSBOW_AUGMENTED_UNCHARGED	36650
+Augmented off-hand Armadyl crossbow	GODWARS_ARMADYL_CROSSBOW_O_AUGMENTED	36651
+Augmented off-hand Armadyl crossbow (uncharged)	GODWARS_ARMADYL_CROSSBOW_O_AUGMENTED_UNCHARGED	36652
+Augmented Zamorakian spear	GODWARS_ZAMORAK_SPEAR_AUGMENTED	36653
+Augmented Zamorakian spear (uncharged)	GODWARS_ZAMORAK_SPEAR_AUGMENTED_UNCHARGED	36654
+Augmented Saradomin sword	GODWARS_SARADOMIN_SWORD_AUGMENTED	36655
+Augmented Saradomin sword (uncharged)	GODWARS_SARADOMIN_SWORD_AUGMENTED_UNCHARGED	36656
+Augmented Zaryte bow	GODWARS2_ZARYTE_BOW_AUGMENTED	36657
+Augmented Zaryte bow (uncharged)	GODWARS2_ZARYTE_BOW_AUGMENTED_UNCHARGED	36658
+Augmented Virtus book	GODWARS2_MAGIC_BOOK_AUGMENTED	36659
+Augmented Virtus book (uncharged)	GODWARS2_MAGIC_BOOK_AUGMENTED_UNCHARGED	36660
+Augmented Virtus wand	GODWARS2_WAND_AUGMENTED	36661
+Augmented Virtus wand (uncharged)	GODWARS2_WAND_AUGMENTED_UNCHARGED	36662
+Augmented tetsu katana	POP3_MELEE_WEAPON_AUGMENTED	36663
+Augmented tetsu katana (uncharged)	POP3_MELEE_WEAPON_AUGMENTED_UNCHARGED	36664
+Augmented tetsu wakizashi	POP3_MELEE_WEAPON_O_AUGMENTED	36665
+Augmented tetsu wakizashi (uncharged)	POP3_MELEE_WEAPON_O_AUGMENTED_UNCHARGED	36666
+Augmented seasinger kiba	POP3_MAGIC_WEAPON_AUGMENTED	36667
+Augmented seasinger kiba (uncharged)	POP3_MAGIC_WEAPON_AUGMENTED_UNCHARGED	36668
+Augmented seasinger makigai	POP3_MAGIC_WEAPON_O_AUGMENTED	36669
+Augmented seasinger makigai (uncharged)	POP3_MAGIC_WEAPON_O_AUGMENTED_UNCHARGED	36670
+Augmented chaotic claw	RAND_CLAW_80_REWARD_AUGMENTED	36671
+Augmented chaotic claw (uncharged)	RAND_CLAW_80_REWARD_AUGMENTED_UNCHARGED	36672
+Augmented off-hand chaotic claw	RAND_CLAW_80_REWARD_O_AUGMENTED	36673
+Augmented off-hand chaotic claw (uncharged)	RAND_CLAW_80_REWARD_O_AUGMENTED_UNCHARGED	36674
+Augmented chaotic longsword	RAND_LONGSWORD_80_REWARD_AUGMENTED	36675
+Augmented chaotic longsword (uncharged)	RAND_LONGSWORD_80_REWARD_AUGMENTED_UNCHARGED	36676
+Augmented off-hand chaotic longsword	RAND_LONGSWORD_80_REWARD_O_AUGMENTED	36677
+Augmented off-hand chaotic longsword (uncharged)	RAND_LONGSWORD_80_REWARD_O_AUGMENTED_UNCHARGED	36678
+Augmented chaotic maul	RAND_MAUL_80_REWARD_AUGMENTED	36679
+Augmented chaotic maul (uncharged)	RAND_MAUL_80_REWARD_AUGMENTED_UNCHARGED	36680
+Augmented chaotic rapier	RAND_RAPIER_80_REWARD_AUGMENTED	36681
+Augmented chaotic rapier (uncharged)	RAND_RAPIER_80_REWARD_AUGMENTED_UNCHARGED	36682
+Augmented off-hand chaotic rapier	RAND_RAPIER_80_REWARD_O_AUGMENTED	36683
+Augmented off-hand chaotic rapier (uncharged)	RAND_RAPIER_80_REWARD_O_AUGMENTED_UNCHARGED	36684
+Augmented chaotic spear	RAND_SPEAR_80_REWARD_AUGMENTED	36685
+Augmented chaotic spear (uncharged)	RAND_SPEAR_80_REWARD_AUGMENTED_UNCHARGED	36686
+Augmented chaotic staff	RAND_STAFF_80_REWARD_AUGMENTED	36687
+Augmented chaotic staff (uncharged)	RAND_STAFF_80_REWARD_AUGMENTED_UNCHARGED	36688
+Augmented chaotic crossbow	RAND_XBOW_80_REWARD_AUGMENTED	36689
+Augmented chaotic crossbow (uncharged)	RAND_XBOW_80_REWARD_AUGMENTED_UNCHARGED	36690
+Augmented off-hand chaotic crossbow	RAND_XBOW_80_REWARD_O_AUGMENTED	36691
+Augmented off-hand chaotic crossbow (uncharged)	RAND_XBOW_80_REWARD_O_AUGMENTED_UNCHARGED	36692
+Augmented drygore longsword	KK_LONGSWORD_AUGMENTED	36693
+Augmented drygore longsword (uncharged)	KK_LONGSWORD_AUGMENTED_UNCHARGED	36694
+Augmented off-hand drygore longsword	KK_LONGSWORD_O_AUGMENTED	36695
+Augmented off-hand drygore longsword (uncharged)	KK_LONGSWORD_O_AUGMENTED_UNCHARGED	36696
+Augmented drygore mace	KK_MACE_AUGMENTED	36697
+Augmented drygore mace (uncharged)	KK_MACE_AUGMENTED_UNCHARGED	36698
+Augmented off-hand drygore mace	KK_MACE_O_AUGMENTED	36699
+Augmented off-hand drygore mace (uncharged)	KK_MACE_O_AUGMENTED_UNCHARGED	36700
+Augmented drygore rapier	KK_SWORD_AUGMENTED	36701
+Augmented drygore rapier (uncharged)	KK_SWORD_AUGMENTED_UNCHARGED	36702
+Augmented off-hand drygore rapier	KK_SWORD_O_AUGMENTED	36703
+Augmented off-hand drygore rapier (uncharged)	KK_SWORD_O_AUGMENTED_UNCHARGED	36704
+Augmented ascension crossbow	ASC_CRYSTAL_CROSSBOW_AUGMENTED	36705
+Augmented ascension crossbow (uncharged)	ASC_CRYSTAL_CROSSBOW_AUGMENTED_UNCHARGED	36706
+Augmented off-hand ascension crossbow	ASC_CRYSTAL_CROSSBOW_O_AUGMENTED	36707
+Augmented off-hand ascension crossbow (uncharged)	ASC_CRYSTAL_CROSSBOW_O_AUGMENTED_UNCHARGED	36708
+Augmented seismic wand	LRC2_MAGIC_WAND_AUGMENTED	36709
+Augmented seismic wand (uncharged)	LRC2_MAGIC_WAND_AUGMENTED_UNCHARGED	36710
+Augmented seismic singularity	LRC2_MAGIC_OFFHAND_AUGMENTED	36711
+Augmented seismic singularity (uncharged)	LRC2_MAGIC_OFFHAND_AUGMENTED_UNCHARGED	36712
+Augmented noxious staff	SB_MAGIC_WEAPON_AUGMENTED	36713
+Augmented noxious staff (uncharged)	SB_MAGIC_WEAPON_AUGMENTED_UNCHARGED	36714
+Augmented noxious scythe	SB_MELEE_WEAPON_AUGMENTED	36715
+Augmented noxious scythe (uncharged)	SB_MELEE_WEAPON_AUGMENTED_UNCHARGED	36716
+Augmented noxious longbow	SB_RANGED_WEAPON_AUGMENTED	36717
+Augmented noxious longbow (uncharged)	SB_RANGED_WEAPON_AUGMENTED_UNCHARGED	36718
+Weapon gizmo shell	INVENT_INCOMPLETE_WEAPON_GIZMO	36719
+Weapon gizmo	INVENT_WEAPON_GIZMO	36720
+Armour gizmo shell	INVENT_INCOMPLETE_ARMOUR_GIZMO	36721
+Armour gizmo	INVENT_ARMOUR_GIZMO	36722
+Tool gizmo shell	INVENT_INCOMPLETE_TOOL_GIZMO	36723
+Tool gizmo	INVENT_TOOL_GIZMO	36724
+Augmentor	INVENT_AUGMENTOR	36725
+Gizmo dissolver	INVENT_GIZMO_DISSOLVER	36726
+Gizmo dissolver	CERT_INVENT_GIZMO_DISSOLVER	36727
+Equipment dissolver	INVENT_EQUIPMENT_DISSOLVER	36728
+Equipment dissolver	CERT_INVENT_EQUIPMENT_DISSOLVER	36729
+Equipment siphon	INVENT_ITEM_XP_CONSUMER	36730
+	CERT_INVENT_ITEM_XP_CONSUMER	36731
+Valentine's note	COM_VALCARD	36732
+Broken heart	COM_BHEART	36733
+Grotesque soul	TRH80_CORRUPTED_SOUL	36734
+Soul gem	TRH80_SOUL_GEM	36735
+Grotesque armour (tier 1)	TRH80_GROTESQUE_OUTFIT	36736
+Grotesque armour (tier 2)	TRH80_GROTESQUE_OUTFIT2	36737
+Grotesque armour (tier 3)	TRH80_GROTESQUE_OUTFIT3	36738
+Grotesque (Tier 1) Helm	TRH80_GROTESQUE_HEAD	36739
+Grotesque (Tier 1) Chest	TRH80_GROTESQUE_TORSO	36740
+Grotesque (Tier 1) Legs	TRH80_GROTESQUE_LEGS	36741
+Grotesque (Tier 1) Gloves	TRH80_GROTESQUE_HANDS	36742
+Grotesque (Tier 1) Boots	TRH80_GROTESQUE_FEET	36743
+Grotesque (Tier 1) Cape	TRH80_GROTESQUE_BACK	36744
+Grotesque (Tier 1) Wings	TRH80_GROTESQUE_WINGS	36745
+Grotesque (Tier 2) Helm	TRH80_GROTESQUE_HEAD2	36746
+Grotesque (Tier 2) Chest	TRH80_GROTESQUE_TORSO2	36747
+Grotesque (Tier 2) Legs	TRH80_GROTESQUE_LEGS2	36748
+Grotesque (Tier 2) Gloves	TRH80_GROTESQUE_HANDS2	36749
+Grotesque (Tier 2) Boots	TRH80_GROTESQUE_FEET2	36750
+Grotesque (Tier 2) Cape	TRH80_GROTESQUE_BACK2	36751
+Grotesque (Tier 2) Wings	TRH80_GROTESQUE_WINGS2	36752
+Grotesque (Tier 3) Helm	TRH80_GROTESQUE_HEAD3	36753
+Grotesque (Tier 3) Chest	TRH80_GROTESQUE_TORSO3	36754
+Grotesque (Tier 3) Legs	TRH80_GROTESQUE_LEGS3	36755
+Grotesque (Tier 3) Gloves	TRH80_GROTESQUE_HANDS3	36756
+Grotesque (Tier 3) Boots	TRH80_GROTESQUE_FEET3	36757
+Grotesque (Tier 3) Cape	TRH80_GROTESQUE_BACK3	36758
+Grotesque (Tier 3) Wings	TRH80_GROTESQUE_WINGS3	36759
+	TRH81_BINGO_CARD	36760
+Red envelope	TRH81_ENVELOPE	36761
+Artisan monkey trinket	TRH81_TRINKET_ARTISAN	36762
+Gathering monkey trinket	TRH81_TRINKET_GATHERING	36763
+Support monkey trinket	TRH81_TRINKET_SUPPORT	36764
+Combat monkey trinket	TRH81_TRINKET_COMBAT	36765
+Green zodiac costume	TRH81_DRAGON_HAT_GREEN	36766
+Blue zodiac costume	TRH81_DRAGON_HAT_BLUE	36767
+Red zodiac costume	TRH81_DRAGON_HAT_RED	36768
+Black zodiac costume	TRH81_DRAGON_HAT_BLACK	36769
+Gold zodiac costume	TRH81_DRAGON_HAT_GOLD	36770
+Artisan XP lamp	TRH81_ARTISAN_LAMP	36771
+Gathering XP lamp	TRH81_GATHERING_LAMP	36772
+Support XP lamp	TRH81_SUPPORT_LAMP	36773
+Combat XP lamp	TRH81_COMBAT_LAMP	36774
+	TRH82_VALENTINES_CURRENCY	36775
+Sceptre of enchantment	TRH82_STAFF	36776
+Helps	TRH82_GOBLIN_BUTLER	36777
+Helps	POH_TRH82_GOBLIN_BUTLER	36778
+Handheld masquerade mask	TRH82_MASQUERADE_MASK_OVERRIDE	36779
+Masquerade mask	TRH82_MASQUERADE_MASK	36780
+Masquerade mask	TRH82_MASQUERADE_MASK_WARDROBE	36781
+Masquerade Head	TRH82_MASQUERADE_HEAD	36782
+Masquerade bottoms	TRH82_MASQUERADE_LEGS	36783
+Masquerade gloves	TRH82_MASQUERADE_HANDS	36784
+Masquerade boots	TRH82_MASQUERADE_FEET	36785
+Masquerade Top	TRH82_MASQUERADE_TORSO	36786
+Mystery valentine's box	TRH82_MYSTERY_BOX	36787
+Love letter	TRH82_LOVE_LETTER	36788
+Retro invention cape	SKILLCAPE_INVENTION_RETRO	36789
+Retro hooded invention cape	SKILLCAPE_INVENTION_HOODED_RETRO	36790
+Retro invention cape (t)	SKILLCAPE_INVENTION_TRIMMED_RETRO	36791
+Retro hooded invention cape (t)	SKILLCAPE_INVENTION_TRIMMED_HOODED_RETRO	36792
+Retro invention hood	SKILLCAPE_INVENTION_HOOD_RETRO	36793
+Book switcher	INVENT_BOOK_SWITCHER	36794
+Lightbulb hat	INVENT_LIGHTBULB_HAT	36795
+Lab coat legs	INVENT_LABCOAT_LEGS	36796
+Lab coat top	INVENT_LABCOAT_TORSO	36797
+Sliskelion XP lamp	GODSCORE_LAMP	36798
+	GODSCORE_MASK	36799
+Magic lamp	ARIANE1_MAGIC_LAMP	36800
+Karil's pistol crossbow	XBOWS_CROSSBOW_KARIL_USED	36801
+Karil's pistol crossbow (broken)	XBOWS_CROSSBOW_KARIL_BROKEN	36802
+Karil's pistol crossbow (broken)	CERT_XBOWS_CROSSBOW_KARIL_BROKEN	36803
+Karil's off-hand pistol crossbow	XBOWS_CROSSBOW_KARIL_O_USED	36804
+Karil's off-hand pistol crossbow (broken)	XBOWS_CROSSBOW_KARIL_O_BROKEN	36805
+Karil's off-hand pistol crossbow (broken)	CERT_XBOWS_CROSSBOW_KARIL_O_BROKEN	36806
+Ahrim's book of magic	BARROWS_AHRIM_OFFHAND_USED	36807
+Ahrim's book of magic (broken)	BARROWS_AHRIM_OFFHAND_BROKEN	36808
+Ahrim's book of magic (broken)	CERT_BARROWS_AHRIM_OFFHAND_BROKEN	36809
+Ahrim's wand	BARROWS_WAND_USED	36810
+Ahrim's wand (broken)	BARROWS_WAND_BROKEN	36811
+Ahrim's wand (broken)	CERT_BARROWS_WAND_BROKEN	36812
+Tiny protean pack	TRH45_PROTEAN_PACK_MINI	36813
+Mimic kill token	TRH83_MIMIC_KILL_TOKEN	36814
+Shard of havoc weapon token	TRH83_WEAPON_SKIN_MELEE_TOKEN	36815
+Shard of malice weapon token	TRH83_WEAPON_SKIN_RANGED_TOKEN	36816
+Shard of energy weapon token	TRH83_WEAPON_SKIN_MAGIC_TOKEN	36817
+Mimic helm	TRH83_MIMIC_HAT	36818
+Mimic helm	CERT_TRH83_MIMIC_HAT	36819
+Mimic tongue cape	TRH83_TONGUE_CAPE	36820
+Mimic tongue cape	CERT_TRH83_TONGUE_CAPE	36821
+Shard of havoc	TRH83_SWORD	36822
+Shard of Havoc Off-hand	TRH83_SWORD_O	36823
+Shard of malice	TRH83_XBOW	36824
+Shard of Malice Off-hand	TRH83_XBOW_O	36825
+Shard of energy	TRH83_WAND	36826
+Shard of focus	TRH83_ORB	36827
+Small loot chest	TRH83_LOOT_CRATE_EASY	36828
+Medium loot chest	TRH83_LOOT_CRATE_MEDIUM	36829
+Large loot chest	TRH83_LOOT_CRATE_HARD	36830
+Huge loot chest	TRH83_LOOT_CRATE_ELITE	36831
+Construction Lamp	NOMEL_LAMP_CONSTRUCTION	36832
+Mining Lamp	NOMEL_LAMP_MINING	36833
+Woodcutting Lamp	NOMEL_LAMP_WOODCUTTING	36834
+Combat lamp	NOMEL_LAMP_COMBAT	36835
+Soul-in-a-box	NOMEL_SOUL_DISTRACTOR	36836
+Urn enhancer	NOMEL_SOUL_GENERATOR	36837
+	NOMEL_DEATH_SCYTHE	36838
+	NOMEL_ICCY_MACE	36839
+Guilt ridden key	QUEST_NOMEL_GA_GUILTKEY	36840
+Shame filled key	QUEST_NOMEL_GA_SHAMEKEY	36841
+Xenia memory half	QUEST_NOMEL_GA_XENIA_MEMORY_1	36842
+Xenia memory half	QUEST_NOMEL_GA_XENIA_MEMORY_2	36843
+Xenia memory	QUEST_NOMEL_GA_XENIA_MEMORY_COMPLETE	36844
+Jessika memory half	QUEST_NOMEL_GA_JESSIKA_MEMORY_1	36845
+Jessika memory half	QUEST_NOMEL_GA_JESSIKA_MEMORY_2	36846
+Jessika memory	QUEST_NOMEL_GA_JESSIKA_MEMORY_COMPLETE	36847
+Korasi memory half	QUEST_NOMEL_GA_KORASI_MEMORY_1	36848
+Korasi memory half	QUEST_NOMEL_GA_KORASI_MEMORY_2	36849
+Korasi memory	QUEST_NOMEL_GA_KORASI_MEMORY_COMPLETE	36850
+Nomad staff	NOMEL_CUTSCENE_NOMAD_STAFF	36851
+Gameblast 2016 outfit	MTX97_GAMEBLAST16_OUTFIT	36852
+Gameblast 2016 outfit	BOUGHT_MTX97_GAMEBLAST16_OUTFIT	36853
+Gameblast 2016 amulet	MTX97_GAMEBLAST16_NECKLACE	36854
+Gameblast 2016 cape	MTX97_GAMEBLAST16_BACK	36855
+GameBlast 2016 balloon	MTX97_GAMEBLAST16_BALLOON	36856
+Guthix's Book of Balance	GUTHIXBOOK_DUMMY	36857
+Zamorak's Book of Chaos	ZAMORAKBOOK_DUMMY	36858
+Saradomin's Book of Wisdom	SARADOMINBOOK_DUMMY	36859
+Augmented Armadyl godsword (passive)	GODWARS_ARMADYL_GODSWORD_PASSIVE_AUGMENTED	36860
+Augmented Armadyl godsword (passive)(uncharged)	GODWARS_ARMADYL_GODSWORD_PASSIVE_AUGMENTED_UNCHARGED	36861
+Augmented Bandos godsword (passive)	GODWARS_BANDOS_GODSWORD_PASSIVE_AUGMENTED	36862
+Augmented Bandos godsword (passive)(uncharged)	GODWARS_BANDOS_GODSWORD_PASSIVE_AUGMENTED_UNCHARGED	36863
+Augmented Saradomin godsword (passive)	GODWARS_SARADOMIN_GODSWORD_PASSIVE_AUGMENTED	36864
+Augmented Saradomin godsword (passive)(uncharged)	GODWARS_SARADOMIN_GODSWORD_PASSIVE_AUGMENTED_UNCHARGED	36865
+Augmented Zamorak godsword (passive)	GODWARS_ZAMORAK_GODSWORD_PASSIVE_AUGMENTED	36866
+Augmented Zamorak godsword (passive)(uncharged)	GODWARS_ZAMORAK_GODSWORD_PASSIVE_AUGMENTED_UNCHARGED	36867
+Gold accumulator overcharge	RAND_REWARD_GOLD_ACC_OVERCHARGE	36868
+Off-hand gravite rapier	RAND_RAPIER_45_REWARD_O	36869
+Off-hand gravite rapier (broken)	RAND_RAPIER_45_REWARD_BROKEN_O	36870
+Off-hand gravite longsword	RAND_LONGSWORD_45_REWARD_O	36871
+Off-hand gravite longsword (broken)	RAND_LONGSWORD_45_REWARD_BROKEN_O	36872
+Gravite wand	RAND_WAND_45_REWARD	36873
+Gravite wand (broken)	RAND_WAND_45_REWARD_BROKEN	36874
+Gravite orb	RAND_ORB_45_REWARD	36875
+Gravite orb (broken)	RAND_ORB_45_REWARD_BROKEN	36876
+Gravite knife	RAND_KNIFE_45_REWARD	36877
+Gravite knife (broken)	RAND_KNIFE_45_REWARD_BROKEN	36878
+Off-hand gravite knife	RAND_KNIFE_45_REWARD_O	36879
+Off-hand gravite knife (broken)	RAND_KNIFE_45_REWARD_BROKEN_O	36880
+Elite mammoth armour	MTX96_MAMMOTH_OUTFIT	36881
+Elite mammoth armour	BOUGHT_MTX96_MAMMOTH_OUTFIT	36882
+Elite mammoth helmet	MTX96_MAMMOTH_HEAD	36883
+Elite mammoth torso	MTX96_MAMMOTH_TORSO	36884
+Elite mammoth legs	MTX96_MAMMOTH_LEGS	36885
+Elite mammoth boots	MTX96_MAMMOTH_FEET	36886
+Elite mammoth gauntlets	MTX96_MAMMOTH_HANDS	36887
+Elite Mammoth 2h Tusk Sword	MTX96_MAMMOTH_2H_SWORD	36888
+	TRH85_CURRENCY	36889
+Nimble boots	TRH85_AGILITY_BOOTS	36890
+Nimble gloves	TRH85_AGILITY_HANDS	36891
+Nimble legwear	TRH85_AGILITY_LEGS	36892
+Nimble chestpiece	TRH85_AGILITY_TORSO	36893
+Nimble headwear	TRH85_AGILITY_HEAD	36894
+Fletcher's boots	TRH85_FLETCHING_BOOTS	36895
+Fletcher's gloves	TRH85_FLETCHING_HANDS	36896
+Fletcher's legwear	TRH85_FLETCHING_LEGS	36897
+Fletcher's chestpiece	TRH85_FLETCHING_TORSO	36898
+Fletcher's headwear	TRH85_FLETCHING_HEAD	36899
+Ancient outfit	MTX98_ANCIENT_OUTFIT	36900
+Ancient outfit	BOUGHT_MTX98_ANCIENT_OUTFIT	36901
+Ancient headwear	MTX98_ANCIENT_HEAD	36902
+Ancient cap	MTX98_ANCIENT_HEAD_MALE	36903
+Ancient tiara	MTX98_ANCIENT_HEAD_FEMALE	36904
+Ancient robe top	MTX98_ANCIENT_TORSO	36905
+Ancient robe bottom	MTX98_ANCIENT_LEGS	36906
+Ancient cuffs	MTX98_ANCIENT_HANDS	36907
+Ancient shoes	MTX98_ANCIENT_FEET	36908
+Chapter #1 (empty)	GWD2_MINIQUEST_CHAPTER1_UNCHARGED	36909
+Chapter #1 (filled)	GWD2_MINIQUEST_CHAPTER1_CHARGED	36910
+Chapter #2 (empty)	GWD2_MINIQUEST_CHAPTER2_UNCHARGED	36911
+Chapter #2 (filled)	GWD2_MINIQUEST_CHAPTER2_CHARGED	36912
+Chapter #3 (empty)	GWD2_MINIQUEST_CHAPTER3_UNCHARGED	36913
+Chapter #3 (filled)	GWD2_MINIQUEST_CHAPTER3_CHARGED	36914
+Chapter #4 (empty)	GWD2_MINIQUEST_CHAPTER4_UNCHARGED	36915
+Chapter #4 (filled)	GWD2_MINIQUEST_CHAPTER4_CHARGED	36916
+Magic lamp	GWD2_MINIQUEST_LAMP	36917
+Anima crystal	GWD2_MINIQUEST_REP_ITEM	36918
+The Heart teleport	POH_TABLET_GODWARS2TELEPORT	36919
+Event card	COM_EVENTS	36920
+Basic tools	TRH86_BASIC_TOOL	36921
+Golden tools	TRH86_GOLDEN_TOOL	36922
+Small tool pack	TRH86_TOOL_PACK_SMALL	36923
+Small tool pack	BOUGHT_TRH86_TOOL_PACK_SMALL	36924
+Large tool pack	TRH86_TOOL_PACK_LARGE	36925
+Large tool pack	BOUGHT_TRH86_TOOL_PACK_LARGE	36926
+Small mystery box	TRH86_MYSTERY_BOX_1	36927
+Small mystery box	TRH86_MYSTERY_BOX_2	36928
+Medium mystery box	TRH86_MYSTERY_BOX_3	36929
+Medium mystery box	TRH86_MYSTERY_BOX_4	36930
+Large mystery box	TRH86_MYSTERY_BOX_5	36931
+Large mystery box	TRH86_MYSTERY_BOX_6	36932
+Energised arm cannon	TRH86_ARM_CANNON_1	36933
+Energised arm cannon	TRH86_ARM_CANNON_2	36934
+Energised arm cannon	TRH86_ARM_CANNON_3	36935
+Energised arm cannon	TRH86_ARM_CANNON_4	36936
+Energised arm cannon	TRH86_ARM_CANNON_5	36937
+Off-hand energised arm cannon	TRH86_ARM_CANNON_1_O	36938
+Off-hand energised arm cannon	TRH86_ARM_CANNON_2_O	36939
+Off-hand energised arm cannon	TRH86_ARM_CANNON_5_O	36940
+Anima-mundi rock arm cannon	TRH86_ARM_CANNON_DUMMY	36941
+Energised arm cannon	TRH86_CANNON_OVERRIDE	36942
+Energised Off-hand Arm Cannon	TRH86_CANNON_OVERRIDE_OFFHAND	36943
+Rogue outfit	MTX98_ROGUE_OUTFIT	36944
+Rogue outfit	BOUGHT_MTX98_ROGUE_OUTFIT	36945
+Rogue hood	MTX98_ROGUE_HEAD	36946
+Rogue hood	MTX98_ROGUE_HEAD_MALE	36947
+Rogue hood	MTX98_ROGUE_HEAD_FEMALE	36948
+Rogue top	MTX98_ROGUE_TORSO	36949
+Rogue bottom	MTX98_ROGUE_LEGS	36950
+Rogue Wrist Guards	MTX98_ROGUE_HANDS	36951
+Rogue sandals	MTX98_ROGUE_FEET	36952
+Fishing rod-o-matic	INVENT_FISHING_ROD	36953
+Fishing rod-o-matic (uncharged)	INVENT_FISHING_ROD_UNCHARGED	36954
+Augmented dragon hatchet (non-combat)	DRAGON_AXE_AUGMENTED_NONCOMBAT	36955
+Augmented dragon hatchet (non-combat) (uncharged)	DRAGON_AXE_AUGMENTED_UNCHARGED_NONCOMBAT	36956
+Augmented crystal hatchet (non-combat)	CRYSTAL_AXE_AUGMENTED_NONCOMBAT	36957
+Augmented crystal hatchet (non-combat) (uncharged)	CRYSTAL_AXE_AUGMENTED_UNCHARGED_NONCOMBAT	36958
+Augmented crystal fishing rod	ELFCITY_CRYSTAL_ROD_AUGMENTED	36959
+Augmented crystal fishing rod (uncharged)	ELFCITY_CRYSTAL_ROD_AUGMENTED_UNCHARGED	36960
+Augmentation dissolver	INVENT_AUGMENTOR_DISSOLVER	36961
+Augmentation dissolver	CERT_INVENT_AUGMENTOR_DISSOLVER	36962
+	EASTER16_TICKET	36965
+	EASTER16_FIZZY_SMALL_00	36966
+	EASTER16_FIZZY_SMALL_05	36967
+	EASTER16_FIZZY_SMALL_10	36968
+	EASTER16_FIZZY_SMALL_15	36969
+	EASTER16_FIZZY_LARGE_00	36970
+	EASTER16_FIZZY_LARGE_05	36971
+	EASTER16_FIZZY_LARGE_10	36972
+	EASTER16_FIZZY_LARGE_15	36973
+	EASTER16_FIZZY_LARGE_20	36974
+	EASTER16_FIZZY_LARGE_25	36975
+	EASTER16_FIZZY_LARGE_30	36976
+	EASTER16_FIZZY_LARGE_35	36977
+	EASTER16_FIZZY_LARGE_40	36978
+	EASTER2016_CHOCOLATE_BAR	36979
+	EASTER2016_CHOCOLATE_BAR_I	36980
+	EASTER2016_CHOCOLATE_BAR_F	36981
+	EASTER2016_CHOCOLATE_BAR_U	36982
+	EASTER2016_CHOCOLATE_BAR_IF	36983
+	EASTER2016_CHOCOLATE_BAR_UI	36984
+	EASTER2016_CHOCOLATE_BAR_UF	36985
+	EASTER2016_CHOCOLATE_BAR_UIF	36986
+	EASTER16_PLAYER_EGG_AND_COAL	36987
+	EASTER16_FINAL_ITEM1	36988
+	EASTER16_FINAL_ITEM2	36989
+	EASTER16_FINAL_ITEM3	36990
+	EASTER16_FINAL_ITEM4	36991
+Everlasting gobstopper	EASTER16_REWARD_GOBSTOPPER	36992
+Bag of components	EASTER16_INVENTION_BAG_ROOM_1	36993
+Bag of components	EASTER16_INVENTION_BAG_ROOM_2	36994
+Bag of components	EASTER16_INVENTION_BAG_ROOM_4	36995
+Chronicle, book of legends	CHRONICLE_BOOK	36996
+Chronicle, book of legends	POH_CHRONICLE_BOOK	36997
+Pl	CHRONICLE_PLAYER_CARDS	36998
+Butterfly jar (small)	TRH87_BUTTERFLY_JAR_SMALL	37000
+Butterfly jar (medium)	TRH87_BUTTERFLY_JAR_MEDIUM	37001
+Butterfly jar (large)	TRH87_BUTTERFLY_JAR_LARGE	37002
+Butterfly jar (huge)	TRH87_BUTTERFLY_JAR_HUGE	37003
+Butterfly necklace	TRH87_BUTTERFLY_NECKLACE	37004
+Aurelian cape	TRH87_BUTTERFLY_CAPE	37005
+Butterfly teleport	TRH87_BUTTERFLY_TELEPORT_DUMMY	37006
+Butterfly token	TRH87_BUTTERFLY_TOKEN	37007
+Ingression fragment	GWD2_INVASION_TOKEN	37008
+Dormant anima core helm	GWD2_ARMOUR_SHARD_HELM	37009
+Dormant anima core helm	CERT_GWD2_ARMOUR_SHARD_HELM	37010
+Dormant anima core helm shard	SHARD_GWD2_ARMOUR_SHARD_HELM	37011
+Dormant anima core body	GWD2_ARMOUR_SHARD_BODY	37012
+Dormant anima core body	CERT_GWD2_ARMOUR_SHARD_BODY	37013
+Dormant anima core body shard	SHARD_GWD2_ARMOUR_SHARD_BODY	37014
+Dormant anima core legs	GWD2_ARMOUR_SHARD_LEGS	37015
+Dormant anima core legs	CERT_GWD2_ARMOUR_SHARD_LEGS	37016
+Dormant anima core legs shard	SHARD_GWD2_ARMOUR_SHARD_LEGS	37017
+Crest of Zaros	GWD2_CREST_ZAROS	37018
+Crest of Zaros	CERT_GWD2_CREST_ZAROS	37019
+Crest of zaros shard	SHARD_GWD2_CREST_ZAROS	37020
+Crest of Sliske	GWD2_CREST_SLISKE	37021
+Crest of Sliske	CERT_GWD2_CREST_SLISKE	37022
+Crest of sliske shard	SHARD_GWD2_CREST_SLISKE	37023
+Crest of Zamorak	GWD2_CREST_ZAMORAK	37024
+Crest of Zamorak	CERT_GWD2_CREST_ZAMORAK	37025
+Crest of zamorak shard	SHARD_GWD2_CREST_ZAMORAK	37026
+Crest of Seren	GWD2_CREST_SEREN	37027
+Crest of Seren	CERT_GWD2_CREST_SEREN	37028
+Crest of seren shard	SHARD_GWD2_CREST_SEREN	37029
+Zarosian essence	GWD2_BOSS_RESOURCE_ZAROS	37030
+Sliskean essence	GWD2_BOSS_RESOURCE_SLISKE	37031
+Zamorakian essence	GWD2_BOSS_RESOURCE_ZAMORAK	37032
+Serenic essence	GWD2_BOSS_RESOURCE_SEREN	37033
+Anima core helm of Zaros	GWD2_MELEE_HELM	37034
+Anima core helm of Zaros	CERT_GWD2_MELEE_HELM	37035
+Refined anima core helm of Zaros	GWD2_MELEE_HELM_UPGRADED	37036
+Anima core body of Zaros	GWD2_MELEE_BODY	37037
+Anima core body of Zaros	CERT_GWD2_MELEE_BODY	37038
+Refined anima core body of Zaros	GWD2_MELEE_BODY_UPGRADED	37039
+Anima core legs of Zaros	GWD2_MELEE_LEGS	37040
+Anima core legs of Zaros	CERT_GWD2_MELEE_LEGS	37041
+Refined anima core legs of Zaros	GWD2_MELEE_LEGS_UPGRADED	37042
+Anima core helm of Zamorak	GWD2_RANGED_HELM	37043
+Anima core helm of Zamorak	CERT_GWD2_RANGED_HELM	37044
+Refined anima core helm of Zamorak	GWD2_RANGED_HELM_UPGRADED	37045
+Anima core body of Zamorak	GWD2_RANGED_BODY	37046
+Anima core body of Zamorak	CERT_GWD2_RANGED_BODY	37047
+Refined anima core body of Zamorak	GWD2_RANGED_BODY_UPGRADED	37048
+Anima core legs of Zamorak	GWD2_RANGED_LEGS	37049
+Anima core legs of Zamorak	CERT_GWD2_RANGED_LEGS	37050
+Refined anima core legs of Zamorak	GWD2_RANGED_LEGS_UPGRADED	37051
+Anima core helm of Seren	GWD2_MAGIC_HELM	37052
+Anima core helm of Seren	CERT_GWD2_MAGIC_HELM	37053
+Refined anima core helm of Seren	GWD2_MAGIC_HELM_UPGRADED	37054
+Anima core body of Seren	GWD2_MAGIC_BODY	37055
+Anima core body of Seren	CERT_GWD2_MAGIC_BODY	37056
+Refined anima core body of Seren	GWD2_MAGIC_BODY_UPGRADED	37057
+Anima core legs of Seren	GWD2_MAGIC_LEGS	37058
+Anima core legs of Seren	CERT_GWD2_MAGIC_LEGS	37059
+Refined anima core legs of Seren	GWD2_MAGIC_LEGS_UPGRADED	37060
+Anima core helm of Sliske	GWD2_HYBRID_HELM	37061
+Anima core helm of Sliske	CERT_GWD2_HYBRID_HELM	37062
+Refined anima core helm of Sliske	GWD2_HYBRID_HELM_UPGRADED	37063
+Anima core body of Sliske	GWD2_HYBRID_BODY	37064
+Anima core body of Sliske	CERT_GWD2_HYBRID_BODY	37065
+Refined anima core body of Sliske	GWD2_HYBRID_BODY_UPGRADED	37066
+Anima core legs of Sliske	GWD2_HYBRID_LEGS	37067
+Anima core legs of Sliske	CERT_GWD2_HYBRID_LEGS	37068
+Refined anima core legs of Sliske	GWD2_HYBRID_LEGS_UPGRADED	37069
+Dragon Rider lance	GWD2_DRAGON_RIDER_LANCE_100	37070
+Dragon Rider lance	CERT_GWD2_DRAGON_RIDER_LANCE_100	37071
+Dragon rider lance shard	SHARD_GWD2_DRAGON_RIDER_LANCE_100	37072
+Dragon Rider lance	GWD2_DRAGON_RIDER_LANCE_50	37073
+Dragon Rider lance (broken)	GWD2_DRAGON_RIDER_LANCE_0	37074
+Shadow glaive	GWD2_THROWING_GLAIVE_100	37075
+Shadow glaive	CERT_GWD2_THROWING_GLAIVE_100	37076
+Shadow glaive shard	SHARD_GWD2_THROWING_GLAIVE_100	37077
+Shadow glaive	GWD2_THROWING_GLAIVE_50	37078
+Shadow glaive (broken)	GWD2_THROWING_GLAIVE_0	37079
+Off-hand shadow glaive	GWD2_THROWING_GLAIVE_O_100	37080
+Off-hand shadow glaive	CERT_GWD2_THROWING_GLAIVE_O_100	37081
+Off-hand shadow glaive shard	SHARD_GWD2_THROWING_GLAIVE_O_100	37082
+Off-hand shadow glaive	GWD2_THROWING_GLAIVE_O_50	37083
+Off-hand shadow glaive (broken)	GWD2_THROWING_GLAIVE_O_0	37084
+Wand of the Cywir elders	GWD2_ANTLER_WAND_100	37085
+Wand of the Cywir elders	CERT_GWD2_ANTLER_WAND_100	37086
+Wand of the cywir elders shard	SHARD_GWD2_ANTLER_WAND_100	37087
+Wand of the Cywir elders	GWD2_ANTLER_WAND_50	37088
+Wand of the Cywir elders (broken)	GWD2_ANTLER_WAND_0	37089
+Blade of Nymora	GWD2_TWINS_WEAPON_100	37090
+Blade of Nymora	CERT_GWD2_TWINS_WEAPON_100	37091
+Blade of nymora shard	SHARD_GWD2_TWINS_WEAPON_100	37092
+Blade of Nymora	GWD2_TWINS_WEAPON_50	37093
+Blade of Nymora (broken)	GWD2_TWINS_WEAPON_0	37094
+Blade of Avaryss	GWD2_TWINS_WEAPON_O_100	37095
+Blade of Avaryss	CERT_GWD2_TWINS_WEAPON_O_100	37096
+Blade of avaryss shard	SHARD_GWD2_TWINS_WEAPON_O_100	37097
+Blade of Avaryss	GWD2_TWINS_WEAPON_O_50	37098
+Blade of Avaryss (broken)	GWD2_TWINS_WEAPON_O_0	37099
+Seal of the Dragon riders	GWD2_REP_TROPHY_ZAROS	37100
+Seal of the Faceless	GWD2_REP_TROPHY_SLISKE	37101
+Seal of the Furies	GWD2_REP_TROPHY_ZAMORAK	37102
+Seal of the Cywir	GWD2_REP_TROPHY_SEREN	37103
+Zaros insignia	GWD2_POCKET_ZAROS	37104
+Zamorak insignia	GWD2_POCKET_ZAMORAK	37105
+Seren insignia	GWD2_POCKET_SEREN	37106
+Sliske insignia	GWD2_POCKET_SLISKE	37107
+Nightstone	GWD2_TOY_ZAROS	37108
+Daystone	GWD2_TOY_SEREN	37109
+Mysterious bottle	GWD2_TOY_SLISKE	37110
+Lava ball	GWD2_TOY_ZAMORAK	37111
+Fury wings	GWD2_FURY_WINGS	37112
+Shadow Glaive Dagger	GWD2_GLAIVE_DAGGER	37113
+Shadow Glaive Off-hand Dagger	GWD2_GLAIVE_DAGGER_O	37114
+Dragon Rider Blade	GWD2_DRAGON_RIDER_SWORD	37115
+Dragon Rider Off-hand Blade	GWD2_DRAGON_RIDER_SWORD_O	37116
+Helwyr Claw	GWD2_HELWYR_CLAW	37117
+Helwyr Off-hand Claw	GWD2_HELWYR_CLAW_O	37118
+Ban hammer	TRH88_BANHAMMER_1	37119
+Off-hand ban hammer	TRH88_BANHAMMER_1_O	37120
+Ban hammer	TRH88_BANHAMMER_70	37121
+Off-hand ban hammer	TRH88_BANHAMMER_70_O	37122
+Balancing wand	TRH88_BALANCING_WAND_1	37123
+Balancing wand	TRH88_BALANCING_WAND_70	37124
+Twang crossbow	TRH88_CROSSBOW_1	37125
+Off-hand twang crossbow	TRH88_CROSSBOW_1_O	37126
+Twang crossbow	TRH88_CROSSBOW_70	37127
+Off-hand twang crossbow	TRH88_CROSSBOW_70_O	37128
+Potion hat	TRH88_POTION_HAT	37129
+Chic scarf	TRH88_SCARF	37130
+Lucky coin	TRH88_LUCKY_COIN	37131
+Hype train	TRH88_HYPETRAIN	37132
+Hype train	TRH88_HYPETRAIN_POH	37133
+Map hat	TRH88_MAP_HAT	37134
+Navigator outfit	MTX98_STEAMPUNK_OUTFIT	37135
+Navigator outfit	BOUGHT_MTX98_STEAMPUNK_OUTFIT	37136
+Navigator goggles	MTX98_STEAMPUNK_HEAD	37137
+Navigator goggles	MTX98_STEAMPUNK_HEAD_MALE	37138
+Navigator goggles	MTX98_STEAMPUNK_HEAD_FEMALE	37139
+Navigator tunic top	MTX98_STEAMPUNK_TORSO	37140
+Navigator tunic bottom	MTX98_STEAMPUNK_LEGS	37141
+Navigator cuffs	MTX98_STEAMPUNK_HANDS	37142
+Navigator knee high boots	MTX98_STEAMPUNK_FEET	37143
+Terrorbird mount	MTX99_TERRORBIRD_MOUNT	37144
+Terrorbird mount	BOUGHT_MTX99_TERRORBIRD_MOUNT	37145
+Augmented anima core body of Zaros	GWD2_MELEE_BODY_AUGMENTED	37146
+Augmented anima core body of Zaros (uncharged)	GWD2_MELEE_BODY_AUGMENTED_UNCHARGED	37147
+Augmented anima core legs of Zaros	GWD2_MELEE_LEGS_AUGMENTED	37148
+Augmented anima core legs of Zaros (uncharged)	GWD2_MELEE_LEGS_AUGMENTED_UNCHARGED	37149
+Augmented anima core body of Zamorak	GWD2_RANGED_BODY_AUGMENTED	37150
+Augmented anima core body of Zamorak (uncharged)	GWD2_RANGED_BODY_AUGMENTED_UNCHARGED	37151
+Augmented anima core legs of Zamorak	GWD2_RANGED_LEGS_AUGMENTED	37152
+Augmented anima core legs of Zamorak (uncharged)	GWD2_RANGED_LEGS_AUGMENTED_UNCHARGED	37153
+Augmented anima core body of Seren	GWD2_MAGIC_BODY_AUGMENTED	37154
+Augmented anima core body of Seren (uncharged)	GWD2_MAGIC_BODY_AUGMENTED_UNCHARGED	37155
+Augmented anima core legs of Seren	GWD2_MAGIC_LEGS_AUGMENTED	37156
+Augmented anima core legs of Seren (uncharged)	GWD2_MAGIC_LEGS_AUGMENTED_UNCHARGED	37157
+Augmented anima core body of Sliske	GWD2_HYBRID_BODY_AUGMENTED	37158
+Augmented anima core body of Sliske (uncharged)	GWD2_HYBRID_BODY_AUGMENTED_UNCHARGED	37159
+Augmented anima core legs of Sliske	GWD2_HYBRID_LEGS_AUGMENTED	37160
+Augmented anima core legs of Sliske (uncharged)	GWD2_HYBRID_LEGS_AUGMENTED_UNCHARGED	37161
+Augmented Dragon Rider lance	GWD2_DRAGON_RIDER_LANCE_AUGMENTED	37162
+Augmented Dragon Rider lance (uncharged)	GWD2_DRAGON_RIDER_LANCE_AUGMENTED_UNCHARGED	37163
+Augmented Shadow glaive	GWD2_THROWING_GLAIVE_AUGMENTED	37164
+Augmented Shadow glaive (uncharged)	GWD2_THROWING_GLAIVE_AUGMENTED_UNCHARGED	37165
+Augmented Off-hand Shadow glaive	GWD2_THROWING_GLAIVE_O_AUGMENTED	37166
+Augmented Off-hand Shadow glaive (uncharged)	GWD2_THROWING_GLAIVE_O_AUGMENTED_UNCHARGED	37167
+Augmented Wand of the Cywir elders	GWD2_ANTLER_WAND_AUGMENTED	37168
+Augmented Wand of the Cywir elders (uncharged)	GWD2_ANTLER_WAND_AUGMENTED_UNCHARGED	37169
+Augmented Blade of Nymora	GWD2_TWINS_WEAPON_AUGMENTED	37170
+Augmented Blade of Nymora (uncharged)	GWD2_TWINS_WEAPON_AUGMENTED_UNCHARGED	37171
+Augmented Blade of Avaryss	GWD2_TWINS_WEAPON_O_AUGMENTED	37172
+Augmented Blade of Avaryss (uncharged)	GWD2_TWINS_WEAPON_O_AUGMENTED_UNCHARGED	37173
+Vindiddy	BPETS_VINDICTA	37174
+Rawrvek	BPETS_GORVEK	37175
+Lilwyr	BPETS_HELWYR	37176
+Greg	BPETS_SLISKE	37177
+Nylessa	BPETS_NYMORA	37178
+Ava	BPETS_AVARYSS	37179
+Vindiddy	BPETS_VINDICTA_POH	37180
+Rawrvek	BPETS_GORVEK_POH	37181
+Lilwyr	BPETS_HELWYR_POH	37182
+Greg	BPETS_SLISKE_POH	37183
+Nylessa	BPETS_NYMORA_POH	37184
+Ava	BPETS_AVARYSS_POH	37185
+Imbued blade slice	BPETS_VINDICTA_PET_DROP	37186
+Glimmering scale	BPETS_GORVEK_PET_DROP	37187
+Twisted antler	BPETS_HELWYR_PET_DROP	37188
+Faceless mask	BPETS_SLISKE_PET_DROP	37189
+Nymora's braid	BPETS_NYMORA_PET_DROP	37190
+Avaryss' braid	BPETS_AVARYSS_PET_DROP	37191
+XP cache	GENERIC_XP_AWARD_CACHE	37192
+Metallic dragon trinkets	TRH56_DRAGON_PENDANT_ADVANCED	37193
+	TRH89_RIFT_CLOSER	37194
+Dryad wings	TRH89_SUMMONING_WINGS	37195
+Runic essence wings	TRH89_RUNECRAFTING_WINGS	37196
+Juju gumbo	CERT_JUJU_GUMBO	37197
+Strange potato	CERT_STRANGE_POTATO	37198
+Darkscape	MTX_DARKSCAPE	37199
+Golden gnome hat 2015	GOLDEN_GNOME_HAT_2015	37200
+Dragonkin bust	GAMEBLAST16_TRANSMOG	37201
+Feral vampyre fangs	TRH84_CURRENCY	37202
+Vampyre hunter hat	TRH84_VAMP_HUNTER_HEAD	37204
+Vampyre hunter torso	TRH84_VAMP_HUNTER_TORSO	37205
+Vampyre hunter legs	TRH84_VAMP_HUNTER_LEGS	37206
+Vampyre hunter boots	TRH84_VAMP_HUNTER_FEET	37207
+Vampyre hunter cuffs	TRH84_VAMP_HUNTER_HANDS	37208
+Vampyre hunter amulet	TRH84_VAMP_HUNTER_NECKLACE	37209
+Vampyre hunter stake launcher	TRH84_VAMP_HUNTER_2H_CROSSBOW	37210
+Vampyre hunter amulet	TRH84_VAMP_HUNTER_NECKLACE_REAL	37211
+Royal eastern outfit	MTX98_KIMONO_OUTFIT	37212
+Royal eastern outfit	BOUGHT_MTX98_KIMONO_OUTFIT	37213
+Royal eastern cap	MTX98_KIMONO_HEAD	37214
+Royal eastern cap	MTX98_KIMONO_HEAD_MALE	37215
+Royal eastern fascinator	MTX98_KIMONO_HEAD_FEMALE	37216
+Royal eastern wrap top	MTX98_KIMONO_TORSO	37217
+Royal eastern wrap bottom	MTX98_KIMONO_LEGS	37218
+Royal eastern gloves	MTX98_KIMONO_HANDS	37219
+Royal eastern geta	MTX98_KIMONO_FEET	37220
+Vampyric blood essence	MYQ7_BLOOD_ESSENCE_VAMPYRISM	37221
+Penance blood essence	MYQ7_BLOOD_ESSENCE_PENANCE	37222
+Aegis blood essence	MYQ7_BLOOD_ESSENCE_AEGIS	37223
+Reflecting blood essence	MYQ7_BLOOD_ESSENCE_REFLECT	37224
+Berserk blood essence	MYQ7_BLOOD_ESSENCE_BERSERK	37225
+Tireless blood essence	MYQ7_BLOOD_ESSENCE_TIRELESS	37226
+Congealed blood	MYQ7_CONGEALED_BLOOD	37227
+	MYQ7_CONGEALED_BLOOD_STACK_40_PERCENT	37228
+	MYQ7_CONGEALED_BLOOD_STACK_60_PERCENT	37229
+	MYQ7_CONGEALED_BLOOD_STACK_80_PERCENT	37230
+	MYQ7_CONGEALED_BLOOD_STACK_100_PERCENT	37231
+Draccles	MYQ7_LOST_TOYS_PLAYER_PLUSH	37232
+Mr Bitey	MYQ7_LOST_TOYS_PLUSHIE_01	37233
+Count Snugula	MYQ7_LOST_TOYS_PLUSHIE_02	37234
+Drakemon	MYQ7_LOST_TOYS_PLUSHIE_03	37235
+Draccles	MYQ7_LOST_TOYS_PLUSHIE_04	37236
+Booboo	MYQ7_LOST_TOYS_PLUSHIE_05	37237
+Scare Bear	MYQ7_LOST_TOYS_PLUSHIE_06	37238
+Vamplushie	MYQ7_LOST_TOYS_PLUSHIE_07	37239
+Fangs	MYQ7_LOST_TOYS_PLUSHIE_08	37240
+Vlad the Embracer	MYQ7_LOST_TOYS_PLUSHIE_09	37241
+Mr Puddles	MYQ7_LOST_TOYS_PLUSHIE_10	37242
+Heartless	MYQ7_LOST_TOYS_PLUSHIE_11	37243
+Blushie	MYQ7_LOST_TOYS_PLUSHIE_12	37244
+My Little Vanstrom	MYQ7_LOST_TOYS_PLUSHIE_13	37245
+Scrapbook	NXTWT_BOOK	37246
+Shade luring dummy	SHADES_LURE	37247
+Blood of the Covenant	MYQ7_IVANDIS_DIARY	37248
+Scroll case	MYQ7_IVANDIS_SCROLL_CASE	37249
+Scroll of Balance	MYQ7_IVANDIS_SCROLL	37250
+Diary pages	MYQ7_IVANDIS_PAGES	37251
+Ivandis's serum	MYQ7_IVANDIS_SERUM	37252
+Silvthril bar	MYQ7_SILVTHRIL_BAR	37253
+Silvthril dust	MYQ7_SILVTHRIL_DUST	37254
+Silvthril dust (b)	MYQ7_BLESSED_SILVTHRIL_DUST	37255
+Blisterwood ashes	MYQ7_BLISTERWOOD_ASHES	37256
+Super Guthix balance	MYQ7_SUPER_GUTHIX_BALANCE	37257
+The Covenant of Perpetual Conflict	MYQ7_TEMPLE_BOOK	37258
+Blisterwood shaft	MYQ7_BLISTERWOOD_SHAFT	37259
+Blisterwood shaft	CERT_MYQ7_BLISTERWOOD_SHAFT	37260
+Sunspear (magic)	MYQ7_SUNSPEAR_MAGIC	37261
+Sunspear (magic, broken)	MYQ7_SUNSPEAR_MAGIC_BROKEN	37262
+Sunspear (melee)	MYQ7_SUNSPEAR_MELEE	37263
+Sunspear (melee, broken)	MYQ7_SUNSPEAR_MELEE_BROKEN	37264
+Sunspear (ranged)	MYQ7_SUNSPEAR_RANGED	37265
+Sunspear (ranged, broken)	MYQ7_SUNSPEAR_RANGED_BROKEN	37266
+Sunspear (magic)	MYQ7_SUNSPEAR_MAGIC_OVERRIDE	37267
+Sunspear (melee)	MYQ7_SUNSPEAR_MELEE_OVERRIDE	37268
+Sunspear (ranged)	MYQ7_SUNSPEAR_RANGED_OVERRIDE	37269
+Blood of the Hybrid	MYQ7_DAEYALT_LETTER	37270
+Wyrd blood	MYQ7_WYRD_BLOOD	37271
+Refined daeyalt	MYQ7_REFINED_DAEYALT	37272
+Extreme Guthix balance	MYQ7_EXTREME_GUTHIX_BALANCE	37273
+Haemalchemy (Vol. 2)	MYQ7_HAEMALCHEMY_BOOK	37274
+Vertida's bottle of holy water	MYQ7_HALLUCINATION_HOLY_WATER	37275
+Tome of XP 5th ed (4)	MYQ7_XP_TOME4_EARLY_BIRD	37276
+Tome of XP 5th ed (3)	MYQ7_XP_TOME3	37277
+Tome of XP 5th ed (2)	MYQ7_XP_TOME2	37278
+Tome of XP 5th ed (1)	MYQ7_XP_TOME1	37279
+Augmented Sunspear (magic)	MYQ7_SUNSPEAR_MAGIC_AUGMENTED	37280
+Augmented Sunspear (magic, uncharged)	MYQ7_SUNSPEAR_MAGIC_AUGMENTED_UNCHARGED	37281
+Augmented Sunspear (melee)	MYQ7_SUNSPEAR_MELEE_AUGMENTED	37282
+Augmented Sunspear (melee, uncharged)	MYQ7_SUNSPEAR_MELEE_AUGMENTED_UNCHARGED	37283
+Augmented Sunspear (ranged)	MYQ7_SUNSPEAR_RANGED_AUGMENTED	37284
+Augmented Sunspear (ranged, uncharged)	MYQ7_SUNSPEAR_RANGED_AUGMENTED_UNCHARGED	37285
+Ornate 1h melee weapon pack	MTX98_ELEGANT_WEAPON_1H_MELEE_PACK	37286
+Ornate 1h melee weapon pack	BOUGHT_MTX98_ELEGANT_WEAPON_1H_MELEE_PACK	37287
+Ornate 2h melee weapon pack	MTX98_ELEGANT_WEAPON_2H_MELEE_PACK	37288
+Ornate 2h melee weapon pack	BOUGHT_MTX98_ELEGANT_WEAPON_2H_MELEE_PACK	37289
+Ornate magic weapon pack	MTX98_ELEGANT_WEAPON_MAGIC_PACK	37290
+Ornate magic weapon pack	BOUGHT_MTX98_ELEGANT_WEAPON_MAGIC_PACK	37291
+Ornate ranged weapon pack	MTX98_ELEGANT_WEAPON_RANGED_PACK	37292
+Ornate ranged weapon pack	BOUGHT_MTX98_ELEGANT_WEAPON_RANGED_PACK	37293
+Ornate mace	MTX98_ELEGANT_WEAPON_MACE	37294
+Ornate Off-hand Mace	MTX98_ELEGANT_WEAPON_MACE_O	37295
+Ornate dagger	MTX98_ELEGANT_WEAPON_DAGGER	37296
+Ornate Off-hand Dagger	MTX98_ELEGANT_WEAPON_DAGGER_O	37297
+Ornate scimitar	MTX98_ELEGANT_WEAPON_SHORTSWORD	37298
+Ornate Off-hand Scimitar	MTX98_ELEGANT_WEAPON_SHORTSWORD_O	37299
+Ornate 2h sword	MTX98_ELEGANT_WEAPON_2H_SWORD	37300
+Ornate halberd	MTX98_ELEGANT_WEAPON_HALBERD	37301
+Ornate maul	MTX98_ELEGANT_WEAPON_MAUL	37302
+Ornate battleaxe	MTX98_ELEGANT_WEAPON_BATTLEAXE	37303
+Ornate off-hand battleaxe	MTX98_ELEGANT_WEAPON_BATTLEAXE_O	37304
+Ornate whip	MTX98_ELEGANT_WEAPON_WHIP	37305
+Ornate orb	MTX98_ELEGANT_WEAPON_ORB_O	37306
+Ornate book	MTX98_ELEGANT_WEAPON_BOOK_O	37307
+Ornate wand	MTX98_ELEGANT_WEAPON_WAND	37308
+Ornate staff	MTX98_ELEGANT_WEAPON_STAFF	37309
+Ornate throwing star	MTX98_ELEGANT_WEAPON_THROWN_KNIFE	37310
+Ornate off-hand throwing star	MTX98_ELEGANT_WEAPON_THROWN_KNIFE_O	37311
+Ornate 2h crossbow	MTX98_ELEGANT_WEAPON_2H_CROSSBOW	37312
+Ornate shortbow	MTX98_ELEGANT_WEAPON_BOW	37313
+Ornate shieldbow	MTX98_ELEGANT_WEAPON_CHARGEBOW	37314
+Ornate Crossbow	MTX98_ELEGANT_WEAPON_CROSSBOW	37315
+Ornate Off-hand Crossbow	MTX98_ELEGANT_WEAPON_CROSSBOW_O	37316
+Sockroth	MM16_TUROTH_PET	37317
+Sockroth	POH_MM16_TUROTH_PET	37318
+Captain reroll token	MM16_PORTS_REROLL_TOKEN_CAPTAIN	37319
+Voyage reroll token	MM16_PORTS_REROLL_TOKEN_VOYAGE	37320
+Crew reroll token	MM16_PORTS_REROLL_TOKEN_CREW	37321
+Resource pack	MM16_PORTS_RESOURCE_PACK	37322
+Investigator uniform	MM16_INVESTIGATOR_FULL	37323
+Investigator uniform	BOUGHT_MM16_INVESTIGATOR_FULL	37324
+Investigator Uniform Fedora	MM16_INVESTIGATOR_HEAD	37325
+Investigator Uniform Coat	MM16_INVESTIGATOR_BODY	37326
+Investigator Uniform Trousers	MM16_INVESTIGATOR_LEGS	37327
+Socky McGee	MM16_SOCK_PUPPET	37328
+Bouncy	MM16_CLIVE_BUNNY	37329
+Bones' rune scimitar	MM16_WILLDEE_SWORD	37330
+Hild's chest	MM16_HILD_RUNES	37331
+Hari's flying hatchet	MM16_HARI_HATCHET	37332
+Prized ancient statuette	MM16_MANDRITH_STATUETTE	37333
+Charlie's sleeping bag	MM16_TRAMP_SLEEPING_BAG	37334
+Grand Exchange receipt	MM16_TRAMP_GE_NOTE	37335
+Note for Louie	MM16_LOUIE_NOTE	37336
+Sally	MM16_DOMMIK_CHISEL	37337
+Ancient cabbage	MM16_MOULDY_CABBAGE	37338
+	MM16_FIBRE	37339
+Stolen jewels	MM16_STALKER_DIAMOND_RING	37340
+Spare sock	MM16_TUROTH_SOCK_3	37341
+Bonus chest	TRH45_BONUS_CHEST	37342
+Keldagrim camouflage head	TRH90_KELDAGRIM_HEAD	37343
+Keldagrim camouflage body	TRH90_KELDAGRIM_BODY	37344
+Keldagrim camouflage legs	TRH90_KELDAGRIM_LEGS	37345
+Keldagrim camouflage hands	TRH90_KELDAGRIM_HANDS	37346
+Keldagrim camouflage feet	TRH90_KELDAGRIM_FEET	37347
+Prifddinas camouflage head	TRH90_PRIFDDINAS_HEAD	37348
+Prifddinas camouflage body	TRH90_PRIFDDINAS_BODY	37349
+Prifddinas camouflage legs	TRH90_PRIFDDINAS_LEGS	37350
+Prifddinas camouflage hands	TRH90_PRIFDDINAS_HANDS	37351
+Prifddinas camouflage feet	TRH90_PRIFDDINAS_FEET	37352
+Desert camouflage head	TRH90_DESERT_HEAD	37353
+Desert camouflage body	TRH90_DESERT_BODY	37354
+Desert camouflage legs	TRH90_DESERT_LEGS	37355
+Desert camouflage hands	TRH90_DESERT_HANDS	37356
+Desert camouflage feet	TRH90_DESERT_FEET	37357
+Master camouflage head	TRH90_MASTER_HEAD	37358
+Master camouflage body	TRH90_MASTER_BODY	37359
+Master camouflage legs	TRH90_MASTER_LEGS	37360
+Master camouflage hands	TRH90_MASTER_HANDS	37361
+Master camouflage feet	TRH90_MASTER_FEET	37362
+Protean memory	TRH91_PROTEAN_MEMORY	37363
+Protean pale memory	TRH91_PROTEAN_PALE_MEMORY_RECIPE	37364
+Protean flickering memory	TRH91_PROTEAN_FLICKERING_MEMORY_RECIPE	37365
+Protean bright memory	TRH91_PROTEAN_BRIGHT_MEMORY_RECIPE	37366
+Protean glowing memory	TRH91_PROTEAN_GLOWING_MEMORY_RECIPE	37367
+Protean sparkling memory	TRH91_PROTEAN_SPARKLING_MEMORY_RECIPE	37368
+Protean gleaming memory	TRH91_PROTEAN_GLEAMING_MEMORY_RECIPE	37369
+Protean vibrant memory	TRH91_PROTEAN_VIBRANT_MEMORY_RECIPE	37370
+Protean lustrous memory	TRH91_PROTEAN_LUSTROUS_MEMORY_RECIPE	37371
+Protean brilliant memory	TRH91_PROTEAN_BRILLIANT_MEMORY_RECIPE	37372
+Protean radiant memory	TRH91_PROTEAN_RADIANT_MEMORY_RECIPE	37373
+Protean luminous memory	TRH91_PROTEAN_LUMINOUS_MEMORY_RECIPE	37374
+Protean incandescent memory	TRH91_PROTEAN_INCANDESCENT_MEMORY_RECIPE	37375
+Lion outfit	MTX100_LION_OUTFIT	37376
+Lion outfit	BOUGHT_MTX100_LION_OUTFIT	37377
+Lion mane	MTX100_LION_HEAD	37378
+Lion belly	MTX100_LION_TORSO	37379
+Lion legs	MTX100_LION_LEGS	37380
+Lion claws	MTX100_LION_HANDS	37381
+Lion paws	MTX100_LION_FEET	37382
+Lion tail	MTX100_LION_TAIL	37383
+Broken disguise kit	GWD2_DISGUISE	37384
+Signal horn	GWD2_TOY_SIGNAL	37385
+Griffin outfit	MTX101_GRIFFIN_OUTFIT	37386
+Griffin outfit	BOUGHT_MTX101_GRIFFIN_OUTFIT	37387
+Griffin crown	MTX101_GRIFFIN_HEAD	37388
+Griffin mantle	MTX101_GRIFFIN_TORSO	37389
+Griffin limbs	MTX101_GRIFFIN_LEGS	37390
+Griffin Claws	MTX101_GRIFFIN_HANDS	37391
+Griffin talons	MTX101_GRIFFIN_FEET	37392
+Griffin wings	MTX101_GRIFFIN_WINGS	37393
+Small lava lantern	TRH92_LAVA_LANTERN_SMALL	37394
+Medium lava lantern	TRH92_LAVA_LANTERN_MEDIUM	37395
+Large lava lantern	TRH92_LAVA_LANTERN_LARGE	37396
+Huge lava lantern	TRH92_LAVA_LANTERN_HUGE	37397
+Auto-sanctifier	INVENT_AUTO_SANCTIFIER	37398
+Sprinkler MK1	INVENT_SPRINKLER	37399
+Kinetic cyclone	INVENT_MELEE_TURRET	37400
+Calorie bomb (empty)	INVENT_CALORIE_BOMB	37401
+Calorie bomb (swordfish)	INVENT_CALORIE_BOMB_SWORDFISH	37402
+Calorie bomb (monkfish)	INVENT_CALORIE_BOMB_MONKFISH	37403
+Calorie bomb (shark)	INVENT_CALORIE_BOMB_SHARK	37404
+Calorie bomb (cavefish)	INVENT_CALORIE_BOMB_CAVEFISH	37405
+Calorie bomb (rocktail)	INVENT_CALORIE_BOMB_ROCKTAIL	37406
+B.A.N.K. Stander	INVENT_BANKSTANDER	37407
+Oldak coil	INVENT_TESLA_COIL	37408
+Monkey mind-control helmet	INVENT_MONKEY_BUTLER	37409
+Dungeoneering lock melter	INVENT_LOCKMELTER	37410
+Dungeoneering token	INVENT_DUMMY_DG_TOKEN	37411
+	INVENT_DG_PARTY_SIM	37412
+Electrified trap	INVENT_ELECTRIFIED_TRAP	37413
+Tumbleweed	LORE_WOF34_TUMBLEWEED_PET_POH	37414
+Sq'irks the parrot	LORE_WOF34_KHOOCHAK_PET_POH	37415
+Skully	LORE_WOF34_SKELETON_PET_POH	37416
+Barrows - Linza's set	SET_BARROWS_LINZA	37417
+Barrows - Linza's set	CERT_SET_BARROWS_LINZA	37418
+Saradomin key	QUEST_SISTER_SARADOMIN_KEY	37419
+Zamorak key	QUEST_SISTER_ZAMORAK_KEY	37420
+Dragonkin food	QUEST_SISTER_DRAGONKIN_FOOD	37421
+Plate	QUEST_SISTER_PLATE	37422
+Plate half	QUEST_SISTER_PLATE_HALF	37423
+Brick	QUEST_SISTER_BRICK	37424
+Blade	QUEST_SISTER_BLADE	37425
+Cloth strip	QUEST_SISTER_CLOTH	37426
+Ludicrous flail	QUEST_SISTER_FLAIL	37427
+Potion	QUEST_SISTER_POTION	37428
+Bag of Crystals	QUEST_SISTER_CRYSTALS	37429
+Empty bottle	QUEST_SISTER_BOTTLE	37430
+Bottle on a string	QUEST_SISTER_BOTTLE_STRING	37431
+Bottle of acid	QUEST_SISTER_ACID	37432
+Linza's helm	SISTER_BARROWS_HELM_NEW	37433
+Linza's helm	CERT_SISTER_BARROWS_HELM_NEW	37434
+Linza's helm	SISTER_BARROWS_HELM_USED	37435
+Linza's helm (broken)	SISTER_BARROWS_HELM_BROKEN	37436
+Linza's cuirass	SISTER_BARROWS_BODY_NEW	37437
+Linza's cuirass	CERT_SISTER_BARROWS_BODY_NEW	37438
+Linza's cuirass	SISTER_BARROWS_BODY_USED	37439
+Linza's cuirass (broken)	SISTER_BARROWS_BODY_BROKEN	37440
+Linza's greaves	SISTER_BARROWS_LEGS_NEW	37441
+Linza's greaves	CERT_SISTER_BARROWS_LEGS_NEW	37442
+Linza's greaves	SISTER_BARROWS_LEGS_USED	37443
+Linza's greaves (broken)	SISTER_BARROWS_LEGS_BROKEN	37444
+Linza's hammer	SISTER_BARROWS_HAMMER_NEW	37445
+Linza's hammer	CERT_SISTER_BARROWS_HAMMER_NEW	37446
+Linza's hammer	SISTER_BARROWS_HAMMER_USED	37447
+Linza's hammer (broken)	SISTER_BARROWS_HAMMER_BROKEN	37448
+Linza's shield	SISTER_BARROWS_SHIELD_NEW	37449
+Linza's shield	CERT_SISTER_BARROWS_SHIELD_NEW	37450
+Linza's shield	SISTER_BARROWS_SHIELD_USED	37451
+Linza's shield (broken)	SISTER_BARROWS_SHIELD_BROKEN	37452
+Crafting Lamp	SISTER_LAMP_CRAFTING	37453
+Herblore Lamp	SISTER_LAMP_HERBLORE	37454
+Smithing Lamp	SISTER_LAMP_SMITHING	37455
+Agility Lamp	SISTER_LAMP_AGILITY	37456
+Death at Sea	SISTER_SLISKE_LORE_BOOK_XAUTAK	37457
+The Divine Delusion	SISTER_SLISKE_LORE_BOOK_OREB	37458
+A visit to an old friend	SISTER_SLISKE_LORE_BOOK_ASYLUM	37459
+Sliske's Ramblings	SISTER_SLISKE_LORE_BOOK_RAMBLING	37460
+Food on a plate	QUEST_SISTER_PRISON_PLATE_OF_FOOD	37461
+Food on a plate	CERT_QUEST_SISTER_PRISON_PLATE_OF_FOOD	37462
+A plate	QUEST_SISTER_PRISON_PLATE_EMPTY	37463
+A plate	CERT_QUEST_SISTER_PRISON_PLATE_EMPTY	37464
+A broken plate	QUEST_SISTER_PRISON_HALF_PLATE	37465
+A broken plate	CERT_QUEST_SISTER_PRISON_HALF_PLATE	37466
+A brick	QUEST_SISTER_PRISON_BRICK	37467
+A brick	CERT_QUEST_SISTER_PRISON_BRICK	37468
+Vial	QUEST_SISTER_PRISON_VIAL	37469
+Vial	CERT_QUEST_SISTER_PRISON_VIAL	37470
+Vial	QUEST_SISTER_PRISON_FABRIC_VIAL	37471
+Vial	CERT_QUEST_SISTER_PRISON_FABRIC_VIAL	37472
+Vial	QUEST_SISTER_PRISON_LATRINE_VIAL	37473
+Vial	CERT_QUEST_SISTER_PRISON_LATRINE_VIAL	37474
+Saradomin key	QUEST_SISTER_PLAYER_SARADOMIN_KEY	37475
+Saradomin key	CERT_QUEST_SISTER_PLAYER_SARADOMIN_KEY	37476
+Augmented Linza's platebody	SISTER_BARROWS_BODY_AUGMENTED	37477
+Augmented Linza's platebody (uncharged)	SISTER_BARROWS_BODY_AUGMENTED_UNCHARGED	37478
+Augmented Linza's greaves	SISTER_BARROWS_LEGS_AUGMENTED	37479
+Augmented Linza's greaves (uncharged)	SISTER_BARROWS_LEGS_AUGMENTED_UNCHARGED	37480
+Augmented Linza's shield	SISTER_BARROWS_SHIELD_AUGMENTED	37481
+Augmented Linza's shield (uncharged)	SISTER_BARROWS_SHIELD_AUGMENTED_UNCHARGED	37482
+Augmented Linza's hammer	SISTER_BARROWS_HAMMER_AUGMENTED	37483
+Augmented Linza's hammer (uncharged)	SISTER_BARROWS_HAMMER_AUGMENTED_UNCHARGED	37484
+Yak scythe	SUMMERSUMMIT16_SCYTHE	37485
+Summer 2016 promo	MTX_SUMMERPROMO2016_PURCHASE	37486
+Summer 2016 promo	BOUGHT_MTX_SUMMERPROMO2016_PURCHASE	37487
+Illumination aura	AURA_SUMMER16	37488
+Illumination aura	BOUGHT_AURA_SUMMER16	37489
+Summer sweepstake 2016 ticket	SUMMER16_RAFFLE_TICKET	37490
+Sapphire golem outfit pieces	TRH97_GOLEM_BLUE_DUMMY	37491
+Emerald golem outfit pieces	TRH97_GOLEM_GREEN_DUMMY	37492
+Ruby golem outfit pieces	TRH97_GOLEM_RED_DUMMY	37493
+Law ethereal outfit pieces	TRH97_ETHEREAL_LAW_DUMMY	37494
+Death ethereal outfit pieces	TRH97_ETHEREAL_DEATH_DUMMY	37495
+Blood ethereal outfit pieces	TRH97_ETHEREAL_BLOOD_DUMMY	37496
+Shark outfit pieces	TRH97_SHARK_NORMAL_DUMMY	37497
+Tiger shark outfit pieces	TRH97_SHARK_TIGER_DUMMY	37498
+Burnt shark outfit pieces	TRH97_SHARK_BURNT_DUMMY	37499
+Divination energy outfit pieces	TRH97_DIV_ENERGY_OUTFIT_DUMMY	37500
+Divination memory outfit pieces	TRH97_DIV_MEMORY_OUTFIT_DUMMY	37501
+Divination chronicle outfit pieces	TRH97_DIV_CHRONICLE_OUTFIT_DUMMY	37502
+Gem necklace	TRH99_GEM_NECKLACE	37503
+Gem cape	TRH99_GEM_BACK	37504
+Gem crown	TRH99_GEM_HEAD	37505
+Gem necklace token	TRH99_GEM_NECKLACE_TOKEN	37506
+Gem cape token	TRH99_GEM_CAPE_TOKEN	37507
+Gem crown token	TRH99_GEM_CROWN_TOKEN	37508
+Scorpion outfit	MTX102_SCORPION_OUTFIT	37509
+Scorpion outfit	BOUGHT_MTX102_SCORPION_OUTFIT	37510
+Scorpion prosoma	MTX102_SCORPION_HEAD	37511
+Scorpion carapace	MTX102_SCORPION_TORSO	37512
+Scorpion tibia	MTX102_SCORPION_LEGS	37513
+Scorpion palps	MTX102_SCORPION_HANDS	37514
+Scorpion tarsus	MTX102_SCORPION_FEET	37515
+Scorpion stinger	MTX102_SCORPION_TAIL	37516
+	NINJA_DUELANY_GAUNTLET	37517
+Flourishing seeds	TRH95_SPRING_SEED	37518
+Lush blossoms	TRH95_SUMMER_BLOSSOM	37519
+Fallen leaves	TRH95_AUTUMN_LEAVES	37520
+Charred branches	TRH95_WINTER_KINDLING	37521
+Bottoms of Spring	TRH95_SPRING_LEGS	37522
+Gloves of Spring	TRH95_SPRING_HANDS	37523
+Boots of Spring	TRH95_SPRING_FEET	37524
+Chest of Spring	TRH95_SPRING_TORSO	37525
+Bottoms of Summer	TRH95_SUMMER_LEGS	37526
+Gloves of Summer	TRH95_SUMMER_HANDS	37527
+Boots of Summer	TRH95_SUMMER_FEET	37528
+Chest of Summer	TRH95_SUMMER_TORSO	37529
+Bottoms of Autumn	TRH95_AUTUMN_LEGS	37530
+Gloves of Autumn	TRH95_AUTUMN_HANDS	37531
+Boots of Autumn	TRH95_AUTUMN_FEET	37532
+Chest of Autumn	TRH95_AUTUMN_TORSO	37533
+Bottoms of Winter	TRH95_WINTER_LEGS	37534
+Gloves of Winter	TRH95_WINTER_HANDS	37535
+Boots of Winter	TRH95_WINTER_FEET	37536
+Chest of Winter	TRH95_WINTER_TORSO	37537
+Bottoms of Seasons	TRH95_SEASON_LEGS	37538
+Bottoms of Seasons	CERT_TRH95_SEASON_LEGS	37539
+Gloves of Seasons	TRH95_SEASON_HANDS	37540
+Gloves of Seasons	CERT_TRH95_SEASON_HANDS	37541
+Boots of Seasons	TRH95_SEASON_FEET	37542
+Boots of Seasons	CERT_TRH95_SEASON_FEET	37543
+Chest of Seasons	TRH95_SEASON_TORSO	37544
+Chest of Seasons	CERT_TRH95_SEASON_TORSO	37545
+Fishing rod-o-matic (new)	INVENT_FISHING_ROD_UNUSED	37546
+Augmented refined anima core body of Zaros	GWD2_MELEE_BODY_UPGRADED_AUGMENTED	37547
+Augmented refined anima core body of Zaros (uncharged)	GWD2_MELEE_BODY_UPGRADED_AUGMENTED_UNCHARGED	37548
+Augmented refined anima core legs of Zaros	GWD2_MELEE_LEGS_UPGRADED_AUGMENTED	37549
+Augmented refined anima core legs of Zaros (uncharged)	GWD2_MELEE_LEGS_UPGRADED_AUGMENTED_UNCHARGED	37550
+Augmented refined anima core body of Zamorak	GWD2_RANGED_BODY_UPGRADED_AUGMENTED	37551
+Augmented refined anima core body of Zamorak (uncharged)	GWD2_RANGED_BODY_UPGRADED_AUGMENTED_UNCHARGED	37552
+Augmented refined anima core legs of Zamorak	GWD2_RANGED_LEGS_UPGRADED_AUGMENTED	37553
+Augmented refined anima core legs of Zamorak (uncharged)	GWD2_RANGED_LEGS_UPGRADED_AUGMENTED_UNCHARGED	37554
+Augmented refined anima core body of Seren	GWD2_MAGIC_BODY_UPGRADED_AUGMENTED	37555
+Augmented refined anima core body of Seren (uncharged)	GWD2_MAGIC_BODY_UPGRADED_AUGMENTED_UNCHARGED	37556
+Augmented refined anima core legs of Seren	GWD2_MAGIC_LEGS_UPGRADED_AUGMENTED	37557
+Augmented refined anima core legs of Seren (uncharged)	GWD2_MAGIC_LEGS_UPGRADED_AUGMENTED_UNCHARGED	37558
+Augmented refined anima core body of Sliske	GWD2_HYBRID_BODY_UPGRADED_AUGMENTED	37559
+Augmented refined anima core body of Sliske (uncharged)	GWD2_HYBRID_BODY_UPGRADED_AUGMENTED_UNCHARGED	37560
+Augmented refined anima core legs of Sliske	GWD2_HYBRID_LEGS_UPGRADED_AUGMENTED	37561
+Augmented refined anima core legs of Sliske (uncharged)	GWD2_HYBRID_LEGS_UPGRADED_AUGMENTED_UNCHARGED	37562
+Augmented blighted rebounder	T70_MAGIC_PARRYINGDAGGER_AUGMENTED	37563
+Augmented blighted rebounder (uncharged)	T70_MAGIC_PARRYINGDAGGER_AUGMENTED_UNCHARGED	37564
+Augmented ancient lantern	T80_MAGIC_PARRYINGDAGGER_AUGMENTED	37565
+Augmented ancient lantern (uncharged)	T80_MAGIC_PARRYINGDAGGER_AUGMENTED_UNCHARGED	37566
+Augmented kalphite rebounder	T90_MAGIC_PARRYINGDAGGER_AUGMENTED	37567
+Augmented kalphite rebounder (uncharged)	T90_MAGIC_PARRYINGDAGGER_AUGMENTED_UNCHARGED	37568
+Augmented corrupted defender	T70_MELEE_PARRYINGDAGGER_AUGMENTED	37569
+Augmented corrupted defender (uncharged)	T70_MELEE_PARRYINGDAGGER_AUGMENTED_UNCHARGED	37570
+Augmented ancient defender	T80_MELEE_PARRYINGDAGGER_AUGMENTED	37571
+Augmented ancient defender (uncharged)	T80_MELEE_PARRYINGDAGGER_AUGMENTED_UNCHARGED	37572
+Augmented kalphite defender	T90_MELEE_PARRYINGDAGGER_AUGMENTED	37573
+Augmented kalphite defender (uncharged)	T90_MELEE_PARRYINGDAGGER_AUGMENTED_UNCHARGED	37574
+Augmented tainted repriser	T70_RANGED_PARRYINGDAGGER_AUGMENTED	37575
+Augmented tainted repriser (uncharged)	T70_RANGED_PARRYINGDAGGER_AUGMENTED_UNCHARGED	37576
+Augmented ancient repriser	T80_RANGED_PARRYINGDAGGER_AUGMENTED	37577
+Augmented ancient repriser (uncharged)	T80_RANGED_PARRYINGDAGGER_AUGMENTED_UNCHARGED	37578
+Augmented kalphite repriser	T90_RANGED_PARRYINGDAGGER_AUGMENTED	37579
+Augmented kalphite repriser (uncharged)	T90_RANGED_PARRYINGDAGGER_AUGMENTED_UNCHARGED	37580
+Broccoli root	GOWER_BROCCOLI_ROOT	37581
+Cruciferous mounting	GOWER_CABBAGE_MOUNTING	37582
+Brussels sprout	GOWER_BRUSSELS_SPROUT	37583
+Pure essence	GOWER_LIFE_RUNE_FLIP	37584
+Life rune	GOWER_LIFE_RUNE	37585
+Broccoli string	GOWER_BROCCOLI_STRING	37586
+Brassican amulet (unstrung)	GOWER_CABBAGESPEAK_AMULET_UNSTRUNG	37587
+Brassican amulet	GOWER_CABBAGESPEAK_AMULET_STRUNG	37588
+Cabbagespeak amulet	GOWER_CABBAGESPEAK_AMULET	37589
+Pink partyhat	GOWER_PINK_PARTYHAT	37590
+Crispy the cabbage	GOWER_CABBAGE_COMPANION	37591
+Disk of returning	GOWER_DISC_OF_RETURNING	37592
+Orange	GOWER_ORANGE	37593
+Rock	GOWER_ROCK	37594
+Small key	GOWER_SMALL_KEY	37595
+Skull	GOWER_SKULL	37596
+Tinderbox	GOWER_TINDERBOX	37597
+Life altar fragment 1	GOWER_LIFE_ALTAR_FRAGMENT_1	37598
+Life altar fragment 2	GOWER_LIFE_ALTAR_FRAGMENT_2	37599
+Life altar fragment 3	GOWER_LIFE_ALTAR_FRAGMENT_3	37600
+Boat	GOWER_SAILING_BOAT	37601
+Brassica prime godsword	GOWER_CABBAGE_GODSWORD	37602
+Cabbagemancer outfit	GOWER_CABBAGEMANCER_OUTFIT	37603
+Cabbagemancer staff	GOWER_CABBAGEMANCER_STAFF	37604
+Cabbagemancer robe top	GOWER_CABBAGEMANCER_TORSO	37605
+Cabbagemancer robe bottom	GOWER_CABBAGEMANCER_LEGS	37606
+Cabbagemancer boots	GOWER_CABBAGEMANCER_FEET	37607
+Cabbagemancer gloves	GOWER_CABBAGEMANCER_HANDS	37608
+Crispy	GOWER_CABBAGE_PET	37609
+Crispy	GOWER_CABBAGE_PET_POH	37610
+Ian's lamp	GOWER_LAMP_1	37611
+Paul's lamp	GOWER_LAMP_2	37612
+Andrew's lamp	GOWER_LAMP_3	37613
+Ancient sigil	GWD2_SOLO_ENTRANCE_KEY_COMPLETED	37614
+Sigil piece (Zaros)	GWD2_SOLO_ENTRANCE_KEY_PART1	37615
+Sigil piece (Zamorak)	GWD2_SOLO_ENTRANCE_KEY_PART2	37616
+Sigil piece (Seren)	GWD2_SOLO_ENTRANCE_KEY_PART3	37617
+Sigil piece (Sliske)	GWD2_SOLO_ENTRANCE_KEY_PART4	37618
+Orb of corrupted anima	GWD2_SOLO_ANIMA_PIECE_1	37619
+Orb of volcanic anima	GWD2_SOLO_ANIMA_PIECE_2	37620
+Orb of pure anima	GWD2_SOLO_ANIMA_PIECE_3	37621
+Dormant Seren godbow	GWD2_SOLO_RANGED_WEAPON_PIECE	37622
+Dormant Seren godbow	CERT_GWD2_SOLO_RANGED_WEAPON_PIECE	37623
+Dormant staff of Sliske	GWD2_SOLO_MAGIC_WEAPON_PIECE	37624
+Dormant staff of Sliske	CERT_GWD2_SOLO_MAGIC_WEAPON_PIECE	37625
+Dormant Zaros godsword	GWD2_SOLO_MELEE_WEAPON_PIECE	37626
+Dormant Zaros godsword	CERT_GWD2_SOLO_MELEE_WEAPON_PIECE	37627
+Dormant Zamorakian ability codex	GWD2_SOLO_CODEX_COVER	37628
+Dormant Zamorakian ability codex	CERT_GWD2_SOLO_CODEX_COVER	37629
+Reprisal ability codex	GWD2_SOLO_ABILITY_BOOK_ZAMORAK	37630
+Reprisal ability codex	CERT_GWD2_SOLO_ABILITY_BOOK_ZAMORAK	37631
+Seren godbow	GWD2_SOLO_RANGED_WEAPON_NEW	37632
+Seren godbow	CERT_GWD2_SOLO_RANGED_WEAPON_NEW	37633
+Seren godbow	GWD2_SOLO_RANGED_WEAPON_USED	37634
+Seren godbow (broken)	GWD2_SOLO_RANGED_WEAPON_BROKEN	37635
+Staff of Sliske	GWD2_SOLO_MAGIC_WEAPON_NEW	37636
+Staff of Sliske	CERT_GWD2_SOLO_MAGIC_WEAPON_NEW	37637
+Staff of Sliske	GWD2_SOLO_MAGIC_WEAPON_USED	37638
+Staff of Sliske (broken)	GWD2_SOLO_MAGIC_WEAPON_BROKEN	37639
+Zaros godsword	GWD2_SOLO_MELEE_WEAPON_NEW	37640
+Zaros godsword	CERT_GWD2_SOLO_MELEE_WEAPON_NEW	37641
+Zaros godsword	GWD2_SOLO_MELEE_WEAPON_USED	37642
+Zaros godsword (broken)	GWD2_SOLO_MELEE_WEAPON_BROKEN	37643
+	GWD2_SOLO_LEAP_PARTICLES	37644
+Odd luminous ball	GWD2_SOLO_DISCOBALL_UNCUT	37645
+Cut luminous ball	GWD2_SOLO_DISCOBALL	37646
+Manticore melee weapon pack	MTX103_MANTICORE_WEAPON_MELEE_PACK	37647
+Manticore melee weapon pack	BOUGHT_MTX103_MANTICORE_WEAPON_MELEE_PACK	37648
+Manticore magic weapon pack	MTX103_MANTICORE_WEAPON_MAGIC_PACK	37649
+Manticore magic weapon pack	BOUGHT_MTX103_MANTICORE_WEAPON_MAGIC_PACK	37650
+Manticore ranged weapon pack	MTX103_MANTICORE_WEAPON_RANGED_PACK	37651
+Manticore ranged weapon pack	BOUGHT_MTX103_MANTICORE_WEAPON_RANGED_PACK	37652
+Manticore mace	MTX103_MANTICORE_WEAPON_MACE	37653
+Manticore Off-hand Mace	MTX103_MANTICORE_WEAPON_MACE_O	37654
+Manticore dagger	MTX103_MANTICORE_WEAPON_DAGGER	37655
+Manticore Off-hand Dagger	MTX103_MANTICORE_WEAPON_DAGGER_O	37656
+Manticore Sword	MTX103_MANTICORE_WEAPON_LONGSWORD	37657
+Manticore Off-hand Sword	MTX103_MANTICORE_WEAPON_LONGSWORD_O	37658
+Manticore 2h sword	MTX103_MANTICORE_WEAPON_2H_SWORD	37659
+Manticore halberd	MTX103_MANTICORE_WEAPON_HALBERD	37660
+Manticore maul	MTX103_MANTICORE_WEAPON_MAUL	37661
+Manticore orb	MTX103_MANTICORE_WEAPON_ORB	37662
+Manticore book	MTX103_MANTICORE_WEAPON_BOOK	37663
+Manticore wand	MTX103_MANTICORE_WEAPON_WAND	37664
+Manticore staff	MTX103_MANTICORE_WEAPON_STAFF	37665
+Manticore throwing axe	MTX103_MANTICORE_WEAPON_THROWN_AXE	37666
+Manticore off-hand throwing axe	MTX103_MANTICORE_WEAPON_THROWN_AXE_O	37667
+Manticore 2h crossbow	MTX103_MANTICORE_WEAPON_2H_CROSSBOW	37668
+Manticore shortbow	MTX103_MANTICORE_WEAPON_BOW	37669
+Manticore shieldbow	MTX103_MANTICORE_WEAPON_SHIELDBOW	37670
+Manticore Crossbow	MTX103_MANTICORE_WEAPON_CROSSBOW	37671
+Manticore Off-hand Crossbow	MTX103_MANTICORE_WEAPON_CROSSBOW_O	37672
+Augmented Seren godbow	GWD2_SOLO_RANGED_WEAPON_AUGMENTED	37673
+Augmented Seren godbow (uncharged)	GWD2_SOLO_RANGED_WEAPON_AUGMENTED_UNCHARGED	37674
+Augmented Zaros godsword	GWD2_SOLO_MELEE_WEAPON_AUGMENTED	37675
+Augmented Zaros godsword (uncharged)	GWD2_SOLO_MELEE_WEAPON_AUGMENTED_UNCHARGED	37676
+Augmented staff of Sliske	GWD2_SOLO_MAGIC_WEAPON_AUGMENTED	37677
+Augmented staff of Sliske (uncharged)	GWD2_SOLO_MAGIC_WEAPON_AUGMENTED_UNCHARGED	37678
+Tess	BPETS_TELOS	37679
+Tess	BPETS_TELOS_POH	37680
+Telos' tendril	BPETS_TELOS_PET_DROP	37681
+Basic tools	TRH94_BASIC_TOOL	37682
+Golden tools	TRH94_GOLDEN_TOOL	37683
+Small tool pack	TRH94_TOOL_PACK_SMALL	37684
+Small tool pack	BOUGHT_TRH94_TOOL_PACK_SMALL	37685
+Large tool pack	TRH94_TOOL_PACK_LARGE	37686
+Large tool pack	BOUGHT_TRH94_TOOL_PACK_LARGE	37687
+Small mystery box	TRH94_MYSTERY_BOX_1	37688
+Small mystery box	TRH94_MYSTERY_BOX_2	37689
+Small mystery box	TRH94_MYSTERY_BOX_3	37690
+Small mystery box	TRH94_MYSTERY_BOX_4	37691
+Small mystery box	TRH94_MYSTERY_BOX_5	37692
+Small mystery box	TRH94_MYSTERY_BOX_6	37693
+Skilling backpack	TRH94_BACKPACK_1	37694
+Skilling backpack	TRH94_BACKPACK_1_CHARGES	37695
+Skilling backpack	TRH94_BACKPACK_2	37696
+Skilling backpack	TRH94_BACKPACK_2_CHARGES	37697
+Skilling backpack	TRH94_BACKPACK_3	37698
+Skilling backpack	TRH94_BACKPACK_OVERRIDE	37699
+Agility skill training dummy	TRH96_AGILITY_DUMMY	37700
+Hunting skill training dummy	TRH96_HUNTING_DUMMY	37701
+	DUMMY_BURNT_CHICKEN	37702
+	DUMMY_BURNT_MEAT	37703
+Auto-sanctifier	INVENT_AUTO_SANCTIFIER_NOCHARGES	37704
+B.A.N.K. Stander	INVENT_BANKSTANDER_NOCHARGES	37705
+Electrified trap	INVENT_ELECTRIFIED_TRAP_NOCHARGE	37706
+Token	ELR0_TOKEN	37707
+Supply cache	ELR0_SUPPLYCACHE	37708
+Conch shell	ELR0_CONCH	37709
+Small Agility lamp	ELR0_LAMP_AGILITY	37710
+Small Construction lamp	ELR0_LAMP_CONSTRUCTION	37711
+Small Cooking lamp	ELR0_LAMP_COOKING	37712
+Small Divination lamp	ELR0_LAMP_DIVINATION	37713
+Small Dungeoneering lamp	ELR0_LAMP_DUNGEONEERING	37714
+Small Fishing lamp	ELR0_LAMP_FISHING	37715
+Small Herblore lamp	ELR0_LAMP_HERBLORE	37716
+Small Hunter lamp	ELR0_LAMP_HUNTER	37717
+Small Prayer lamp	ELR0_LAMP_PRAYER	37718
+Small Runecrafting lamp	ELR0_LAMP_RUNECRAFTING	37719
+Small Slayer lamp	ELR0_LAMP_SLAYER	37720
+Small Thieving lamp	ELR0_LAMP_THIEVING	37721
+Skulls cape	ELR0_REWARD_CAPE	37722
+Oar	ELR0_REWARD_OAR	37723
+Cannonball Head	ELR0_REWARD_CANNONBALL	37724
+Tim	GOWER_TIM_PET	37725
+Tim	GOWER_TIM_PET_POH	37726
+Crunchy	GOWER_CRUNCHY_PET	37727
+Crunchy	GOWER_CRUNCHY_PET_POH	37728
+Arc journal	ELR1_WAIKO_TOURIST_BROCHURE	37729
+Contract	PGC_CONTRACT	37730
+Spirit dragon charm	ELR1_SLAYER_SPIRIT_TOKEN	37731
+Spirit dragon	ELR1_SPIRIT_DRAGON_PET	37732
+Spirit dragon	POH_ELR1_SPIRIT_DRAGON_PET	37733
+Fish oil	ELR1_FISH_OIL	37734
+	ELR1_FISH_OIL_STACK_2	37735
+	ELR1_FISH_OIL_STACK_5	37736
+	ELR1_FISH_OIL_STACK_10	37737
+	ELR1_FISH_OIL_STACK_20	37738
+Wobbegong oil	ELR1_SHARK_OIL	37739
+	ELR1_SHARK_OIL_STACK_2	37740
+	ELR1_SHARK_OIL_STACK_5	37741
+	ELR1_SHARK_OIL_STACK_10	37742
+	ELR1_SHARK_OIL_STACK_20	37743
+Bundle of bamboo	ELR1_BAMBOO_BUNDLE	37744
+Tortle shell bowl	ELR1_TORTOISE_SHELL_BOWL_LOW	37745
+Shiny tortle shell bowl	ELR1_TORTOISE_SHELL_BOWL_HIGH	37746
+Uncooked arc gumbo	ELR1_UNCOOKED_STEW	37747
+Burnt arc gumbo	ELR1_BURNT_STEW	37748
+Arc gumbo	ELR1_STEW	37749
+Uncooked shark soup	ELR1_UNCOOKED_SOUP	37750
+Burnt shark soup	ELR1_BURNT_SOUP	37751
+Shark soup	ELR1_SOUP	37752
+Chimes	ELR1_CURRENCY	37753
+	ELR1_CURRENCY_2	37754
+	ELR1_CURRENCY_3	37755
+	ELR1_CURRENCY_4	37756
+	ELR1_CURRENCY_5	37757
+Taijitu	ELR1_CURRENCY_RARE	37758
+Driftwood	ELR1_DRIFTWOOD	37759
+Sliced mushrooms	ELR1_MUSHROOM	37760
+Wushanko fishing bait	ELR1_FISHING_BAIT	37761
+Raw tarpon	ELR1_RAW_FISH_LOW	37762
+Burnt tarpon	ELR1_BURNT_FISH_LOW	37763
+Raw seerfish	ELR1_RAW_FISH_HIGH	37764
+Burnt seerfish	ELR1_BURNT_FISH_HIGH	37765
+Raw sillago	ELR1_RAW_FISH_RARE	37766
+Burnt sillago	ELR1_BURNT_FISH_RARE	37767
+Raw wobbegong	ELR1_RAW_SHARK	37768
+Burnt wobbegong	ELR1_BURNT_SHARK	37769
+Bamboo	ELR1_BAMBOO_LOW	37770
+Golden bamboo	ELR1_BAMBOO_HIGH	37771
+Sea salt	ELR1_SALT_LOW	37772
+Alaea sea salt	ELR1_SALT_HIGH	37773
+Golden idol	ELR1_IDOL	37774
+Tortle trap	ELR1_TORTOISE_TRAP	37775
+Shell chippings	ELR1_TORTOISE_SHELL_LOW	37776
+Shiny shell chippings	ELR1_TORTOISE_SHELL_HIGH	37777
+Claim island flag	ELR1_FLAG	37778
+Hammock	ELR1_HAMMOCK	37779
+Moai	ELR1_MOAI	37780
+House	ELR1_HOUSE	37781
+Deck chair	ELR1_DECKCHAIR_RED	37782
+Deck chair	ELR1_DECKCHAIR_BLUE	37783
+Azure globe	ELR1_AZURE_GLOBE	37784
+Terracotta statue	ELR1_TERRACOTTA_STATUE	37785
+Awning	ELR1_AWNING	37786
+Cannon	ELR1_CANNON	37787
+Telescope	ELR1_TELESCOPE	37788
+Anchors	ELR1_ANCHORS	37789
+Message in a bottle	ELR1_MESSAGE_BOTTLE_01	37790
+Message in a bottle	ELR1_MESSAGE_BOTTLE_02	37791
+Message in a bottle	ELR1_MESSAGE_BOTTLE_03	37792
+Message in a bottle	ELR1_MESSAGE_BOTTLE_04	37793
+Message in a bottle	ELR1_MESSAGE_BOTTLE_05	37794
+Treasure map	ELR1_ISLAND_MAP_01	37795
+Treasure map	ELR1_ISLAND_MAP_02	37796
+Treasure map	ELR1_ISLAND_MAP_03	37797
+Treasure map	ELR1_ISLAND_MAP_04	37798
+Treasure map	ELR1_ISLAND_MAP_05	37799
+Soil bag	ELR1_MINQ_HEAD_BAG_EMPTY	37800
+Aminishi soil	ELR1_MINQ_HEAD_BAG_FULL	37801
+Buoyancy materials	ELR1_MINQ_JED_BUOYANCY_MATERIALS	37802
+Tetsu set	ELR1_MINQ_JED_TETSU_SET	37803
+Ports bamboo pack	ELR1_PORTS_BAMBOO_PACK	37804
+Ports gunpowder pack	ELR1_PORTS_GUNPOWDER_PACK	37805
+Ports slate pack	ELR1_PORTS_SLATE_PACK	37806
+Ports cherrywood pack	ELR1_PORTS_CHERRY_PACK	37807
+Ports jade pack	ELR1_PORTS_JADE_PACK	37808
+Ports steel pack	ELR1_PORTS_STEEL_PACK	37809
+Ports terracotta pack	ELR1_PORTS_TERRACOTTA_PACK	37810
+Ports azure pack	ELR1_PORTS_AZURE_PACK	37811
+Ports spice pack	ELR1_PORTS_SPICE_PACK	37812
+Ports plate pack	ELR1_PORTS_PLATE_PACK	37813
+Ports lacquer pack	ELR1_PORTS_LACQUER_PACK	37814
+Ports chi pack	ELR1_PORTS_CHI_PACK	37815
+Ports pearl pack	ELR1_PORTS_PEARL_PACK	37816
+Ports koi scale pack	ELR1_PORTS_KOI_PACK	37817
+Ports bone pack	ELR1_PORTS_BONE_PACK	37818
+The Path of the Monk	ELR1_SLAYER_SCROLL_1	37819
+The Path of the Elemental	ELR1_SLAYER_SCROLL_2	37820
+The Path of the Dragon	ELR1_SLAYER_SCROLL_3	37821
+Seiryu's claw	ELR1_WEAPON_COMPONENT_DROP	37822
+Seiryu's fang	ELR1_WEAPON_COMPONENT_REWARD	37823
+Mizuyari	ELR1_DRAGON_SPEAR_NEW	37824
+Mizuyari	CERT_ELR1_DRAGON_SPEAR_NEW	37825
+Mizuyari	ELR1_DRAGON_SPEAR_USED	37826
+Mizuyari (broken)	ELR1_DRAGON_SPEAR_BROKEN	37827
+Medium Agility XP lamp	ELR1_LAMP_MEDIUM_AGILITY	37828
+Medium Slayer XP lamp	ELR1_LAMP_MEDIUM_SLAYER	37829
+Medium Hunter XP lamp	ELR1_LAMP_MEDIUM_HUNTER	37830
+Small XP lamp	ELR1_XP_LAMP_SMALL	37831
+Medium XP lamp	ELR1_XP_LAMP_MEDIUM	37832
+Large XP lamp	ELR1_XP_LAMP_LARGE	37833
+Huge XP lamp	ELR1_XP_LAMP_HUGE	37834
+Cosmetic pendant of Invention	BXP_WOF_XPBOOSTER_INVENTION	37835
+Cosmetic prized pendant of Invention	BXP_WOF_XPBOOSTER_INVENTION_PRIZED	37836
+Pendant of Invention	WOF_XPBOOSTER_INVENTION	37837
+Prized pendant of Invention	WOF_XPBOOSTER_INVENTION_PRIZED	37838
+Light outfit override pack	TRH66_LIGHT_DUMMY	37839
+Dark outfit override pack	TRH66_DARK_DUMMY	37840
+Light helm	TRH66_LIGHT_HEAD	37841
+Light chestplate	TRH66_LIGHT_TORSO	37842
+Light platelegs	TRH66_LIGHT_LEGS	37843
+Light gloves	TRH66_LIGHT_HANDS	37844
+Light boots	TRH66_LIGHT_FEET	37845
+Dark helm	TRH66_DARK_HEAD	37846
+Dark chestplate	TRH66_DARK_TORSO	37847
+Dark platelegs	TRH66_DARK_LEGS	37848
+Dark gloves	TRH66_DARK_HANDS	37849
+Dark boots	TRH66_DARK_FEET	37850
+Flourishing fairy outfit	MTX105_FLOWER_OUTFIT	37851
+Flourishing fairy outfit	BOUGHT_MTX105_FLOWER_OUTFIT	37852
+Flourishing Fairy Petal Coronet	MTX105_FLOWER_HEAD	37853
+Flourishing Fairy Petal Top	MTX105_FLOWER_TORSO	37854
+Flourishing Fairy Petal Bottoms	MTX105_FLOWER_LEGS	37855
+Flourishing Fairy Petal Boots	MTX105_FLOWER_FEET	37856
+Flourishing Fairy Petal Gloves	MTX105_FLOWER_HANDS	37857
+Flourishing Fairy Petal Wings	MTX105_FLOWER_WINGS	37858
+Gu ronin helm	ELR1_REWARD_GU_RONIN_HEAD	37859
+Gu ronin body	ELR1_REWARD_GU_RONIN_BODY	37860
+Gu ronin platelegs	ELR1_REWARD_GU_RONIN_LEGS	37861
+Crystal peacock	GAMECARD_CRYSTAL_PEACOCK	37862
+Crystal peacock	BOUGHT_GAMECARD_CRYSTAL_PEACOCK	37863
+Crystal peacock	POH_GAMECARD_CRYSTAL_PEACOCK	37864
+Augmented Mizuyari	ELR1_DRAGON_SPEAR_AUGMENTED	37866
+Augmented Mizuyari (uncharged)	ELR1_DRAGON_SPEAR_AUGMENTED_UNCHARGED	37867
+Cocktail shaker	TRH98_COCKTAIL_SHAKER	37868
+Do not translate	MTXBEACH_COCKTAIL_SHAKER	37869
+Watermelon parasol	TRH98_PARASOL_WATERMELON	37870
+Watermelon parasol	CERT_TRH98_PARASOL_WATERMELON	37871
+Strawberry parasol	TRH98_PARASOL_STRAWBERRY	37872
+Strawberry parasol	CERT_TRH98_PARASOL_STRAWBERRY	37873
+Orange parasol	TRH98_PARASOL_ORANGE	37874
+Orange parasol	CERT_TRH98_PARASOL_ORANGE	37875
+Lemon parasol	TRH98_PARASOL_LEMON	37876
+Lemon parasol	CERT_TRH98_PARASOL_LEMON	37877
+Apple parasol	TRH98_PARASOL_APPLE	37878
+Apple parasol	CERT_TRH98_PARASOL_APPLE	37879
+Dwellberry parasol	TRH98_PARASOL_DWELLBERRY	37880
+Dwellberry parasol	CERT_TRH98_PARASOL_DWELLBERRY	37881
+Cadavaberry parasol	TRH98_PARASOL_CADAVABERRY	37882
+Cadavaberry parasol	CERT_TRH98_PARASOL_CADAVABERRY	37883
+Lime parasol	TRH98_PARASOL_GRAPE	37884
+Lime parasol	CERT_TRH98_PARASOL_GRAPE	37885
+Coconut parasol	TRH98_PARASOL_COCONUT	37886
+Coconut parasol	CERT_TRH98_PARASOL_COCONUT	37887
+Black parasol	TRH98_PARASOL_BLACK	37888
+White gem	TRH102_WHITE	37889
+Yellow gem	TRH102_YELLOW	37890
+Orange gem	TRH102_ORANGE	37891
+Red gem	TRH102_RED	37892
+Purple gem	TRH102_PURPLE	37893
+Small bright lamp	TRH93_LAMP_SMALL	37894
+Medium bright lamp	TRH93_LAMP_MEDIUM	37895
+Large bright lamp	TRH93_LAMP_LARGE	37896
+Huge bright lamp	TRH93_LAMP_HUGE	37897
+Small bright star	TRH93_STAR_SMALL	37898
+Medium bright star	TRH93_STAR_MEDIUM	37899
+Large bright star	TRH93_STAR_LARGE	37900
+Huge bright star	TRH93_STAR_HUGE	37901
+Driftwood (damaged)	ELR1_DRIFTWOOD_DAMAGED	37902
+Waiko teleport	ELR1_TELE_WAIKO	37903
+Wilderness sword 1	ATWILD_REWARD_EASY	37904
+Wilderness sword 2	ATWILD_REWARD_MED	37905
+Wilderness sword 3	ATWILD_REWARD_HARD	37906
+Wilderness sword 4	ATWILD_REWARD_ELITE	37907
+Antique lamp	ATWILD_REWARD_LAMP_EASY	37908
+Antique lamp	ATWILD_REWARD_LAMP_MED	37909
+Antique lamp	ATWILD_REWARD_LAMP_HARD	37910
+Antique lamp	ATWILD_REWARD_LAMP_ELITE	37911
+Hellfire bow	WILDERNESS_WEAPON_RANGED	37912
+Hellfire bow	CERT_WILDERNESS_WEAPON_RANGED	37913
+Crushed dragonstone	WILDERNESS_CRUSHED_DRAGONSTONE	37914
+Crushed dragonstone	CERT_WILDERNESS_CRUSHED_DRAGONSTONE	37915
+Charming moth	HUNTGUIDE_CHARMING_BUTTERFLY	37916
+Camouflage flask (1)	BIGPOT_1DOSEWILDERNESS_CAMO_POTION	37917
+Camouflage flask (1)	CERT_BIGPOT_1DOSEWILDERNESS_CAMO_POTION	37918
+Camouflage flask (2)	BIGPOT_2DOSEWILDERNESS_CAMO_POTION	37919
+Camouflage flask (2)	CERT_BIGPOT_2DOSEWILDERNESS_CAMO_POTION	37920
+Camouflage flask (3)	BIGPOT_3DOSEWILDERNESS_CAMO_POTION	37921
+Camouflage flask (3)	CERT_BIGPOT_3DOSEWILDERNESS_CAMO_POTION	37922
+Camouflage flask (4)	BIGPOT_4DOSEWILDERNESS_CAMO_POTION	37923
+Camouflage flask (4)	CERT_BIGPOT_4DOSEWILDERNESS_CAMO_POTION	37924
+Camouflage flask (5)	BIGPOT_5DOSEWILDERNESS_CAMO_POTION	37925
+Camouflage flask (5)	CERT_BIGPOT_5DOSEWILDERNESS_CAMO_POTION	37926
+Camouflage flask (6)	BIGPOT_6DOSEWILDERNESS_CAMO_POTION	37927
+Camouflage flask (6)	CERT_BIGPOT_6DOSEWILDERNESS_CAMO_POTION	37928
+Aggression flask (1)	BIGPOT_1DOSEWILDERNESS_AGGRESSION_POTION	37929
+Aggression flask (1)	CERT_BIGPOT_1DOSEWILDERNESS_AGGRESSION_POTION	37930
+Aggression flask (2)	BIGPOT_2DOSEWILDERNESS_AGGRESSION_POTION	37931
+Aggression flask (2)	CERT_BIGPOT_2DOSEWILDERNESS_AGGRESSION_POTION	37932
+Aggression flask (3)	BIGPOT_3DOSEWILDERNESS_AGGRESSION_POTION	37933
+Aggression flask (3)	CERT_BIGPOT_3DOSEWILDERNESS_AGGRESSION_POTION	37934
+Aggression flask (4)	BIGPOT_4DOSEWILDERNESS_AGGRESSION_POTION	37935
+Aggression flask (4)	CERT_BIGPOT_4DOSEWILDERNESS_AGGRESSION_POTION	37936
+Aggression flask (5)	BIGPOT_5DOSEWILDERNESS_AGGRESSION_POTION	37937
+Aggression flask (5)	CERT_BIGPOT_5DOSEWILDERNESS_AGGRESSION_POTION	37938
+Aggression flask (6)	BIGPOT_6DOSEWILDERNESS_AGGRESSION_POTION	37939
+Aggression flask (6)	CERT_BIGPOT_6DOSEWILDERNESS_AGGRESSION_POTION	37940
+Cursed energy	DIV_ENERGY15	37941
+	DIV_ENERGY15_STACK1	37942
+	DIV_ENERGY15_STACK2	37943
+	DIV_ENERGY15_STACK3	37944
+	DIV_ENERGY15_STACK4	37945
+	DIV_MEMORY15	37946
+	DIV_MEMORY_SUPER15	37947
+	BLOODWEED_SEED_HERB_2	37948
+	BLOODWEED_SEED_HERB_3	37949
+	BLOODWEED_SEED_HERB_4	37950
+	BLOODWEED_SEED_HERB_5	37951
+Bloodweed seed	BLOODWEED_SEED	37952
+Clean bloodweed	BLOODWEED	37953
+Clean bloodweed	CERT_BLOODWEED	37954
+Camouflage potion (4)	_4DOSEWILDERNESS_CAMO_POTION	37955
+Camouflage potion (4)	CERT_4DOSEWILDERNESS_CAMO_POTION	37956
+Camouflage potion (3)	_3DOSEWILDERNESS_CAMO_POTION	37957
+Camouflage potion (3)	CERT_3DOSEWILDERNESS_CAMO_POTION	37958
+Camouflage potion (2)	_2DOSEWILDERNESS_CAMO_POTION	37959
+Camouflage potion (2)	CERT_2DOSEWILDERNESS_CAMO_POTION	37960
+Camouflage potion (1)	_1DOSEWILDERNESS_CAMO_POTION	37961
+Camouflage potion (1)	CERT_1DOSEWILDERNESS_CAMO_POTION	37962
+Luck potion	WILDERNESS_LUCK_POTION	37963
+Luck potion	CERT_WILDERNESS_LUCK_POTION	37964
+Aggression potion (1)	_1DOSEWILDERNESS_AGGRESSION_POTION	37965
+Aggression potion (1)	CERT_1DOSEWILDERNESS_AGGRESSION_POTION	37966
+Aggression potion (2)	_2DOSEWILDERNESS_AGGRESSION_POTION	37967
+Aggression potion (2)	CERT_2DOSEWILDERNESS_AGGRESSION_POTION	37968
+Aggression potion (3)	_3DOSEWILDERNESS_AGGRESSION_POTION	37969
+Aggression potion (3)	CERT_3DOSEWILDERNESS_AGGRESSION_POTION	37970
+Aggression potion (4)	_4DOSEWILDERNESS_AGGRESSION_POTION	37971
+Aggression potion (4)	CERT_4DOSEWILDERNESS_AGGRESSION_POTION	37972
+Bloodweed potion (unfinished)	WILDERNESS_POTION_UNF	37973
+Bloodweed potion (unfinished)	CERT_WILDERNESS_POTION_UNF	37974
+Grimy bloodweed	UNIDENTIFIED_BLOODWEED	37975
+Grimy bloodweed	CERT_UNIDENTIFIED_BLOODWEED	37976
+Slayer contract	SLAYER_CONTRACT_WILDY	37977
+Special slayer contract	SLAYER_CONTRACT_SPECIAL_WILDY	37978
+Kal'gerion demon	CONTRACT_ICON_KALGARIAN_DEMONS	37979
+Black demon	CONTRACT_ICON_BLACK_DEMONS	37980
+Waterfiend	CONTRACT_ICON_WATERFIENDS	37981
+Fire giant	CONTRACT_ICON_FIRE_GIANTS	37982
+Greater demon	CONTRACT_ICON_GREATER_DEMONS	37983
+Hellhound	CONTRACT_ICON_HELLHOUNDS	37984
+Golden potato	TRH_GOLDEN_POTATO	37985
+Beach towel cape	MTXBEACH16_TOWEL_CAPE_BACK	37986
+Beach Shark Fin	MTXBEACH16_SHARK_FIN_BACK	37987
+Beach Lifeguard Chair Hat	MTXBEACH16_LIFEGUARD_HAT	37988
+Beach Clawdia Wings	MTXBEACH16_CLAUDIA_WINGS	37989
+Beach Shadow Drake Ring	MTXBEACH16_SHADOW_DRAKE_RING	37990
+Beach Duck Ring	MTXBEACH16_DUCK_RING	37991
+Summer fun outfit	MTXBEACH16_BEACHWEAR_OUTFIT	37992
+Beach Summer Fun Top	MTXBEACH16_BEACHWEAR_TORSO	37993
+Beach Summer Fun Bottoms	MTXBEACH16_BEACHWEAR_LEGS	37994
+Beach Surfboard Shield	MTXBEACH16_SURFBOARD_SHIELD	37995
+Beach Ice Lolly Wand	MTXBEACH16_ICE_LOLLY_WAND	37996
+Beach Water Balloon Launcher	MTXBEACH16_BALLOON_LAUNCHER	37997
+Beach Conga Eel Whip	MTXBEACH16_CONGA_EEL_WHIP	37998
+Beach Clawdia Claw	MTXBEACH16_CLAUDIA_CLAWS	37999
+Beach Off-hand Clawdia Claw	MTXBEACH16_CLAUDIA_CLAWS_O	38000
+Beach Shell Shield	MTXBEACH16_SHELL_SHIELD	38001
+Beach Ink Shooter	MTXBEACH16_INK_SHOOTER	38002
+Beach Off-hand Ink Shooter	MTXBEACH16_INK_SHOOTER_O	38003
+Beachball orb	MTXBEACH16_BEACHBALL	38004
+Beach Coral Sword	MTXBEACH16_CORAL_SWORD	38005
+Beach Off-hand Coral Sword	MTXBEACH16_CORAL_SWORD_O	38006
+Beach Coral Dagger	MTXBEACH16_CORAL_DAGGER	38007
+Beach Off-hand Coral Dagger	MTXBEACH16_CORAL_DAGGER_O	38008
+Conga eel whip token	MTXBEACH16_CONGA_EEL_WHIP_TOKEN	38009
+Conga eel whip token	BOUGHT_MTXBEACH16_CONGA_EEL_WHIP_TOKEN	38010
+Ice lolly wand token	MTXBEACH16_ICE_LOLLY_WAND_TOKEN	38011
+Ice lolly wand token	BOUGHT_MTXBEACH16_ICE_LOLLY_WAND_TOKEN	38012
+Water balloon launcher token	MTXBEACH16_BALLOON_LAUNCHER_TOKEN	38013
+Water balloon launcher token	BOUGHT_MTXBEACH16_BALLOON_LAUNCHER_TOKEN	38014
+Shark fin token	MTXBEACH16_SHARK_FIN_TOKEN	38015
+Shark fin token	BOUGHT_MTXBEACH16_SHARK_FIN_TOKEN	38016
+Lifeguard chair head token	MTXBEACH16_LIFEGUARD_HAT_TOKEN	38017
+Lifeguard chair head token	BOUGHT_MTXBEACH16_LIFEGUARD_HAT_TOKEN	38018
+Clawdia wings token	MTXBEACH16_CLAUDIA_WINGS_TOKEN	38019
+Clawdia wings token	BOUGHT_MTXBEACH16_CLAUDIA_WINGS_TOKEN	38020
+Duck ring token	MTXBEACH16_DUCK_RING_TOKEN	38021
+Duck ring token	BOUGHT_MTXBEACH16_DUCK_RING_TOKEN	38022
+Coral sword token	MTXBEACH16_CORAL_SWORD_TOKEN	38023
+Coral sword token	BOUGHT_MTXBEACH16_CORAL_SWORD_TOKEN	38024
+Coral dagger token	MTXBEACH16_CORAL_DAGGER_TOKEN	38025
+Coral dagger token	BOUGHT_MTXBEACH16_CORAL_DAGGER_TOKEN	38026
+Starfish follower pet token	MTXBEACH16_STARFISH_TOKEN	38027
+Starfish follower pet token	BOUGHT_MTXBEACH16_STARFISH_TOKEN	38028
+Pufferfish follower pet token	MTXBEACH16_PUFFERFISH_TOKEN	38029
+Pufferfish follower pet token	BOUGHT_MTXBEACH16_PUFFERFISH_TOKEN	38030
+Sand dunk resting emote token	MTXBEACH16_SAND_DUNK_TOKEN	38031
+Sand dunk resting emote token	BOUGHT_MTXBEACH16_SAND_DUNK_TOKEN	38032
+Hacky sack resting emote token	MTXBEACH16_HACKY_SACK_TOKEN	38033
+Hacky sack resting emote token	BOUGHT_MTXBEACH16_HACKY_SACK_TOKEN	38034
+Surfboard shield token	MTXBEACH16_SURFBOARD_SHIELD_TOKEN	38035
+Clawdia claws token	MTXBEACH16_CLAUDIA_CLAWS_TOKEN	38036
+Ink shooter token	MTXBEACH16_INK_SHOOTER_TOKEN	38037
+Beachball orb token	MTXBEACH16_BEACHBALL_TOKEN	38038
+Seahorse follower pet token	MTXBEACH16_SEAHORSE_TOKEN	38039
+Sandra	MTXBEACH16_STARFISH	38040
+Sandra	POH_MTXBEACH16_STARFISH	38041
+Coraline	MTXBEACH16_SEAHORSE	38042
+Coraline	POH_MTXBEACH16_SEAHORSE	38043
+Gus	MTXBEACH16_PUFFERFISH	38044
+Gus	POH_MTXBEACH16_PUFFERFISH	38045
+Large shell	MTXBEACH16_CONCH_SHELL	38046
+Rainbow kite	MTXBEACH16_RAINBOW_KITE	38047
+Terrorbird mount	MTXBEACH16_TERRORBIRD_MOUNT_BLUE	38048
+Terrorbird mount	MTXBEACH16_TERRORBIRD_MOUNT_BLACK	38049
+Terrorbird mount	MTXBEACH16_TERRORBIRD_MOUNT_GREEN	38050
+Terrorbird mount	MTXBEACH16_TERRORBIRD_MOUNT_PURPLE	38051
+Terrorbird mount	MTXBEACH16_TERRORBIRD_MOUNT_RED	38052
+Terrorbird mount	MTXBEACH16_TERRORBIRD_MOUNT_YELLOW	38053
+Treasure map	MTXBEACH16_TREASURE_MAP	38054
+Treasure map key	MTXBEACH16_BOND	38055
+Treasure map key	BOUGHT_MTXBEACH16_BOND	38056
+Lumbridge beach booster	TRH101_BEACH_BOOSTER	38057
+Summer loot piñata	TRH101_LOOT_PINATA	38058
+Summer piñata loot bag	TRH101_LOOT_PINATA_BAG	38059
+Pufferfish Balloon	TRH101_BALLOON_PUFFERFISH	38060
+Pufferfish Balloon	CERT_TRH101_BALLOON_PUFFERFISH	38061
+Seahorse Balloon	TRH101_BALLOON_SEAHORSE	38062
+Seahorse Balloon	CERT_TRH101_BALLOON_SEAHORSE	38063
+Starfish Balloon	TRH101_BALLOON_STARFISH	38064
+Starfish Balloon	CERT_TRH101_BALLOON_STARFISH	38065
+Satyr outfit	MTX106_SATYR_OUTFIT	38066
+Satyr outfit	BOUGHT_MTX106_SATYR_OUTFIT	38067
+Satyr horned headwear	MTX106_SATYR_HEAD	38068
+Satyr leafy top	MTX106_SATYR_TORSO	38069
+Satyr hock legs	MTX106_SATYR_LEGS	38070
+Satyr hooves	MTX106_SATYR_FEET	38071
+Satyr armguards	MTX106_SATYR_HANDS	38072
+Satyr tendril wings	MTX106_SATYR_WINGS	38073
+	MTXBEACH_2016_HOOKADUCK_ROD	38074
+Dojo Mojo	SKILLPETS_AGILITY	38075
+Dojo Mojo	SKILLPETS_AGILITY_POH	38076
+Baby Yaga's House	SKILLPETS_CONSTRUCTION	38077
+Baby Yaga's House	SKILLPETS_CONSTRUCTION_POH	38078
+Ramsay	SKILLPETS_COOKING	38079
+Ramsay	SKILLPETS_COOKING_POH	38080
+Gemi	SKILLPETS_CRAFTING	38081
+Gemi	SKILLPETS_CRAFTING_POH	38082
+Willow	SKILLPETS_DIVINATION	38083
+Willow	SKILLPETS_DIVINATION_POH	38084
+Gordie	SKILLPETS_DUNGEONEERING	38085
+Gordie	SKILLPETS_DUNGEONEERING_POH	38086
+Brains	SKILLPETS_FARMING	38087
+Brains	SKILLPETS_FARMING_POH	38088
+Bernie	SKILLPETS_FIREMAKING	38089
+Bernie	SKILLPETS_FIREMAKING_POH	38090
+Bubbles	SKILLPETS_FISHING	38091
+Bubbles	SKILLPETS_FISHING_POH	38092
+Flo	SKILLPETS_FLETCHING	38093
+Flo	SKILLPETS_FLETCHING_POH	38094
+Herbert	SKILLPETS_HERBLORE	38095
+Herbert	SKILLPETS_HERBLORE_POH	38096
+Ace	SKILLPETS_HUNTER	38097
+Ace	SKILLPETS_HUNTER_POH	38098
+Malcolm	SKILLPETS_INVENTION	38099
+Malcolm	SKILLPETS_INVENTION_POH	38100
+Rocky	SKILLPETS_MINING	38101
+Rocky	SKILLPETS_MINING_POH	38102
+Rue	SKILLPETS_RUNECRAFT	38103
+Rue	SKILLPETS_RUNECRAFT_POH	38104
+Crabbe	SKILLPETS_SLAYER	38105
+Crabbe	SKILLPETS_SLAYER_POH	38106
+Smithy	SKILLPETS_SMITHING	38107
+Smithy	SKILLPETS_SMITHING_POH	38108
+Ralph	SKILLPETS_THIEVING	38109
+Ralph	SKILLPETS_THIEVING_POH	38110
+Woody	SKILLPETS_WOODCUTTING	38111
+Woody	SKILLPETS_WOODCUTTING_POH	38112
+Dojo Mojo pet	SKILLPETS_AGILITY_PET_DROP	38113
+Baby Yaga's House pet	SKILLPETS_CONSTRUCTION_PET_DROP	38114
+Ramsay pet	SKILLPETS_COOKING_PET_DROP	38115
+Gemi pet	SKILLPETS_CRAFTING_PET_DROP	38116
+Willow pet	SKILLPETS_DIVINATION_PET_DROP	38117
+Gordie pet	SKILLPETS_DUNGEONEERING_PET_DROP	38118
+Brains pet	SKILLPETS_FARMING_PET_DROP	38119
+Bernie pet	SKILLPETS_FIREMAKING_PET_DROP	38120
+Bubbles pet	SKILLPETS_FISHING_PET_DROP	38121
+Flo pet	SKILLPETS_FLETCHING_PET_DROP	38122
+Herbert pet	SKILLPETS_HERBLORE_PET_DROP	38123
+Ace pet	SKILLPETS_HUNTER_PET_DROP	38124
+Malcolm pet	SKILLPETS_INVENTION_PET_DROP	38125
+Rocky pet	SKILLPETS_MINING_PET_DROP	38126
+Rue pet	SKILLPETS_RUNECRAFT_PET_DROP	38127
+Crabbe pet	SKILLPETS_SLAYER_PET_DROP	38128
+Smithy pet	SKILLPETS_SMITHING_PET_DROP	38129
+Ralph pet	SKILLPETS_THIEVING_PET_DROP	38130
+Woody pet	SKILLPETS_WOODCUTTING_PET_DROP	38131
+Harvest Festival seeds	TRH105_SEEDS	38132
+Harvest Festival produce	TRH105_HARVEST_PRODUCE	38133
+Harvest Festival perfect produce	TRH105_HARVEST_PRODUCE_PERFECT	38134
+Solar flare	TRH106_CURRENCY	38135
+Gem of aspiration	TRH106_UPGRADE_ITEM	38136
+Sunfury armour (tier 1)	TRH106_SUNFURY_OUTFIT	38137
+Sunfury armour (tier 2)	TRH106_SUNFURY_OUTFIT_UPGRADED	38138
+Sunfury (Tier 1) Helm	TRH106_SUNFURY_HEAD	38139
+Sunfury (Tier 2) Helm	TRH106_SUNFURY_HEAD_UPGRADED	38140
+Sunfury (Tier 1) Chest	TRH106_SUNFURY_TORSO	38141
+Sunfury (Tier 2) Chest	TRH106_SUNFURY_TORSO_UPGRADED	38142
+Sunfury (Tier 1) Legs	TRH106_SUNFURY_LEGS	38143
+Sunfury (Tier 2) Legs	TRH106_SUNFURY_LEGS_UPGRADED	38144
+Sunfury (Tier 1) Gauntlets	TRH106_SUNFURY_GLOVES	38145
+Sunfury (Tier 2) Gauntlets	TRH106_SUNFURY_GLOVES_UPGRADED	38146
+Sunfury (Tier 1) Boots	TRH106_SUNFURY_BOOTS	38147
+Sunfury (Tier 2) Boots	TRH106_SUNFURY_BOOTS_UPGRADED	38148
+Sunfury (Tier 1) Cape	TRH106_SUNFURY_CAPE	38149
+Sunfury (Tier 2) Cape	TRH106_SUNFURY_CAPE_UPGRADED	38150
+Sunfury (Tier 1) Shield	TRH106_SUNFURY_SHIELD	38151
+Sunfury (Tier 2) Shield	TRH106_SUNFURY_SHIELD_UPGRADED	38152
+Crystal peacock armour	GAMECARD_CRYSTAL_ARMOUR	38153
+Crystal peacock armour	BOUGHT_GAMECARD_CRYSTAL_ARMOUR	38154
+Crystal peacock helmet	GAMECARD_CRYSTAL_PEACOCK_HEAD	38155
+Crystal peacock body	GAMECARD_CRYSTAL_PEACOCK_TORSO	38156
+Crystal peacock legs	GAMECARD_CRYSTAL_PEACOCK_LEGS	38157
+Crystal peacock gloves	GAMECARD_CRYSTAL_PEACOCK_HANDS	38158
+Crystal peacock boots	GAMECARD_CRYSTAL_PEACOCK_FEET	38159
+Gud raider axe	LENT_DND_RAID_GOBLIN_AXE_HIGH	38160
+Gud raider chainbody	LENT_DND_RAID_GOBLIN_TORSO_HIGH	38161
+Gud raider shield	LENT_DND_RAID_GOBLIN_SHIELD_HIGH	38162
+Vitalis	POH_LRC2_VITALIS	38163
+Augmented dragon pickaxe (non-combat)	DRAGON_PICKAXE_AUGMENTED_NONCOMBAT	38164
+Augmented dragon pickaxe (non-combat) (uncharged)	DRAGON_PICKAXE_AUGMENTED_UNCHARGED_NONCOMBAT	38165
+Augmented crystal pickaxe (non-combat)	CRYSTAL_PICKAXE_AUGMENTED_NONCOMBAT	38166
+Augmented crystal pickaxe (non-combat) (uncharged)	CRYSTAL_PICKAXE_AUGMENTED_UNCHARGED_NONCOMBAT	38167
+Scroll in a bottle (small)	TRH104_SCROLL_SMALL	38168
+Scroll in a bottle (medium)	TRH104_SCROLL_MEDIUM	38169
+Scroll in a bottle (large)	TRH104_SCROLL_LARGE	38170
+Scroll in a bottle (huge)	TRH104_SCROLL_HUGE	38171
+Sailing token	TRH104_SAILING_TOKEN	38172
+High Armour of Hanto headpiece	TRH104_HELM	38173
+High Armour of Hanto cuirass	TRH104_TORSO	38174
+High Armour of Hanto legguards	TRH104_LEGS	38175
+High Armour of Hanto handguards	TRH104_GLOVES	38176
+High Armour of Hanto sabatons	TRH104_BOOTS	38177
+Thalassia's Revenge	TRH104_2H_MELEE	38178
+Rage of Hyu-Ji	TRH104_2H_MAGIC	38179
+Winds of Waiko	TRH104_2H_RANGE	38180
+Augmented High Armour of Hanto cuirass	TRH104_TORSO_AUGMENTED	38181
+Augmented High Armour of Hanto legguards	TRH104_LEGS_AUGMENTED	38182
+Augmented Thalassia's Revenge	TRH104_2H_MELEE_AUGMENTED	38183
+Augmented Rage of Hyu-Ji	TRH104_2H_MAGIC_AUGMENTED	38184
+Augmented Winds of Waiko	TRH104_2H_RANGE_AUGMENTED	38185
+Augmented High Armour of Hanto cuirass (uncharged)	TRH104_TORSO_AUGMENTED_UNCHARGED	38186
+Augmented High Armour of Hanto legguards (uncharged)	TRH104_LEGS_AUGMENTED_UNCHARGED	38187
+Augmented Thalassia's Revenge (uncharged)	TRH104_2H_MELEE_AUGMENTED_UNCHARGED	38188
+Augmented Rage of Hyu-Ji (uncharged)	TRH104_2H_MAGIC_AUGMENTED_UNCHARGED	38189
+Augmented Winds of Waiko (uncharged)	TRH104_2H_RANGE_AUGMENTED_UNCHARGED	38190
+Gossamer outfit	MTX107_GOSSAMER_OUTFIT	38191
+Gossamer outfit	BOUGHT_MTX107_GOSSAMER_OUTFIT	38192
+Gossamer feathered headdress	MTX107_GOSSAMER_HEAD	38193
+Gossamer robes top	MTX107_GOSSAMER_TORSO	38194
+Gossamer robes bottom	MTX107_GOSSAMER_LEGS	38195
+Gossamer pumps	MTX107_GOSSAMER_FEET	38196
+Gossamer silk gloves	MTX107_GOSSAMER_HANDS	38197
+Gossamer wings	MTX107_GOSSAMER_WINGS	38198
+RuneFest Honourable Foo Lion	MTX_RUNEFEST2016_LION_ATTENDEE	38199
+RuneFest Honourable Foo Lion	POH_MTX_RUNEFEST2016_LION_ATTENDEE	38200
+Runefest foo lion	MTX_RUNEFEST2016_LION_VIEWER	38201
+RuneFest Foo Lion	POH_MTX_RUNEFEST2016_LION_VIEWER	38202
+Dagannoth Kings teleport	POH_TABLET_DAGANNOTH_TELEPORT	38203
+Augmented malevolent cuirass (Barrows)	TRAIL14_BARROWS2_BODY_BARROWS_AUGMENTED	38204
+Augmented malevolent cuirass (Barrows)(uncharged)	TRAIL14_BARROWS2_BODY_BARROWS_AUGMENTED_UNCHARGED	38205
+Augmented malevolent greaves (Barrows)	TRAIL14_BARROWS2_LEGS_BARROWS_AUGMENTED	38206
+Augmented malevolent greaves (Barrows)(uncharged)	TRAIL14_BARROWS2_LEGS_BARROWS_AUGMENTED_UNCHARGED	38207
+Augmented malevolent cuirass (shadow)	TRAIL14_BARROWS2_BODY_SHADOW_AUGMENTED	38208
+Augmented malevolent cuirass (shadow)(uncharged)	TRAIL14_BARROWS2_BODY_SHADOW_AUGMENTED_UNCHARGED	38209
+Augmented malevolent greaves (shadow)	TRAIL14_BARROWS2_LEGS_SHADOW_AUGMENTED	38210
+Augmented malevolent greaves (shadow)(uncharged)	TRAIL14_BARROWS2_LEGS_SHADOW_AUGMENTED_UNCHARGED	38211
+Augmented malevolent cuirass (Third Age)	TRAIL14_BARROWS2_BODY_THIRDAGE_AUGMENTED	38212
+Augmented malevolent cuirass (Third Age)(uncharged)	TRAIL14_BARROWS2_BODY_THIRDAGE_AUGMENTED_UNCHARGED	38213
+Augmented malevolent greaves (Third Age)	TRAIL14_BARROWS2_LEGS_THIRDAGE_AUGMENTED	38214
+Augmented malevolent greaves (Third Age)(uncharged)	TRAIL14_BARROWS2_LEGS_THIRDAGE_AUGMENTED_UNCHARGED	38215
+Augmented tectonic robe top (Barrows)	TRAIL14_LRC2_MAGIC_BODY_BARROWS_AUGMENTED	38216
+Augmented tectonic robe top (Barrows)(uncharged)	TRAIL14_LRC2_MAGIC_BODY_BARROWS_AUGMENTED_UNCHARGED	38217
+Augmented tectonic robe bottom (Barrows)	TRAIL14_LRC2_MAGIC_LEGS_BARROWS_AUGMENTED	38218
+Augmented tectonic robe bottom (Barrows)(uncharged)	TRAIL14_LRC2_MAGIC_LEGS_BARROWS_AUGMENTED_UNCHARGED	38219
+Augmented tectonic robe top (shadow)	TRAIL14_LRC2_MAGIC_BODY_SHADOW_AUGMENTED	38220
+Augmented tectonic robe top (shadow)(uncharged)	TRAIL14_LRC2_MAGIC_BODY_SHADOW_AUGMENTED_UNCHARGED	38221
+Augmented tectonic robe bottom (shadow)	TRAIL14_LRC2_MAGIC_LEGS_SHADOW_AUGMENTED	38222
+Augmented tectonic robe bottom (shadow)(uncharged)	TRAIL14_LRC2_MAGIC_LEGS_SHADOW_AUGMENTED_UNCHARGED	38223
+Augmented tectonic robe top (Third Age)	TRAIL14_LRC2_MAGIC_BODY_THIRDAGE_AUGMENTED	38224
+Augmented tectonic robe top (Third Age)(uncharged)	TRAIL14_LRC2_MAGIC_BODY_THIRDAGE_AUGMENTED_UNCHARGED	38225
+Augmented tectonic robe bottom (Third Age)	TRAIL14_LRC2_MAGIC_LEGS_THIRDAGE_AUGMENTED	38226
+Augmented tectonic robe bottom (Third Age)(uncharged)	TRAIL14_LRC2_MAGIC_LEGS_THIRDAGE_AUGMENTED_UNCHARGED	38227
+Augmented sirenic chaps (Barrows)	TRAIL14_T90_RANGED_LEGS_BARROWS_AUGMENTED	38228
+Augmented sirenic chaps (Barrows)(uncharged)	TRAIL14_T90_RANGED_LEGS_BARROWS_AUGMENTED_UNCHARGED	38229
+Augmented sirenic hauberk (Barrows)	TRAIL14_T90_RANGED_BODY_BARROWS_AUGMENTED	38230
+Augmented sirenic hauberk (Barrows)(uncharged)	TRAIL14_T90_RANGED_BODY_BARROWS_AUGMENTED_UNCHARGED	38231
+Augmented sirenic hauberk (shadow)	TRAIL14_T90_RANGED_BODY_SHADOW_AUGMENTED	38232
+Augmented sirenic hauberk (shadow)(uncharged)	TRAIL14_T90_RANGED_BODY_SHADOW_AUGMENTED_UNCHARGED	38233
+Augmented sirenic chaps (shadow)	TRAIL14_T90_RANGED_LEGS_SHADOW_AUGMENTED	38234
+Augmented sirenic chaps (shadow)(uncharged)	TRAIL14_T90_RANGED_LEGS_SHADOW_AUGMENTED_UNCHARGED	38235
+Augmented sirenic hauberk (Third Age)	TRAIL14_T90_RANGED_BODY_THIRDAGE_AUGMENTED	38236
+Augmented sirenic hauberk (Third Age)(uncharged)	TRAIL14_T90_RANGED_BODY_THIRDAGE_AUGMENTED_UNCHARGED	38237
+Augmented sirenic chaps (Third Age)	TRAIL14_T90_RANGED_LEGS_THIRDAGE_AUGMENTED	38238
+Augmented sirenic chaps (Third Age)(uncharged)	TRAIL14_T90_RANGED_LEGS_THIRDAGE_AUGMENTED_UNCHARGED	38239
+Augmented malevolent cuirass (blood)	BARROWS2_BODY_BLOOD_AUGMENTED	38240
+Augmented malevolent cuirass (blood)(uncharged)	BARROWS2_BODY_BLOOD_AUGMENTED_UNCHARGED	38241
+Augmented malevolent greaves (blood)	BARROWS2_LEGS_BLOOD_AUGMENTED	38242
+Augmented malevolent greaves (blood)(uncharged)	BARROWS2_LEGS_BLOOD_AUGMENTED_UNCHARGED	38243
+Augmented tectonic robe top (blood)	LRC2_MAGIC_BODY_BLOOD_AUGMENTED	38244
+Augmented tectonic robe top (blood)(uncharged)	LRC2_MAGIC_BODY_BLOOD_AUGMENTED_UNCHARGED	38245
+Augmented tectonic robe bottom (blood)	LRC2_MAGIC_LEGS_BLOOD_AUGMENTED	38246
+Augmented tectonic robe bottom (blood)(uncharged)	LRC2_MAGIC_LEGS_BLOOD_AUGMENTED_UNCHARGED	38247
+Augmented sirenic hauberk (blood)	T90_RANGED_BODY_BLOOD_AUGMENTED	38248
+Augmented sirenic hauberk (blood)(uncharged)	T90_RANGED_BODY_BLOOD_AUGMENTED_UNCHARGED	38249
+Augmented sirenic chaps (blood)	T90_RANGED_LEGS_BLOOD_AUGMENTED	38250
+Augmented sirenic chaps (blood)(uncharged)	T90_RANGED_LEGS_BLOOD_AUGMENTED_UNCHARGED	38251
+Augmented drygore mace (Barrows)	TRAIL14_KK_MACE_BARROWS_AUGMENTED	38252
+Augmented drygore mace (Barrows)(uncharged)	TRAIL14_KK_MACE_BARROWS_AUGMENTED_UNCHARGED	38253
+Augmented off-hand drygore mace (Barrows)	TRAIL14_KK_MACE_O_BARROWS_AUGMENTED	38254
+Augmented off-hand drygore mace (Barrows)(uncharged)	TRAIL14_KK_MACE_O_BARROWS_AUGMENTED_UNCHARGED	38255
+Augmented drygore rapier (Barrows)	TRAIL14_KK_SWORD_BARROWS_AUGMENTED	38256
+Augmented drygore rapier (Barrows)(uncharged)	TRAIL14_KK_SWORD_BARROWS_AUGMENTED_UNCHARGED	38257
+Augmented off-hand drygore rapier (Barrows)	TRAIL14_KK_SWORD_O_BARROWS_AUGMENTED	38258
+Augmented off-hand drygore rapier (Barrows)(uncharged)	TRAIL14_KK_SWORD_O_BARROWS_AUGMENTED_UNCHARGED	38259
+Augmented drygore longsword (Barrows)	TRAIL14_KK_LONGSWORD_BARROWS_AUGMENTED	38260
+Augmented drygore longsword (Barrows)(uncharged)	TRAIL14_KK_LONGSWORD_BARROWS_AUGMENTED_UNCHARGED	38261
+Augmented off-hand drygore longsword (Barrows)	TRAIL14_KK_LONGSWORD_O_BARROWS_AUGMENTED	38262
+Augmented off-hand drygore longsword (Barrows)(uncharged)	TRAIL14_KK_LONGSWORD_O_BARROWS_AUGMENTED_UNCHARGED	38263
+Augmented ascension crossbow (Barrows)	TRAIL14_ASC_CRYSTAL_CROSSBOW_BARROWS_AUGMENTED	38264
+Augmented ascension crossbow (Barrows)(uncharged)	TRAIL14_ASC_CRYSTAL_CROSSBOW_BARROWS_AUGMENTED_UNCHARGED	38265
+Augmented off-hand ascension crossbow (Barrows)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_BARROWS_AUGMENTED	38266
+Augmented off-hand ascension crossbow (Barrows)(uncharged)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_BARROWS_AUGMENTED_UNCHARGED	38267
+Augmented seismic wand (Barrows)	TRAIL14_LRC2_MAGIC_WAND_BARROWS_AUGMENTED	38268
+Augmented seismic wand (Barrows)(uncharged)	TRAIL14_LRC2_MAGIC_WAND_BARROWS_AUGMENTED_UNCHARGED	38269
+Augmented seismic singularity (Barrows)	TRAIL14_LRC2_MAGIC_OFFHAND_BARROWS_AUGMENTED	38270
+Augmented seismic singularity (Barrows)(uncharged)	TRAIL14_LRC2_MAGIC_OFFHAND_BARROWS_AUGMENTED_UNCHARGED	38271
+Augmented noxious scythe (Barrows)	TRAIL14_SB_MELEE_WEAPON_BARROWS_AUGMENTED	38272
+Augmented noxious scythe (Barrows)(uncharged)	TRAIL14_SB_MELEE_WEAPON_BARROWS_AUGMENTED_UNCHARGED	38273
+Augmented noxious staff (Barrows)	TRAIL14_SB_MAGIC_WEAPON_BARROWS_AUGMENTED	38274
+Augmented noxious staff (Barrows)(uncharged)	TRAIL14_SB_MAGIC_WEAPON_BARROWS_AUGMENTED_UNCHARGED	38275
+Augmented noxious longbow (Barrows)	TRAIL14_SB_RANGED_WEAPON_BARROWS_AUGMENTED	38276
+Augmented noxious longbow (Barrows)(uncharged)	TRAIL14_SB_RANGED_WEAPON_BARROWS_AUGMENTED_UNCHARGED	38277
+Augmented drygore mace (shadow)	TRAIL14_KK_MACE_SHADOW_AUGMENTED	38278
+Augmented drygore mace (shadow)(uncharged)	TRAIL14_KK_MACE_SHADOW_AUGMENTED_UNCHARGED	38279
+Augmented off-hand Drygore mace (shadow)	TRAIL14_KK_MACE_O_SHADOW_AUGMENTED	38280
+Augmented off-hand drygore mace (shadow)(uncharged)	TRAIL14_KK_MACE_O_SHADOW_AUGMENTED_UNCHARGED	38281
+Augmented Drygore rapier (shadow)	TRAIL14_KK_SWORD_SHADOW_AUGMENTED	38282
+Augmented drygore rapier (shadow)(uncharged)	TRAIL14_KK_SWORD_SHADOW_AUGMENTED_UNCHARGED	38283
+Augmented off-hand drygore rapier (shadow)	TRAIL14_KK_SWORD_O_SHADOW_AUGMENTED	38284
+Augmented off-hand drygore rapier (shadow)(uncharged)	TRAIL14_KK_SWORD_O_SHADOW_AUGMENTED_UNCHARGED	38285
+Augmented drygore longsword (shadow)	TRAIL14_KK_LONGSWORD_SHADOW_AUGMENTED	38286
+Augmented drygore longsword (shadow)(uncharged)	TRAIL14_KK_LONGSWORD_SHADOW_AUGMENTED_UNCHARGED	38287
+Augmented off-hand drygore longsword (shadow)	TRAIL14_KK_LONGSWORD_O_SHADOW_AUGMENTED	38288
+Augmented off-hand drygore longsword (shadow)(uncharged)	TRAIL14_KK_LONGSWORD_O_SHADOW_AUGMENTED_UNCHARGED	38289
+Augmented ascension crossbow (shadow)	TRAIL14_ASC_CRYSTAL_CROSSBOW_SHADOW_AUGMENTED	38290
+Augmented ascension crossbow (shadow)(uncharged)	TRAIL14_ASC_CRYSTAL_CROSSBOW_SHADOW_AUGMENTED_UNCHARGED	38291
+Augmented off-hand ascension crossbow (shadow)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_SHADOW_AUGMENTED	38292
+Augmented off-hand ascension crossbow (shadow)(uncharged)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_SHADOW_AUGMENTED_UNCHARGED	38293
+Augmented seismic wand (shadow)	TRAIL14_LRC2_MAGIC_WAND_SHADOW_AUGMENTED	38294
+Augmented seismic wand (shadow)(uncharged)	TRAIL14_LRC2_MAGIC_WAND_SHADOW_AUGMENTED_UNCHARGED	38295
+Augmented seismic singularity (shadow)	TRAIL14_LRC2_MAGIC_OFFHAND_SHADOW_AUGMENTED	38296
+Augmented seismic singularity (shadow)(uncharged)	TRAIL14_LRC2_MAGIC_OFFHAND_SHADOW_AUGMENTED_UNCHARGED	38297
+Augmented noxious scythe (shadow)	TRAIL14_SB_MELEE_WEAPON_SHADOW_AUGMENTED	38298
+Augmented noxious scythe (shadow)(uncharged)	TRAIL14_SB_MELEE_WEAPON_SHADOW_AUGMENTED_UNCHARGED	38299
+Augmented noxious staff (shadow)	TRAIL14_SB_MAGIC_WEAPON_SHADOW_AUGMENTED	38300
+Augmented noxious staff (shadow)(uncharged)	TRAIL14_SB_MAGIC_WEAPON_SHADOW_AUGMENTED_UNCHARGED	38301
+Augmented noxious longbow (shadow)	TRAIL14_SB_RANGED_WEAPON_SHADOW_AUGMENTED	38302
+Augmented noxious longbow (shadow)(uncharged)	TRAIL14_SB_RANGED_WEAPON_SHADOW_AUGMENTED_UNCHARGED	38303
+Augmented drygore mace (Third Age)	TRAIL14_KK_MACE_THIRDAGE_AUGMENTED	38304
+Augmented drygore mace (Third Age)(uncharged)	TRAIL14_KK_MACE_THIRDAGE_AUGMENTED_UNCHARGED	38305
+Augmented off-hand drygore mace (Third Age)	TRAIL14_KK_MACE_O_THIRDAGE_AUGMENTED	38306
+Augmented off-hand drygore mace (Third Age)(uncharged)	TRAIL14_KK_MACE_O_THIRDAGE_AUGMENTED_UNCHARGED	38307
+Augmented drygore rapier (Third Age)	TRAIL14_KK_SWORD_THIRDAGE_AUGMENTED	38308
+Augmented drygore rapier (Third Age)(uncharged)	TRAIL14_KK_SWORD_THIRDAGE_AUGMENTED_UNCHARGED	38309
+Augmented off-hand drygore rapier (Third Age)	TRAIL14_KK_SWORD_O_THIRDAGE_AUGMENTED	38310
+Augmented off-hand drygore rapier (Third Age)(uncharged)	TRAIL14_KK_SWORD_O_THIRDAGE_AUGMENTED_UNCHARGED	38311
+Augmented drygore longsword (Third Age)	TRAIL14_KK_LONGSWORD_THIRDAGE_AUGMENTED	38312
+Augmented drygore longsword (Third Age)(uncharged)	TRAIL14_KK_LONGSWORD_THIRDAGE_AUGMENTED_UNCHARGED	38313
+Augmented off-hand drygore longsword (Third Age)	TRAIL14_KK_LONGSWORD_O_THIRDAGE_AUGMENTED	38314
+Augmented off-hand drygore longsword (Third Age)(uncharged)	TRAIL14_KK_LONGSWORD_O_THIRDAGE_AUGMENTED_UNCHARGED	38315
+Augmented ascension crossbow (Third Age)	TRAIL14_ASC_CRYSTAL_CROSSBOW_THIRDAGE_AUGMENTED	38316
+Augmented ascension crossbow (Third Age)(uncharged)	TRAIL14_ASC_CRYSTAL_CROSSBOW_THIRDAGE_AUGMENTED_UNCHARGED	38317
+Augmented off-hand ascension crossbow (Third Age)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_THIRDAGE_AUGMENTED	38318
+Augmented off-hand ascension crossbow (Third Age)(uncharged)	TRAIL14_ASC_CRYSTAL_CROSSBOW_O_THIRDAGE_AUGMENTED_UNCHARGED	38319
+Augmented seismic wand (Third Age)	TRAIL14_LRC2_MAGIC_WAND_THIRDAGE_AUGMENTED	38320
+Augmented seismic wand (Third Age)(uncharged)	TRAIL14_LRC2_MAGIC_WAND_THIRDAGE_AUGMENTED_UNCHARGED	38321
+Augmented seismic singularity (Third Age)	TRAIL14_LRC2_MAGIC_OFFHAND_THIRDAGE_AUGMENTED	38322
+Augmented seismic singularity (Third Age)(uncharged)	TRAIL14_LRC2_MAGIC_OFFHAND_THIRDAGE_AUGMENTED_UNCHARGED	38323
+Augmented noxious scythe (Third Age)	TRAIL14_SB_MELEE_WEAPON_THIRDAGE_AUGMENTED	38324
+Augmented noxious scythe (Third Age)(uncharged)	TRAIL14_SB_MELEE_WEAPON_THIRDAGE_AUGMENTED_UNCHARGED	38325
+Augmented noxious staff (Third Age)	TRAIL14_SB_MAGIC_WEAPON_THIRDAGE_AUGMENTED	38326
+Augmented noxious staff (Third Age)(uncharged)	TRAIL14_SB_MAGIC_WEAPON_THIRDAGE_AUGMENTED_UNCHARGED	38327
+Augmented noxious longbow (Third Age)	TRAIL14_SB_RANGED_WEAPON_THIRDAGE_AUGMENTED	38328
+Augmented noxious longbow (Third Age)(uncharged)	TRAIL14_SB_RANGED_WEAPON_THIRDAGE_AUGMENTED_UNCHARGED	38329
+Augmented drygore mace (blood)	KK_MACE_BLOOD_AUGMENTED	38330
+Augmented drygore mace (blood)(uncharged)	KK_MACE_BLOOD_AUGMENTED_UNCHARGED	38331
+Augmented off-hand drygore mace (blood)	KK_MACE_O_BLOOD_AUGMENTED	38332
+Augmented off-hand drygore mace (blood)(uncharged)	KK_MACE_O_BLOOD_AUGMENTED_UNCHARGED	38333
+Augmented drygore rapier (blood)	KK_SWORD_BLOOD_AUGMENTED	38334
+Augmented drygore rapier (blood)(uncharged)	KK_SWORD_BLOOD_AUGMENTED_UNCHARGED	38335
+Augmented off-hand drygore rapier (blood)	KK_SWORD_O_BLOOD_AUGMENTED	38336
+Augmented off-hand drygore rapier (blood)(uncharged)	KK_SWORD_O_BLOOD_AUGMENTED_UNCHARGED	38337
+Augmented drygore longsword (blood)	KK_LONGSWORD_BLOOD_AUGMENTED	38338
+Augmented drygore longsword (blood)(uncharged)	KK_LONGSWORD_BLOOD_AUGMENTED_UNCHARGED	38339
+Augmented off-hand drygore longsword (blood)	KK_LONGSWORD_O_BLOOD_AUGMENTED	38340
+Augmented off-hand drygore longsword (blood)(uncharged)	KK_LONGSWORD_O_BLOOD_AUGMENTED_UNCHARGED	38341
+Augmented ascension crossbow (blood)	ASC_CRYSTAL_CROSSBOW_BLOOD_AUGMENTED	38342
+Augmented ascension crossbow (blood)(uncharged)	ASC_CRYSTAL_CROSSBOW_BLOOD_AUGMENTED_UNCHARGED	38343
+Augmented off-hand ascension crossbow (blood)	ASC_CRYSTAL_CROSSBOW_O_BLOOD_AUGMENTED	38344
+Augmented off-hand ascension crossbow (blood)(uncharged)	ASC_CRYSTAL_CROSSBOW_O_BLOOD_AUGMENTED_UNCHARGED	38345
+Augmented seismic wand (blood)	LRC2_MAGIC_WAND_BLOOD_AUGMENTED	38346
+Augmented seismic wand (blood)(uncharged)	LRC2_MAGIC_WAND_BLOOD_AUGMENTED_UNCHARGED	38347
+Augmented seismic singularity (blood)	LRC2_MAGIC_OFFHAND_BLOOD_AUGMENTED	38348
+Augmented seismic singularity (blood)(uncharged)	LRC2_MAGIC_OFFHAND_BLOOD_AUGMENTED_UNCHARGED	38349
+Augmented noxious scythe (blood)	SB_MELEE_WEAPON_BLOOD_AUGMENTED	38350
+Augmented noxious scythe (blood)(uncharged)	SB_MELEE_WEAPON_BLOOD_AUGMENTED_UNCHARGED	38351
+Augmented noxious staff (blood)	SB_MAGIC_WEAPON_BLOOD_AUGMENTED	38352
+Augmented noxious staff (blood)(uncharged)	SB_MAGIC_WEAPON_BLOOD_AUGMENTED_UNCHARGED	38353
+Augmented noxious longbow (blood)	SB_RANGED_WEAPON_BLOOD_AUGMENTED	38354
+Augmented noxious longbow (blood)(uncharged)	SB_RANGED_WEAPON_BLOOD_AUGMENTED_UNCHARGED	38355
+Bandages	CRUC_DM_BANDAGES	38356
+Preserved meat	DMBH_FOOD	38357
+Preserved meat	CERT_DMBH_FOOD	38358
+Wilderness slayer xp enhancer	DMBH_SLAYERXPBUFF	38359
+Revenant drop enhancer	DMBH_ANCIENTGEARDROPBUFF	38360
+Superior rock-shell armour set	DMBH_SETMELEE	38361
+Superior spined armour set	DMBH_SETRANGED	38362
+Superior skeletal armour set	DMBH_SETMAGE	38363
+Superior rock-shell helm	DMBH_MELEE_HELM	38364
+Superior rock-shell helm	DMBH_MELEE_HELM_USED	38365
+Superior rock-shell plate	DMBH_MELEE_BODY	38366
+Superior rock-shell plate	DMBH_MELEE_BODY_USED	38367
+Superior rock-shell legs	DMBH_MELEE_LEGS	38368
+Superior rock-shell legs	DMBH_MELEE_LEGS_USED	38369
+Superior rock-shell boots	DMBH_MELEE_FEET	38370
+Superior rock-shell boots	DMBH_MELEE_FEET_USED	38371
+Superior rock-shell gloves	DMBH_MELEE_GLOVES	38372
+Superior rock-shell gloves	DMBH_MELEE_GLOVES_USED	38373
+Superior spined helm	DMBH_RANGED_HELM	38374
+Superior spined helm	DMBH_RANGED_HELM_USED	38375
+Superior spined body	DMBH_RANGED_BODY	38376
+Superior spined body	DMBH_RANGED_BODY_USED	38377
+Superior spined chaps	DMBH_RANGED_LEGS	38378
+Superior spined chaps	DMBH_RANGED_LEGS_USED	38379
+Superior spined boots	DMBH_RANGED_FEET	38380
+Superior spined boots	DMBH_RANGED_FEET_USED	38381
+Superior spined gloves	DMBH_RANGED_GLOVES	38382
+Superior spined gloves	DMBH_RANGED_GLOVES_USED	38383
+Superior skeletal helm	DMBH_MAGE_HELM	38384
+Superior skeletal helm	DMBH_MAGE_HELM_USED	38385
+Superior skeletal top	DMBH_MAGE_BODY	38386
+Superior skeletal top	DMBH_MAGE_BODY_USED	38387
+Superior skeletal bottoms	DMBH_MAGE_LEGS	38388
+Superior skeletal bottoms	DMBH_MAGE_LEGS_USED	38389
+Superior skeletal boots	DMBH_MAGE_FEET	38390
+Superior skeletal boots	DMBH_MAGE_FEET_USED	38391
+Superior skeletal gloves	DMBH_MAGE_GLOVES	38392
+Superior skeletal gloves	DMBH_MAGE_GLOVES_USED	38393
+Corrupt rogue gloves	DMBH_TIERGLOVES_1	38394
+Nasty rogue gloves	DMBH_TIERGLOVES_2	38395
+Malicious rogue gloves	DMBH_TIERGLOVES_3	38396
+Loathsome rogue gloves	DMBH_TIERGLOVES_4	38397
+Atrocious rogue gloves	DMBH_TIERGLOVES_5	38398
+Ogre flask (empty)	CRUC_DM_FLASK_EMPTY	38399
+Ogre flask (Bandos) (6)	CRUC_DM_FLASK_BANDOS	38400
+Ogre flask (sulphur) (6)	CRUC_DM_FLASK_SULPHUR	38401
+Ogre flask (salt water) (6)	CRUC_DM_FLASK_SALTWATER	38402
+Ogre flask (thermal) (6)	CRUC_DM_FLASK_THERMAL	38403
+Ogre flask (mud) (6)	CRUC_DM_FLASK_MUD	38404
+Deathmatch title scroll	CRUC_DM_TITLE_REWARD	38405
+Deathmatch taunt scroll	CRUC_DM_TAUNT_REWARD	38406
+Fae fairy 1h melee weapon pack	MTX108_FAE_WEAPON_1H_MELEE_PACK	38407
+Fae fairy 1h melee weapon pack	BOUGHT_MTX108_FAE_WEAPON_1H_MELEE_PACK	38408
+Fae fairy 2h melee weapon pack	MTX108_FAE_WEAPON_2H_MELEE_PACK	38409
+Fae fairy 2h melee weapon pack	BOUGHT_MTX108_FAE_WEAPON_2H_MELEE_PACK	38410
+Fae fairy magic weapon pack	MTX108_FAE_WEAPON_MAGIC_PACK	38411
+Fae fairy magic weapon pack	BOUGHT_MTX108_FAE_WEAPON_MAGIC_PACK	38412
+Fae fairy ranged weapon pack	MTX108_FAE_WEAPON_RANGED_PACK	38413
+Fae fairy ranged weapon pack	BOUGHT_MTX108_FAE_WEAPON_RANGED_PACK	38414
+Fae fairy mace	MTX108_FAE_WEAPON_MACE	38415
+Fae Fairy Off-hand Mace	MTX108_FAE_WEAPON_MACE_O	38416
+Fae fairy dagger	MTX108_FAE_WEAPON_DAGGER	38417
+Fae Fairy Off-hand Dagger	MTX108_FAE_WEAPON_DAGGER_O	38418
+Fae Fairy Shortsword	MTX108_FAE_WEAPON_SHORTSWORD	38419
+Fae Fairy Off-hand Shortsword	MTX108_FAE_WEAPON_SHORTSWORD_O	38420
+Fae fairy 2h sword	MTX108_FAE_WEAPON_2H_SWORD	38421
+Fae fairy halberd	MTX108_FAE_WEAPON_HALBERD	38422
+Fae fairy maul	MTX108_FAE_WEAPON_MAUL	38423
+Fae fairy battleaxe	MTX108_FAE_WEAPON_BATTLEAXE	38424
+Fae fairy off-hand battleaxe	MTX108_FAE_WEAPON_BATTLEAXE_O	38425
+Fae Fairy Claw	MTX108_FAE_WEAPON_CLAWS	38426
+Fae Fairy Off-hand Claw	MTX108_FAE_WEAPON_CLAWS_O	38427
+Fae fairy orb	MTX108_FAE_WEAPON_ORB_O	38428
+Fae fairy book	MTX108_FAE_WEAPON_BOOK_O	38429
+Fae fairy wand	MTX108_FAE_WEAPON_WAND	38430
+Fae fairy staff	MTX108_FAE_WEAPON_STAFF	38431
+Fae fairy throwing star	MTX108_FAE_WEAPON_THROWN_KNIFE	38432
+Fae fairy off-hand throwing star	MTX108_FAE_WEAPON_THROWN_KNIFE_O	38433
+Fae fairy 2h crossbow	MTX108_FAE_WEAPON_2H_CROSSBOW	38434
+Fae fairy shortbow	MTX108_FAE_WEAPON_BOW	38435
+Fae fairy shieldbow	MTX108_FAE_WEAPON_CHARGEBOW	38436
+Fae Fairy Crossbow	MTX108_FAE_WEAPON_CROSSBOW	38437
+Fae Fairy Off-hand Crossbow	MTX108_FAE_WEAPON_CROSSBOW_O	38438
+Crystal peacock weapon pack	GAMECARD_CRYSTAL_WEAPONS	38439
+Crystal peacock weapon pack	BOUGHT_GAMECARD_CRYSTAL_WEAPONS	38440
+Crystal peacock sword	GAMECARD_CRYSTAL_PEACOCK_SWORD	38441
+Crystal Peacock Off-hand Sword	GAMECARD_CRYSTAL_PEACOCK_SWORD_O	38442
+Crystal peacock battleaxe	GAMECARD_CRYSTAL_PEACOCK_BATTLEAXE	38443
+Crystal peacock staff	GAMECARD_CRYSTAL_PEACOCK_STAFF	38444
+Crystal peacock wand	GAMECARD_CRYSTAL_PEACOCK_WAND	38445
+Crystal peacock book	GAMECARD_CRYSTAL_PEACOCK_BOOK_O	38446
+Crystal Peacock Shortbow	GAMECARD_CRYSTAL_PEACOCK_BOW	38447
+Crystal Peacock Throwing Star	GAMECARD_CRYSTAL_PEACOCK_THROWN_KNIFE	38448
+Crystal Peacock Off-hand Throwing Star	GAMECARD_CRYSTAL_PEACOCK_THROWN_KNIFE_O	38449
+Sealed small rune pouch	PVPWILD_RUNEPOUCH_SMALL_UNUSED	38450
+Small rune pouch	PVPWILD_RUNEPOUCH_SMALL	38451
+Sealed large rune pouch	PVPWILD_RUNEPOUCH_LARGE_UNUSED	38452
+Large rune pouch	PVPWILD_RUNEPOUCH_LARGE	38453
+Modhead raven	NOMEL_MODHEAD_RAVEN	38454
+XP lamp	QUEST_NOMEL_PQ_LAMP	38455
+Soul cape (white)	QUEST_NOMEL_HARDMODE_SOUL_CAPE	38456
+Soul cape (blood)	QUEST_NOMEL_HARDMODE_SOUL_CAPE_RED	38457
+Soul cape (black)	QUEST_NOMEL_HARDMODE_SOUL_CAPE_BLACK	38458
+Soul cape (shadow)	QUEST_NOMEL_HARDMODE_SOUL_CAPE_PURPLE	38459
+Soul cape	QUEST_NOMEL_HARDMODE_SOUL_CAPE_CYAN	38460
+Soul cape (barrows)	QUEST_NOMEL_HARDMODE_SOUL_CAPE_GREEN	38461
+Ravensworn cape	QUEST_NOMEL_SOUL_CAPE_RAVENSWORN	38462
+Paddewwa teleport	POH_TABLET_PADDEWWA	38463
+Senntisten teleport	POH_TABLET_SENNTISTEN	38464
+Kharyrll teleport	POH_TABLET_KHARYRLL	38465
+Lassar teleport	POH_TABLET_LASSAR	38466
+Dareeyak teleport	POH_TABLET_DAREEYAK	38467
+Carrallangar teleport	POH_TABLET_CARRALLANGER	38468
+Annakarl teleport	POH_TABLET_ANNAKARL	38469
+Ghorrock teleport	POH_TABLET_GHORROCK	38470
+Casket (CS Week)	CS_WEEK_2016_CLUES_CASKET	38471
+Security casket (CS Week)	CS_WEEK_2016_CLUES_CASKET_EXTRA	38472
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_001	38473
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_002	38474
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_003	38475
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_004	38476
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_005	38477
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_006	38478
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_007	38479
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_008	38480
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_009	38481
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_010	38482
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_011	38483
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_012	38484
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_013	38485
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_014	38486
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_015	38487
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_016	38488
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_017	38489
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_018	38490
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_019	38491
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_020	38492
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_021	38493
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_022	38494
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_023	38495
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_024	38496
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_025	38497
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_026	38498
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_027	38499
+Clue scroll (CS Week)	CS_WEEK_2016_CLUES_028	38500
+Scroll box (CS Week)	CS_WEEK_2016_CLUES_SCROLLBOX	38501
+Deathmatch supreme overload salve (6)	CRUC_DM_6DOSE2COMBOSUPREMEOVERLOAD	38502
+Deathmatch supreme overload salve (5)	CRUC_DM_5DOSE2COMBOSUPREMEOVERLOAD	38503
+Deathmatch supreme overload salve (4)	CRUC_DM_4DOSE2COMBOSUPREMEOVERLOAD	38504
+Deathmatch supreme overload salve (3)	CRUC_DM_3DOSE2COMBOSUPREMEOVERLOAD	38505
+Deathmatch supreme overload salve (2)	CRUC_DM_2DOSE2COMBOSUPREMEOVERLOAD	38506
+Deathmatch supreme overload salve (1)	CRUC_DM_1DOSE2COMBOSUPREMEOVERLOAD	38507
+Deathmatch super restore flask (6)	CRUC_DM_BIGPOT_6DOSE2RESTORE	38508
+Deathmatch super restore flask (5)	CRUC_DM_BIGPOT_5DOSE2RESTORE	38509
+Deathmatch super restore flask (4)	CRUC_DM_BIGPOT_4DOSE2RESTORE	38510
+Deathmatch super restore flask (3)	CRUC_DM_BIGPOT_3DOSE2RESTORE	38511
+Deathmatch super restore flask (2)	CRUC_DM_BIGPOT_2DOSE2RESTORE	38512
+Deathmatch super restore flask (1)	CRUC_DM_BIGPOT_1DOSE2RESTORE	38513
+	TRH100_PLANT_SPRAY	38514
+Do not translate-never seen	TRH100_EVIL_GOATEE	38515
+Roooots	TRH100_PET_ZOMBIE_SPROUT_OBJ	38517
+Roooots	TRH100_PET_ZOMBIE_SPROUT_OBJ_POH	38518
+Inflorescent wings	TRH100_FARMING_WINGS	38519
+Decaying wings	TRH100_HERBLORE_WINGS	38520
+Frozen gorajan trailblazer head	TRH103_FROZEN_HEAD	38521
+Frozen gorajan trailblazer body	TRH103_FROZEN_BODY	38522
+Frozen gorajan trailblazer legs	TRH103_FROZEN_LEGS	38523
+Frozen gorajan trailblazer hands	TRH103_FROZEN_HANDS	38524
+Frozen gorajan trailblazer feet	TRH103_FROZEN_FEET	38525
+Furnished gorajan trailblazer head	TRH103_FURNISHED_HEAD	38526
+Furnished gorajan trailblazer body	TRH103_FURNISHED_BODY	38527
+Furnished gorajan trailblazer legs	TRH103_FURNISHED_LEGS	38528
+Furnished gorajan trailblazer hands	TRH103_FURNISHED_HANDS	38529
+Furnished gorajan trailblazer feet	TRH103_FURNISHED_FEET	38530
+Abandoned gorajan trailblazer head	TRH103_ABANDONED_HEAD	38531
+Abandoned gorajan trailblazer body	TRH103_ABANDONED_BODY	38532
+Abandoned gorajan trailblazer legs	TRH103_ABANDONED_LEGS	38533
+Abandoned gorajan trailblazer hands	TRH103_ABANDONED_HANDS	38534
+Abandoned gorajan trailblazer feet	TRH103_ABANDONED_FEET	38535
+Occult gorajan trailblazer head	TRH103_OCCULT_HEAD	38536
+Occult gorajan trailblazer body	TRH103_OCCULT_BODY	38537
+Occult gorajan trailblazer legs	TRH103_OCCULT_LEGS	38538
+Occult gorajan trailblazer hands	TRH103_OCCULT_HANDS	38539
+Occult gorajan trailblazer feet	TRH103_OCCULT_FEET	38540
+Warped gorajan trailblazer head	TRH103_WARPED_HEAD	38541
+Warped gorajan trailblazer body	TRH103_WARPED_BODY	38542
+Warped gorajan trailblazer legs	TRH103_WARPED_LEGS	38543
+Warped gorajan trailblazer hands	TRH103_WARPED_HANDS	38544
+Warped gorajan trailblazer feet	TRH103_WARPED_FEET	38545
+Gorajan Trailblazer (Frozen) Head	TRH103_FROZEN_HEAD_WARDROBE	38546
+Gorajan Trailblazer (Frozen) Body	TRH103_FROZEN_BODY_WARDROBE	38547
+Gorajan Trailblazer (Frozen) Legs	TRH103_FROZEN_LEGS_WARDROBE	38548
+Gorajan Trailblazer (Frozen) Hands	TRH103_FROZEN_HANDS_WARDROBE	38549
+Gorajan Trailblazer (Frozen) Feet	TRH103_FROZEN_FEET_WARDROBE	38550
+Gorajan Trailblazer (Furnished) Head	TRH103_FURNISHED_HEAD_WARDROBE	38551
+Gorajan Trailblazer (Furnished) Body	TRH103_FURNISHED_BODY_WARDROBE	38552
+Gorajan Trailblazer (Furnished) Legs	TRH103_FURNISHED_LEGS_WARDROBE	38553
+Gorajan Trailblazer (Furnished) Hands	TRH103_FURNISHED_HANDS_WARDROBE	38554
+Gorajan Trailblazer (Furnished) Feet	TRH103_FURNISHED_FEET_WARDROBE	38555
+Gorajan Trailblazer (Abandoned) Head	TRH103_ABANDONED_HEAD_WARDROBE	38556
+Gorajan Trailblazer (Abandoned) Body	TRH103_ABANDONED_BODY_WARDROBE	38557
+Gorajan Trailblazer (Abandoned) Legs	TRH103_ABANDONED_LEGS_WARDROBE	38558
+Gorajan Trailblazer (Abandoned) Hands	TRH103_ABANDONED_HANDS_WARDROBE	38559
+Gorajan Trailblazer (Abandoned) Feet	TRH103_ABANDONED_FEET_WARDROBE	38560
+Gorajan Trailblazer (Occult) Head	TRH103_OCCULT_HEAD_WARDROBE	38561
+Gorajan Trailblazer (Occult) Body	TRH103_OCCULT_BODY_WARDROBE	38562
+Gorajan Trailblazer (Occult) Legs	TRH103_OCCULT_LEGS_WARDROBE	38563
+Gorajan Trailblazer (Occult) Hands	TRH103_OCCULT_HANDS_WARDROBE	38564
+Gorajan Trailblazer (Occult) Feet	TRH103_OCCULT_FEET_WARDROBE	38565
+Gorajan Trailblazer (Warped) Head	TRH103_WARPED_HEAD_WARDROBE	38566
+Gorajan Trailblazer (Warped) Body	TRH103_WARPED_BODY_WARDROBE	38567
+Gorajan Trailblazer (Warped) Legs	TRH103_WARPED_LEGS_WARDROBE	38568
+Gorajan Trailblazer (Warped) Hands	TRH103_WARPED_HANDS_WARDROBE	38569
+Gorajan Trailblazer (Warped) Feet	TRH103_WARPED_FEET_WARDROBE	38570
+Frozen gorajan trailblazer outfit	TRH103_FROZEN_DUMMY	38571
+Furnished gorajan trailblazer outfit	TRH103_FURNISHED_DUMMY	38572
+Abandoned gorajan trailblazer outfit	TRH103_ABANDONED_DUMMY	38573
+Occult gorajan trailblazer outfit	TRH103_OCCULT_DUMMY	38574
+Aminishi teleport	ELR1_TELE_AMINISHI	38575
+Whale's Maw teleport	ELR1_TELE_WHALESMAW	38576
+Cyclosis teleport	ELR1_TELE_CYCLOSIS	38577
+Tuai Leit teleport	ELR1_TELE_TUAILEIT	38578
+Islands That Once Were Turtles teleport	ELR1_TELE_EXTURTLES	38579
+Goshima teleport	ELR1_TELE_GOSHIMA	38580
+Cooked pekin	ELR1_CHICKEN	38581
+Cooked pekin	CERT_ELR1_CHICKEN	38582
+Burnt pekin	ELR1_BURNT_CHICKEN	38583
+Cooked undead pekin	ELR1_CHICKEN_UNDEAD	38584
+Cooked undead pekin	CERT_ELR1_CHICKEN_UNDEAD	38585
+Cremated undead pekin	ELR1_BURNT_CHICKEN_UNDEAD	38586
+Uncooked arc gumbo	CERT_ELR1_UNCOOKED_STEW	38587
+Arc gumbo	CERT_ELR1_STEW	38588
+Uncooked shark soup	CERT_ELR1_UNCOOKED_SOUP	38589
+Shark soup	CERT_ELR1_SOUP	38590
+Raw seerfish	ELR1_TRANSDUMMY_FISH_LOW_TO_FISH_HIGH	38591
+Raw sillago	ELR1_TRANSDUMMY_FISH_HIGH_TO_FISH_RARE	38592
+Raw wobbegong	ELR1_TRANSDUMMY_FISH_RARE_TO_SHARK	38593
+Shiny shell chippings	ELR1_TRANSDUMMY_SHELL_LOW_TO_SHELL_HIGH	38594
+Alaea sea salt	ELR1_TRANSDUMMY_SALT_LOW_TO_SALT_HIGH	38595
+Sliced mushrooms	ELR1_TRANSDUMMY_DRIFTWOOD_TO_CHOPPED_MUSHROOM	38596
+Wobbegong oil	ELR1_TRANSDUMMY_SALT_HIGH_TO_SHARK_OIL	38597
+Shiny tortle shell bowl	ELR1_TRANSDUMMY_SHARK_OIL_TO_BOWL_HIGH	38598
+	ELR1_CURRENCY_SUPPLIES	38599
+Driftwood	CERT_ELR1_DRIFTWOOD	38600
+Driftwood (damaged)	CERT_ELR1_DRIFTWOOD_DAMAGED	38601
+Sea shell	ELR1_SEASHELL	38602
+Sea shell	CERT_ELR1_SEASHELL	38603
+Egg	ELR1_EGG	38604
+Egg	CERT_ELR1_EGG	38605
+Pickled egg	ELR1_EGG_UNDEAD	38606
+Pickled egg	CERT_ELR1_EGG_UNDEAD	38607
+Raw pekin	ELR1_RAW_CHICKEN	38608
+Raw pekin	CERT_ELR1_RAW_CHICKEN	38609
+Raw undead pekin	ELR1_RAW_CHICKEN_UNDEAD	38610
+Raw undead pekin	CERT_ELR1_RAW_CHICKEN_UNDEAD	38611
+Positive energy	ELR1_DIV_LIGHT	38612
+	ELR1_DIV_LIGHT_STACK1	38613
+	ELR1_DIV_LIGHT_STACK2	38614
+	ELR1_DIV_LIGHT_STACK3	38615
+	ELR1_DIV_LIGHT_STACK4	38616
+Negative energy	ELR1_DIV_DARK	38617
+	ELR1_DIV_DARK_STACK1	38618
+	ELR1_DIV_DARK_STACK2	38619
+	ELR1_DIV_DARK_STACK3	38620
+	ELR1_DIV_DARK_STACK4	38621
+Ancestral energy	ELR1_DIV	38622
+	ELR1_DIV_STACK1	38623
+	ELR1_DIV_STACK2	38624
+	ELR1_DIV_STACK3	38625
+	ELR1_DIV_STACK4	38626
+Rumberry	ELR1_BERRY1	38627
+Exuberry	ELR1_BERRY2	38628
+Fireberry	ELR1_BERRY3	38629
+Blisterberry	ELR1_BERRY4	38630
+Mournberry	ELR1_BERRY5	38631
+Stoneberry	ELR1_BERRY6	38632
+Stormberry	ELR1_BERRY7	38633
+Rosaberry	ELR1_BERRY8	38634
+Squiffberry	ELR1_BERRY9	38635
+Meloberry	ELR1_BERRY10	38636
+Jitterberry	ELR1_BERRY11	38637
+Cocoaberry	ELR1_BERRY12	38638
+Smoulderberry	ELR1_BERRY13	38639
+Sourberry	ELR1_BERRY14	38640
+Gloomberry	ELR1_BERRY15	38641
+Musaberry	ELR1_BERRY16	38642
+Rumberry seed	ELR1_BERRY1_SEED	38643
+Exuberry seed	ELR1_BERRY2_SEED	38644
+Fireberry seed	ELR1_BERRY3_SEED	38645
+Blisterberry seed	ELR1_BERRY4_SEED	38646
+Mournberry seed	ELR1_BERRY5_SEED	38647
+Stoneberry seed	ELR1_BERRY6_SEED	38648
+Stormberry seed	ELR1_BERRY7_SEED	38649
+Rosaberry seed	ELR1_BERRY8_SEED	38650
+Squiffberry seed	ELR1_BERRY9_SEED	38651
+Meloberry seed	ELR1_BERRY10_SEED	38652
+Jitterberry seed	ELR1_BERRY11_SEED	38653
+Cocoaberry seed	ELR1_BERRY12_SEED	38654
+Smoulderberry seed	ELR1_BERRY13_SEED	38655
+Sourberry seed	ELR1_BERRY14_SEED	38656
+Gloomberry seed	ELR1_BERRY15_SEED	38657
+Musaberry seed	ELR1_BERRY16_SEED	38658
+	ELR1_RUMBERRY_SEED_2	38659
+	ELR1_RUMBERRY_SEED_3	38660
+	ELR1_RUMBERRY_SEED_4	38661
+	ELR1_RUMBERRY_SEED_5	38662
+	ELR1_EXUBERRY_SEED_2	38663
+	ELR1_EXUBERRY_SEED_3	38664
+	ELR1_EXUBERRY_SEED_4	38665
+	ELR1_EXUBERRY_SEED_5	38666
+	ELR1_FIREBERRY_SEED_2	38667
+	ELR1_FIREBERRY_SEED_3	38668
+	ELR1_FIREBERRY_SEED_4	38669
+	ELR1_FIREBERRY_SEED_5	38670
+	ELR1_BLISTERBERRY_SEED_2	38671
+	ELR1_BLISTERBERRY_SEED_3	38672
+	ELR1_BLISTERBERRY_SEED_4	38673
+	ELR1_BLISTERBERRY_SEED_5	38674
+	ELR1_MOURNBERRY_SEED_2	38675
+	ELR1_MOURNBERRY_SEED_3	38676
+	ELR1_MOURNBERRY_SEED_4	38677
+	ELR1_MOURNBERRY_SEED_5	38678
+	ELR1_STONEBERRY_SEED_2	38679
+	ELR1_STONEBERRY_SEED_3	38680
+	ELR1_STONEBERRY_SEED_4	38681
+	ELR1_STONEBERRY_SEED_5	38682
+	ELR1_STORMBERRY_SEED_2	38683
+	ELR1_STORMBERRY_SEED_3	38684
+	ELR1_STORMBERRY_SEED_4	38685
+	ELR1_STORMBERRY_SEED_5	38686
+	ELR1_ROSABERRY_SEED_2	38687
+	ELR1_ROSABERRY_SEED_3	38688
+	ELR1_ROSABERRY_SEED_4	38689
+	ELR1_ROSABERRY_SEED_5	38690
+	ELR1_SQUIFFBERRY_SEED_2	38691
+	ELR1_SQUIFFBERRY_SEED_3	38692
+	ELR1_SQUIFFBERRY_SEED_4	38693
+	ELR1_SQUIFFBERRY_SEED_5	38694
+	ELR1_MELOBERRY_SEED_2	38695
+	ELR1_MELOBERRY_SEED_3	38696
+	ELR1_MELOBERRY_SEED_4	38697
+	ELR1_MELOBERRY_SEED_5	38698
+	ELR1_JITTERBERRY_SEED_2	38699
+	ELR1_JITTERBERRY_SEED_3	38700
+	ELR1_JITTERBERRY_SEED_4	38701
+	ELR1_JITTERBERRY_SEED_5	38702
+	ELR1_COCOABERRY_SEED_2	38703
+	ELR1_COCOABERRY_SEED_3	38704
+	ELR1_COCOABERRY_SEED_4	38705
+	ELR1_COCOABERRY_SEED_5	38706
+	ELR1_SMOULDERBERRY_SEED_2	38707
+	ELR1_SMOULDERBERRY_SEED_3	38708
+	ELR1_SMOULDERBERRY_SEED_4	38709
+	ELR1_SMOULDERBERRY_SEED_5	38710
+	ELR1_SOURBERRY_SEED_2	38711
+	ELR1_SOURBERRY_SEED_3	38712
+	ELR1_SOURBERRY_SEED_4	38713
+	ELR1_SOURBERRY_SEED_5	38714
+	ELR1_GLOOMBERRY_SEED_2	38715
+	ELR1_GLOOMBERRY_SEED_3	38716
+	ELR1_GLOOMBERRY_SEED_4	38717
+	ELR1_GLOOMBERRY_SEED_5	38718
+	ELR1_MUSABERRY_SEED_2	38719
+	ELR1_MUSABERRY_SEED_3	38720
+	ELR1_MUSABERRY_SEED_4	38721
+	ELR1_MUSABERRY_SEED_5	38722
+Wushroom	ELR1_MUSHROOM1	38723
+Corpsebloom	ELR1_MUSHROOM2	38724
+Immorel	ELR1_MUSHROOM3	38725
+Lactarius	ELR1_MUSHROOM4	38726
+Paraspore	ELR1_MUSHROOM5	38727
+Buttercap	ELR1_MUSHROOM6	38728
+Blushroom	ELR1_MUSHROOM7	38729
+Purple bellow	ELR1_MUSHROOM8	38730
+Snufftruffle	ELR1_MUSHROOM9	38731
+Inky cap	ELR1_MUSHROOM10	38732
+Sporcini	ELR1_MUSHROOM11	38733
+Toastool	ELR1_MUSHROOM12	38734
+Honeyfungus	ELR1_MUSHROOM13	38735
+Arc puffball	ELR1_MUSHROOM14	38736
+Russula	ELR1_MUSHROOM15	38737
+Summertwirl	ELR1_MUSHROOM16	38738
+Raw tarpon	CERT_ELR1_RAW_FISH_LOW	38739
+Raw seerfish	CERT_ELR1_RAW_FISH_HIGH	38740
+Raw sillago	CERT_ELR1_RAW_FISH_RARE	38741
+Raw wobbegong	CERT_ELR1_RAW_SHARK	38742
+Tortle trap	CERT_ELR1_TORTOISE_TRAP	38743
+Bamboo	CERT_ELR1_BAMBOO_LOW	38744
+Golden bamboo	CERT_ELR1_BAMBOO_HIGH	38745
+Tortle portal	ELR1_TORTLE_PORTAL	38746
+Message in a bottle	ELR1_MESSAGE_BOTTLE_06	38747
+Message in a bottle	ELR1_MESSAGE_BOTTLE_07	38748
+Message in a bottle	ELR1_MESSAGE_BOTTLE_08	38749
+Message in a bottle	ELR1_MESSAGE_BOTTLE_09	38750
+Message in a bottle	ELR1_MESSAGE_BOTTLE_10	38751
+Treasure map	ELR1_ISLAND_MAP_06	38752
+Treasure map	ELR1_ISLAND_MAP_07	38753
+Treasure map	ELR1_ISLAND_MAP_08	38754
+Treasure map	ELR1_ISLAND_MAP_09	38755
+Treasure map	ELR1_ISLAND_MAP_10	38756
+Seasinger set	ELR1_SEASINGER_SET	38757
+Grimy herb	ELR1_HERB	38758
+Kelp	ELR1_SACRIFICE	38759
+Crushed salt	ELR2_MINQ_CYCLOSIS_CRUSHED_SALT	38760
+Blessed salt	ELR2_MINQ_CYCLOSIS_BLESSED_SALT	38761
+Rumberry elixir	ELR2_MINQ_TUAILEIT_ELIXIR	38762
+Ship repair kit	ELR2_MINQ_GOSHIMA_WAIKO_SUPPLIES	38763
+Cannon barrel	ELR2_MINQ_GOSHIMA_CANNON_BARREL	38764
+Cart	ELR2_MINQ_GOSHIMA_CANNON_BASE	38765
+Rope	ELR2_MINQ_GOSHIMA_CANNON_FUSE	38766
+Gunpowder	ELR2_MINQ_GOSHIMA_CANNON_GUNPOWDER	38767
+Azure globe	ELR2_MINQ_GOSHIMA_CANNON_AMMO	38768
+Broom	ELR2_MINQ_GOSHIMA_CANNON_RAMROD	38769
+Goshima note	ELR2_MINQ_GOSHIMA_NOTE	38770
+Hunter XP lamp	ELR2_ONI_LAMP	38771
+Oily bakami jar	ELR2_CAPTURED_ONI_1	38772
+Bundling bakami jar	ELR2_CAPTURED_ONI_2	38773
+Salty bakami jar	ELR2_CAPTURED_ONI_3	38774
+Stalking bakami jar	ELR2_CAPTURED_ONI_4	38775
+Foraging bakami jar	ELR2_CAPTURED_ONI_5	38776
+Ancestral bakami jar	ELR2_CAPTURED_ONI_6	38777
+Murderous bakami jar	ELR2_CAPTURED_ONI_7	38778
+Fortunate bakami jar	ELR2_CAPTURED_ONI_8	38779
+Oily orokami jar	ELR2_CAPTURED_UNCHARTED_ONI_1	38780
+Bundling orokami jar	ELR2_CAPTURED_UNCHARTED_ONI_2	38781
+Salty orokami jar	ELR2_CAPTURED_UNCHARTED_ONI_3	38782
+Stalking orokami jar	ELR2_CAPTURED_UNCHARTED_ONI_4	38783
+Foraging orokami jar	ELR2_CAPTURED_UNCHARTED_ONI_5	38784
+Ancestral orokami jar	ELR2_CAPTURED_UNCHARTED_ONI_6	38785
+Murderous orokami jar	ELR2_CAPTURED_UNCHARTED_ONI_7	38786
+Fortunate orokami jar	ELR2_CAPTURED_UNCHARTED_ONI_8	38787
+Ikuchi orokami mask	ELR2_OBAKE_MASK_1	38788
+Ikuchi orokami mask	CERT_ELR2_OBAKE_MASK_1	38789
+Kodama orokami mask	ELR2_OBAKE_MASK_2	38790
+Kodama orokami mask	CERT_ELR2_OBAKE_MASK_2	38791
+Akkorokamui orokami mask	ELR2_OBAKE_MASK_3	38792
+Akkorokamui orokami mask	CERT_ELR2_OBAKE_MASK_3	38793
+Karasu orokami mask	ELR2_OBAKE_MASK_4	38794
+Karasu orokami mask	CERT_ELR2_OBAKE_MASK_4	38795
+Akateko orokami mask	ELR2_OBAKE_MASK_5	38796
+Akateko orokami mask	CERT_ELR2_OBAKE_MASK_5	38797
+Nue orokami mask	ELR2_OBAKE_MASK_6	38798
+Nue orokami mask	CERT_ELR2_OBAKE_MASK_6	38799
+Shinigami orokami mask	ELR2_OBAKE_MASK_7	38800
+Shinigami orokami mask	CERT_ELR2_OBAKE_MASK_7	38801
+Oni orokami mask	ELR2_OBAKE_MASK_8	38802
+Oni orokami mask	CERT_ELR2_OBAKE_MASK_8	38803
+Uncharted island map	ELR2_UNCHARTED_ISLAND_MAP	38804
+Superior seasinger asari	ELR2_POP_MAGIC_BOOTS_UNTRADEABLE	38805
+Superior tetsu kogake	ELR2_POP_MELEE_BOOTS_UNTRADEABLE	38806
+Superior Death Lotus tabi	ELR2_POP_RANGED_BOOTS_UNTRADEABLE	38807
+Superior seasinger asari (broken)	ELR2_POP_MAGIC_BOOTS_DEGRADED	38808
+Superior tetsu kogake (broken)	ELR2_POP_MELEE_BOOTS_DEGRADED	38809
+Superior Death Lotus tabi (broken)	ELR2_POP_RANGED_BOOTS_DEGRADED	38810
+Superior seasinger aonori	ELR2_POP_MAGIC_GLOVES_UNTRADEABLE	38811
+Superior tetsu kote	ELR2_POP_MELEE_GLOVES_UNTRADEABLE	38812
+Superior Death Lotus tekoh	ELR2_POP_RANGED_GLOVES_UNTRADEABLE	38813
+Superior seasinger aonori (broken)	ELR2_POP_MAGIC_GLOVES_DEGRADED	38814
+Superior tetsu kote (broken)	ELR2_POP_MELEE_GLOVES_DEGRADED	38815
+Superior Death Lotus tekoh (broken)	ELR2_POP_RANGED_GLOVES_DEGRADED	38816
+Hunter's boots	ELR2_HUNTER_FEET	38817
+Hunter's gloves	ELR2_HUNTER_HANDS	38818
+Hunter's legwear	ELR2_HUNTER_LEGS	38819
+Hunter's chestpiece	ELR2_HUNTER_BODY	38820
+Hunter's headwear	ELR2_HUNTER_HEAD	38821
+Banky crablet	ELR2_REWARD_BANK_CHEST	38822
+Memory-crushing scrimshaw	ELR2_POP_MEMORYCRUSHING_TRADEABLE	38823
+Memory-crushing scrimshaw	CERT_ELR2_POP_MEMORYCRUSHING_TRADEABLE	38824
+Memory-crushing scrimshaw (worn)	ELR2_POP_MEMORYCRUSHING_TRADEABLE_USED	38825
+Superior memory-crushing scrimshaw	ELR2_POP_MEMORYCRUSHING_UNTRADEABLE	38826
+Superior memory-crushing scrimshaw	ELR2_POP_MEMORYCRUSHING_UNTRADEABLE_NEW	38827
+Energy-gathering scrimshaw	ELR2_POP_ENERGYGATHERING_TRADEABLE	38828
+Energy-gathering scrimshaw	CERT_ELR2_POP_ENERGYGATHERING_TRADEABLE	38829
+Energy-gathering scrimshaw (worn)	ELR2_POP_ENERGYGATHERING_TRADEABLE_USED	38830
+Superior energy-gathering scrimshaw	ELR2_POP_ENERGYGATHERING_UNTRADEABLE	38831
+Superior energy-gathering scrimshaw	ELR2_POP_ENERGYGATHERING_UNTRADEABLE_NEW	38832
+Idol crabletine token	ELR2_REWARD_IDOL_CRABLET_TOKEN	38833
+Idol crabletine	ELR2_IDOL_CRABLET_PET	38834
+Idol crabletine	POH_ELR2_IDOL_CRABLET_PET	38835
+Ports resource crate	ELR2_RESOURCE_CRATE	38836
+Phenakite	ELRC_GEMSTONE1	38837
+Menaphyrite	ELRC_GEMSTONE2	38838
+Waikonite	ELRC_GEMSTONE3	38839
+Corundum	ELRC_GEMSTONE4	38840
+Wavecrest opal	ELRC_GEMSTONE5	38841
+Maw coral	ELRC_GEMSTONE6	38842
+Crondite	ELRC_GEMSTONE7	38843
+Alaeite	ELRC_GEMSTONE8	38844
+Hetite stone	ELRC_GEMSTONE9	38845
+Aminishi miststone	ELRC_GEMSTONE10	38846
+Hauyne	ELRC_GEMSTONE11	38847
+Scabarite crystal	ELRC_GEMSTONE12	38848
+Tuai Leit sparkle	ELRC_GEMSTONE13	38849
+Idocrase	ELRC_GEMSTONE14	38850
+Apmeken amethyst	ELRC_GEMSTONE15	38851
+Umesco arpos	ELRC_GEMSTONE16	38852
+Iago	ELRC_BIRD_PET	38853
+Iago	ELRC_BIRD_PET_POH	38854
+Privateer outfit	MTX109_PRIVATEER_OUTFIT	38855
+Privateer outfit	BOUGHT_MTX109_PRIVATEER_OUTFIT	38856
+Privateer tricorn	MTX109_PRIVATEER_HEAD	38857
+Privateer tunic	MTX109_PRIVATEER_TORSO	38858
+Privateer cargo pants	MTX109_PRIVATEER_LEGS	38859
+Privateer cuffed boots	MTX109_PRIVATEER_FEET	38860
+Privateer gloves	MTX109_PRIVATEER_HANDS	38861
+Privateer cutlass	MTX109_PRIVATEER_WEAPON_CUTLASS	38862
+Privateer repeater crossbow	MTX109_PRIVATEER_WEAPON_CROSSBOW	38863
+Privateer serpent sceptre	MTX109_PRIVATEER_WEAPON_STAFF	38864
+Do not translate - never seen.	MTX109_PRIVATEER_TELEPORT_CUTLASS	38865
+Do not translate - never seen.	CERT_MTX109_PRIVATEER_TELEPORT_CUTLASS	38866
+Seasinger acolyte hood	ELR1_REWARD_SEASINGER_ACOLYTE_HEAD	38867
+Seasinger acolyte robe top	ELR1_REWARD_SEASINGER_ACOLYTE_BODY	38868
+Seasinger acolyte robe bottoms	ELR1_REWARD_SEASINGER_ACOLYTE_LEGS	38869
+Waiko merchant	PICKPOCKET_GUIDE_WAIKO	38870
+Cyclosis villager	PICKPOCKET_GUIDE_CYCLOSIS	38871
+Crystal tool siphon	INVENT_ITEM_XP_CONSUMER_CRYSTAL_TOOL	38872
+	CERT_INVENT_ITEM_XP_CONSUMER_CRYSTAL_TOOL	38873
+Golden gnome hat 2016	GOLDEN_GNOME_HAT_2016	38874
+Medium Prayer XP lamp	ELR1_LAMP_MEDIUM_PRAYER	38875
+Medium Construction XP lamp	ELR1_LAMP_MEDIUM_CONSTRUCTION	38876
+Medium Thieving XP lamp	ELR1_LAMP_MEDIUM_THIEVING	38877
+Large combat XP lamp	ELR1_LAMP_LARGE_COMBAT	38878
+	ELR1_STONEBERRY_SEED_1	38879
+	ELR1_STORMBERRY_SEED_1	38880
+2400 runecoin bundle	MTXRCB_SPIDER_LARGE_PACK	38881
+2400 runecoin bundle	BOUGHT_MTXRCB_SPIDER_LARGE_PACK	38882
+900 runecoin bundle	MTXRCB_SPIDER_MEDIUM_PACK	38883
+900 runecoin bundle	BOUGHT_MTXRCB_SPIDER_MEDIUM_PACK	38884
+420 runecoin bundle	MTXRCB_SPIDER_SMALL_PACK	38885
+420 runecoin bundle	BOUGHT_MTXRCB_SPIDER_SMALL_PACK	38886
+2400 runecoin bundle refund	MTXRCB_SPIDER_LARGE_PACK_UNBUY	38887
+2400 runecoin bundle refund	BOUGHT_MTXRCB_SPIDER_LARGE_PACK_UNBUY	38888
+900 runecoin bundle refund	MTXRCB_SPIDER_MEDIUM_PACK_UNBUY	38889
+900 runecoin bundle refund	BOUGHT_MTXRCB_SPIDER_MEDIUM_PACK_UNBUY	38890
+420 runecoin bundle refund	MTXRCB_SPIDER_SMALL_PACK_UNBUY	38891
+420 runecoin bundle refund	BOUGHT_MTXRCB_SPIDER_SMALL_PACK_UNBUY	38892
+Spooky spider head	MTXRCB_SPIDER_HEAD	38893
+Spooky spider top	MTXRCB_SPIDER_BODY	38894
+Spooky spider bottoms	MTXRCB_SPIDER_LEGS	38895
+Spooky spider gloves	MTXRCB_SPIDER_HANDS	38896
+Spooky spider boots	MTXRCB_SPIDER_FEET	38897
+Spooky spider wings	MTXRCB_SPIDER_WINGS	38898
+Spooky spider parasol	MTXRCB_SPIDER_PARASOL	38899
+Incy	MTXRCB_SPIDER_PET	38900
+Incy	POH_MTXRCB_SPIDER_PET	38901
+Constitution XP lamp	CHAMPIONS_CHALLENGE_ABERRANTSPECTRE_LAMP_HP	38902
+Slayer XP lamp	CHAMPIONS_CHALLENGE_ABERRANTSPECTRE_LAMP_SLAYER	38903
+Constitution XP lamp	CHAMPIONS_CHALLENGE_BANSHEE_LAMP_HP	38904
+Slayer XP lamp	CHAMPIONS_CHALLENGE_BANSHEE_LAMP_SLAYER	38905
+Constitution XP lamp	CHAMPIONS_CHALLENGE_EARTHWARRIOR_LAMP_HP	38906
+Slayer XP lamp	CHAMPIONS_CHALLENGE_EARTHWARRIOR_LAMP_SLAYER	38907
+Constitution XP lamp	CHAMPIONS_CHALLENGE_GHOUL_LAMP_HP	38908
+Slayer XP lamp	CHAMPIONS_CHALLENGE_GHOUL_LAMP_SLAYER	38909
+Constitution XP lamp	CHAMPIONS_CHALLENGE_GIANT_LAMP_HP	38910
+Slayer XP lamp	CHAMPIONS_CHALLENGE_GIANT_LAMP_SLAYER	38911
+Constitution XP lamp	CHAMPIONS_CHALLENGE_GNOME_LAMP_HP	38912
+Slayer XP lamp	CHAMPIONS_CHALLENGE_GNOME_LAMP_SLAYER	38913
+Constitution XP lamp	CHAMPIONS_CHALLENGE_GOBLIN_LAMP_HP	38914
+Slayer XP lamp	CHAMPIONS_CHALLENGE_GOBLIN_LAMP_SLAYER	38915
+Constitution XP lamp	CHAMPIONS_CHALLENGE_HOBGOBLIN_LAMP_HP	38916
+Slayer XP lamp	CHAMPIONS_CHALLENGE_HOBGOBLIN_LAMP_SLAYER	38917
+Constitution XP lamp	CHAMPIONS_CHALLENGE_HUMAN_LAMP_HP	38918
+Slayer XP lamp	CHAMPIONS_CHALLENGE_HUMAN_LAMP_SLAYER	38919
+Constitution XP lamp	CHAMPIONS_CHALLENGE_IMP_LAMP_HP	38920
+Slayer XP lamp	CHAMPIONS_CHALLENGE_IMP_LAMP_SLAYER	38921
+Constitution XP lamp	CHAMPIONS_CHALLENGE_JOGRE_LAMP_HP	38922
+Slayer XP lamp	CHAMPIONS_CHALLENGE_JOGRE_LAMP_SLAYER	38923
+Constitution XP lamp	CHAMPIONS_CHALLENGE_LEPRECHAUN_LAMP_HP	38924
+Slayer XP lamp	CHAMPIONS_CHALLENGE_LEPRECHAUN_LAMP_SLAYER	38925
+Constitution XP lamp	CHAMPIONS_CHALLENGE_LESSERDEMON_LAMP_HP	38926
+Slayer XP lamp	CHAMPIONS_CHALLENGE_LESSERDEMON_LAMP_SLAYER	38927
+Constitution XP lamp	CHAMPIONS_CHALLENGE_MUMMY_LAMP_HP	38928
+Slayer XP lamp	CHAMPIONS_CHALLENGE_MUMMY_LAMP_SLAYER	38929
+Constitution XP lamp	CHAMPIONS_CHALLENGE_SKELETON_LAMP_HP	38930
+Slayer XP lamp	CHAMPIONS_CHALLENGE_SKELETON_LAMP_SLAYER	38931
+Constitution XP lamp	CHAMPIONS_CHALLENGE_ZOMBIE_LAMP_HP	38932
+Slayer XP lamp	CHAMPIONS_CHALLENGE_ZOMBIE_LAMP_SLAYER	38933
+Spirit gem bag	SPIRIT_GEM_BAG	38934
+Ahrim bobblehead	LORE_BARROWS2_AHRIM_POH	38935
+Dharok bobblehead	LORE_BARROWS2_DHAROK_POH	38936
+Guthan bobblehead	LORE_BARROWS2_GUTHAN_POH	38937
+Karil bobblehead	LORE_BARROWS2_KARIL_POH	38938
+Torag bobblehead	LORE_BARROWS2_TORAG_POH	38939
+Verac bobblehead	LORE_BARROWS2_VERAC_POH	38940
+	IRONMAN_ARMOUR_FULL	38941
+	IRONMAN_HC_ARMOUR_FULL	38942
+Ironman Helm	IRONMAN_ARMOUR_HEAD	38943
+Ironman (Hardcore) Helm	IRONMAN_HC_ARMOUR_HEAD	38944
+Ironman Body	IRONMAN_ARMOUR_TORSO	38945
+Ironman (Hardcore) Body	IRONMAN_HC_ARMOUR_TORSO	38946
+Ironman Legs	IRONMAN_ARMOUR_LEGS	38947
+Ironman Gauntlets	IRONMAN_ARMOUR_GLOVES	38948
+Ironman Boots	IRONMAN_ARMOUR_BOOTS	38949
+Zombie-skin boots	HW16_CARPET_BOOTS_DUMMY	38950
+Mechanical spider leg 1	HW16_SPIDER_LEG_1	38951
+Mechanical spider leg 2	HW16_SPIDER_LEG_2	38952
+Mechanical spider leg 3	HW16_SPIDER_LEG_3	38953
+Mechanical spider leg 4	HW16_SPIDER_LEG_4	38954
+Mechanical spider leg 5	HW16_SPIDER_LEG_5	38955
+Mechanical spider leg 6	HW16_SPIDER_LEG_6	38956
+Mechanical spider leg 7	HW16_SPIDER_LEG_7	38957
+Mechanical spider leg 8	HW16_SPIDER_LEG_8	38958
+Dr Spider MD	HW16_PET	38959
+Dr (House) Spider MD	HW16_PET_POH	38960
+Small XP lamp	HW16_XP_LAMP_SMALL	38961
+Fleshy parchment	TRH107_ZOMBIE_CARD	38962
+Brain sticker	TRH107_STAMP	38963
+Zombie walk override token	TRH107_OVERRIDE_TOKEN	38964
+Infected zombie feet	TRH107_ZOMBIE_FEET	38965
+Infected zombie hands	TRH107_ZOMBIE_HANDS	38966
+Infected zombie legs	TRH107_ZOMBIE_LEGS	38967
+Infected zombie chest	TRH107_ZOMBIE_TORSO	38968
+Infected zombie head	TRH107_ZOMBIE_HEAD	38969
+Decaying zombie feet	TRH107_ZOMBIE_FEET_DECAYING	38970
+Decaying zombie hands	TRH107_ZOMBIE_HANDS_DECAYING	38971
+Decaying zombie legs	TRH107_ZOMBIE_LEGS_DECAYING	38972
+Decaying zombie chest	TRH107_ZOMBIE_TORSO_DECAYING	38973
+Decaying zombie head	TRH107_ZOMBIE_HEAD_DECAYING	38974
+Rotten zombie feet	TRH107_ZOMBIE_FEET_ROTTEN	38975
+Rotten zombie hands	TRH107_ZOMBIE_HANDS_ROTTEN	38976
+Rotten zombie legs	TRH107_ZOMBIE_LEGS_ROTTEN	38977
+Rotten zombie chest	TRH107_ZOMBIE_TORSO_ROTTEN	38978
+Rotten zombie head	TRH107_ZOMBIE_HEAD_ROTTEN	38979
+Zombie Hand Flail	TRH107_ZOMBIE_FLAIL	38980
+Zombie Spine Bow	TRH107_ZOMBIE_BOW	38981
+Zombie Bone Wand	TRH107_ZOMBIE_WAND	38982
+Zombie Brain Orb	TRH107_ZOMBIE_ORB_O	38983
+Anim	TRH107_WALK_OVERRIDE	38984
+Lightning rod hat	HW16_REWARD_CONDUCTOR_HAT	38985
+Fenken's brain	HW16_DUMMY_BRAIN	38986
+Fire stone	TRH74_SPIRIT	38987
+Fire stone	TRH74_STONE	38988
+Firewood	TRH74_WOOD	38989
+Shard of chaos weapon token	TRH83_WEAPON_SKIN_2H_MELEE_TOKEN	38990
+Shard of despite weapon token	TRH83_WEAPON_SKIN_2H_RANGED_TOKEN	38991
+Shard of suffering weapon token	TRH83_WEAPON_SKIN_2H_MAGIC_TOKEN	38992
+Mimic plushie	TRH83_MIMIC_PLUSH	38993
+Mimic plushie	CERT_TRH83_MIMIC_PLUSH	38994
+Shard of chaos	TRH83_2H_SWORD	38995
+Shard of despite	TRH83_2H_BOW	38996
+Shard of suffering	TRH83_2H_STAFF	38997
+Intel bundle	INTEL_OCT16_PACK	38998
+Intel bundle	BOUGHT_INTEL_OCT16_PACK	38999
+Intel bundle refund	INTEL_OCT16_PACK_UNBUY	39000
+Intel bundle refund	BOUGHT_INTEL_OCT16_PACK_UNBUY	39001
+Contract contact	PGC_CONTACT	39002
+Death Lotus set	ELR1_DEATH_LOTUS_SET	39003
+Farming XP lamp	ELR2_BERRY_LAMP	39004
+Death Lotus rogue hood	ELR1_REWARD_DEATH_LOTUS_ROGUE_HEAD	39005
+Death Lotus rogue chestplate	ELR1_REWARD_DEATH_LOTUS_ROGUE_BODY	39006
+Death Lotus rogue chaps	ELR1_REWARD_DEATH_LOTUS_ROGUE_LEGS	39007
+Decorated woodcutting urn (unfired)	URNS_WOODCUTTING5_UNFIRED	39008
+Decorated woodcutting urn (unfired)	CERT_URNS_WOODCUTTING5_UNFIRED	39009
+Decorated woodcutting urn (no rune)	URNS_WOODCUTTING5_NORUNE	39010
+Decorated woodcutting urn (no rune)	CERT_URNS_WOODCUTTING5_NORUNE	39011
+Decorated woodcutting urn (empty)	URNS_WOODCUTTING5_RUNE	39012
+	CERT_URNS_WOODCUTTING5_RUNE	39013
+Decorated woodcutting urn	URNS_WOODCUTTING5_STARTED	39014
+Decorated woodcutting urn (full)	URNS_WOODCUTTING5_FULL	39015
+Impure Senntisten crystal	FOTG2_DIGSITE_RUBBLE	39016
+Senntisten crystal	FOTG2_DIGSITE_RUBBLE_DIV	39017
+Senntisten scroll	FOTG2_DIGSITE_RELIC	39018
+Yellow crystal	FOTG2_DIGSITE_TRANSMUTE_1	39019
+Green crystal	FOTG2_DIGSITE_TRANSMUTE_2	39020
+Blue crystal	FOTG2_DIGSITE_TRANSMUTE_3	39021
+Red crystal	FOTG2_DIGSITE_TRANSMUTE_4	39022
+Letter signed 'Pontifex Madromurt'	FOTG2_DIGSITE_BOOK1	39023
+Letter signed 'Pontifex Nabor'	FOTG2_DIGSITE_BOOK2	39024
+Letter signed 'Pontifex Bilrach'	FOTG2_DIGSITE_BOOK3	39025
+Damaged letter	FOTG2_DIGSITE_BOOK4	39026
+Event daily limit extender (1-day)	TIMED_EVENT_LIMIT_EXTENDER_1DAY	39027
+Event daily limit extender (1-day)	BOUGHT_TIMED_EVENT_LIMIT_EXTENDER_1DAY	39028
+Event daily limit extender (5-day)	TIMED_EVENT_LIMIT_EXTENDER_5DAY	39029
+Event daily limit extender (5-day)	BOUGHT_TIMED_EVENT_LIMIT_EXTENDER_5DAY	39030
+Event mystery box	TIMED_EVENT_MYSTERY_BOX	39031
+Big event mystery box	TIMED_EVENT_MYSTERY_BOX_BIG	39032
+Event currency	TIMED_EVENT_BOUGHT_CURRENCY_PACKAGE1	39033
+Event currency	BOUGHT_TIMED_EVENT_BOUGHT_CURRENCY_PACKAGE1	39034
+Event currency	TIMED_EVENT_BOUGHT_CURRENCY_PACKAGE2	39035
+Event currency	BOUGHT_TIMED_EVENT_BOUGHT_CURRENCY_PACKAGE2	39036
+Event currency	TIMED_EVENT_BOUGHT_CURRENCY_PACKAGE3	39037
+Event currency	BOUGHT_TIMED_EVENT_BOUGHT_CURRENCY_PACKAGE3	39038
+Burning embers	EVENT1_CURRENCY	39039
+Fallen nihil outfit	EVENT1_DEMON_OUTFIT	39040
+Fallen nihil headpiece	EVENT1_DEMON_HEAD	39041
+Fallen nihil chestpiece	EVENT1_DEMON_TORSO	39042
+Fallen nihil leg-guards	EVENT1_DEMON_LEGS	39043
+Fallen nihil greaves	EVENT1_DEMON_FEET	39044
+Fallen nihil gauntlets	EVENT1_DEMON_HANDS	39045
+Fallen nihil wings	EVENT1_DEMON_WINGS	39046
+Ancient warriors' equipment patch	DMBH_ANCIENT_PATCH	39047
+Ancient warriors' equipment patch	CERT_DMBH_ANCIENT_PATCH	39048
+Annihilation	DMBH_WEAPON_MELEE_NEW	39049
+Annihilation	CERT_DMBH_WEAPON_MELEE_NEW	39050
+Annihilation	DMBH_WEAPON_MELEE_USED	39051
+Annihilation (broken)	DMBH_WEAPON_MELEE_BROKEN	39052
+Decimation	DMBH_WEAPON_RANGED_NEW	39053
+Decimation	CERT_DMBH_WEAPON_RANGED_NEW	39054
+Decimation	DMBH_WEAPON_RANGED_USED	39055
+Decimation (broken)	DMBH_WEAPON_RANGED_BROKEN	39056
+Obliteration	DMBH_WEAPON_MAGIC_NEW	39057
+Obliteration	CERT_DMBH_WEAPON_MAGIC_NEW	39058
+Obliteration	DMBH_WEAPON_MAGIC_USED	39059
+Obliteration (broken)	DMBH_WEAPON_MAGIC_BROKEN	39060
+Amulet of the forsaken	DMBH_FORSAKEN_AMULET_NEW	39061
+Amulet of the forsaken	CERT_DMBH_FORSAKEN_AMULET_NEW	39062
+Amulet of the forsaken	DMBH_FORSAKEN_AMULET_USED	39063
+Amulet of the forsaken (broken)	DMBH_FORSAKEN_AMULET_BROKEN	39064
+Wilderness hilt	DMBH_WILDERNESS_HILT	39065
+Wilderness hilt	CERT_DMBH_WILDERNESS_HILT	39066
+Adrenaline crystal	DMBH_CRYSTAL_ADRENALINE	39067
+Adrenaline crystal	CERT_DMBH_CRYSTAL_ADRENALINE	39068
+Revenant Pet	DMBH_PET_REV	39069
+Revenant Pet	DMBH_PET_REV_IMP	39070
+Revenant Pet	DMBH_PET_REV_GOBLIN	39071
+Revenant Pet	DMBH_PET_REV_ICEFIEND	39072
+Revenant Pet	DMBH_PET_REV_PYREFIEND	39073
+Revenant Pet	DMBH_PET_REV_HOBGOBLIN	39074
+Revenant Pet	DMBH_PET_REV_VAMPYRE	39075
+Revenant Pet	DMBH_PET_REV_WEREWOLF	39076
+Revenant Pet	DMBH_PET_REV_CYCLOPS	39077
+Revenant Pet	DMBH_PET_REV_HELLHOUND	39078
+Revenant Pet	DMBH_PET_REV_LESSERDEMON	39079
+Revenant Pet	DMBH_PET_REV_ORK	39080
+Revenant Pet	DMBH_PET_REV_DARKBEAST	39081
+Revenant Pet	DMBH_PET_REV_KNIGHT	39082
+Revenant Pet	DMBH_PET_REV_DRAGON	39083
+Revenant Pet	DMBH_PET_REV_POH	39084
+Superior Zuriel's robe top	DMBH_ANCIENT_MAGE_BODY	39085
+Superior Zuriel's robe top	DMBH_ANCIENT_MAGE_BODY_USED	39086
+Augmented superior Zuriel's robe top	DMBH_ANCIENT_MAGE_BODY_AUGMENTED	39087
+Augmented superior Zuriel's robe top (uncharged)	DMBH_ANCIENT_MAGE_BODY_AUGMENTED_UNCHARGED	39088
+Superior Zuriel's robe bottom	DMBH_ANCIENT_MAGE_LEGS	39089
+Superior Zuriel's robe bottom	DMBH_ANCIENT_MAGE_LEGS_USED	39090
+Augmented superior Zuriel's robe bottom	DMBH_ANCIENT_MAGE_LEGS_AUGMENTED	39091
+Augmented superior Zuriel's robe bottom (uncharged)	DMBH_ANCIENT_MAGE_LEGS_AUGMENTED_UNCHARGED	39092
+Superior Zuriel's hood	DMBH_ANCIENT_MAGE_HELM	39093
+Superior Zuriel's hood	DMBH_ANCIENT_MAGE_HELM_USED	39094
+Superior Zuriel's staff	DMBH_ANCIENT_MAGE_WEAPON_STAFF	39095
+Superior Zuriel's staff	DMBH_ANCIENT_MAGE_WEAPON_STAFF_USED	39096
+Augmented superior Zuriel's staff	DMBH_ANCIENT_MAGE_WEAPON_STAFF_AUGMENTED	39097
+Augmented superior Zuriel's staff (uncharged)	DMBH_ANCIENT_MAGE_WEAPON_STAFF_AUGMENTED_UNCHARGED	39098
+Superior Statius's platebody	DMBH_ANCIENT_MELEE_BODY	39099
+Superior Statius's platebody	DMBH_ANCIENT_MELEE_BODY_USED	39100
+Augmented superior Statius's platebody	DMBH_ANCIENT_MELEE_BODY_AUGMENTED	39101
+Augmented superior Statius's platebody (uncharged)	DMBH_ANCIENT_MELEE_BODY_AUGMENTED_UNCHARGED	39102
+Superior Vesta's Chainbody	DMBH_ANCIENT_MELEE_BODY2	39103
+Superior Vesta's chainbody	DMBH_ANCIENT_MELEE_BODY2_USED	39104
+Augmented superior Vesta's chainbody	DMBH_ANCIENT_MELEE_BODY2_AUGMENTED	39105
+Augmented superior Vesta's chainbody (uncharged)	DMBH_ANCIENT_MELEE_BODY2_AUGMENTED_UNCHARGED	39106
+Superior Statius's platelegs	DMBH_ANCIENT_MELEE_LEGS	39107
+Superior Statius's platelegs	DMBH_ANCIENT_MELEE_LEGS_USED	39108
+Augmented superior Statius's platelegs	DMBH_ANCIENT_MELEE_LEGS_AUGMENTED	39109
+Augmented superior Statius's platelegs (uncharged)	DMBH_ANCIENT_MELEE_LEGS_AUGMENTED_UNCHARGED	39110
+Superior Vesta's plateskirt	DMBH_ANCIENT_MELEE_LEGS2	39111
+Superior Vesta's plateskirt	DMBH_ANCIENT_MELEE_LEGS2_USED	39112
+Augmented superior Vesta's plateskirt	DMBH_ANCIENT_MELEE_LEGS2_AUGMENTED	39113
+Augmented superior Vesta's plateskirt (uncharged)	DMBH_ANCIENT_MELEE_LEGS2_AUGMENTED_UNCHARGED	39114
+Superior Statius's full helm	DMBH_ANCIENT_MELEE_HELM	39115
+Superior Statius's full helm	DMBH_ANCIENT_MELEE_HELM_USED	39116
+Superior Statius's warhammer	DMBH_ANCIENT_MELEE_WEAPON_WARHAMMER	39117
+Superior Statius's warhammer	DMBH_ANCIENT_MELEE_WEAPON_WARHAMMER_USED	39118
+Augmented superior Statius's warhammer	DMBH_ANCIENT_MELEE_WEAPON_WARHAMMER_AUGMENTED	39119
+Augmented superior Statius's warhammer (uncharged)	DMBH_ANCIENT_MELEE_WEAPON_WARHAMMER_AUGMENTED_UNCHARGED	39120
+Superior Vesta's longsword	DMBH_ANCIENT_MELEE_WEAPON_LONGSWORD	39121
+Superior Vesta's longsword	DMBH_ANCIENT_MELEE_WEAPON_LONGSWORD_USED	39122
+Augmented superior Vesta's longsword	DMBH_ANCIENT_MELEE_WEAPON_LONGSWORD_AUGMENTED	39123
+Augmented superior Vesta's longsword (uncharged)	DMBH_ANCIENT_MELEE_WEAPON_LONGSWORD_AUGMENTED_UNCHARGED	39124
+Superior Vesta's spear	DMBH_ANCIENT_MELEE_WEAPON_SPEAR	39125
+Superior Vesta's spear	DMBH_ANCIENT_MELEE_WEAPON_SPEAR_USED	39126
+Augmented superior Vesta's spear	DMBH_ANCIENT_MELEE_WEAPON_SPEAR_AUGMENTED	39127
+Augmented superior Vesta's spear (uncharged)	DMBH_ANCIENT_MELEE_WEAPON_SPEAR_AUGMENTED_UNCHARGED	39128
+Superior Morrigan's leather body	DMBH_ANCIENT_RANGED_BODY	39129
+Superior Morrigan's leather body	DMBH_ANCIENT_RANGED_BODY_USED	39130
+Augmented superior Morrigan's leather body	DMBH_ANCIENT_RANGED_BODY_AUGMENTED	39131
+Augmented superior Morrigan's leather body (uncharged)	DMBH_ANCIENT_RANGED_BODY_AUGMENTED_UNCHARGED	39132
+Superior Morrigan's leather chaps	DMBH_ANCIENT_RANGED_LEGS	39133
+Superior Morrigan's leather chaps	DMBH_ANCIENT_RANGED_LEGS_USED	39134
+Augmented superior Morrigan's leather chaps	DMBH_ANCIENT_RANGED_LEGS_AUGMENTED	39135
+Augmented superior Morrigan's leather chaps (uncharged)	DMBH_ANCIENT_RANGED_LEGS_AUGMENTED_UNCHARGED	39136
+Superior Morrigan's coif	DMBH_ANCIENT_RANGED_HELM	39137
+Superior Morrigan's coif	DMBH_ANCIENT_RANGED_HELM_USED	39138
+Superior Morrigan's javelin	DMBH_ANCIENT_RANGED_WEAPON_JAVELIN	39139
+Superior Morrigan's javelin	DMBH_ANCIENT_RANGED_WEAPON_JAVELIN_USED	39140
+Augmented superior Morrigan's javelin	DMBH_ANCIENT_RANGED_WEAPON_JAVELIN_AUGMENTED	39141
+Augmented superior Morrigan's javelin (uncharged)	DMBH_ANCIENT_RANGED_WEAPON_JAVELIN_AUGMENTED_UNCHARGED	39142
+Superior Morrigan's throwing axe	DMBH_ANCIENT_RANGED_WEAPON_THROWNAXE	39143
+Superior Morrigan's throwing axe	DMBH_ANCIENT_RANGED_WEAPON_THROWNAXE_USED	39144
+Augmented superior Morrigan's throwing axe	DMBH_ANCIENT_RANGED_WEAPON_THROWNAXE_AUGMENTED	39145
+Augmented superior Morrigan's throwing axe (uncharged)	DMBH_ANCIENT_RANGED_WEAPON_THROWNAXE_AUGMENTED_UNCHARGED	39146
+Superior dragon dagger	DMBH_DRAGON_DAGGER	39147
+Superior off-hand dragon dagger	DMBH_DRAGON_DAGGER_O	39148
+Superior dragon claw	DMBH_DRAGON_CLAW	39149
+Superior off-hand dragon claw	DMBH_DRAGON_CLAW_O	39150
+Superior dragon longsword	DMBH_DRAGON_LONGSWORD	39151
+Superior off-hand dragon longsword	DMBH_DRAGON_LONGSWORD_O	39152
+Superior dragon mace	DMBH_DRAGON_MACE	39153
+Superior off-hand dragon mace	DMBH_DRAGON_MACE_O	39154
+Superior dragon scimitar	DMBH_DRAGON_SCIMITAR	39155
+Superior off-hand dragon scimitar	DMBH_DRAGON_SCIMITAR_O	39156
+Rainbow amulet token	TRH109_RAINBOW_AMULET_TOKEN	39157
+Rainbow amulet	TRH109_RAINBOW_AMULET_DUMMY	39158
+Rainbow Amulet	TRH109_NECKLACE_OVERRIDE	39159
+Rainbow cape	TRH109_RAINBOW_CAPE	39160
+Rainbow cape	CERT_TRH109_RAINBOW_CAPE	39161
+Multiplier unlock	TRH109_TOKEN_UNLOCK	39162
+Gemstone golem fragments	TRH_ELITE_FRAGMENTS_GEMSTONE	39163
+Rune ethereal fragments	TRH_ELITE_FRAGMENTS_ETHEREAL	39164
+Gemstone golem outfit piece	TRH_ELITE_GOLEM_PIECE	39165
+Rune ethereal outfit piece	TRH_ELITE_ETHEREAL_PIECE	39166
+Nautilus outfit	MTX110_SEASINGER_OUTFIT	39167
+Nautilus outfit	BOUGHT_MTX110_SEASINGER_OUTFIT	39168
+Nautilus crown	MTX110_SEASINGER_HEAD	39169
+Nautilus torso	MTX110_SEASINGER_TORSO	39170
+Nautilus gown	MTX110_SEASINGER_LEGS	39171
+Nautilus gloves	MTX110_SEASINGER_HANDS	39172
+Nautilus boots	MTX110_SEASINGER_FEET	39173
+Nautilus 2h sword	MTX110_SEASINGER_WEAPON_TRIDENT	39174
+Nautilus 2h crossbow	MTX110_SEASINGER_WEAPON_CROSSBOW	39175
+Nautilus trident	MTX110_SEASINGER_WEAPON_STAFF	39176
+Biscuit	MTX_PET_SEASINGER	39177
+Biscuit	MTX_PET_SEASINGER_POH	39178
+Sealed large rune pouch	CERT_PVPWILD_RUNEPOUCH_LARGE_UNUSED	39179
+Bounty emblem (t1)	PVPWILD_EMBLEM_T1	39180
+Bounty emblem (t1)	CERT_PVPWILD_EMBLEM_T1	39181
+Bounty emblem (t2)	PVPWILD_EMBLEM_T2	39182
+Bounty emblem (t2)	CERT_PVPWILD_EMBLEM_T2	39183
+Bounty emblem (t3)	PVPWILD_EMBLEM_T3	39184
+Bounty emblem (t3)	CERT_PVPWILD_EMBLEM_T3	39185
+Bounty emblem (t4)	PVPWILD_EMBLEM_T4	39186
+Bounty emblem (t4)	CERT_PVPWILD_EMBLEM_T4	39187
+Bounty emblem (t5)	PVPWILD_EMBLEM_T5	39188
+Bounty emblem (t5)	CERT_PVPWILD_EMBLEM_T5	39189
+Bounty emblem (t6)	PVPWILD_EMBLEM_T6	39190
+Bounty emblem (t6)	CERT_PVPWILD_EMBLEM_T6	39191
+Bounty emblem (t7)	PVPWILD_EMBLEM_T7	39192
+Bounty emblem (t7)	CERT_PVPWILD_EMBLEM_T7	39193
+Bounty emblem (t8)	PVPWILD_EMBLEM_T8	39194
+Bounty emblem (t8)	CERT_PVPWILD_EMBLEM_T8	39195
+Bounty emblem (t9)	PVPWILD_EMBLEM_T9	39196
+Bounty emblem (t9)	CERT_PVPWILD_EMBLEM_T9	39197
+Bounty emblem (t10)	PVPWILD_EMBLEM_T10	39198
+Bounty emblem (t10)	CERT_PVPWILD_EMBLEM_T10	39199
+Super adrenaline flask (6)	BIGPOT_6DOSE2SPECIALATTACK	39200
+Super adrenaline flask (6)	CERT_BIGPOT_6DOSE2SPECIALATTACK	39201
+Super adrenaline flask (5)	BIGPOT_5DOSE2SPECIALATTACK	39202
+Super adrenaline flask (5)	CERT_BIGPOT_5DOSE2SPECIALATTACK	39203
+Super adrenaline flask (4)	BIGPOT_4DOSE2SPECIALATTACK	39204
+Super adrenaline flask (4)	CERT_BIGPOT_4DOSE2SPECIALATTACK	39205
+Super adrenaline flask (3)	BIGPOT_3DOSE2SPECIALATTACK	39206
+Super adrenaline flask (3)	CERT_BIGPOT_3DOSE2SPECIALATTACK	39207
+Super adrenaline flask (2)	BIGPOT_2DOSE2SPECIALATTACK	39208
+Super adrenaline flask (2)	CERT_BIGPOT_2DOSE2SPECIALATTACK	39209
+Super adrenaline flask (1)	BIGPOT_1DOSE2SPECIALATTACK	39210
+Super adrenaline flask (1)	CERT_BIGPOT_1DOSE2SPECIALATTACK	39211
+Super adrenaline potion (4)	_4DOSE2SPECIALATTACK	39212
+Super adrenaline potion (4)	CERT_4DOSE2SPECIALATTACK	39213
+Super adrenaline potion (3)	_3DOSE2SPECIALATTACK	39214
+Super adrenaline potion (3)	CERT_3DOSE2SPECIALATTACK	39215
+Super adrenaline potion (2)	_2DOSE2SPECIALATTACK	39216
+Super adrenaline potion (2)	CERT_2DOSE2SPECIALATTACK	39217
+Super adrenaline potion (1)	_1DOSE2SPECIALATTACK	39218
+Super adrenaline potion (1)	CERT_1DOSE2SPECIALATTACK	39219
+Enhanced replenishment potion (1)	_1DOSESUPCOMBOADRENALINERESTORE	39220
+Enhanced replenishment potion (1)	CERT_1DOSESUPCOMBOADRENALINERESTORE	39221
+Enhanced replenishment potion (2)	_2DOSESUPCOMBOADRENALINERESTORE	39222
+Enhanced replenishment potion (2)	CERT_2DOSESUPCOMBOADRENALINERESTORE	39223
+Enhanced replenishment potion (3)	_3DOSESUPCOMBOADRENALINERESTORE	39224
+Enhanced replenishment potion (3)	CERT_3DOSESUPCOMBOADRENALINERESTORE	39225
+Enhanced replenishment potion (4)	_4DOSESUPCOMBOADRENALINERESTORE	39226
+Enhanced replenishment potion (4)	CERT_4DOSESUPCOMBOADRENALINERESTORE	39227
+Enhanced replenishment potion (5)	_5DOSESUPCOMBOADRENALINERESTORE	39228
+Enhanced replenishment potion (5)	CERT_5DOSESUPCOMBOADRENALINERESTORE	39229
+Enhanced replenishment potion (6)	_6DOSESUPCOMBOADRENALINERESTORE	39230
+Enhanced replenishment potion (6)	CERT_6DOSESUPCOMBOADRENALINERESTORE	39231
+Augmented Obliteration	DMBH_WEAPON_MAGIC_AUGMENTED	39232
+Augmented Obliteration (uncharged)	DMBH_WEAPON_MAGIC_AUGMENTED_UNCHARGED	39233
+Augmented Decimation	DMBH_WEAPON_RANGED_AUGMENTED	39234
+Augmented Decimation (uncharged)	DMBH_WEAPON_RANGED_AUGMENTED_UNCHARGED	39235
+Augmented Annihilation	DMBH_WEAPON_MELEE_AUGMENTED	39236
+Augmented Annihilation (uncharged)	DMBH_WEAPON_MELEE_AUGMENTED_UNCHARGED	39237
+Ancient memory	DIVDND_RAW_MEMORY_JAR_ELDER_WIELD	39238
+Rock	FOTG2_PLAYER_LAVA_ROCK	39239
+Glowing orb	FOTG2_NIGHTMARE_ORB	39240
+Shard of Mah	FOTG2_MAH_SHARD	39241
+Charged engrammeter	FOTG2_ENGRAMMETER	39242
+Charged engrammeter (full)	FOTG2_ENGRAMMETER_FULL	39243
+Kharshai's journal (4)	FOTG2_XP_TOME4_EARLY_BIRD	39244
+Kharshai's journal (3)	FOTG2_XP_TOME3	39245
+Kharshai's journal (2)	FOTG2_XP_TOME2	39246
+Kharshai's journal (1)	FOTG2_XP_TOME1	39247
+Nightmare gauntlets	FOTG2_GLOVES_RANGE_NEW	39248
+Nightmare gauntlets	CERT_FOTG2_GLOVES_RANGE_NEW	39249
+Nightmare gauntlets	FOTG2_GLOVES_RANGE_USED	39250
+Nightmare gauntlets (broken)	FOTG2_GLOVES_RANGE_BROKEN	39251
+Tiny Kharshai	FOTG2_KHARSHAI_PET	39252
+Tiny Kharshai	FOTG2_KHARSHAI_PET_POH	39253
+Zamorak armour	FOTG2_ZAMORAK_OUTFIT	39254
+Legatus Maximus Platebody	FOTG2_ZAMORAK_TORSO	39255
+Legatus Maximus Platelegs	FOTG2_ZAMORAK_LEGS	39256
+Legatus Maximus Gauntlets	FOTG2_ZAMORAK_HANDS	39257
+Legatus Maximus Boots	FOTG2_ZAMORAK_FEET	39258
+Nightmare	SLAYERGUIDE_NIGHTMARE	39259
+Gift box (easy)	WEEKENDS_CLUE_EXTRA_REWARD_EASY	39260
+Gift box (medium)	WEEKENDS_CLUE_EXTRA_REWARD_MEDIUM	39261
+Gift box (hard)	WEEKENDS_CLUE_EXTRA_REWARD_HARD	39262
+Gift box (elite)	WEEKENDS_CLUE_EXTRA_REWARD_ELITE	39263
+Bright reindeer-terrorbird mount	XMAS16_RACING_MOUNT	39264
+Reindeer-terrorbird mount	XMAS16_TERRORBIRD_MOUNT	39265
+Reindeer-terrorbird mount	BOUGHT_XMAS16_TERRORBIRD_MOUNT	39266
+Christmas loot piñata	TRH110_LOOT_PINATA	39267
+Christmas piñata loot bag	TRH110_LOOT_PINATA_BAG	39268
+Woolly pudding hat	TRH110_HAT	39269
+Woolly pudding hat	CERT_TRH110_HAT	39270
+Terrorbird plushie	TRH110_PLUSHIE	39271
+Terrorbird plushie	CERT_TRH110_PLUSHIE	39272
+Christmas pudding balloon	TRH110_BALLOON	39273
+Christmas pudding balloon	CERT_TRH110_BALLOON	39274
+Christmas tree kite	TRH110_KITE	39275
+Christmas tree kite	CERT_TRH110_KITE	39276
+Advent calendar	TRH110_CHEST_DUMMY	39277
+Bronze pack	PREMCLUB16_BRONZE	39278
+Bronze pack	BOUGHT_PREMCLUB16_BRONZE	39279
+Silver pack	PREMCLUB16_SILVER	39280
+Silver pack	BOUGHT_PREMCLUB16_SILVER	39281
+Gold pack	PREMCLUB16_GOLD	39282
+Gold pack	BOUGHT_PREMCLUB16_GOLD	39283
+Bronze pack	PREMCLUB16_BRONZE_UNBUY	39284
+Bronze pack	BOUGHT_PREMCLUB16_BRONZE_UNBUY	39285
+Silver pack	PREMCLUB16_SILVER_UNBUY	39286
+Silver pack	BOUGHT_PREMCLUB16_SILVER_UNBUY	39287
+Gold pack	PREMCLUB16_GOLD_UNBUY	39288
+Gold pack	BOUGHT_PREMCLUB16_GOLD_UNBUY	39289
+Menaphite ancient outfit	PREM16_MENAPHOS_OUTFIT	39290
+Menaphite ancient headpiece	PREM16_MENAPHOS_HEAD	39291
+Menaphite ancient chestplate	PREM16_MENAPHOS_TORSO	39292
+Menaphite ancient legguards	PREM16_MENAPHOS_LEGS	39293
+Menaphite ancient boots	PREM16_MENAPHOS_FEET	39294
+Menaphite Ancient Gauntlets	PREM16_MENAPHOS_HANDS	39295
+Menaphite ancient cloak	PREM16_MENAPHOS_CLOAK	39296
+Desert pantheon aura	PREM16_DESERT_PANTHEON_AURA	39297
+Chic scarf	TRH88_SCARF_BLACK	39298
+Chic scarf	TRH88_SCARF_WHITE	39299
+Chic scarf	TRH88_SCARF_PURPLE	39300
+Chic scarf	TRH88_SCARF_BLUE	39301
+Chic scarf	TRH88_SCARF_GREEN	39302
+Chic scarf	TRH88_SCARF_GOLD	39303
+Chic scarf	TRH88_SCARF_ORANGE	39304
+Chic scarf	TRH88_SCARF_PINK	39305
+Chic scarf	TRH88_SCARF_GREY	39306
+Chic scarf	TRH88_SCARF_RAINBOW	39307
+	XMAS16_XMAS10_BAG_STEP0	39308
+	XMAS16_XMAS10_BAG_STEP1	39309
+	XMAS16_XMAS10_BAG_STEP2	39310
+	XMAS16_XMAS10_BAG_STEP3	39311
+	XMAS16_XMAS10_BAG_STEP4	39312
+	XMAS16_XMAS10_BAG_STEP5	39313
+	XMAS16_XMAS10_BUCKET	39314
+	XMAS16_XMAS10_BUCKET_CRAB	39315
+Snowboard (2016)	XMAS16_SNOWBOARD	39316
+Ice bow	XMAS_2016_BOW	39317
+Ice sword	XMAS_2016_LONGSWORD	39318
+Ice shield	XMAS_2016_SHIELD	39319
+Ice staff	XMAS_2016_STAFF	39320
+Wikian book	RSWIKI_BOOK	39321
+Opal ring	SILVER_OPAL_RING	39322
+Opal ring	CERT_SILVER_OPAL_RING	39323
+Opal bracelet	SILVER_OPAL_BRACELET	39324
+Opal bracelet	CERT_SILVER_OPAL_BRACELET	39325
+Opal necklace	SILVER_OPAL_NECKLACE	39326
+Opal necklace	CERT_SILVER_OPAL_NECKLACE	39327
+Opal amulet	SILVER_OPAL_AMULET	39328
+Opal amulet	CERT_SILVER_OPAL_AMULET	39329
+Opal amulet	SILVER_OPAL_AMULET_UNSTRUNG	39330
+Opal amulet	CERT_SILVER_OPAL_AMULET_UNSTRUNG	39331
+Jade ring	SILVER_JADE_RING	39332
+Jade ring	CERT_SILVER_JADE_RING	39333
+Jade bracelet	SILVER_JADE_BRACELET	39334
+Jade bracelet	CERT_SILVER_JADE_BRACELET	39335
+Jade necklace	SILVER_JADE_NECKLACE	39336
+Jade necklace	CERT_SILVER_JADE_NECKLACE	39337
+Jade amulet	SILVER_JADE_AMULET	39338
+Jade amulet	CERT_SILVER_JADE_AMULET	39339
+Jade amulet	SILVER_JADE_AMULET_UNSTRUNG	39340
+Jade amulet	CERT_SILVER_JADE_AMULET_UNSTRUNG	39341
+Topaz ring	SILVER_TOPAZ_RING	39342
+Topaz ring	CERT_SILVER_TOPAZ_RING	39343
+Topaz bracelet	SILVER_TOPAZ_BRACELET	39344
+Topaz bracelet	CERT_SILVER_TOPAZ_BRACELET	39345
+Topaz necklace	SILVER_TOPAZ_NECKLACE	39346
+Topaz necklace	CERT_SILVER_TOPAZ_NECKLACE	39347
+Topaz amulet	SILVER_TOPAZ_AMULET	39348
+Topaz amulet	CERT_SILVER_TOPAZ_AMULET	39349
+Topaz amulet	SILVER_TOPAZ_AMULET_UNSTRUNG	39350
+Topaz amulet	CERT_SILVER_TOPAZ_AMULET_UNSTRUNG	39351
+Ring of metamorphosis (new)	ENCHANTED_OPAL_RING_NEW	39352
+Ring of metamorphosis (new)	CERT_ENCHANTED_OPAL_RING_NEW	39353
+Ring of metamorphosis	ENCHANTED_OPAL_RING_USED	39354
+Headhunter's sacrifice (new)	ENCHANTED_OPAL_BRACELET_NEW	39355
+Headhunter's sacrifice (new)	CERT_ENCHANTED_OPAL_BRACELET_NEW	39356
+Headhunter's sacrifice	ENCHANTED_OPAL_BRACELET_USED	39357
+Featherfingered necklace (new)	ENCHANTED_OPAL_NECKLACE_NEW	39358
+Featherfingered necklace (new)	CERT_ENCHANTED_OPAL_NECKLACE_NEW	39359
+Featherfingered necklace	ENCHANTED_OPAL_NECKLACE_USED	39360
+Amulet of bountiful harvest (new)	ENCHANTED_OPAL_AMULET_NEW	39361
+Amulet of bountiful harvest (new)	CERT_ENCHANTED_OPAL_AMULET_NEW	39362
+Amulet of bountiful harvest	ENCHANTED_OPAL_AMULET_USED	39363
+Ring of respawn (new)	ENCHANTED_JADE_RING_NEW	39364
+Ring of respawn (new)	CERT_ENCHANTED_JADE_RING_NEW	39365
+Ring of respawn	ENCHANTED_JADE_RING_USED	39366
+Flamtaer bracelet (new)	ENCHANTED_JADE_BRACELET_NEW	39367
+Flamtaer bracelet (new)	CERT_ENCHANTED_JADE_BRACELET_NEW	39368
+Flamtaer bracelet	ENCHANTED_JADE_BRACELET_USED	39369
+Traveller's necklace (new)	ENCHANTED_JADE_NECKLACE_NEW	39370
+Traveller's necklace (new)	CERT_ENCHANTED_JADE_NECKLACE_NEW	39371
+Traveller's necklace	ENCHANTED_JADE_NECKLACE_USED	39372
+Botanist's amulet (new)	ENCHANTED_JADE_AMULET_NEW	39373
+Botanist's amulet (new)	CERT_ENCHANTED_JADE_AMULET_NEW	39374
+Botanist's amulet	ENCHANTED_JADE_AMULET_USED	39375
+Columbarium ring (new)	ENCHANTED_TOPAZ_RING_NEW	39376
+Columbarium ring (new)	CERT_ENCHANTED_TOPAZ_RING_NEW	39377
+Columbarium ring	ENCHANTED_TOPAZ_RING_USED	39378
+Headhunter's thrill (new)	ENCHANTED_TOPAZ_BRACELET_NEW	39379
+Headhunter's thrill (new)	CERT_ENCHANTED_TOPAZ_BRACELET_NEW	39380
+Headhunter's thrill	ENCHANTED_TOPAZ_BRACELET_USED	39381
+Necklace of gluttony (new)	ENCHANTED_TOPAZ_NECKLACE_NEW	39382
+Necklace of gluttony (new)	CERT_ENCHANTED_TOPAZ_NECKLACE_NEW	39383
+Necklace of gluttony	ENCHANTED_TOPAZ_NECKLACE_USED	39384
+Enlightened amulet (new)	ENCHANTED_TOPAZ_AMULET_NEW	39385
+Enlightened amulet (new)	CERT_ENCHANTED_TOPAZ_AMULET_NEW	39386
+Enlightened amulet	ENCHANTED_TOPAZ_AMULET_USED	39387
+	XMAS16_XMAS05_PLAYER_BATTLE_MARIONETTE	39388
+	XMAS16_XMAS05_PLAYER_BATTLE_MARIONETTE_ENHANCED	39389
+Stringy	XMAS16_MARIONETTE_PET	39390
+Stringy	XMAS16_MARIONETTE_PET_POH	39391
+Ice Off-hand Sword	XMAS_2016_OHLONGSWORD	39392
+Huge fallen star (Invention)	WOF_BRIGHT_FALLING_STAR_INVENTION	39393
+Large fallen star (Invention)	WOF_FALLING_STAR_INVENTION	39394
+Medium fallen star (Invention)	WOF_MEDIUM_FALLING_STAR_INVENTION	39395
+Small fallen star (Invention)	WOF_SMALL_FALLING_STAR_INVENTION	39396
+Small celebration lamp	TRH108_CELEBRATION_LAMP_SMALL	39397
+Medium celebration lamp	TRH108_CELEBRATION_LAMP_MEDIUM	39398
+Large celebration lamp	TRH108_CELEBRATION_LAMP_LARGE	39399
+Huge celebration lamp	TRH108_CELEBRATION_LAMP_HUGE	39400
+Protean cog	TRH111_PROTEAN_COG	39401
+Protean cog	TRH111_PROTEAN_COG_LEVEL1_RECIPE	39402
+Protean cog	TRH111_PROTEAN_COG_LEVEL21_RECIPE	39403
+Protean cog	TRH111_PROTEAN_COG_LEVEL41_RECIPE	39404
+Protean cog	TRH111_PROTEAN_COG_LEVEL61_RECIPE	39405
+Protean cog	TRH111_PROTEAN_COG_LEVEL81_RECIPE	39406
+Protean cog	TRH111_PROTEAN_COG_LEVEL101_RECIPE	39407
+List of resolutions	TRH112_RESOLUTIONS	39408
+Gold star sticker	TRH112_STICKER	39409
+Disco top	TRH112_DISCO_TORSO	39410
+Disco legs	TRH112_DISCO_LEGS	39411
+Disco hands	TRH112_DISCO_HANDS	39412
+Disco feet	TRH112_DISCO_FEET	39413
+Cool disco top	TRH112_DISCO_TORSO_V2	39414
+Cool disco legs	TRH112_DISCO_LEGS_V2	39415
+Cool disco hands	TRH112_DISCO_HANDS_V2	39416
+Cool disco feet	TRH112_DISCO_FEET_V2	39417
+Super disco top	TRH112_DISCO_TORSO_V3	39418
+Super disco legs	TRH112_DISCO_LEGS_V3	39419
+Super disco hands	TRH112_DISCO_HANDS_V3	39420
+Super disco feet	TRH112_DISCO_FEET_V3	39421
+Anim	TRH112_WALK_OVERRIDE	39422
+Conga dance walk override token	TRH112_OVERRIDE_TOKEN	39423
+Small XP lamp (Invention)	WOF_LAMP_INVENTION_SMALL	39424
+Medium XP lamp (Invention)	WOF_LAMP_INVENTION_MEDIUM	39425
+Large XP lamp (Invention)	WOF_LAMP_INVENTION_LARGE	39426
+Huge XP lamp (Invention)	WOF_LAMP_INVENTION_HUGE	39427
+Stone-touched lamp	QUEST_ENDGAME_FINAL_LAMP	39428
+Medium prismatic lamp	QUEST_ENDGAME_REWARD_LAMP	39429
+Relomia's message	QUEST_ENDGAME_SLISKE_SUMMONS	39430
+Ring of Whispers	QUEST_ENDGAME_SHADOW_RING	39431
+Necklace of Shadows	QUEST_ENDGAME_SHADOW_NECKLACE	39432
+Catalyst fragment	QUEST_ENDGAME_SHARD_SET_DUMMY	39433
+Hunter's Catalyst fragment	QUEST_ENDGAME_SHARD_HUNTER	39434
+Farmer's Catalyst fragment	QUEST_ENDGAME_SHARD_FARMING	39435
+Runecrafter's Catalyst fragment	QUEST_ENDGAME_SHARD_RUNECRAFTING	39436
+Combined Catalyst fragment	QUEST_ENDGAME_SHARD_COMBINED	39437
+Shadow-infused herb	QUEST_ENDGAME_SHADOW_HERB	39438
+Light	QUEST_ENDGAME_PUZZLE_LIGHT_SOURCE	39439
+Mask	QUEST_ENDGAME_PUZZLE_MASK	39440
+Broken mask	QUEST_ENDGAME_PUZZLE_MASK_BROKEN	39441
+Mask of Glee	QUEST_ENDGAME_PUZZLE_MASK_HAPPY	39442
+Mask of Indifference	QUEST_ENDGAME_PUZZLE_MASK_NEUTRAL	39443
+Mask of Sorrow	QUEST_ENDGAME_PUZZLE_MASK_SAD	39444
+Prism	QUEST_ENDGAME_PUZZLE_MASK_PRISM	39445
+Mirror	QUEST_ENDGAME_PUZZLE_MASK_MIRROR	39446
+	QUEST_ENDGAME_CUTSCENE_STAFF_OF_ARMADYL	39447
+Tiny Sliske	QUEST_ENDGAME_SLISKE_BOBBLEHEAD	39448
+Tiny Sliske	QUEST_ENDGAME_SLISKE_BOBBLEHEAD_POH	39449
+Armadyl's feather	QUEST_ENDGAME_ARMADYL_FEATHER	39450
+A fallen mask	QUEST_ENDGAME_LABYRINTH_ZAMORAK_MASK_1	39451
+A fallen mask	QUEST_ENDGAME_LABYRINTH_ZAMORAK_MASK_2	39452
+A fallen mask	QUEST_ENDGAME_LABYRINTH_ZAMORAK_MASK_3	39453
+A fallen mask	QUEST_ENDGAME_LABYRINTH_ZAMORAK_MASK_4	39454
+A fallen mask	QUEST_ENDGAME_LABYRINTH_ZAMORAK_MASK_5	39455
+A fallen mask	QUEST_ENDGAME_LABYRINTH_ZAMORAK_MASK_6	39456
+A fallen mask	QUEST_ENDGAME_LABYRINTH_ZAMORAK_MASK_7	39457
+A fallen mask	QUEST_ENDGAME_LABYRINTH_ZAMORAK_MASK_8	39458
+Ancient coin	QUEST_ENDGAME_LABYRINTH_WISHING_WELL_COIN	39459
+Treborn	HOG_BUTTERFLY_PET_OBJ	39460
+Treborn	POH_HOG_BUTTERFLY_PET_OBJ	39461
+"Naragi engram"	HOG_ENGRAM_1	39462
+"Elder Sword engram"	HOG_ENGRAM_2	39463
+"Fairy engram"	HOG_ENGRAM_3	39464
+"Gnome engram"	HOG_ENGRAM_4	39465
+"World Gate engram"	HOG_ENGRAM_5	39466
+"Druid engram"	HOG_ENGRAM_6	39467
+"Stone of Jas engram"	HOG_ENGRAM_7	39468
+"Sheep engram"	HOG_ENGRAM_8	39469
+"Time engram"	HOG_ENGRAM_9	39470
+"Sword of Edicts engram"	HOG_ENGRAM_10	39471
+"Guardians of Guthix engram"	HOG_ENGRAM_11	39472
+"Balance Elemental engram"	HOG_ENGRAM_12	39473
+Naragi engram (charged)	HOG_ENGRAM_1_ATTUNED	39474
+Elder Sword engram (charged)	HOG_ENGRAM_2_ATTUNED	39475
+Fairy engram (charged)	HOG_ENGRAM_3_ATTUNED	39476
+Gnome engram (charged)	HOG_ENGRAM_4_ATTUNED	39477
+World Gate engram (charged)	HOG_ENGRAM_5_ATTUNED	39478
+Druid engram (charged)	HOG_ENGRAM_6_ATTUNED	39479
+Stone of Jas engram (charged)	HOG_ENGRAM_7_ATTUNED	39480
+Sheep engram (charged)	HOG_ENGRAM_8_ATTUNED	39481
+Time engram (charged)	HOG_ENGRAM_9_ATTUNED	39482
+Sword of Edicts engram (charged)	HOG_ENGRAM_10_ATTUNED	39483
+Guardians of Guthix engram (charged)	HOG_ENGRAM_11_ATTUNED	39484
+Balance Elemental engram (charged)	HOG_ENGRAM_12_ATTUNED	39485
+Memory strand	HOG_MOTE	39486
+Guthixian cache boost	HOG_BUTTERFLY_JAR_GUTHIX	39487
+Memory shard	HOG_MEMORY_SHARD	39488
+Divine egg	HOG_MYSTIC_BIRD_NEST	39489
+Sign of respite	HOG_DIV_SIGN_RESPITE1	39490
+Sign of respite II	HOG_DIV_SIGN_RESPITE2	39491
+Sign of respite III	HOG_DIV_SIGN_RESPITE3	39492
+Sign of the porter IV	HOG_DIV_SIGN_PORTER4	39493
+Sign of the porter V	HOG_DIV_SIGN_PORTER5	39494
+Sign of the porter VI	HOG_DIV_SIGN_PORTER6	39495
+Sign of item protection	HOG_DIV_SIGN_ITEM_PROTECT	39496
+Sign of life	HOG_DIV_SIGN_LIFE	39497
+Sign of death	HOG_EDIV_SIGN_DEATH	39498
+Portent of item protection	HOG_DIV_PORTENT_ITEM_PROTECT	39499
+Portent of life	HOG_DIV_PORTENT_LIFE	39500
+Portent of death	HOG_EDIV_PORTENT_DEATH	39501
+Portent of restoration VII	HOG_DIV_PORTENT_RESTO7	39502
+Portent of restoration VIII	HOG_DIV_PORTENT_RESTO8	39503
+Portent of restoration IX	HOG_DIV_PORTENT_RESTO9	39504
+Portent of restoration X	HOG_DIV_PORTENT_RESTO10	39505
+Attuned portent of restoration VII	HOG_DIV_PORTENT_RESTO_ATTUNED7	39506
+Attuned portent of restoration VIII	HOG_DIV_PORTENT_RESTO_ATTUNED8	39507
+Attuned portent of restoration IX	HOG_DIV_PORTENT_RESTO_ATTUNED9	39508
+Attuned portent of restoration X	HOG_DIV_PORTENT_RESTO_ATTUNED10	39509
+Portent of degradation II	HOG_EDIV_PORTENT_DEGRA2	39510
+]] }
