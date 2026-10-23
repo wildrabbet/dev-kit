@@ -290,14 +290,6 @@ return {
             "!setvar SKILLPETS_THIEVING_PET_OWED 1",
             "!setvar SKILLPETS_WOODCUTTING_PET_OWED 1",
         } },
-        { label = "RuneFest pets", cmds = {
-            "!give MTX_RUNEFEST2015_DRAGON",
-            "!give MTX_RUNEFEST2016_LION_ATTENDEE",
-            "!setvar MTX_RUNEFEST2015_DRAGON_UNLOCKED 1",
-            "!setvar MTX_PET_RUNEFEST2015_DRAGON_MENAGERIE 1",
-            "!setvar MTX_RUNEFEST2016_LION_ATTENDEE_UNLOCKED 1",
-            "!setvar MTX_RUNEFEST2016_LION_VIEWER_UNLOCKED 1",
-        } },
         { label = "Reset boss pets", cmds = {
             "!setvar BPETS_AMASCUT_BOSS_UNLOCKED 0",
             "!setvar BPETS_ARAXXI_UNLOCKED 0",
@@ -744,9 +736,6 @@ return {
         { label = "Keep Zamorak loot armed", toggle = "zamloot,zamowed", offCmds = {  }, cmds = {
             "!setvar EGWD_ZAMORAK_BOSS_LOOT_STATE 1",
             "!setvar EGWD_ZAMORAK_BOSS_LOOT_OWED 1",
-        } },
-        { label = "Zamorak dry streak 1000 (try)", cmds = {
-            "!setvar EGWD_ZAMORAK_BOSS_LOOT_DRY_STREAK 1000",
         } },
         { label = "Keep Zamorak rare armed", toggle = "zamorak", offCmds = {  }, cmds = {
         } },
@@ -1903,9 +1892,6 @@ return {
         { label = "Infinite Balance by Force", toggle = "bbf", offCmds = { "!setvar COMBATV2_BUFF_BALANCE_BY_FORCE_ACTIVE 0" }, cmds = {
             "!setvar COMBATV2_BUFF_BALANCE_BY_FORCE_ACTIVE 1",
         } },
-        { label = "Every attack AoE (try)", toggle = "aoe", offCmds = { "!setvar COMBATV2_ACTIVE_ATTACK_FLAG_AOE_ACTIVE 0" }, cmds = {
-            "!setvar COMBATV2_ACTIVE_ATTACK_FLAG_AOE_ACTIVE 1",
-        } },
         { label = "Charged magic abilities", toggle = "breath,blast,sonic", offCmds = { "!setvar COMBATV2_ACTIVE_ATTACK_MAGIC_CHARGED_DRAGON_BREATH 0", "!setvar COMBATV2_ACTIVE_ATTACK_MAGIC_CHARGED_CONCENTRATED_BLAST 0", "!setvar COMBATV2_ACTIVE_ATTACK_MAGIC_CHARGED_SONIC_WAVE 0" }, cmds = {
             "!setvar COMBATV2_ACTIVE_ATTACK_MAGIC_CHARGED_DRAGON_BREATH 1",
             "!setvar COMBATV2_ACTIVE_ATTACK_MAGIC_CHARGED_CONCENTRATED_BLAST 1",
@@ -1922,9 +1908,6 @@ return {
         } },
         { label = "Super antifire forever", toggle = "antifire", offCmds = {  }, cmds = {
             "!setvar DRAGONRESIST_ALL_EXTENDED 500",
-        } },
-        { label = "Double XP forever (try)", toggle = "dxp", offCmds = { "!setvar DOUBLEXP_PERSONAL_BUFF_TIME_REMAINING 0" }, cmds = {
-            "!setvar DOUBLEXP_PERSONAL_BUFF_TIME_REMAINING 1000000",
         } },
         { label = "Cutscene control", toggle = "cutcam,cutui,cuthide,cutchat,cutlock1,cutlock2,cutlock3", offCmds = {  }, cmds = {
             "!setvar CUTSCENE_ALLOW_MOUSECAM 1",
@@ -3476,23 +3459,6 @@ return {
             "!give GOEBIE1_DISGUISE",
             "!give TUTISLAND_DISGUISE",
         } },
-        { label = "Golden Gnome pet + every hat", cmds = {
-            "!give GOLDEN_GNOME_PET_INV",
-            "!give GOLDEN_GNOME_HAT_2010",
-            "!give GOLDEN_GNOME_HAT_2011",
-            "!give GOLDEN_GNOME_HAT_2013",
-            "!give GOLDEN_GNOME_HAT_2014",
-            "!give GOLDEN_GNOME_HAT_2015",
-            "!give GOLDEN_GNOME_HAT_2016",
-            "!give GOLDEN_GNOME_HAT_2017",
-            "!give GOLDEN_GNOME_HAT_2018",
-            "!give GOLDEN_GNOME_HAT_2019",
-            "!give GOLDEN_GNOME_HAT_2020",
-            "!give GOLDEN_GNOME_HAT_2021",
-            "!give GOLDEN_GNOME_HAT_2023",
-            "!give GOLDEN_GNOME_HAT_2025",
-            "!setvar LORE_OWN_GOLDEN_GNOME 1",
-        } },
         { label = "Corrupted ability skins (new)", cmds = {
             "!setvar TRH182_CORRUPTED_COMBUST_ABILITY_OVERRIDE_UNLOCKED 1",
             "!setvar MTX_CORRUPTED_COMBUST_OVERRIDE_ACTIVE 1",
@@ -3610,8 +3576,7 @@ return {
             "!setvar GROUP_IRONMAN_REWARD_EMOTES_1_UNLOCKED 1",
             "!setvar GROUP_IRONMAN_REWARD_EMOTES_2_UNLOCKED 1",
         } },
-        { label = "Owed: FSS winner halo + inverted cape tokens", cmds = {
-            "!setvar GAMEMODE_SEASONAL_FSS_COMPETITION_WINNER_HALO_OWED 1",
+        { label = "Owed: FSS inverted cape tokens", cmds = {
             "!setvar GAMEMODE_SEASONAL_FSS_INVERTED_SKILLCAPE_TOKEN_OWED_ATTACK 1",
             "!setvar GAMEMODE_SEASONAL_FSS_INVERTED_SKILLCAPE_TOKEN_OWED_STRENGTH 1",
             "!setvar GAMEMODE_SEASONAL_FSS_INVERTED_SKILLCAPE_TOKEN_OWED_RANGED 1",
@@ -3687,13 +3652,6 @@ return {
             "!setvar RUNEPASS_PREMIUM_2_IM_OWED_TIER_26 1",
             "!setvar RUNEPASS_PREMIUM_2_IM_OWED_TIER_27 1",
             "!setvar RUNEPASS_PREMIUM_2_IM_OWED_TIER_29 1",
-        } },
-        { label = "Unreleased Kalphite armour", cmds = {
-            "!give KALPHITE_COIF",
-            "!give KALPHITE_BODY",
-            "!give KALPHITE_CHAPS",
-            "!give KALPHITE_VAMBRACES",
-            "!give KALPHITE_BOOTS",
         } },
         { label = "Removed Eyes of the mage/ranger/warrior", cmds = {
             "!give RAND_REWARD_EYE_OF_THE_MAGE",
